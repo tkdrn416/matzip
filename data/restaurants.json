@@ -16189,7 +16189,6 @@
     "google_rating": 4,
     "google_reviews": 1044,
     "google_maps_uri": "https://maps.google.com/?cid=12960720621613457175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -18321,7 +18320,6 @@
     "google_rating": 4.3,
     "google_reviews": 656,
     "google_maps_uri": "https://maps.google.com/?cid=3429133458713069713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -18983,7 +18981,6 @@
     "google_rating": 4,
     "google_reviews": 650,
     "google_maps_uri": "https://maps.google.com/?cid=11563310303849804576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -20168,7 +20165,6 @@
     "google_rating": 4.3,
     "google_reviews": 1005,
     "google_maps_uri": "https://maps.google.com/?cid=8268619294289410108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -20661,7 +20657,6 @@
     "google_rating": 4.5,
     "google_reviews": 557,
     "google_maps_uri": "https://maps.google.com/?cid=1515225113414494575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -21344,9 +21339,9 @@
     "hours_note": null,
     "notice": null,
     "reservation": "가능",
-    "booking_type": "전화예약만",
+    "booking_type": "현장방문",
     "booking_apps": [],
-    "booking_note": "타베로그에 전화번호가 공개되어 있지 않다. 예약 방법은 공식 인스타그램(@minato.tonkatsu)에서 확인하는 것이 확실하다.",
+    "booking_note": "전화번호가 공개되지 않아 전화 예약은 어렵다. 예약은 공식 인스타그램(@minato.tonkatsu) 안내를 따르고, 보통은 가서 줄을 선다(평일 오후에도 대기 손님이 있다는 후기).",
     "booking_checked": [
       "타베로그"
     ],
@@ -24325,7 +24320,6 @@
     "google_rating": 4.2,
     "google_reviews": 543,
     "google_maps_uri": "https://maps.google.com/?cid=653605229088341418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -27680,7 +27674,6 @@
     "google_rating": 4.3,
     "google_reviews": 629,
     "google_maps_uri": "https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -29139,7 +29132,6 @@
     "google_rating": 4.2,
     "google_reviews": 1026,
     "google_maps_uri": "https://maps.google.com/?cid=13250653614485726299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -29626,7 +29618,6 @@
     "google_rating": 4.2,
     "google_reviews": 70,
     "google_maps_uri": "https://maps.google.com/?cid=15078255085736691098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -39070,9 +39061,9 @@
     "address_building": "GOOD NATURE STATION 2F",
     "station": "교토가와라마치역 도보 3분",
     "phone": "+81-75-744-6865",
-    "lat": 34.987606,
-    "lng": 135.755478,
-    "geo": "gsi:京都府京都市下京区",
+    "lat": 35.00222,
+    "lng": 135.769043,
+    "geo": "manual:GSI 稲荷町318番地 (GOOD NATURE STATION)",
     "price_level": 4,
     "price_note": "점심·저녁 30,000~39,999엔 (타베로그)",
     "hours": "12:00-15:00, 18:00-21:00",
@@ -39532,7 +39523,6 @@
     "google_rating": 4.2,
     "google_reviews": 788,
     "google_maps_uri": "https://maps.google.com/?cid=13334936177403750717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -39670,7 +39660,6 @@
     "google_rating": 4.2,
     "google_reviews": 449,
     "google_maps_uri": "https://maps.google.com/?cid=8314229089480926589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -42640,7 +42629,6 @@
     "google_rating": 4.4,
     "google_reviews": 518,
     "google_maps_uri": "https://maps.google.com/?cid=13946416017923670593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -42903,7 +42891,6 @@
     "google_rating": 3.9,
     "google_reviews": 683,
     "google_maps_uri": "https://maps.google.com/?cid=6032617932279016189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -43456,7 +43443,6 @@
     "google_rating": 4.2,
     "google_reviews": 291,
     "google_maps_uri": "https://maps.google.com/?cid=8433023701721421667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -43753,7 +43739,6 @@
     "google_rating": 3.8,
     "google_reviews": 301,
     "google_maps_uri": "https://maps.google.com/?cid=4407142846125428979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -47300,7 +47285,6 @@
     "google_rating": 4.3,
     "google_reviews": 191,
     "google_maps_uri": "https://maps.google.com/?cid=8439747565284068228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -54339,8 +54323,6 @@
     "google_rating": null,
     "google_reviews": null,
     "google_maps_uri": "https://maps.google.com/?cid=160485502234496222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
-    "google_status": null,
     "google_checked_at": "2026-11-21",
     "awards": [
       "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
@@ -54620,7 +54602,6 @@
     "google_rating": 4.3,
     "google_reviews": 1953,
     "google_maps_uri": "https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
