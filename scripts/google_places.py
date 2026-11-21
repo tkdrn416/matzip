@@ -42,24 +42,44 @@ FIELDS = ",".join([
 ])
 
 
+PAGE_FIELD = ["pageSize"]  # 구버전 API 면 maxResultCount 로 자동 전환
+GENERIC = {"本店", "総本店", "本舗", "総本家", "本家", "支店", "店", "食堂", "お好み焼", "お好み焼き", "らーめん", "ラーメン", "鮨", "寿司", "珈琲", "喫茶"}
+
+
+class ApiError(Exception):
+    def __init__(self, code: int, body: str):
+        super().__init__(f"HTTP {code} {body}")
+        self.code = code
+
+
 def search(key: str, r: dict) -> dict | None:
-    body = {
-        "textQuery": f"{r['name_ja']} {r['address_ja']}",
-        "languageCode": "ja",
-        "regionCode": "JP",
-        "pageSize": 1,
-    }
-    if isinstance(r.get("lat"), (int, float)):
-        body["locationBias"] = {"circle": {"center": {"latitude": r["lat"], "longitude": r["lng"]}, "radius": 500.0}}
-    req = urllib.request.Request(
-        ENDPOINT,
-        data=json.dumps(body).encode("utf-8"),
-        headers={"Content-Type": "application/json", "X-Goog-Api-Key": key, "X-Goog-FieldMask": FIELDS},
-        method="POST",
-    )
-    with urllib.request.urlopen(req, timeout=30) as resp:
-        places = json.loads(resp.read().decode("utf-8")).get("places") or []
-    return places[0] if places else None
+    for _ in range(2):
+        body = {
+            "textQuery": f"{r['name_ja']} {r['address_ja']}",
+            "languageCode": "ja",
+            "regionCode": "JP",
+            PAGE_FIELD[0]: 1,
+        }
+        if isinstance(r.get("lat"), (int, float)):
+            body["locationBias"] = {"circle": {"center": {"latitude": r["lat"], "longitude": r["lng"]}, "radius": 500.0}}
+        req = urllib.request.Request(
+            ENDPOINT,
+            data=json.dumps(body).encode("utf-8"),
+            headers={"Content-Type": "application/json", "X-Goog-Api-Key": key, "X-Goog-FieldMask": FIELDS},
+            method="POST",
+        )
+        try:
+            with urllib.request.urlopen(req, timeout=30) as resp:
+                places = json.loads(resp.read().decode("utf-8")).get("places") or []
+            return places[0] if places else None
+        except urllib.error.HTTPError as e:
+            txt = e.read()[:400].decode("utf-8", "replace")
+            if e.code == 400 and "pageSize" in txt and PAGE_FIELD[0] == "pageSize":
+                PAGE_FIELD[0] = "maxResultCount"  # 구버전 필드로 한 번 재시도
+                print("ℹ️  pageSize 미지원 → maxResultCount 로 재시도")
+                continue
+            raise ApiError(e.code, txt)
+    return None
 
 
 def dist_m(a_lat, a_lng, b_lat, b_lng) -> float:
@@ -77,7 +97,7 @@ def same_place(r: dict, p: dict) -> tuple[bool, str]:
             return False, f"거리 {d:.0f}m"
     norm = lambda x: unicodedata.normalize("NFKC", x or "").replace(" ", "").lower()
     a, b = norm(r["name_ja"]), norm((p.get("displayName") or {}).get("text"))
-    core = [t for t in __import__("re").split(r"[\s()（）・]", unicodedata.normalize("NFKC", r["name_ja"])) if len(t) >= 2]
+    core = [t for t in __import__("re").split(r"[\s()（）・]", unicodedata.normalize("NFKC", r["name_ja"])) if len(t) >= 2 and t not in GENERIC]
     if not (a in b or b in a or any(norm(t) in b for t in core)):
         return False, f"상호 불일치({b})"
     return True, ""
@@ -106,9 +126,9 @@ def main() -> int:
             continue
         try:
             p = search(key, r)
-        except urllib.error.HTTPError as e:
-            print(f"❌ {r['id']} {r['name_ko']}: HTTP {e.code} {e.read()[:200]!r}")
-            if e.code in (400, 401, 403):
+        except ApiError as e:
+            print(f"❌ {r['id']} {r['name_ko']}: {e}")
+            if e.code in (400, 401, 403):  # 키·권한·요청 형식 문제 → 중단
                 if not args.dry_run and changed:
                     save(items)
                 return 1

@@ -10,6 +10,8 @@
   }
 
   const R = D.restaurants;
+  // 목록 모드(list.html, 아티팩트): 지도 없이 목록·필터·예약·길찾기만
+  const NOMAP = document.body.classList.contains("nomap");
   const CAT = Object.fromEntries(D.categories.map((c) => [c.name, c]));
   const YEN = { 1: "¥", 2: "¥¥", 3: "¥¥¥", 4: "¥¥¥¥" };
   const LS = { fav: "matzip:fav", vis: "matzip:visited" };
@@ -462,7 +464,7 @@
     renderList(current);
     cluster.clearLayers();
     cluster.addLayers(current.map((r) => markers.get(r.id)));
-    if (fit && current.length) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.08), { maxZoom: 15, animate: animate !== false });
+    if (fit && current.length && !NOMAP) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.08), { maxZoom: 15, animate: animate !== false });
   }
 
   function highlight(id) {
@@ -481,13 +483,21 @@
   function openPlace(id, scrollList) {
     const m = markers.get(id);
     if (!m) return;
-    if (!cluster.hasLayer(m)) { // 필터에 걸려 숨겨진 경우 필터 해제
+    const hidden = NOMAP ? !current.some((x) => x.id === id) : !cluster.hasLayer(m);
+    if (hidden) { // 필터에 걸려 숨겨진 경우 필터 해제
       Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false });
       state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
       update();
       toast("필터에 가려진 가게라 필터를 해제하고 보여드려요");
     }
     const r = R.find((x) => x.id === id);
+    if (NOMAP) {
+      if (state.open !== id) { state.open = id; renderList(current); }
+      history.replaceState(null, "", "#" + id);
+      const el = document.querySelector(`.item[data-id="${id}"]`);
+      if (el) el.scrollIntoView({ block: "start" });
+      return;
+    }
     map.setView([r.lat, r.lng], Math.max(map.getZoom(), 16), { animate: false });
     cluster.zoomToShowLayer(m, () => m.openPopup());
     if (scrollList) {
@@ -610,6 +620,10 @@
   $("favRoute").addEventListener("click", () => {
     const rt = favRouteUrl();
     if (!rt) return;
+    if (NOMAP) { // 아티팩트 등에선 window.open 이 막혀 있어 링크로 안내
+      showText("🗺 찜한 곳 구글맵 경로", `${rt.region} 찜 ${rt.n}곳: ${rt.names.slice(0, rt.n).join(" → ")}`, `<p><a class="cta book" href="${esc(rt.url)}" target="_blank" rel="noopener">구글맵에서 경로 열기</a></p>`);
+      return;
+    }
     window.open(rt.url, "_blank", "noopener");
     if (rt.total > rt.n) showText("🗺 찜한 곳 경로", `${rt.region} 찜 ${rt.total}곳 중 가까운 순으로 앞의 ${rt.n}곳만 열었어요(구글맵 링크 제한).\n전체 순서: ${rt.names.join(" → ")}`);
     else toast(`${rt.region} 찜한 곳 ${rt.n}곳으로 경로를 열었어요 (다른 도시는 지역을 바꿔서)`);
@@ -639,7 +653,7 @@
   let meMarker = null;
   $("locate").addEventListener("click", () => {
     if (state.me) { state.me = null; if (meMarker) { map.removeLayer(meMarker); meMarker = null; } update(); return; }
-    if (!navigator.geolocation) { alert("이 브라우저는 위치 정보를 지원하지 않아요."); return; }
+    if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요."); return; }
     $("locate").textContent = "📍 찾는 중…";
     navigator.geolocation.getCurrentPosition((pos) => {
       $("locate").textContent = "📍 내 위치순";
@@ -652,7 +666,7 @@
       $("list").scrollTop = 0;
     }, (err) => {
       $("locate").textContent = "📍 내 위치순";
-      alert("위치를 가져오지 못했어요: " + err.message);
+      toast("위치를 가져오지 못했어요 (위치 권한 확인): " + err.message);
     }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
   });
 

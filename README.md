@@ -49,9 +49,12 @@
 
 찜·방문 기록은 브라우저에 저장됩니다. 가게 id 로 바로 열기: `index.html#osaka-001`
 
-**여는 법**
-1. **GitHub Pages** (레포가 공개이거나 GitHub Pro인 경우): Settings → Pages → Source: `Deploy from a branch`, Branch: `main` / `(root)` → 몇 분 뒤 `https://tkdrn416.github.io/matzip/` 에서 열림
-2. **로컬**: 레포를 내려받아(Code → Download ZIP) `index.html` 더블클릭. 라이브러리는 레포에 포함돼 있어 서버 없이 열립니다(지도 타일만 인터넷 필요).
+**여는 법 (폰에서 쓰려면 1 또는 2)**
+1. **GitHub Pages** — 레포를 공개(public)로 바꾸면 무료: Settings → General → Change visibility → Public, 그다음 Settings → Pages → Source `Deploy from a branch`, Branch `main` / `(root)` → 몇 분 뒤 `https://tkdrn416.github.io/matzip/` (비공개 레포로 Pages를 쓰려면 GitHub Pro 필요)
+2. **Claude 아티팩트(목록 모드)** — 비공개 링크로 폰에서 바로 열림. 지도 화면만 빠지고 필터·예약·전화·구글맵 길찾기는 동일
+3. **로컬** — Code → Download ZIP 후 `index.html`(지도) 또는 `list.html`(목록 모드) 열기. 라이브러리 포함이라 서버 불필요(지도 타일만 인터넷 필요)
+
+`list.html` = 지도 없이 목록만 보는 **목록 모드** (느린 데이터·작은 화면에서 편함)
 
 ## 📱 구글 내 지도(My Maps)로 가져오기
 
