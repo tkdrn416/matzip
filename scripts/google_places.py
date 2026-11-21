@@ -172,12 +172,14 @@ def main() -> int:
             print(f"   ⚠️  구글 영업 상태: {status} — 확인 필요")
         r["google_rating"] = rating
         r["google_reviews"] = count
-        r["google_maps_uri"] = p.get("googleMapsUri")
+        manual_geo = str(r.get("geo") or "").startswith("manual")  # 사람이 고정한 좌표(예: 이전한 가게)는 유지
+        if not manual_geo:
+            r["google_maps_uri"] = p.get("googleMapsUri")
         r["google_reservable"] = p.get("reservable")
         r["google_checked_at"] = today
         r["google_status"] = status
         loc = p.get("location") or {}
-        if loc.get("latitude"):
+        if loc.get("latitude") and not manual_geo:
             # 구글 좌표가 주소 지오코딩보다 정확 → 지도 핀 위치로 사용
             r["lat"], r["lng"] = round(loc["latitude"], 6), round(loc["longitude"], 6)
             r["geo"] = f"google:{name}"

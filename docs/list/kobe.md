@@ -70,7 +70,7 @@
 - 영업 17:30- / 휴무 부정기
 - 💡 예약 필수, 현금만. 가게에서 일본어로 대화할 수 있는 사람만 예약해 달라고 안내하니 일본어가 되는 동행이나 호텔 컨시어지를 통해 예약하자. 예약 시간보다 30분 늦고 연락이 안 되면 취소 처리된다.
 - 🚃 신고베역 남쪽 출구 도보 8분 / JR 산노미야역 도보 11분
-- [구글 지도](https://maps.google.com/?cid=3488569617321358058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280103/28006575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%A1%B0%EC%8A%A4%EC%BC%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280103/28006575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%A1%B0%EC%8A%A4%EC%BC%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-002"></a>
 #### ★★ 도텐카쿠 고베 본점 (東天閣 神戸本店) — 🥟 중화·교자 · 타베로그 3.56
