@@ -709,14 +709,14 @@ def write_list_md(items: list[dict], generated: str) -> None:
             "",
         ]
         # 한눈에 보기 표
-        lines += ["| 등급 | 가게 | 종류 | 지역 | 온라인 예약 | 타베로그 | 구글 |", "|---|---|---|---|---|---:|---:|"]
-        for r in sorted(rs, key=lambda x: (-x["legend_level"], x["area"], x["name_ko"])):
+        lines += ["## 한눈에 보기 (등급·점수순)", ""]
+        for r in sorted(rs, key=lambda x: (-x["legend_level"], -(x.get("tabelog_score") or 0))):
             ob = online_label(r)
             ob = "✅ 가능" if ob == "가능" else ("❔" if ob == "미확인" else f"🚫 {BOOKING_TYPES[r['booking_type']]} {r['booking_type']}")
             g = f"{r['google_rating']}" + (f" ({r['google_reviews']:,})" if r.get("google_reviews") else "") if r.get("google_rating") else ""
             lines.append(
-                f"| {'★' * r['legend_level']} | [{r['name_ko']}](#{r['id']}) | {CATEGORIES[r['category']][0]} {r['category']} | {r['area']} "
-                f"| {ob} | {format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else ''} | {g} |"
+                f"- {'★' * r['legend_level']} **{format(r['tabelog_score'], '.2f')}** [{r['name_ko']}](#{r['id']}) "
+                f"· {CATEGORIES[r['category']][0]} {r['category']} · {r['area']} · {ob}" + (f" · 구글 {g}" if g else "")
             )
         lines.append("")
         areas = OrderedDict()
@@ -810,16 +810,19 @@ def write_cheatsheet(items: list[dict], generated: str) -> None:
         body += [f"## {meta['ko']}", ""]
         for area, ars in areas.items():
             body += [f'<a id="{meta["ko"]}--{area.replace("·", "")}"></a>', "", f"### {meta['ko']} · {area} ({len(ars)}곳)", ""]
-            body += ["| 가게 | 종류 | 타베로그 | 가격 | 예약 | 웨이팅 | 한 줄 |", "|---|---|---:|---|---|---|---|"]
+            # 폰(깃허브 앱)에서 읽기 쉽게: 넓은 표 대신 한 가게 = 두 줄
             for r in sorted(ars, key=lambda x: (-(x.get("tabelog_score") or 0), -x["legend_level"])):
                 bt = r.get("booking_type")
                 book = "✅ 온라인" if bt == "앱예약" else (f"{BOOKING_TYPES[bt]} {bt.replace('예약만', '만')}" if bt else "❔")
                 one = re.split(r"[(（,，、/]", (r.get("signature") or ""))[0].strip().replace("|", "/")
                 if len(one) > 30:
                     one = one[:30].rsplit(" ", 1)[0] + "…"
+                wt = wait_short(r)
                 body.append(
-                    f"| [{r['name_ko']}](list/{r['region']}.md#{r['id']}) {'★' * r['legend_level']}{' 🏯' if r.get('icon') else ''} | {CATEGORIES[r['category']][0]} {r['category']} "
-                    f"| **{(format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else '-')}** | {yen.get(r.get('price_level'), '')} | {book} | {wait_short(r)} | {one} |"
+                    f"- **{(format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else '-')}** "
+                    f"[**{r['name_ko']}**](list/{r['region']}.md#{r['id']}) {'★' * r['legend_level']}{' 🏯' if r.get('icon') else ''} "
+                    f"· {CATEGORIES[r['category']][0]} {r['category']} · {yen.get(r.get('price_level'), '')}  \n"
+                    f"  {book}" + (f" · ⏳ {wt}" if wt else "") + (f" · {one}" if one else "")
                 )
             body.append("")
     lines += toc + [""] + body

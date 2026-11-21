@@ -14,7 +14,7 @@
 
 * { box-sizing: border-box; }
 [hidden] { display: none !important; }
-html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); }
+html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); -webkit-text-size-adjust: 100%; text-size-adjust: 100%; }
 button { font: inherit; color: inherit; }
 a { color: #1d70b8; }
 
@@ -206,3 +206,108 @@ body.nomap .modenote { display: block; }
 @media (max-width: 860px) { body.nomap .app { grid-template-rows: 1fr; } body.nomap .panel { grid-row: 1; border-top: none; } }
 .modenote2 { margin: 2px 0 0; font-size: 12px; }
 body.nomap .modenote2 { display: none; }
+
+/* =========================================================
+   모바일 가독성·터치 개선
+   ========================================================= */
+.cta small { display: block; font-size: 12px; font-weight: 600; opacity: .9; margin-top: 1px; letter-spacing: .01em; }
+.mapjump { display: block; width: 100%; margin: 8px 0 4px; padding: 10px; border-radius: 10px; border: 1px dashed var(--line); background: transparent; color: var(--ink); font-size: 13px; cursor: pointer; }
+.viewtoggle { display: none; }
+.tbs { font-size: 10px; }
+
+@media (max-width: 860px) {
+  :root { --panel-pad: 14px; }
+  .filters { padding: 10px 14px 10px; }
+  .search { padding: 12px 14px; border-radius: 12px; }
+  .chip { padding: 8px 13px; font-size: 14px; min-height: 38px; }
+  .chip .n { font-size: 12px; }
+  .countbar { padding: 8px 14px; }
+  .count { font-size: 14px; }
+  .sort { font-size: 14px; padding: 7px 8px; max-width: 48%; }
+  .list { padding: 0 10px 90px; }
+  .item { grid-template-columns: 40px 1fr auto; gap: 12px; padding: 14px 14px; border-radius: 14px; margin-bottom: 10px; }
+  .item .em { width: 40px; height: 40px; font-size: 21px; }
+  .item .t { font-size: 17px; line-height: 1.3; }
+  .item .ja { font-size: 13px; margin-top: 1px; }
+  .item .meta { font-size: 13px; line-height: 1.45; margin-top: 4px; }
+  .item .sig { font-size: 14.5px; line-height: 1.45; margin-top: 4px; }
+  .item .badges { gap: 5px; margin-top: 7px; }
+  .badge { font-size: 12.5px; padding: 3px 8px; border-radius: 7px; line-height: 1.35; }
+  .iconbtn { width: 44px; height: 40px; font-size: 22px; display: grid; place-items: center; }
+  .tbs { min-width: 56px; padding: 4px 7px; font-size: 10.5px; }
+  .tbs b { font-size: 18px; }
+  .item .more { font-size: 14.5px; line-height: 1.6; padding-top: 12px; }
+  .pp .why { font-size: 14.5px; line-height: 1.6; }
+  .pp .rs { font-size: 13.5px; line-height: 1.55; }
+  .pp .rs li { margin: 5px 0; }
+  .pp .tips { font-size: 13.5px; line-height: 1.55; padding: 9px 11px; }
+  .pp dl { grid-template-columns: 70px 1fr; gap: 6px 10px; font-size: 13.5px; line-height: 1.5; }
+  .pp .near { font-size: 13.5px; line-height: 1.7; }
+  .pp .btns { gap: 8px; }
+  .pp .btns a, .pp .btns button { padding: 12px 6px; font-size: 14px; border-radius: 10px; }
+  .cta { padding: 13px 10px; font-size: 15px; border-radius: 12px; }
+  .pp .ob { font-size: 14px; padding: 9px 11px; }
+  .pp .ob small { font-size: 12px; }
+  .pp .alt { font-size: 13px; line-height: 1.5; }
+  .pp .addr { font-size: 12.5px; }
+  .leaflet-popup-content { font-size: 14px; }
+  .pp h3 { font-size: 17px; }
+
+  /* 목록 크게 보기 전환 버튼 (화면 아래 고정) */
+  .viewtoggle { display: block; position: fixed; right: 14px; bottom: calc(16px + env(safe-area-inset-bottom)); z-index: 1500;
+    padding: 12px 16px; border-radius: 999px; border: none; background: #1f1d1a; color: #fff; font-size: 15px; font-weight: 700;
+    box-shadow: 0 6px 18px #0005; }
+  body.nomap .viewtoggle { display: none; }
+  body.listbig .app { grid-template-rows: 1fr; }
+  body.listbig .mapwrap { display: none; }
+  body.listbig .panel { grid-row: 1; border-top: none; }
+  body.listbig .head { display: block; padding-top: calc(12px + env(safe-area-inset-top)); }
+}
+
+/* =========================================================
+   다크 모드 (폰 설정 따라감) — 밤에 눈부시지 않게
+   ========================================================= */
+@media (prefers-color-scheme: dark) {
+  :root { --bg: #14120f; --card: #1e1b17; --ink: #f2eee6; --muted: #b3aa9c; --line: #34302a; --chip: #2a2621; --chip-on: #f2eee6; }
+  .chip[aria-pressed="true"] { color: #14120f; }
+  .search, .sort { background: var(--card); color: var(--ink); }
+  .item:hover, .item.active { border-color: #f2eee666; }
+  .item.open { border-color: #f2eee688; }
+  a { color: #8ab4f8; }
+  .pp .tips, .pp .alt.walk { background: #2a2621; color: var(--ink); }
+  .pp .btns a, .pp .btns button { background: var(--card); color: var(--ink); border-color: var(--line); }
+  .pp .btns a.tb { background: #3a2a12; color: #ffcf8a; border-color: #5a4220; }
+  .pp .btns a.yt { background: #3a1a1a; color: #ff9b9b; border-color: #5a2a2a; }
+  .pp .btns .on { background: #3a1a20; color: #ff8fa0; }
+  .pp .btns .vis.on { background: #15301f; color: #7fd39a; }
+  .cta.conc { background: var(--card); color: var(--ink); border-color: var(--line); }
+  .mapjump { color: var(--ink); }
+  .badge { background: #3a3020; color: #f0d48a; }
+  .badge.tb { background: #3a2a12; color: #ffc77a; }
+  .badge.mich { background: #3a1a1e; color: #ff9aa6; }
+  .badge.yt { background: #3a1a1a; color: #ff9b9b; }
+  .badge.gg { background: #1a2a44; color: #9ec1ff; }
+  .badge.bk { background: #15301f; color: #7fd39a; }
+  .badge.bk-전화예약만, .badge.bk-현장방문, .badge.more, .badge.st-later, .badge.st-closed, .badge.st-off { background: #2a2621; color: #c9c0b2; }
+  .badge.st-open, .badge.wt0, .badge.wt1 { background: #15301f; color: #7fd39a; }
+  .badge.st-soon, .badge.wt2, .badge.st-warn { background: #3a2a12; color: #ffc77a; }
+  .badge.wt3 { background: #3a1a1a; color: #ff9b9b; }
+  .tbs { background: #3a2a12; color: #ffc77a; border-color: #5a4220; }
+  .tbs.s4 { background: #d9822b; color: #14120f; border-color: #d9822b; }
+  .tbs.s3 { background: #4a3416; }
+  .tbs.s1, .tbs.none { background: #2a2621; color: #b3aa9c; border-color: var(--line); }
+  .pp .ob.yes { background: #15301f; color: #7fd39a; }
+  .pp .ob.no { background: #3a1a1a; color: #ffb4ab; }
+  .pp .ob.unk { background: #2a2621; color: #c9c0b2; }
+  .pp .notice { background: #3a2a12; color: #ffd8a8; }
+  .dlg { background: var(--card); color: var(--ink); }
+  .dlg textarea, .cform input { background: #14120f; color: var(--ink); border-color: var(--line); }
+  .dlgbtns button { background: var(--card); color: var(--ink); border-color: var(--line); }
+  .dlgbtns .cta { background: #f2eee6; color: #14120f; }
+  .chip.more { background: var(--card); }
+  .viewtoggle { background: #f2eee6; color: #14120f; }
+  /* 지도 팝업 안(흰 배경)은 밝은 색 그대로 */
+  .leaflet-popup-content-wrapper, .leaflet-popup-tip { background: var(--card); color: var(--ink); }
+}
+.nw { white-space: nowrap; }
+@media (prefers-color-scheme: dark) { .pp .rs .rt { color: var(--muted); } .pp .rs a { color: var(--ink); } }
