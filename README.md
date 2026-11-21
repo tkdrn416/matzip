@@ -138,6 +138,14 @@ python3 scripts/build.py
 
 평점 4.2 이상 & 리뷰 300개 이상이면 "구글" 선정 근거가 자동으로 붙고, 구글에 폐업으로 나오는 가게는 경고로 알려줍니다.
 
+**GitHub Actions 로 실행 (권장)**: 레포 Settings → Secrets and variables → Actions 에 `GOOGLE_MAPS_API_KEY` 를 등록하고,
+Actions 탭 → "구글 평점 채우기 (Google Places)" → Run workflow. 결과는 자동으로 main 에 커밋됩니다.
+
+403 `PERMISSION_DENIED` 가 나오면 Google Cloud 콘솔에서:
+1. **API 및 서비스 → 라이브러리 → "Places API (New)"** 사용 설정 (예전 "Places API" 와 다른 항목)
+2. 프로젝트에 **결제 계정** 연결
+3. **사용자 인증 정보 → API 키 → 제한사항**: 애플리케이션 제한은 "없음"(Actions 서버 IP 가 매번 바뀜), API 제한에 "Places API (New)" 포함
+
 ### 데이터 스키마
 
 | 필드 | 설명 | 예 |

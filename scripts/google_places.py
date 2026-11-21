@@ -73,7 +73,7 @@ def search(key: str, r: dict) -> dict | None:
                 places = json.loads(resp.read().decode("utf-8")).get("places") or []
             return places[0] if places else None
         except urllib.error.HTTPError as e:
-            txt = e.read()[:400].decode("utf-8", "replace")
+            txt = e.read()[:2000].decode("utf-8", "replace")
             if e.code == 400 and "pageSize" in txt and PAGE_FIELD[0] == "pageSize":
                 PAGE_FIELD[0] = "maxResultCount"  # 구버전 필드로 한 번 재시도
                 print("ℹ️  pageSize 미지원 → maxResultCount 로 재시도")
@@ -128,6 +128,9 @@ def main() -> int:
             p = search(key, r)
         except ApiError as e:
             print(f"❌ {r['id']} {r['name_ko']}: {e}")
+            if e.code == 403:
+                print("👉 Google Cloud 콘솔에서 확인: ① 'Places API (New)' 사용 설정 ② 결제 계정 연결 "
+                      "③ API 키 제한 — 애플리케이션 제한 '없음'(GitHub Actions IP 는 매번 바뀜), API 제한에 'Places API (New)' 포함")
             if e.code in (400, 401, 403):  # 키·권한·요청 형식 문제 → 중단
                 if not args.dry_run and changed:
                     save(items)
