@@ -12971,6 +12971,765 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "osaka-113",
+    "name_ko": "요시노즈시",
+    "name_ja": "吉野寿司",
+    "name_en": "Yoshino Sushi",
+    "region": "osaka",
+    "area": "기타하마·요도야바시·혼마치",
+    "category": "스시·해산물",
+    "signature": "하코즈시(箱寿司, 오사카식 상자 누름초밥) — 새우·도미·장어·계란을 나무틀에 눌러 만든 '2촌6분의 가이세키'",
+    "why": "1841년(덴포 12년) 창업, 센바 아와지마치의 오사카 하코즈시 대표 노포. 2촌6분(8.5cm) 히노키 틀에 손으로 눌러 만드는 에도시대 레시피를 그대로 잇는다.",
+    "reasons": [
+      {
+        "type": "노포·원조",
+        "detail": "1841년(天保12년) 창업 오사카즈시 노포, 손으로 눌러 '漬ける' 것이 大阪箱寿司의 원점이라 소개(공식 사이트)",
+        "url": "https://www.yoshino-sushi.co.jp/hpgen/HPB/entries/2.html"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.50 (리뷰 134)",
+        "url": "https://tabelog.com/osaka/A2701/A270106/27000011/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '오시즈시를 대표하는 전통 있는 가게', 하코즈시 발상지로 소개하는 후기 다수",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270106/27000011/dtlrvwlst/"
+      }
+    ],
+    "tips": "평일만 영업(토·일·공휴일 휴무). 2층 카운터·테이블에서 먹을 수 있고, 1층은 테이크아웃(선물용). 하코즈시 8조각 2,592엔·장어말이 1,815엔(2025-05 후기). 난바 다카시마야·신오사카역 등에도 매장 있음(후기 언급).",
+    "address_ja": "大阪府大阪市中央区淡路町3-4-14",
+    "address_building": null,
+    "station": "요도야바시역 11번 출구 도보 4~5분 / 혼마치역 도보 5분",
+    "phone": "+81-6-6231-7181",
+    "lat": 34.687138,
+    "lng": 135.501724,
+    "geo": "gsi:大阪府大阪市中央区淡路町三丁目４番１４号",
+    "price_level": 2,
+    "price_note": "2,000~3,500엔",
+    "hours": "월~금 테이크아웃 9:30-15:00 / 2층 식사 11:00-14:00",
+    "closed": "토·일·공휴일",
+    "hours_week": {
+      "mon": [
+        [
+          "09:30",
+          "15:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:30",
+          "15:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:30",
+          "15:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:30",
+          "15:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:30",
+          "15:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "hours_note": "매장 식사(런치)는 11:00-14:00, 그 외는 테이크아웃 · 공휴일 휴무",
+    "notice": "2026-11-16 본점 2층 런치(매장 식사) 영업 재개 — 그 전에는 한동안 테이크아웃 위주로 운영(공식 사이트 공지)",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "온라인 예약 없음. 전화(06-6231-7181)로 예약·테이크아웃 주문. 지방 배송은 공식 사이트 쇼핑몰.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27000011/",
+    "tabelog_score": 3.5,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "테이크아웃",
+      "현지인맛집"
+    ],
+    "legend_level": 1,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://www.yoshino-sushi.co.jp/",
+      "https://www.yoshino-sushi.co.jp/hpgen/HPB/entries/1.html",
+      "https://tabelog.com/en/osaka/A2701/A270106/27000011/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-114",
+    "name_ko": "호테이",
+    "name_ja": "ほてい",
+    "name_en": "Hotei",
+    "region": "osaka",
+    "area": "도톤보리·난바",
+    "category": "스시·해산물",
+    "signature": "천연 자주복(토라후구) 두툼한 테사·테치리, 유비키, 구운 시라코, 히레자케",
+    "why": "호젠지 요코초 옆에서 대를 이어 온 천연 토라후구 전문 노포. 다른 집보다 두껍게 써는 테사와 껍질+살 2종의 유비키가 명물로, 난바 한복판에서 제대로 된 복어를 먹을 수 있는 곳.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.61 (리뷰 87), 오사카 복어 장르 상위권",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27001300/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "공식 사이트: 법선사(호젠지) 요코초에 오래 뿌리내린 천연 복어 노포, 선대에서 아들이 가업 계승(후기: 4대째 점주)",
+        "url": "https://hotei-houzenjiyokocho.com"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '난바에서 복어라면 꼭', '30년 지기와 가도 역시 호테이를 이길 가게는 없다'",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27001300/dtlrvwlst/"
+      }
+    ],
+    "tips": "천연 복어만 사용. 서비스 코스 9,680엔(유비키·테사·테치리·조스이, 2026-02 후기)이 기본, 구운 시라코 추가 추천. 14시부터 영업해 이른 저녁도 가능. 1층 카운터·고아가리, 2~3층 다다미. 카드 가능, 전자머니·QR 불가.",
+    "address_ja": "大阪府大阪市中央区難波1-1-20",
+    "address_building": null,
+    "station": "닛폰바시역·난바역 도보 6분 (호젠지 요코초 인근)",
+    "phone": "+81-6-6211-5000",
+    "lat": 34.668194,
+    "lng": 135.502869,
+    "geo": "gsi:大阪府大阪市中央区難波一丁目１番２０号",
+    "price_level": 4,
+    "price_note": "10,000~15,000엔 (서비스 코스 9,680엔 + 음료)",
+    "hours": "화~일 14:00-22:00 (L.O. 21:30)",
+    "closed": "월요일",
+    "hours_week": {
+      "mon": [],
+      "tue": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ],
+      "wed": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ],
+      "sun": [
+        [
+          "14:00",
+          "22:00"
+        ]
+      ]
+    },
+    "hours_note": "L.O. 21:30",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "기타:AutoReserve",
+        "url": "https://autoreserve.com/ja/restaurants/Une2vMLiWJfjxRDkok7d"
+      },
+      {
+        "app": "공식사이트",
+        "url": "https://hotei-houzenjiyokocho.com"
+      }
+    ],
+    "booking_note": "타베로그에 '예약은 아래 홈페이지에서'라고 안내. 공식 사이트(한국어 지원)의 'ご予約はこちら' 버튼이 AutoReserve 예약 페이지로 연결. 전화 06-6211-5000도 가능.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "예약 권장 — 토요일 저녁도 전날 예약으로 자리가 있었던 사례, 예약 없이 바로 들어간 후기도 있음(운)",
+      "best_time": "전날까지 웹 예약, 또는 14~17시 이른 시간",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-02 '토요일 19시, 전날 예약이었지만 자리가 있어서' / 2025-08 '예약 없이 들어갈 수 있어서 운이 좋았다'",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001300/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001300/",
+    "tabelog_score": 3.61,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "현지인맛집",
+      "고급"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/osaka/A2701/A270202/27001300/",
+      "https://hotei-houzenjiyokocho.com",
+      "https://tabelog.com/kr/osaka/A2701/A270202/27001300/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-115",
+    "name_ko": "치소 우오사",
+    "name_ja": "馳走 うお佐",
+    "name_en": "Chisou Uosa",
+    "region": "osaka",
+    "area": "도톤보리·난바",
+    "category": "일식·카이세키",
+    "signature": "아침 고젠(朝御膳) — 도나베 밥(리필 자유), 그날의 생선구이(은대구 사이쿄야키 등), 노른자 간장절임·산초 멸치 등 반찬, 미소국",
+    "why": "1956년 창업한 '우오사'가 2026년 5월 난바역 바로 앞에 문을 연 일식 아침식사 전문점. 오픈 반년 만에 타베로그 3.58, 갓 지은 도나베 밥 아침이 화제.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.58 (리뷰 60, 2026-05 오픈)",
+        "url": "https://tabelog.com/osaka/A2701/A270202/27156304/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "후기: 1956년 창업 'うお佐'가 2026-05-01 아침식사 전문점으로 새 단장(3대째는 니시텐마 '요리 산다' 운영)",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '밥이 너무 맛있어 리필', '사치스러운 아침식사를 난바에서 손쉽게'",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/"
+      }
+    ],
+    "tips": "08:30 / 10:00 / 11:30 3부제, 아침 고젠 3,600엔 하나(추가 주문 가능, 새우카레 +1,000엔). 예약이 안 찬 회차는 워크인 가능하지만 만석인 날 많음. 카드 가능, 전자머니·QR 불가. 일요일 휴무.",
+    "address_ja": "大阪府大阪市中央区難波3-5-14",
+    "address_building": null,
+    "station": "난바역 도보 1분(약 55m)",
+    "phone": "+81-80-4261-9336",
+    "lat": 34.666897,
+    "lng": 135.500778,
+    "geo": "gsi:大阪府大阪市中央区難波三丁目５番１４号",
+    "price_level": 2,
+    "price_note": "3,600엔 (아침 고젠)",
+    "hours": "월~토 08:30-09:30 / 10:00-11:00 / 11:30-12:30 (3부제)",
+    "closed": "일요일",
+    "hours_week": {
+      "mon": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "tue": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "wed": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "thu": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "fri": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "sat": [
+        [
+          "08:30",
+          "09:30"
+        ],
+        [
+          "10:00",
+          "11:00"
+        ],
+        [
+          "11:30",
+          "12:30"
+        ]
+      ],
+      "sun": []
+    },
+    "hours_note": "3부제(회차 시작 08:30·10:00·11:30) · 영업시간 변동 가능",
+    "notice": "2026-05-01 신규 오픈(아침식사 전문점으로 리뉴얼)",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/ko/chisou-uosa"
+      }
+    ],
+    "booking_note": "TableCheck(한국어 페이지)로 회차 예약. 타베로그엔 네트예약 없음(전화 080-4261-9336도 가능).",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "예약 회차제 — 평일 10시 회차도 예약으로 만석이었던 후기. 예약 없이는 빈자리 있을 때만",
+      "best_time": "TableCheck로 08:30 또는 10:00 회차 예약",
+      "queue_system": "08:30·10:00·11:30 3부제",
+      "sellout": null,
+      "basis": "타베로그 후기 2026-09 '평일 10:00 1명 예약, 도착하니 만석… 예약이 안 찼으면 그냥 들어갈 수 있다고 적혀 있었지만 예약하길 잘했다' / 2026-08 '예약으로 만석'",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27156304/",
+    "tabelog_score": 3.58,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "아침식사",
+      "혼밥가능"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/osaka/A2701/A270202/27156304/",
+      "https://www.tablecheck.com/ko/chisou-uosa",
+      "https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-116",
+    "name_ko": "긴샤리 엔",
+    "name_ja": "銀シャリ en",
+    "name_en": "Ginshari en",
+    "region": "osaka",
+    "area": "사카이",
+    "category": "기타",
+    "signature": "긴샤리(윤기 나는 흰쌀밥)+미소국에 생선조림·계란말이 등 반찬을 골라 담는 아침 정식",
+    "why": "'밥 짓기의 신선'으로 불린 사카이 전설의 식당 '긴샤리야 게코테이' 계보를 잇는 대중식당(2023년 개업). 타베로그 식당 백명점 2026 선정, 아침 8시부터 줄 서는 사카이의 아침밥 명소.",
+    "reasons": [
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 식당(食堂) 백명점 2026 선정",
+        "url": "https://award.tabelog.com/hyakumeiten/shokudo/2026"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.61 (리뷰 517)",
+        "url": "https://tabelog.com/osaka/A2705/A270501/27134058/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "후기: 사카이의 '밥 짓기 선인' 銀シャリ屋 ゲコ亭에서 수련한 주인이 독립한 가게(게코테이 계열)",
+        "url": "https://tabelog.com/kr/osaka/A2705/A270501/27134058/dtlrvwlst/"
+      }
+    ],
+    "tips": "셀프로 반찬 접시를 고르고 밥·미소국은 가져다주는 방식(흰밥 150엔, 계란말이 200엔 등 — 고르다 보면 금액이 오르니 주의). 현금만, 합석 기본, 주차장 없음. 난카이 고야선 사카이히가시역에서도 도보 약 14분(후기).",
+    "address_ja": "大阪府堺市堺区戎之町東3-1-9",
+    "address_building": "オクムラビル 1F",
+    "station": "한카이선 하나다구치·오쇼쿠지마 정류장 도보 5분",
+    "phone": "+81-80-9755-0477",
+    "lat": 34.579144,
+    "lng": 135.477402,
+    "geo": "gsi:大阪府堺市堺区戎之町東三丁１番９号",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔 (반찬 골라 담기)",
+    "hours": "수~월 08:00-14:00",
+    "closed": "화요일",
+    "hours_week": {
+      "mon": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ],
+      "tue": [],
+      "wed": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ],
+      "sat": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ],
+      "sun": [
+        [
+          "08:00",
+          "14:00"
+        ]
+      ]
+    },
+    "hours_note": "오픈이 늦어지는 날도 있음(2026-10 후기 8:15 오픈)",
+    "notice": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가(타베로그). 줄 서서 입장.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": 2,
+      "estimate": "오픈 20~30분 전부터 줄(7명+), 개점 5분 만에 만석. 주말 10~12시 3~6팀·약 10~20분, 평일 13시에도 밖에 4팀. 평일 10시경 대기 없던 사례도",
+      "best_time": "평일 9시 반~10시 반 / 주말은 오픈 20분 전 도착",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-10 '7:30 도착, 개점 20분 전부터 줄' / '평일 8:00 7명 줄' / '토 12:00 대기 3팀, 10분' / '평일 13시 밖에 4팀' / 2026-11 '토 10시 6명 대기, 평일 10시 대기 없이' / '개점 5분 만에 만석'",
+      "source": "https://tabelog.com/kr/osaka/A2705/A270501/27134058/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27134058/",
+    "tabelog_score": 3.61,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 식당 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "아침식사",
+      "백명점",
+      "줄서는집",
+      "현지인맛집",
+      "현금만",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/osaka/A2705/A270501/27134058/",
+      "https://award.tabelog.com/hyakumeiten/shokudo/2026",
+      "https://tabelog.com/kr/osaka/A2705/A270501/27134058/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-117",
+    "name_ko": "아지헤이",
+    "name_ja": "あじ平",
+    "name_en": "Aji Hei",
+    "region": "osaka",
+    "area": "이쿠노·기타타쓰미",
+    "category": "스시·해산물",
+    "signature": "테치리(복어 전골)·테사(복어회)·복어 가라아게, 시메 조스이",
+    "why": "오사카 현지인이 '복어 먹으려면 여기'라고 꼽는 이쿠노구의 복어 전문점. 타베로그 복어 부문 오사카 상위권(3.63)인데 1인 6,000~10,000엔 선의 가성비로 유명.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.63 (리뷰 309), 오사카 복어(ふぐ) 장르 랭킹 상위권",
+        "url": "https://tabelog.com/osaka/A2701/A270306/27032294/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "타베로그 후기 2026: '복어를 먹으려면 역시 여기', '가성비 최고, 양이 놀랄 정도', '여전히 대성황이라 예약하고 가야 할 가게'",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270306/27032294/dtlrvwlst/"
+      }
+    ],
+    "tips": "예약 필수급 인기(전화 예약). 코스 대신 테사·테치리·가라아게·유비키(껍질)를 단품으로 골라 시켜도 됨. 기타타쓰미역에서 걸어서 5분, 난바에서 지하철 센니치마에선 약 15분. 같은 계열 '아지헤이 이마자토점'(3.62)도 있음.",
+    "address_ja": "大阪府大阪市生野区小路東4-3-25",
+    "address_building": null,
+    "station": "지하철 센니치마에선 기타타쓰미역 도보 5분",
+    "phone": "+81-6-6754-4669",
+    "lat": 34.656086,
+    "lng": 135.555664,
+    "geo": "gsi:大阪府大阪市生野区小路東四丁目３番２５号",
+    "price_level": 3,
+    "price_note": "6,000~10,000엔 (단품 주문 가능)",
+    "hours": "화~일 17:00-22:00",
+    "closed": "월요일 (공휴일이면 다음 날)",
+    "hours_week": {
+      "mon": [],
+      "tue": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "wed": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sun": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ]
+    },
+    "hours_note": "월요일이 공휴일이면 영업하고 다음 날 휴무",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '예약 가능'이지만 네트예약 없음 → 전화(06-6754-4669). 후기상 당일 전화는 만석인 경우가 많아 며칠 전 예약 추천.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "사실상 예약제처럼 운영 — 17시 오픈 후 18시까지 만석, 당일 전화로는 '이미 만석'이라 거절된 후기 다수. 예약 없이 가면 입장 어려움",
+      "best_time": "며칠 전 전화 예약, 평일 17~18시 타임이 잡기 쉬움",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-08 '17시 시작했지만 18시까지 만석' / 2026-07 '여러 번 예약 전화했지만 만석이라 쉽게 못 갔다' / 2026-05 '여전히 대성황, 예약하고 가야 할 가게' / 2026-10 '평일 18시 카운터 예약 가능'",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270306/27032294/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270306/27032294/",
+    "tabelog_score": 3.63,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/osaka/A2701/A270306/27032294/",
+      "https://tabelog.com/kr/osaka/A2701/A270306/27032294/",
+      "https://tabelog.com/kr/osaka/A2701/A270306/27032294/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-118",
+    "name_ko": "가니후쿠",
+    "name_ja": "かに福",
+    "name_en": "Kani Fuku",
+    "region": "osaka",
+    "area": "주소",
+    "category": "스시·해산물",
+    "signature": "게 코스·복어 코스(테사·테치리), 히레자케, 게·복어 회",
+    "why": "우메다에서 한큐로 한 정거장인 주소(十三)의 게·복어·자라 전문 노포. 1인 5,000~6,000엔대 가성비로 현지인 연회 단골, 새벽 2시까지 연중무휴.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.58 (리뷰 381), 오사카 복어 장르 상위권",
+        "url": "https://tabelog.com/osaka/A2701/A270302/27009857/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '오사카의 유명한 전통 가게', '가성비 좋은 게 요리', '역시 이곳 복어는 대단하다'(접대 코스)",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270302/27009857/dtlrvwlst/"
+      }
+    ],
+    "tips": "게 회 포함 풀코스 8,910엔·음료무제한 2,750엔(2026-11 후기). 복어(테사 등) 포함 VIP 코스 후기도 있음. 12/1~1/8엔 낮 12시부터 영업. 반개별실·2층 좌식. 타베로그 비고에 '추가 300엔' 표기. 카드·전자머니·QR 가능.",
+    "address_ja": "大阪府大阪市淀川区十三東3-26-7",
+    "address_building": null,
+    "station": "한큐 주소역 동쪽 출구 도보 3분",
+    "phone": "+81-6-6390-0229",
+    "lat": 34.721867,
+    "lng": 135.483383,
+    "geo": "gsi:大阪府大阪市淀川区十三東三丁目２６番７号",
+    "price_level": 3,
+    "price_note": "5,000~10,000엔 (게 풀코스 8,910엔)",
+    "hours": "월~토 17:00-26:00 / 일·공휴일 17:00-24:00 (12/1~1/8은 12:00부터)",
+    "closed": "연중무휴",
+    "hours_week": {
+      "mon": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "tue": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "wed": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "thu": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "fri": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "sat": [
+        [
+          "17:00",
+          "26:00"
+        ]
+      ],
+      "sun": [
+        [
+          "17:00",
+          "24:00"
+        ]
+      ]
+    },
+    "hours_note": "공휴일 17:00-24:00 · 12/1~1/8은 낮 12:00 오픈(월~토 ~26:00, 일·공휴일 ~24:00) · 연중무휴",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/osaka/A2701/A270302/27009857/"
+      }
+    ],
+    "booking_note": "타베로그 네트예약(빈자리 확인 캘린더) 있음. 게 시즌(11월 해금~겨울)·연말 연회철엔 미리 예약.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "비수기(9월)엔 예약도 쉽고 빈자리 있음. 게 해금(11월) 이후 겨울 저녁은 예약 권장",
+      "best_time": "평일 저녁, 또는 12/1~1/8 낮 영업 시간",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-09 '시기적으로 예약이 비교적 쉬웠고 매장에 빈자리' / 2026-11 '11월 6일 게 해금, 일요일 저녁 예약하고 방문'",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270302/27009857/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270302/27009857/",
+    "tabelog_score": 3.58,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "가성비",
+      "심야영업"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/osaka/A2701/A270302/27009857/",
+      "https://tabelog.com/kr/osaka/A2701/A270302/27009857/",
+      "https://tabelog.com/kr/osaka/A2701/A270302/27009857/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "kyoto-001",
     "name_ko": "아카가키야",
     "name_ja": "赤垣屋",
@@ -20711,6 +21470,348 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "kyoto-067",
+    "name_ko": "메나미",
+    "name_ja": "御料理 めなみ",
+    "name_en": "Oryori Menami",
+    "region": "kyoto",
+    "area": "가와라마치·기야마치",
+    "category": "일식·카이세키",
+    "signature": "오반자이 모둠(그날의 5종), 오카라, 나마유바 하루마키, 제철 교야사이 요리",
+    "why": "창업 80년이 넘는 기야마치 산조의 노포 오반자이집. 카운터에 늘어선 교토 가정식 반찬을 단품으로 골라 술과 즐기는, 교토 오반자이의 정석 같은 곳.",
+    "reasons": [
+      {
+        "type": "노포·원조",
+        "detail": "공식 사이트: '창업 80년 이상의 노포 오반자이야'",
+        "url": "http://www.menami.jp"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.51 (리뷰 341)",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26001266/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '제철 오반자이를 즐길 수 있는 작은 요리집', 혼자 가면 양을 조절해 주는 친절함",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260201/26001266/dtlrvwlst/"
+      }
+    ],
+    "tips": "15시부터 영업해 관광 후 이른 저녁에 좋음. 한 접시가 약 2인분이라 혼자면 양 조절 부탁 가능. 2층은 테이블석으로 리뉴얼. 카드·PayPay 가능. 테이크아웃 메뉴도 있음.",
+    "address_ja": "京都府京都市中京区木屋町三条上ル中島町96",
+    "address_building": "三条木屋町ビルⅡ 1F",
+    "station": "게이한 산조역 도보 3분",
+    "phone": "+81-80-9308-5905",
+    "lat": 35.009148,
+    "lng": 135.771072,
+    "geo": "gsi:京都府京都市中京区中島町９６番地",
+    "price_level": 3,
+    "price_note": "5,000~10,000엔 (술 포함 저녁)",
+    "hours": "목~화 15:00-22:00 (L.O. 21:30)",
+    "closed": "수요일",
+    "hours_week": {
+      "mon": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ],
+      "tue": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ],
+      "wed": [],
+      "thu": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ],
+      "sun": [
+        [
+          "15:00",
+          "22:00"
+        ]
+      ]
+    },
+    "hours_note": "L.O. 21:30 · 공휴일도 영업(수요일 제외)",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "공식 사이트: 예약은 전화(080-9308-5905, 10:00~17:00 접수)만 받음.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": 0,
+      "estimate": "저녁 피크엔 1층이 거의 만석이어도 2층으로 바로 안내된 사례 — 대기 언급 없음(46석)",
+      "best_time": "15시 오픈 직후~18시 전",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-04 '매우 붐벼 1층 거의 만석, 2층으로 안내' / 2026-07 '21시쯤 입장'",
+      "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26001266/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26001266/",
+    "tabelog_score": 3.51,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "현지인맛집"
+    ],
+    "legend_level": 1,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "http://www.menami.jp",
+      "https://tabelog.com/en/kyoto/A2601/A260201/26001266/",
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26001266/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-068",
+    "name_ko": "폰토초 마스다",
+    "name_ja": "先斗町 ますだ",
+    "name_en": "Pontocho Masuda",
+    "region": "kyoto",
+    "area": "가와라마치·기야마치",
+    "category": "일식·카이세키",
+    "signature": "교토 오반자이(제철 반찬)·도빈무시 등 계절 요리",
+    "why": "폰토초 골목의 오래된 오반자이 명점. 관광객으로 붐비는 폰토초에서도 손님 대부분이 일본인 단골인 '어른의 오반자이야'.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.51 (리뷰 119)",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26000698/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2025: '거리는 외국인 관광객 투성이지만 이 가게는 거의 일본인 손님', '교토에 가면 가끔씩 찾는 전통 오반자이 이자카야'",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/dtlrvwlst/"
+      }
+    ],
+    "tips": "가게 안 사진 촬영 금지. 현금만(카드·전자결제 불가). 예전 큰 접시에서 고르던 방식은 코로나 이후 메뉴판 주문으로 바뀜. 인기 날은 2개월 전 예약한 후기도.",
+    "address_ja": "京都府京都市中京区先斗町四条上ル下樵木町202",
+    "address_building": null,
+    "station": "게이한 기온시조역·한큐 교토가와라마치역 도보 약 4분",
+    "phone": "+81-75-221-6816",
+    "lat": 35.00568,
+    "lng": 135.770813,
+    "geo": "gsi:京都府京都市中京区下樵木町２０２番地",
+    "price_level": 3,
+    "price_note": "5,000~10,000엔",
+    "hours": "월~토 17:00-22:00",
+    "closed": "일요일",
+    "hours_week": {
+      "mon": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "tue": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "wed": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "thu": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "fri": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sat": [
+        [
+          "17:00",
+          "22:00"
+        ]
+      ],
+      "sun": []
+    },
+    "hours_note": null,
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '예약 가능', 네트예약 없음 → 전화(075-221-6816).",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "워크인은 운 — 예약 권장(2개월 전에 예약한 후기 있음)",
+      "best_time": "사전 전화 예약",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2024-11 '작년엔 운 좋게 입장, 이번엔 2개월 전에 예약' / 2025-09 '추천받아 예약하고 방문'",
+      "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000698/",
+    "tabelog_score": 3.51,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/kyoto/A2601/A260201/26000698/",
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/",
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-069",
+    "name_ko": "조식 키신",
+    "name_ja": "朝食 喜心",
+    "name_en": "Choshoku Kishin",
+    "region": "kyoto",
+    "area": "기온·히가시야마",
+    "category": "일식·카이세키",
+    "signature": "도나베(질냄비) 밥 중심 아침 코스 — 뜸 들이기 전 '니에바나' 밥부터 누룽지까지, 국 선택(교 백미소 돼지국 등)·유바",
+    "why": "기온의 아침식사 전문점. 갓 지은 도나베 밥을 단계별로 맛보는 일식 아침 코스로 타베로그 3.69, 교토 아침식사의 대표 주자.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.69 (리뷰 481), 후기에서 '타베로그 TOP5000' 언급",
+        "url": "https://tabelog.com/kyoto/A2601/A260301/26028888/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '이상적인 일본식 아침식사', '아침식사에 이 가격? 하지만 완전히 엔터테인먼트'",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260301/26028888/dtlrvwlst/"
+      }
+    ],
+    "tips": "완전 예약제 회차 운영(07:30/09:00/11:00/12:30, 각 약 80분, 회차 시작과 동시에 코스 진행). 10분 이상 늦으면 취소될 수 있음. 아침 코스 3,600엔 + 날계란·참치포 등 추가(2026-07 후기). 카드(VISA·Master·AMEX)·QR 가능. 차량은 근처 코인파킹.",
+    "address_ja": "京都府京都市東山区小松町555",
+    "address_building": "花とうろホテル祇園 1F",
+    "station": "게이한 기온시조역 6번 출구 도보 3~5분",
+    "phone": "+81-75-525-8500",
+    "lat": 35.002163,
+    "lng": 135.773865,
+    "geo": "gsi:京都府京都市東山区小松町５５５番地",
+    "price_level": 2,
+    "price_note": "3,600~4,500엔",
+    "hours": "금~화 07:30-14:00 (회차제, L.O. 12:30)",
+    "closed": "수·목요일 (공휴일엔 영업하는 경우 있음)",
+    "hours_week": {
+      "mon": [
+        [
+          "07:30",
+          "14:00"
+        ]
+      ],
+      "tue": [
+        [
+          "07:30",
+          "14:00"
+        ]
+      ],
+      "wed": [],
+      "thu": [],
+      "fri": [
+        [
+          "07:30",
+          "14:00"
+        ]
+      ],
+      "sat": [
+        [
+          "07:30",
+          "14:00"
+        ]
+      ],
+      "sun": [
+        [
+          "07:30",
+          "14:00"
+        ]
+      ]
+    },
+    "hours_note": "예약 회차 07:30-08:50 / 09:00-10:20 / 11:00-12:20 / 12:30-13:50 · 수·목이 공휴일이면 영업하는 경우 있음",
+    "notice": null,
+    "reservation": "필수",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/shops/kishin-kyoto/reserve"
+      }
+    ],
+    "booking_note": "공식 사이트 '완전 예약제' — 웹(TableCheck) 또는 전화 예약. 예약 없이는 착석이 어려울 수 있다고 안내. (기요미즈의 자매점 '喫茶 喜心 kyoto'는 예약 불필요)",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "예약 회차제라 대기 없음 — 대신 회차가 만석으로 차는 경우 많아 워크인은 어려움",
+      "best_time": "07:30 첫 회차 예약(5분 전 도착)",
+      "queue_system": "07:30·09:00·11:00·12:30 회차 동시 시작 코스, 10분 이상 지각 시 취소 가능",
+      "sellout": null,
+      "basis": "타베로그 후기 2026-07 '7:30 자리 예약, 만석' / 2026-05 '당연히 만석' / 2026-08 '사전 예약으로 토요일 7시 30분 첫 자리'",
+      "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26028888/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26028888/",
+    "tabelog_score": 3.69,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "아침식사",
+      "예약필수",
+      "관광객인기"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://www.kishin.world/",
+      "https://tabelog.com/en/kyoto/A2601/A260301/26028888/",
+      "https://www.tablecheck.com/shops/kishin-kyoto/reserve"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "kobe-001",
     "name_ko": "프로인드리브 이쿠타점(본점)",
     "name_ja": "フロインドリーブ 生田店",
@@ -25709,6 +26810,288 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "kobe-043",
+    "name_ko": "오코노미야키 아오모리",
+    "name_ja": "お好み焼 青森",
+    "name_en": "Okonomiyaki Aomori",
+    "region": "kobe",
+    "area": "나가타",
+    "category": "오코노미야키",
+    "signature": "스지 소바메시(규스지+야키소바+밥 볶음, 850엔), 스지야키",
+    "why": "고베 나가타의 '소바메시 발상지'로 불리는 오코노미야키 가게. 타베로그 오코노미야키 백명점 5회 선정, 1,000엔대로 원조 소바메시를 맛볼 수 있다.",
+    "reasons": [
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 오코노미야키 백명점 2018·2019·2022·2023·2024 선정",
+        "url": "https://award.tabelog.com/hyakumeiten/okonomiyaki/2024"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "타베로그 후기 다수가 '소바메시 발상지(元祖)의 가게'로 소개",
+        "url": "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/dtlrvwlst/"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.50 (리뷰 647)",
+        "url": "https://tabelog.com/hyogo/A2801/A280110/28000773/"
+      }
+    ],
+    "tips": "예약 불가, 현금만. 카운터 9석+테이블 10석의 작은 가게라 오픈 10분 전 도착 추천. 소스는 단맛·매운맛 선택. 산노미야에서 JR로 신나가타역까지 약 10분.",
+    "address_ja": "兵庫県神戸市長田区久保町4-8-6",
+    "address_building": null,
+    "station": "JR 신나가타역 남쪽 출구 도보 6분 / 지하철 고마가바야시역 약 300m",
+    "phone": "+81-78-611-1701",
+    "lat": 34.654819,
+    "lng": 135.148163,
+    "geo": "gsi:兵庫県神戸市長田区久保町四丁目８番６号",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "수~일 11:30-14:00, 17:00-20:30",
+    "closed": "월·화요일",
+    "hours_week": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "20:30"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "20:30"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "20:30"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "20:30"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "14:00"
+        ],
+        [
+          "17:00",
+          "20:30"
+        ]
+      ]
+    },
+    "hours_note": null,
+    "notice": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가(타베로그). 현장 대기.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": 1,
+      "estimate": "주말 점심·저녁 피크 대기 2팀·약 15분, 오픈 전 5명 정도 줄. 평일 저녁엔 바로 앉은 사례도",
+      "best_time": "오픈(11:30/17:00) 10분 전 도착 / 토요일 18시 전후는 한산했던 날도",
+      "queue_system": "가게 안쪽 대기 공간에서 순서대로",
+      "sellout": null,
+      "basis": "타베로그 후기 2026-10 '토요일 18시 반 만석, 대기 공간에서 15분' / 2026-08 '11:20 도착 이미 5명 대기, 이후에도 줄' / 2026-10 '일요일 13시 대기 2팀' / 2026-09 '토요일 18시 한산, 바로 안내'",
+      "source": "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280110/28000773/",
+    "tabelog_score": 3.5,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
+    ],
+    "youtube": [],
+    "tags": [
+      "원조",
+      "백명점",
+      "현지인맛집",
+      "현금만",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280110/28000773/",
+      "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/",
+      "https://award.tabelog.com/hyakumeiten/okonomiyaki/2024"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-044",
+    "name_ko": "유키",
+    "name_ja": "ゆき",
+    "name_en": "Yuki",
+    "region": "kobe",
+    "area": "나가타",
+    "category": "오코노미야키",
+    "signature": "소바메시, 스지(규스지) 듬뿍 오코노미야키, 오무소바·네기야키",
+    "why": "나가타 상점가의 서민 오코노미야키 명점. 오코노미야키 백명점 3회 선정, 양 많고 1,000엔대 가격에 현지인·관광객 모두 몰린다.",
+    "reasons": [
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 오코노미야키 백명점 2018·2019·2024 선정",
+        "url": "https://award.tabelog.com/hyakumeiten/okonomiyaki/2024"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.50 (리뷰 383)",
+        "url": "https://tabelog.com/hyogo/A2801/A280110/28002109/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '고베시 나가타의 유명한 오코노미야키 가게', '가격이 정말 저렴, 현지인과 관광객 모두'",
+        "url": "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/dtlrvwlst/"
+      }
+    ],
+    "tips": "예약 불가, 현금만. 테이블 18석. 아오모리(도보 3분 거리)와 묶어 나가타 '고나몬' 투어 가능. 근처 주차장 할인권 있음.",
+    "address_ja": "兵庫県神戸市長田区久保町4-2-5",
+    "address_building": null,
+    "station": "지하철 고마가바야시역 도보 3분 / JR 신나가타역 도보 9분",
+    "phone": "+81-78-611-4785",
+    "lat": 34.653725,
+    "lng": 135.1483,
+    "geo": "gsi:兵庫県神戸市長田区久保町四丁目２番５号",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "목~화 11:30-15:00, 17:00-21:00 (L.O. 각 30분 전)",
+    "closed": "수요일, 매월 셋째 화요일",
+    "hours_week": {
+      "mon": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "wed": [],
+      "thu": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "15:00"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "hours_note": "L.O. 14:30·20:30 · 매월 셋째 화요일 휴무 · 12/31~1/3 휴무",
+    "notice": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가(타베로그).",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": 1,
+      "estimate": "평일·주말 점심 피크 만석이라 밖에서 잠깐 대기(10~15분 안팎), 회전 빠름",
+      "best_time": "오픈 직후(11:30) 또는 14시 전후",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-10 '평일이었지만 만석이라 밖에서 기다렸다' / 2026-09 '입장하는 데 조금 기다렸다' / 2026-07 '토요일 11:40 간신히 착석' / 2026-10 '만석, 마침 나가는 사람이 있어 바로'",
+      "source": "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280110/28002109/",
+    "tabelog_score": 3.5,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 오코노미야키 2018·2019·2024"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "현금만",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "editor_level": 1,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280110/28002109/",
+      "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/",
+      "https://award.tabelog.com/hyakumeiten/okonomiyaki/2024"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "nara-001",
     "name_ko": "야키토리 모치즈키",
     "name_ja": "焼鳥 望月",
@@ -28536,6 +29919,283 @@
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29000052/",
       "https://tabelog.com/en/nara/A2901/A290101/29000052/dtlmenu/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "nara-026",
+    "name_ko": "이즈모소바 단단",
+    "name_ja": "出雲そば だんだん",
+    "name_en": "Izumo Soba Dandan",
+    "region": "nara",
+    "area": "JR나라역",
+    "category": "우동·소바",
+    "signature": "주와리(100% 메밀) 와리코 소바 + 튀김, 점심·저녁 오마카세(시마네 직송 노도구로 등)",
+    "why": "JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바 WEST 백명점(2024·2025). 타베로그 3.72로 JR나라역 주변 최상위권.",
+    "reasons": [
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 소바 WEST 백명점 2024·2025 선정",
+        "url": "https://award.tabelog.com/hyakumeiten/soba_west/2025"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.72 (리뷰 139), JR나라역 주변 랭킹 1위권",
+        "url": "https://tabelog.com/nara/A2901/A290101/29001366/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '예약 필수의 절품 소바집', '오사카 유명 식당 주인에게 추천받아 방문'",
+        "url": "https://tabelog.com/kr/nara/A2901/A290101/29001366/dtlrvwlst/"
+      }
+    ],
+    "tips": "점심 오마카세(11:15~)는 예약 필수, 단품 소바·튀김은 12:00~13:00. 예약 시 '덴푸라 포함 주와리 소바' 미리 주문 가능. 테이블 15석. 현금만(카드·전자결제 불가). 월·화 휴무.",
+    "address_ja": "奈良県奈良市大宮町2-2-34",
+    "address_building": null,
+    "station": "JR 나라역 도보 4분 / 긴테쓰 신오미야역 도보 7분",
+    "phone": "+81-742-30-6566",
+    "lat": 34.682457,
+    "lng": 135.816757,
+    "geo": "gsi:奈良県奈良市大宮町二丁目２番３４号",
+    "price_level": 2,
+    "price_note": "점심 1,000~2,000엔(단품) / 오마카세·저녁 4,000~5,000엔",
+    "hours": "수~일 11:15-13:15(점심), 17:00-21:00",
+    "closed": "월·화요일",
+    "hours_week": {
+      "mon": [],
+      "tue": [],
+      "wed": [
+        [
+          "11:15",
+          "13:15"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:15",
+          "13:15"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:15",
+          "13:15"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:15",
+          "13:15"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:15",
+          "13:15"
+        ],
+        [
+          "17:00",
+          "21:00"
+        ]
+      ]
+    },
+    "hours_note": "점심 오마카세 11:15-13:15(예약제) · 단품 소바·튀김 12:00-13:00 · 저녁은 오마카세/오마카세 안주",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "기타:Airリザーブ",
+        "url": "https://airrsv.net/dandan/calendar"
+      }
+    ],
+    "booking_note": "공식 사이트(dandannara.com)의 예약 링크가 Airリザーブ 캘린더로 연결. 전화(0742-30-6566)도 가능, 전날 전화 예약 후기 있음.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": null,
+      "estimate": "사실상 예약제 — 11:30에 예약석으로 거의 만석. 예약 없이 들어간 날도 있으나 운",
+      "best_time": "전날까지 예약(Airリザーブ/전화) 후 11:15 또는 12:00",
+      "queue_system": null,
+      "sellout": null,
+      "basis": "타베로그 후기 2026-07 '11:30 입장, 예약석으로 거의 만석' / 2026-05 '완전 예약제(직전 예약 가능)' / 2026-05 '오늘은 예약 없이 들어갈 수 있었다' / 2026-04 '예약하고 갔는데 만석이라 잘한 선택'",
+      "source": "https://tabelog.com/kr/nara/A2901/A290101/29001366/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29001366/",
+    "tabelog_score": 3.72,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 소바 WEST 2024·2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현금만",
+      "현지인맛집"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/nara/A2901/A290101/29001366/",
+      "https://dandannara.com",
+      "https://airrsv.net/dandan/calendar"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "nara-027",
+    "name_ko": "중국요리 시진",
+    "name_ja": "中国料理 四神",
+    "name_en": "Chinese Ryouri Shijin",
+    "region": "nara",
+    "area": "JR나라역",
+    "category": "중화·교자",
+    "signature": "사천 마파두부, 사천 탄탄멘, 새우칠리·마요, 런치 세트",
+    "why": "고베의 사천요리 명점 출신 셰프가 2021년 고향 나라에 연 사천요리집. 타베로그 3.61, 점심마다 줄 서는 JR나라역권 인기 중식당.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.61 (리뷰 226)",
+        "url": "https://tabelog.com/nara/A2901/A290101/29012436/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 2026: '나라의 사천요리 명점', '항상 줄이 서 있다', '맛도 가성비도 좋다'",
+        "url": "https://tabelog.com/kr/nara/A2901/A290101/29012436/dtlrvwlst/"
+      }
+    ],
+    "tips": "점심은 예약 불가 — 개점(11:30) 전 가게 안 기계에서 대기번호(정리권) 발급 후 차례 대기. 저녁만 예약 가능(이용 1.5시간). 점심 세트 1,000엔대. 카드·PayPay 가능. 매월 셋째 일요일 휴무.",
+    "address_ja": "奈良県奈良市大宮町1-133-5",
+    "address_building": "トータスbld 1F",
+    "station": "JR 나라역 도보 6~10분 (오미야도리 변)",
+    "phone": "+81-742-93-4217",
+    "lat": 34.684635,
+    "lng": 135.817978,
+    "geo": "gsi:奈良県奈良市大宮町一丁目１３３番地",
+    "price_level": 1,
+    "price_note": "점심 1,000~2,000엔 / 저녁 2,000~3,000엔",
+    "hours": "화~일 11:30-14:30 (L.O. 14:00), 17:30-21:30 (L.O. 21:00)",
+    "closed": "월요일, 매월 셋째 일요일",
+    "hours_week": {
+      "mon": [],
+      "tue": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "wed": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "thu": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "fri": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sat": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ],
+      "sun": [
+        [
+          "11:30",
+          "14:30"
+        ],
+        [
+          "17:30",
+          "21:30"
+        ]
+      ]
+    },
+    "hours_note": "L.O. 14:00·21:00 · 매월 셋째 일요일 휴무",
+    "notice": null,
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "저녁만 전화 예약 가능(0742-93-4217). 점심은 예약 불가, 현장 정리권.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "wait": {
+      "level": 2,
+      "estimate": "점심은 대기 필수급 — 개점 10~15분 전 이미 2~4팀, 개점과 동시에 만석 후 정리권 대기. 카운터 1~2명은 빨리 안내. 저녁 17:30 오픈 직후는 대기 없음",
+      "best_time": "점심 개점 15분 전 정리권 받기 / 저녁은 예약",
+      "queue_system": "개점 전 가게 안 대기번호 기계에서 정리권 발급",
+      "sellout": null,
+      "basis": "타베로그 후기 2026-11 '점심 시간 대기 필수' / 2026-10 '토 개점 직전 4팀 대기, 카운터라 금방' / 2026-08 '개점 15분 전, 정리권 등록' / 2026-06 '개점과 동시에 갔지만 만석, 정리권' / 2026-10 '화 17:30 대기 없음'",
+      "source": "https://tabelog.com/kr/nara/A2901/A290101/29012436/dtlrvwlst/"
+    },
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012436/",
+    "tabelog_score": 3.61,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "줄서는집",
+      "현지인맛집",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "editor_level": 1,
+    "icon": false,
+    "sources": [
+      "https://tabelog.com/en/nara/A2901/A290101/29012436/",
+      "https://shijin2021.com/",
+      "https://tabelog.com/kr/nara/A2901/A290101/29012436/dtlrvwlst/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
