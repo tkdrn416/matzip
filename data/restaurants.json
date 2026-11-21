@@ -87,6 +87,7 @@
       "basis": "타베로그 후기 2026-10 '개점 40분 전 도착 시 10명, 개점 때 50명 이상', 2026-10 '평일 13시 정각 4팀 대기로 30분', 2026-10 '토 12시 직후 약 30분', 2026-10 '평일 16시쯤 줄 없이 입장' 외 다수",
       "source": "https://tabelog.com/kr/osaka/A2701/A270107/27002949/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270107/27002949/",
     "tabelog_score": 3.55,
     "google_rating": 4.4,
@@ -211,6 +212,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "분연",
+    "smoking_note": "좌석 금연, 별도 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270107/27090232/",
     "tabelog_score": 3.91,
     "google_rating": 4.3,
@@ -289,6 +292,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27057420/",
     "tabelog_score": 4.16,
     "google_rating": 4.6,
@@ -398,6 +402,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27118018/",
     "tabelog_score": 3.97,
     "google_rating": 4.7,
@@ -527,6 +532,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "가게 밖 흡연 공간만 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27077650/",
     "tabelog_score": 3.9,
     "google_rating": 4.5,
@@ -638,6 +645,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27002139/",
     "tabelog_score": 3.66,
     "google_rating": 4.2,
@@ -742,6 +750,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27016897/",
     "tabelog_score": 3.63,
     "google_rating": 4.5,
@@ -868,12 +877,12 @@
       "basis": "타베로그 후기 2026-11 '일요일 13:47 정리권→15:45 착석', 2026-11 '휴일 약 2시간', 2026-11 '평일 12:55 3팀 대기, 15분', 2026-11 '평일 11시 대기 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270102/27003404/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27003404/",
     "tabelog_score": 3.63,
     "google_rating": 4.4,
     "google_reviews": 2462,
     "google_maps_uri": "https://maps.google.com/?cid=8178627238361474125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -983,12 +992,12 @@
       "basis": "타베로그 후기 2026-10 '만석이라 밖에서 10분 정도 기다린 후 입장', 2026-10 '줄 서지 않고 바로 구매', 2026-09 '좁아서 금방 만석'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270106/27001820/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27001820/",
     "tabelog_score": 3.68,
     "google_rating": 4.5,
     "google_reviews": 463,
     "google_maps_uri": "https://maps.google.com/?cid=4215713606756217002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -1095,6 +1104,7 @@
       "basis": "타베로그 후기 2026-10 '약 2시간 줄', 2026-10 '13:30 도착 5번째→15:15 착석, 이후 매진 컷', 2026-09 '14:10 7번째→15:10 착석', 2026-09 '1시간 대기 각오', 2026-10 '14시 오픈 안내문'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270102/27003694/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27003694/",
     "tabelog_score": 3.7,
     "google_rating": 4,
@@ -1212,12 +1222,12 @@
       "basis": "타베로그 후기 2026-11 '12:30 3명 대기, 혼자라 바로 안내', 2026-09 '12시 반 1팀 대기 10분', 2026-09 '개점 5분 전 대기 없음', 2026-07 '13시 대기자 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270102/27015618/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27015618/",
     "tabelog_score": 3.7,
     "google_rating": 4.3,
     "google_reviews": 577,
     "google_maps_uri": "https://maps.google.com/?cid=8174338616631393474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -1335,6 +1345,7 @@
       "basis": "타베로그 후기 2026-09 '정오 전 25명, 45분', 2026-09 '개점 때 30명, 30분', 2026-09 '평일 13시대 30분', 2026-08 '미술관 전시 영향 1시간', 2026-11 '12:30 줄 11명'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270108/27073991/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27073991/",
     "tabelog_score": 3.58,
     "google_rating": 4.3,
@@ -1452,6 +1463,7 @@
       "basis": "타베로그 후기 2026-11 '12시 오픈, 90분 가까이 대기', 2026-10 '12시 지나 1시간', 2026-10 '개점 30분 전 줄 서서 50분', 2026-11 '목 14시 5분', 2026-10 '14시 20분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270106/27012545/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27012545/",
     "tabelog_score": 3.7,
     "google_rating": 4.5,
@@ -1588,12 +1600,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27000015/",
     "tabelog_score": 3.37,
     "google_rating": 4.3,
     "google_reviews": 498,
     "google_maps_uri": "https://maps.google.com/?cid=15477348307454475736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -1717,6 +1729,7 @@
       "basis": "타베로그 후기 2026-11 '일요일 개점 15분 전 53명, 2시간', 2026-11 '평일 10:30 줄→12:30 입장', 2026-11 '13:30 30명, 1시간 조금', 2026-10 '9:40 줄 서서 2번째', 패스트패스 이용 후기 다수. 패스트패스 조건은 TableCheck(mensuke-fastpass) 페이지",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27104891/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27104891/",
     "tabelog_score": 3.92,
     "google_rating": 4.4,
@@ -1831,6 +1844,7 @@
       "basis": "타베로그 후기 2026-10 '9:50 도착 앞에 7명', 2026-10 '10:10 도착 10명, 11:23 권', 2026-09 '10:10 도착 13:44 권', 2026-09 '보통 1시간 정도 기다림', 2026-10 '16시쯤 바로 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27003232/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27003232/",
     "tabelog_score": 3.74,
     "google_rating": 4.6,
@@ -1955,12 +1969,12 @@
       "basis": "타베로그 후기 2026-08 '토요일 낮 15분', 2026-08 '15분 정도, 회전 빠름', 2026-09 '공휴일 16:40 대기 없이', 2026-10 '13:36 선행 1명'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27091193/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27091193/",
     "tabelog_score": 3.59,
     "google_rating": 3.9,
     "google_reviews": 275,
     "google_maps_uri": "https://maps.google.com/?cid=5052839548583722300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -2101,6 +2115,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27067874/",
     "tabelog_score": 3.72,
     "google_rating": 4,
@@ -2224,6 +2239,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "가게 밖 흡연 공간만 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270406/27001123/",
     "tabelog_score": 3.44,
     "google_rating": 3.9,
@@ -2355,6 +2372,7 @@
       "basis": "타베로그 후기 2026-10 '토요일 1시간', 2026-11 '라이브 날 약 1시간', 2026-10 '금 17시 30~40분이라고 함', 2026-10 '개점 30분 전 4번째로 1회전', 2026-11 '12:34 11번째'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27019100/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27019100/",
     "tabelog_score": 3.6,
     "google_rating": 4.7,
@@ -2479,6 +2497,7 @@
       "basis": "타베로그 후기 2026-11 '15명 줄 25분', 2026-11 '20:45 입장, 대기 25분', 2026-11 '평일 14:30 2명 10분', 2026-11 '목 10:45 대기 없음', 2026-10 '10시경 방문 추천', 2026-11 '새벽 2시 대기 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270301/27064584/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27064584/",
     "tabelog_score": 3.75,
     "google_rating": 4.2,
@@ -2574,12 +2593,12 @@
       "basis": "타베로그 후기 2026-09 '1인 3~4분, 14시 전 도착도 2시간, 토요일 3시간', 2026-10 '개점 40분 전 20명, 개점 때 40명, 15:10 차례', 2026-09 '14:20 합류 2시간 10분', 2026-10 '1시간 45분 걸려 구매, 내 뒤 3명에서 품절'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001576/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001576/",
     "tabelog_score": 3.76,
     "google_rating": 4.2,
     "google_reviews": 959,
     "google_maps_uri": "https://maps.google.com/?cid=17193496079202062229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -2732,6 +2751,7 @@
       "basis": "타베로그 후기 2026-11 '오픈 전 8명 대기', 2026-10 '12:50 4명 그룹 뒤 줄, 3분 후 호출', 2026-10 '평일 19:30 줄 없음', 2026-10 '토 11:15 이미 선행 고객'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27072765/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27072765/",
     "tabelog_score": 3.69,
     "google_rating": 4.4,
@@ -2848,6 +2868,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27013511/",
     "tabelog_score": 3.53,
     "google_rating": 3.7,
@@ -2963,6 +2984,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001312/",
     "tabelog_score": 3.48,
     "google_rating": 4.2,
@@ -3084,6 +3106,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001289/",
     "tabelog_score": 3.58,
     "google_rating": 4.3,
@@ -3216,12 +3239,12 @@
       "basis": "타베로그 후기 2026-11 '20분', 2026-10 '주말 30분~1시간', 2026-10 '50~60명 줄', 2026-09 '평일 10시까지 한산', 2026-10 '대표 1명, 1인 6개 제한'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27002336/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27002336/",
     "tabelog_score": 3.52,
     "google_rating": 4.2,
     "google_reviews": 5685,
     "google_maps_uri": "https://maps.google.com/?cid=9250892613011960260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -3337,6 +3360,7 @@
       "basis": "타베로그 후기 2026-11 '14시 45분', 2026-11 '40분', 2026-10 '30분', 2026-09 '평일 19시 30분', 2026-09 '17시부터 줄 서서 앞 5팀, 개점 후 바로 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001278/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001278/",
     "tabelog_score": 3.55,
     "google_rating": 3.8,
@@ -3458,6 +3482,7 @@
       "basis": "타베로그 후기 2026-10 '휴일 낮 10명 줄, 10분도 안 걸림', 2026-09 '점심 15분', 2026-11 '휴일 13:30 줄 없음', 2026-11 '일 13시 5명'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001310/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001310/",
     "tabelog_score": 3.49,
     "google_rating": 4,
@@ -3577,6 +3602,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "2025.4.1부터 전석 금연(건물 내 금연)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001305/",
     "tabelog_score": 3.67,
     "google_rating": 4.9,
@@ -3701,6 +3728,7 @@
       "basis": "타베로그 후기 2026-09 '선행객 없음', 2026-09 '개점 직후 한가', 2026-08 '13:30 줄 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27015375/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27015375/",
     "tabelog_score": 3.58,
     "google_rating": 4.3,
@@ -3816,12 +3844,13 @@
       "basis": "타베로그 후기 2026-10 '12시쯤 줄 서지 않고 입장', 2026-10 '대기 없이, 1층 거의 만석', 2026-10 '빈 자리 있어 바로 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27005758/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "가게 밖 재떨이만 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27005758/",
     "tabelog_score": 3.64,
     "google_rating": 3.8,
     "google_reviews": 1717,
     "google_maps_uri": "https://maps.google.com/?cid=16910750404935257493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -3939,12 +3968,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001511/",
     "tabelog_score": 3.68,
     "google_rating": 4.2,
     "google_reviews": 907,
     "google_maps_uri": "https://maps.google.com/?cid=17566366636701267772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -4084,12 +4113,12 @@
       "basis": "타베로그 후기 2026-11 '개점 30분 전 15명, 20분', 2026-11 '평일 13시 15분', 2026-11 '17:30 줄 없이', 2026-10 '일 19시 전 3팀 10분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001308/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001308/",
     "tabelog_score": 3.68,
     "google_rating": 4.2,
     "google_reviews": 1292,
     "google_maps_uri": "https://maps.google.com/?cid=716891188368770783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -4232,6 +4261,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "분연",
+    "smoking_note": "좌석 금연, 별도 흡연 구역 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001250/",
     "tabelog_score": 3.55,
     "google_rating": 4.1,
@@ -4344,6 +4375,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "분연",
+    "smoking_note": "카운터석은 금연, 그 외 좌석(개실 등) 흡연 여부는 불명확",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001286/",
     "tabelog_score": 4.55,
     "google_rating": 4.6,
@@ -4421,6 +4454,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27123561/",
     "tabelog_score": 3.72,
     "google_rating": 4.9,
@@ -4539,12 +4573,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001538/",
     "tabelog_score": 3.7,
     "google_rating": 4.3,
     "google_reviews": 861,
     "google_maps_uri": "https://maps.google.com/?cid=1383940765665632623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -4684,6 +4718,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27001079/",
     "tabelog_score": 3.75,
     "google_rating": 4.4,
@@ -4803,12 +4838,12 @@
       "basis": "타베로그 후기 2026-08 '상당한 줄, 15분 이내 입장', 2026-08 '10분 만에 입장', 2026-08 '15분 정도', 2026-10 '14시쯤 한산', 2026-10 '여름엔 깜짝 놀랄 만큼 긴 줄'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2705/A270501/27001078/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27001078/",
     "tabelog_score": 3.72,
     "google_rating": 4.4,
     "google_reviews": 2753,
     "google_maps_uri": "https://maps.google.com/?cid=5321635333233198905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -4923,6 +4958,7 @@
       "basis": "타베로그 후기 2026-11 '15명 30분', 2026-11 '평일 12:30 16~17명, 30분', 2026-10 '13시 22명, 50분', 2026-10 '20팀, 90분 코스', 2026-11 '개점 30분 전 8번째로 1회전'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27002763/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27002763/",
     "tabelog_score": 3.72,
     "google_rating": 4.1,
@@ -5054,6 +5090,7 @@
       "basis": "타베로그 후기 2026-11 '이름 적고 약 30분', 2026-11 '1시간 정도', 2026-11 '15:30부터 기록 시작, 17:00 오픈', 2026-10 '10시쯤 기입, 12시 개점 즉시 입장', 2026-10 '평일 21시 5팀 10~15분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27002665/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27002665/",
     "tabelog_score": 3.7,
     "google_rating": 4.2,
@@ -5195,6 +5232,7 @@
       "basis": "타베로그 후기 2026-11 '일 12:30 8명, 1시간', 2026-11 '대기 1명 10분', 2026-11 '3명 5분', 2026-11 '개점 20분 전 1번'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27084754/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27084754/",
     "tabelog_score": 3.73,
     "google_rating": 3.8,
@@ -5322,6 +5360,7 @@
       "basis": "타베로그 후기 2026-11 '줄 있었지만 회전 빠름', 2026-10 '15:30 줄 있었지만 대기 짧음', 2026-10 '대기 시간 짧음', 2026-10 '엄청 줄 설 때도, 한산할 때도 있음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27002320/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27002320/",
     "tabelog_score": 3.49,
     "google_rating": 4.3,
@@ -5449,6 +5488,8 @@
       "basis": "타베로그 후기 2026-09 '주말 오픈 6번째, LINE 알림, 30분', 2026-09 '정리권 15팀, 20분', 2026-09 '토 13:30 10명 대기', 2026-11 '12시 지나 대기 없음', 2026-10 '20시 넘어 대기 없음'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001274/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
+    "smoking_note": "항목 값은 '금연'이나 메모상 주말·공휴일만 전석 금연 → 평일엔 일부 흡연 가능성 (구 정보일 수 있음)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001274/",
     "tabelog_score": 3.46,
     "google_rating": 4.2,
@@ -5588,6 +5629,8 @@
       "basis": "타베로그 후기 2026-09 '11:30 8명, 45분', 2026-10 '평일 12:30 1명 대기', 2026-10 '13시 넘어도 줄', 2026-11 '11:30 바로 입장', 2026-10 '토 오후 대기 없음'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270201/27001834/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
+    "smoking_note": "항목 값은 '금연'이나 메모상 15시까지만 전석 금연, 1층은 15시 이후 흡연 가능으로 읽힘 (구 정보일 수 있음)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27001834/",
     "tabelog_score": 3.49,
     "google_rating": 4.2,
@@ -5714,12 +5757,12 @@
       "basis": "타베로그 후기 2026-09 '11:45 1층 만석, 2층에 바로 착석', 2026-11 '11시 혼잡해도 대기 없음', 2026-10 '평일 16:30 선객 없음', 2026-11 '3시~4시 문 닫음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270201/27000931/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000931/",
     "tabelog_score": 3.66,
     "google_rating": 4.2,
     "google_reviews": 866,
     "google_maps_uri": "https://maps.google.com/?cid=13100384311338914887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -5832,6 +5875,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000411/",
     "tabelog_score": 4.23,
     "google_rating": 4.3,
@@ -5949,6 +5993,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000889/",
     "tabelog_score": 3.67,
     "google_rating": 4.4,
@@ -6066,6 +6111,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000578/",
     "tabelog_score": 3.68,
     "google_rating": 3.8,
@@ -6193,6 +6239,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27134224/",
     "tabelog_score": 3.72,
     "google_rating": 4.8,
@@ -6314,6 +6361,7 @@
       "basis": "타베로그 후기 2026-09 '20명 줄, 1시간', 2026-09 '14:30 15분', 2026-09 '토 17:40 4팀 15분', 2026-10 '일 10:30 줄 없음, 나올 때 20명'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27004260/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27004260/",
     "tabelog_score": 3.48,
     "google_rating": 4.1,
@@ -6462,12 +6510,12 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27001105/",
     "tabelog_score": 3.58,
     "google_rating": 4.3,
     "google_reviews": 590,
     "google_maps_uri": "https://maps.google.com/?cid=18159818243211090275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -6602,6 +6650,7 @@
       "basis": "타베로그 후기 2026-10 '약 30분 대기, 도착부터 먹기까지 35분', 2026-11 '몇 명 줄 10분', 2026-10 '개점 30분 전 1번', 2026-10 '14시 지나 줄 없음', 2026-10 '19시 아무도 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27005006/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27005006/",
     "tabelog_score": 3.71,
     "google_rating": 3.9,
@@ -6720,6 +6769,7 @@
       "basis": "타베로그 후기 2026-10 '일 11시 45분', 2026-10 '15시 전 줄 60분', 2026-10 '약 1시간', 2026-10 '항상 20분', 2026-10 '금 14시 20분', 2026-10 '평일 19:10 15분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27000443/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27000443/",
     "tabelog_score": 3.49,
     "google_rating": 4,
@@ -6804,6 +6854,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27000561/",
     "tabelog_score": 3.73,
     "google_rating": 4.4,
@@ -6922,6 +6973,7 @@
       "basis": "타베로그 후기 2026-11 '대기 약 30분', 2026-11 '18시 만석 20분', 2026-11 '5팀 10분', 2026-11 '16:30 5분', 2026-10 '10:40 20명 이상, 1회전'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270205/27000564/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27000564/",
     "tabelog_score": 3.69,
     "google_rating": 4.1,
@@ -7040,6 +7092,7 @@
       "basis": "타베로그 후기 2026-09 '공휴일 11:40 2팀 대기', 2026-11 '토 17:30 즉시 입장', 2026-11 '대기 시간 없음', 2026-09 '14시 바로 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270205/27000560/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27000560/",
     "tabelog_score": 3.67,
     "google_rating": 4.3,
@@ -7184,6 +7237,7 @@
       "basis": "타베로그 후기 2026-10 '토 13시 만석이지만 바로 착석', 2026-11 '아침 바로 입장', 2026-09 '10시 선행객 0', 2026-10 '대기 없이 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270203/27059500/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27059500/",
     "tabelog_score": 3.69,
     "google_rating": 4.2,
@@ -7319,6 +7373,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27081196/",
     "tabelog_score": 3.74,
     "google_rating": 4,
@@ -7443,6 +7498,7 @@
       "basis": "타베로그 후기 2026-11 '아침 8시 반 대기 없이 주문', 2026-11 '토 10시경 한산', 2026-10 '줄 서는 건 필수지만 회전 빠름', 2026-10 '전혀 기다리지 않음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27013772/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27013772/",
     "tabelog_score": 3.76,
     "google_rating": null,
@@ -7568,12 +7624,12 @@
       "basis": "타베로그 후기 2026-11 '15명 30분', 2026-10 '40분', 2026-11 '주말 15:30 5명 10~15분', 2026-10 '휴일 저녁 10명 15분', 2026-10 '저녁 20분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27000322/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27000322/",
     "tabelog_score": 3.69,
     "google_rating": 4.2,
     "google_reviews": 1425,
     "google_maps_uri": "https://maps.google.com/?cid=16710215185814148984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -7689,6 +7745,8 @@
       "basis": "타베로그 후기 2026-11 '점심 전 한산', 2026-10 '금 17시 줄 없이', 2026-09 '10명 줄→15:30 재방문 대기 없음', 2026-10 '토 점심 개점 전 긴 줄'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27001927/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "2025년 4월부터 전석 금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27001927/",
     "tabelog_score": 3.49,
     "google_rating": 3.9,
@@ -7817,6 +7875,7 @@
       "basis": "타베로그 후기 2026-11 '40~50분 + 테이크아웃 계산 후 10분', 2026-11 '일 점심 50분', 2026-11 '약 1시간', 2026-11 '11시 30명, 이트인 120분·테이크아웃 15분', 2026-10 '토 점심 30분', 2026-10 '개점 20분 전 6~7팀'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27012248/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27012248/",
     "tabelog_score": 3.5,
     "google_rating": 4.2,
@@ -7934,6 +7993,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27002290/",
     "tabelog_score": 3.66,
     "google_rating": 4.3,
@@ -8076,12 +8136,13 @@
       "basis": "타베로그 후기 2026-09 '공휴일 낮 30분', 2026-07 '주말 점심엔 줄, 평일은 비교적 없음', 2026-10 '평일 12:15 줄 없음', 2026-08 '11:20 오픈, 11:15에 10팀'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270204/27060944/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
+    "smoking_note": "점심은 전석 금연, 저녁은 흡연 가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270204/27060944/",
     "tabelog_score": 3.64,
     "google_rating": 4.2,
     "google_reviews": 1048,
     "google_maps_uri": "https://maps.google.com/?cid=17362797368194333286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -8200,6 +8261,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27104509/",
     "tabelog_score": 3.75,
     "google_rating": 4.5,
@@ -8316,6 +8378,7 @@
       "basis": "타베로그 후기 2026-10 '일 13:30 40명, 2시간', 2026-10 '토 10시대 1시간', 2026-10 '평일 12:45 6명, 45분', 2026-11 '금 11:30 6명 20분', 2026-11 '개점 30분 전 1회전'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270105/27001084/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270105/27001084/",
     "tabelog_score": 3.83,
     "google_rating": 3.9,
@@ -8445,6 +8508,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27015488/",
     "tabelog_score": 4.34,
     "google_rating": 4.5,
@@ -8586,6 +8650,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27000267/",
     "tabelog_score": 3.62,
     "google_rating": 4.3,
@@ -8718,12 +8783,12 @@
       "basis": "타베로그 후기 2026-11 '비 오는 일 12시 전 5~6팀 30분', 2026-10 '불꽃놀이 날 30분', 2026-10 '19시 4팀(10명)', 2026-10 '평일 18시 전 거의 대기 없음', 2026-11 '11시 전 4팀, 1회전'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270302/27000981/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270302/27000981/",
     "tabelog_score": 3.54,
     "google_rating": 4.2,
     "google_reviews": 1838,
     "google_maps_uri": "https://maps.google.com/?cid=17140013327103955808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -8848,7 +8913,6 @@
     "google_rating": 4.3,
     "google_reviews": 1442,
     "google_maps_uri": "https://maps.google.com/?cid=8498471591387799166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -8963,6 +9027,7 @@
       "basis": "타베로그 후기 2026-11 '토 10:40 줄→11:00 입장', 2026-08 '10:30 5명 30분', 2026-08 '평일 30분', 2026-08 '11:30 1시간', 2026-10 '평일 11:00 대기 없음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270108/27002698/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27002698/",
     "tabelog_score": 3.6,
     "google_rating": 4.4,
@@ -9085,6 +9150,7 @@
       "basis": "타베로그 후기 2026-10 '개점 30분 전 도착, 1시간 15분', 2026-10 '일 10:30 1시간', 2026-11 '40분', 2026-11 '15시 5팀 15~20분', 2026-10 '평일 점심 2분, 금·토 저녁 줄 길다(직원)'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270103/27002205/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002205/",
     "tabelog_score": 3.57,
     "google_rating": 4.2,
@@ -9207,6 +9273,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002291/",
     "tabelog_score": 3.63,
     "google_rating": 4.3,
@@ -9333,6 +9400,7 @@
       "basis": "타베로그 후기 2026-10 '일 11시 25명, 45분', 2026-09 '공휴일 11:30 12팀', 2026-09 '12시 10명 15분', 2026-10 '12:30 5~6팀 15분', 2026-09 '15시 방문 추천', 2026-11 '대표 대기 가능'(1~2페이지)",
       "source": "https://tabelog.com/kr/osaka/A2701/A270103/27002204/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002204/",
     "tabelog_score": 3.65,
     "google_rating": 4.2,
@@ -9447,6 +9515,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27000671/",
     "tabelog_score": 3.6,
     "google_rating": 4.4,
@@ -9580,6 +9649,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
+    "smoking_note": "가게 밖에 흡연 장소 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27040987/",
     "tabelog_score": 3.72,
     "google_rating": 4.5,
@@ -9712,6 +9783,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002221/",
     "tabelog_score": 3.55,
     "google_rating": 4,
@@ -9838,6 +9910,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "작은 정원에 흡연 공간 있음(실내 금연)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27093282/",
     "tabelog_score": 3.73,
     "google_rating": 4.5,
@@ -9978,6 +10052,7 @@
       "basis": "타베로그 후기 2026-11 '약 45분', 2026-11 '토 30분 전 25명, 11:50 착석', 2026-11 '12시 12명 12:30 입장', 2026-11 '평일 13:30 10명 30분', 2026-11 '평일 18:30 2~3명 10분'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270108/27091454/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27091454/",
     "tabelog_score": 3.76,
     "google_rating": 4.4,
@@ -10093,6 +10168,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27001234/",
     "tabelog_score": 3.67,
     "google_rating": 4.1,
@@ -10212,6 +10288,7 @@
       "basis": "타베로그 후기 2026-10 '세 팀 정도 대기 중', 2026-10 '토요일 11시 40분경 대기 없음', 2026-09 '대기하는 사람이 없었다', 2026-11·09 '아베카와·시가라키 매진'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270108/27003802/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27003802/",
     "tabelog_score": 3.71,
     "google_rating": 4.3,
@@ -10323,6 +10400,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27013496/",
     "tabelog_score": 3.56,
     "google_rating": 4.5,
@@ -10438,6 +10516,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27083055/",
     "tabelog_score": 3.45,
     "google_rating": 4,
@@ -10573,6 +10652,8 @@
       "basis": "타베로그 후기 2026-09 '9시에 도착했을 때는 이미 북적', 2026-10 '내부는 만석, 가게 앞 테이블에서', 2026-11 '저녁 5시, 타이밍 좋게 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27045066/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
+    "smoking_note": "흡연 가능하나 재떨이 없음(재·꽁초는 발밑에)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27045066/",
     "tabelog_score": 3.49,
     "google_rating": 4.4,
@@ -10703,6 +10784,7 @@
       "basis": "타베로그 후기 2026-11 '약 1시간의 대기줄', 2026-07 일요일 '30분 정도 줄을 서서', 2026-08 '약 30분 정도 기다렸고', 2026-09 '10명 정도가 기다리고', 2026-09 '평일 14시가 지나서 갔는데 줄'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27000442/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27000442/",
     "tabelog_score": 3.49,
     "google_rating": 3.9,
@@ -10842,6 +10924,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27103780/",
     "tabelog_score": 3.59,
     "google_rating": 4.4,
@@ -10967,6 +11050,7 @@
       "basis": "타베로그 후기 2026-10 '16:20에 도착했더니 마지막 2명으로 세이프', 2026-10 '16시에는 첫 번째 순서의 12명이', 2026-09 '15시 반 도착 8번째, 2시간 가까이 기다렸지만', 2026-09 '평일에는 1시간 전에 줄', 2026-09 '12석×2회전'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270301/27012977/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27012977/",
     "tabelog_score": 4.02,
     "google_rating": 4.4,
@@ -11119,6 +11203,7 @@
       "basis": "타베로그 후기 2026-11 '앞에 한 명이 대기, 5분 정도 기다린 후', 2026-11 '선행 손님 3명', 2026-11 '개점 5분 전에 줄을 서서 첫 번째', 2026-11 '평일 오후에 대기 없이', 2026-11 '네기 비프 카레는 매진'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270301/27012792/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270301/27012792/",
     "tabelog_score": 3.69,
     "google_rating": 4,
@@ -11235,6 +11320,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27000401/",
     "tabelog_score": 3.67,
     "google_rating": 4.4,
@@ -11342,6 +11428,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
+    "smoking_note": "매장 밖에 흡연 공간 있음(실내 전면 금연)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27050565/",
     "tabelog_score": 3.71,
     "google_rating": 4.4,
@@ -11478,6 +11566,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27104034/",
     "tabelog_score": 3.59,
     "google_rating": 4.4,
@@ -11593,12 +11682,12 @@
       "basis": "타베로그 후기 최근 20건(2026-03~11) 중 대기 언급 거의 없음, 2026-05 '선행 고객이 2팀'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27012983/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27012983/",
     "tabelog_score": 3.52,
     "google_rating": 4.1,
     "google_reviews": 460,
     "google_maps_uri": "https://maps.google.com/?cid=15123496326032779613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -11717,6 +11806,7 @@
       "basis": "타베로그 후기 2026-10 '토요일 11시 이미 10명 정도 줄', 2026-10 연휴 '15분 정도 줄을 서서', '3팀 정도 앞에 있어 15분', 2026-11 '선행객 3명', '회전이 빨라서 대기 시간이 짧게', 2026-10 평일 18시 반 '대기 없이'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27112089/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27112089/",
     "tabelog_score": 3.71,
     "google_rating": 4.2,
@@ -11838,6 +11928,7 @@
       "basis": "타베로그 후기 2026-11 '몇 명의 줄이 있어서 줄을 섰다', 2026-08 '상당한 줄', 2026-09 실버위크 점심 '줄 서지 않고 입장', 2026-07 평일 17:30 '대기 없음', 2026-10 '밖에서 줄을 서서 구매하고 가게 안에서 먹습니다'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001483/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001483/",
     "tabelog_score": 3.49,
     "google_rating": 3.9,
@@ -11966,6 +12057,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "가게 밖에 흡연소 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270402/27085855/",
     "tabelog_score": 3.57,
     "google_rating": 4.5,
@@ -12076,6 +12169,7 @@
       "basis": "타베로그 후기 2026-06 '줄이 약 5명 정도', 2026-07 '대기 4명', 2026-08 '딱 만석, 바로 웨이팅이 생겼다', 2026-03 '식권 판매기 앞에 4명', 2026-04 '점심 시간 지난 후 바로 앉음'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270402/27081824/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270402/27081824/",
     "tabelog_score": 3.6,
     "google_rating": 4.2,
@@ -12184,6 +12278,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27094403/",
     "tabelog_score": 3.63,
     "google_rating": 3.9,
@@ -12317,12 +12412,12 @@
       "basis": "타베로그 후기 2026-10 '꽤 긴 줄이어서 30~40분 정도 기다린', 2026-10 '11:10경부터 줄을 서기 시작해 두 번째로 입장', 2026-11 '13시 전쯤 7명이 줄', 2026-10 '항상 줄이 있다, 매진되는 날도'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270203/27066977/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27066977/",
     "tabelog_score": 3.81,
     "google_rating": 4.1,
     "google_reviews": 683,
     "google_maps_uri": "https://maps.google.com/?cid=4872431967231017423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -12437,12 +12532,12 @@
       "basis": "타베로그 후기 2026-10 '여전히 만석, 잠시 줄을 서서 가게에 들어갔습니다', 2026-10 '줄 서지 않고 들어갈 수 있었습니다', 2026-11 '항상 줄 서 있는 것이 궁금했던'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27017860/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27017860/",
     "tabelog_score": 3.63,
     "google_rating": 4,
     "google_reviews": 867,
     "google_maps_uri": "https://maps.google.com/?cid=573427284082764967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -12552,6 +12647,7 @@
       "basis": "타베로그 후기 2026-10 '3연휴라 줄이 서 있었습니다', 2026-09 '약간 줄이 있었지만 바로 살 수 있었다', 2026-09 '개점과 동시에 줄을 섰지만 순조롭게 구매', 2026-08 '평일 16:00 대기 없이'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270206/27011377/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27011377/",
     "tabelog_score": 3.49,
     "google_rating": 4.1,
@@ -12676,6 +12772,7 @@
       "basis": "타베로그 후기 2026-08 '5명 정도 줄이 서 있었어요', 2026-08 '대기 시간 없이', 2026-11 '평일 오후라 그런지 줄이 없었어요'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270203/27002750/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27002750/",
     "tabelog_score": 3.49,
     "google_rating": 3.9,
@@ -12784,6 +12881,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
+    "smoking_note": "가게 밖에 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27011721/",
     "tabelog_score": 3.66,
     "google_rating": 4.5,
@@ -12923,6 +13022,7 @@
       "basis": "타베로그 후기 2026-11 '30분 정도 줄을 섰지만', 2026-11 '20분 동안 밖에서 기다렸습니다', 2026-11 '10명이 대기 중', 2026-11 '오픈 전부터 줄', 2026-11 '토요일 20시 30분 1팀 대기'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270104/27092793/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27092793/",
     "tabelog_score": 3.68,
     "google_rating": 4.1,
@@ -13040,6 +13140,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27000479/",
     "tabelog_score": 3.61,
     "google_rating": 4.5,
@@ -13162,6 +13263,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27135358/",
     "tabelog_score": 3.59,
     "google_rating": 4.9,
@@ -13308,6 +13410,7 @@
       "basis": "타베로그 후기 2026-10 '카운터 10석 정도라서 줄 서는 것은 필수', 2026-10 '선행 고객 몇 분', 2026-10 '평일 13시가 지나서 줄이 없었고', 2026-10 '평일 개점 20분 전 줄 0명', 2026-11 '19시 넘어 대기 없이 입장'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27080479/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27080479/",
     "tabelog_score": 3.71,
     "google_rating": 3.5,
@@ -13427,6 +13530,7 @@
       "basis": "타베로그 후기 2026-11 '12명 정도 줄을 서서… 30분 조금 넘어서 덮밥이 나왔다', 2026-11 '20분 정도 기다린 후 입장', 2026-10 '15분 전에도 7명이 줄', 2026-11 '13시 반에 대기 없이', 2026-11 '평일 14시가 지나서 조금 줄을 서서'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27052204/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27052204/",
     "tabelog_score": 3.77,
     "google_rating": 4,
@@ -13533,6 +13637,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27092965/",
     "tabelog_score": 3.62,
     "google_rating": 4.6,
@@ -13649,12 +13754,12 @@
       "basis": "타베로그 후기 2026-11 '14:40 도착, 대기줄은 없었고', 2026-11 '대기 시간 없이 바로 안내', 2026-10 '이트인 자리가 만석이라 테이크아웃'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270101/27011966/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27011966/",
     "tabelog_score": 3.7,
     "google_rating": 4,
     "google_reviews": 552,
     "google_maps_uri": "https://maps.google.com/?cid=10298230041858614051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -13757,6 +13862,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27000011/",
     "tabelog_score": 3.5,
     "google_rating": 3.9,
@@ -13888,6 +13994,7 @@
       "basis": "타베로그 후기 2026-02 '토요일 19시, 전날 예약이었지만 자리가 있어서' / 2025-08 '예약 없이 들어갈 수 있어서 운이 좋았다'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27001300/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001300/",
     "tabelog_score": 3.61,
     "google_rating": 4.6,
@@ -14068,6 +14175,7 @@
       "basis": "타베로그 후기 2026-09 '평일 10:00 1명 예약, 도착하니 만석… 예약이 안 찼으면 그냥 들어갈 수 있다고 적혀 있었지만 예약하길 잘했다' / 2026-08 '예약으로 만석'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27156304/",
     "tabelog_score": 3.58,
     "google_rating": 5,
@@ -14194,12 +14302,12 @@
       "basis": "타베로그 후기 2026-10 '7:30 도착, 개점 20분 전부터 줄' / '평일 8:00 7명 줄' / '토 12:00 대기 3팀, 10분' / '평일 13시 밖에 4팀' / 2026-11 '토 10시 6명 대기, 평일 10시 대기 없이' / '개점 5분 만에 만석'",
       "source": "https://tabelog.com/kr/osaka/A2705/A270501/27134058/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2705/A270501/27134058/",
     "tabelog_score": 3.61,
     "google_rating": 4.4,
     "google_reviews": 467,
     "google_maps_uri": "https://maps.google.com/?cid=5841713953314609121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -14321,6 +14429,7 @@
       "basis": "타베로그 후기 2026-08 '17시 시작했지만 18시까지 만석' / 2026-07 '여러 번 예약 전화했지만 만석이라 쉽게 못 갔다' / 2026-05 '여전히 대성황, 예약하고 가야 할 가게' / 2026-10 '평일 18시 카운터 예약 가능'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270306/27032294/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270306/27032294/",
     "tabelog_score": 3.63,
     "google_rating": 4.4,
@@ -14447,6 +14556,7 @@
       "basis": "타베로그 후기 2026-09 '시기적으로 예약이 비교적 쉬웠고 매장에 빈자리' / 2026-11 '11월 6일 게 해금, 일요일 저녁 예약하고 방문'",
       "source": "https://tabelog.com/kr/osaka/A2701/A270302/27009857/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270302/27009857/",
     "tabelog_score": 3.58,
     "google_rating": 4.1,
@@ -14569,6 +14679,7 @@
       "basis": "타베로그 후기 2026-08 토요일 '예약 없이 갔기 때문에 1시간 이상 기다렸다… 20시 30분쯤에는 대기열 없음', 2026-09 토요일 '30분 이상 기다려야 한다고', 2026-11 '16:50 도착 13번째, 1순위 입장', 2026-09 '개점 30분 전에 갔지만 첫 번째 순서에 못 들어감', 2026-10 '평일 18시 전 5분 정도 대기'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260302/26001072/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26001072/",
     "tabelog_score": 3.7,
     "google_rating": 4.2,
@@ -14686,6 +14797,7 @@
       "basis": "타베로그 후기 2026-10 '가게 앞에 대기하는 사람이 없어서 바로 카운터로 안내', 2026-05 공휴일 저녁 '줄 서지 않고 입장… 합석', 2026-05 '낮부터 북적이는 인기 가게'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26000665/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000665/",
     "tabelog_score": 3.49,
     "google_rating": 4,
@@ -14825,6 +14937,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26001330/",
     "tabelog_score": 3.49,
     "google_rating": 3.8,
@@ -14970,6 +15083,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000766/",
     "tabelog_score": 3.59,
     "google_rating": 4.3,
@@ -15118,6 +15232,7 @@
       "basis": "타베로그 후기 2026-11 '평일 10:30에 정리권 대기 10명', 2026-09 '정리권 배포 시작 대기(10:30) 줄이 15~20명', 2026-09 '10시 15분쯤 줄 서고 11시 10분 회차', 2026-09 '16시부터 정리권 발행', 2026-09 '13시 10분에 돌아갔지만 10분 정도 기다림', 2026-10 '정리권 없이 30분 대기'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26032368/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26032368/",
     "tabelog_score": 3.71,
     "google_rating": 4.4,
@@ -15238,6 +15353,7 @@
       "basis": "타베로그 후기 2026-11 '주말 아침 8시 반에 가니 대기열 8번째, 25분 만에 입장', 2026-10 '10시 전 도착 7팀 정도 줄, 20분 정도 기다려서', 2026-10 '지난번에는 20~30분 정도 줄', 2026-10 '평일 낮에는 그렇게 줄 서지 않고'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26000647/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000647/",
     "tabelog_score": 3.71,
     "google_rating": 4.3,
@@ -15359,6 +15475,7 @@
       "basis": "타베로그 후기 2026-10 '15시쯤 3팀 대기, 생각보다 오래 기다리지 않고 입장', 2026-10 '16시가 지나서 방문했더니 줄이 있어서 피했다', 2026-10 '평일 19시가 지나 대기 없이', 2026-10 '드물게 줄 서지 않았다'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26000900/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000900/",
     "tabelog_score": 3.73,
     "google_rating": 4.2,
@@ -15496,6 +15613,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26000943/",
     "tabelog_score": 3.66,
     "google_rating": 4.5,
@@ -15613,6 +15731,7 @@
       "basis": "타베로그 후기 2026-11 '약 30명이 줄 서 있었지만 20분 정도 만에 입장', 2026-11 휴일 점심 '15명 정도 줄 서 있었지만 생각보다 빨리', 2026-11 일요일 13시 반 '8번째, 15분 후 입장', 2026-10 '15명 줄, 20분도 안 되어', 2026-11 평일 아침 '바로 앉을 수 있었다'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26000791/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000791/",
     "tabelog_score": 3.59,
     "google_rating": 4,
@@ -15730,6 +15849,7 @@
       "basis": "타베로그 후기 2026-11 '휴일 11:20경에 1시간 대기', 2026-11 '23시가 넘었을 때 40분', 2026-10 토요일 '14:00 외부 대기 30명 → 15:15 착석', 2026-11 '7시 조금 지나 20명, 앉기까지 약 50분', 2026-10 '월요일 9:00경 줄 2명, 10분도 안 되어'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26000873/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000873/",
     "tabelog_score": 3.73,
     "google_rating": 4,
@@ -15846,12 +15966,13 @@
       "basis": "타베로그 후기 2026-10 금요일 16:30경 '대기 손님은 1명이고 저도 줄을 섭니다', 2026-10 '카운터는 만석', 2026-09 '오픈 시간 10분 전에 도착했더니 두 명이…'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26000797/dtlrvwlst/"
     },
+    "smoking": "분연",
+    "smoking_note": "카운터 안쪽에만 금연석 — 같은 공간에 흡연석이 있을 수 있음",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000797/",
     "tabelog_score": 3.65,
     "google_rating": 3.4,
     "google_reviews": 471,
     "google_maps_uri": "https://maps.google.com/?cid=11327509786405904139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -16007,6 +16128,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "분연",
+    "smoking_note": "분연(흡연 구역 위치 등 상세 미기재)",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001346/",
     "tabelog_score": 4.1,
     "google_rating": 4.4,
@@ -16134,6 +16257,7 @@
       "basis": "타베로그 후기 2026-08 '토요일 개점 10분 전에 줄을 섰습니다. 가장 먼저 입장', 2026-09 '개점 시간 전에 줄을 서서 들어갔다', 2026-09 '좌석 수가 적기 때문에'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26000585/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000585/",
     "tabelog_score": 3.68,
     "google_rating": 4.2,
@@ -16252,12 +16376,12 @@
       "basis": "타베로그 후기 2026-11 '대기 손님 1팀, 이후 항상 3팀 이상 줄', 2026-11 '10분 정도 기다려서 입장', 2026-11 '3분 정도 기다려서', 2026-10 '3시쯤 방문하니 역시나 붐볐다', 2026-10 '평일 12:15 줄 없음'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26001887/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001887/",
     "tabelog_score": 3.78,
     "google_rating": 4.4,
     "google_reviews": 2106,
     "google_maps_uri": "https://maps.google.com/?cid=15475411711944997808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -16382,6 +16506,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000252/",
     "tabelog_score": 3.54,
     "google_rating": 4.1,
@@ -16501,6 +16626,7 @@
       "basis": "타베로그 후기 2026-09 공휴일 14시경 '입장까지 약 30분', 2026-09 평일 14:00 '약 12분 기다린 후', 2026-10 '평일 점심시간 후 10~15분', 2026-09 연휴 '11시 15분부터 줄… 11시 45분쯤에는 대행렬', 2026-11 '입장까지 약 30분', 2026-10 '정리권을 받을 필요 없이'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26002075/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26002075/",
     "tabelog_score": 3.76,
     "google_rating": null,
@@ -16612,12 +16738,12 @@
       "basis": "타베로그 후기 2026-11 '11:00 대기 시간 0', 2026-08 '거의 만석이었지만 입장할 수 있었다', 2026-07 '점심 시간이라 그런지 만석'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26001629/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001629/",
     "tabelog_score": 3.49,
     "google_rating": 4,
     "google_reviews": 1646,
     "google_maps_uri": "https://maps.google.com/?cid=16376875927891201901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -16731,12 +16857,12 @@
       "basis": "타베로그 후기 2026-04 '보통은 계단 아래까지 줄이 서 있지만 이날은 줄 서지 않고', 2026-04 '요일이나 시간에 따라 계단 아래까지 줄', 2026-07 일요일 14시 '줄 서지 않고 앉음', 2026-08 토요일 14시 '줄 없이 앉았으나 귀가 때 줄', 2026-05 '15시쯤 꽤 붐볐다', 2026-07 '17시 반 한산'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26000408/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000408/",
     "tabelog_score": 3.54,
     "google_rating": 4.4,
     "google_reviews": 2795,
     "google_maps_uri": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -16841,6 +16967,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "분연",
+    "smoking_note": "분연(흡연 구역 위치 등 상세 미기재)",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001625/",
     "tabelog_score": 3.49,
     "google_rating": 3.9,
@@ -16967,6 +17095,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001870/",
     "tabelog_score": 3.75,
     "google_rating": 4.4,
@@ -17082,12 +17211,12 @@
       "basis": "타베로그 후기 2026-09 '개점과 동시에 입장, 바로 들어갈 수 있었다', 2026-09 휴일 점심 '조금만 기다리면 들어갈 수 있었다', 2026-08 '밥이 떨어져 1시간 후에 안내할 수 있다고', 2026-05 '15시 시점에 매진'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26002550/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26002550/",
     "tabelog_score": 3.58,
     "google_rating": 4.2,
     "google_reviews": 1449,
     "google_maps_uri": "https://maps.google.com/?cid=4939091622905446115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -17168,6 +17297,7 @@
       "basis": "타베로그 후기 2026-09 공휴일 13:30 이후 '30분 정도 기다려서 입장', 2026-10 '점심시간에 엄청난 줄', 2026-09 실버위크 15시 '예약 없이 대기 5분', 2026-09 평일 점심 '거의 대기 시간 없이', 2026-09 '당일 아침 20번 정도 전화를 걸어 겨우 연결', 점포 안내 '20~30분 기다릴 수 있음'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26002504/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26002504/",
     "tabelog_score": 3.95,
     "google_rating": 4.4,
@@ -17332,6 +17462,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001012/",
     "tabelog_score": 3.91,
     "google_rating": 4.3,
@@ -17447,12 +17578,12 @@
       "basis": "타베로그 후기 2026-10 '약 30분을 기다렸습니다', 2026-09 '12시가 지나서 긴 줄(약 40분 대기)', 2026-10 '정말 많이 줄을 섰다(약 1시간)', 2026-10 '30분 전인데 이미 골목까지 줄', 2026-09 '점심 시간에 10팀 정도 대기', 2026-08 '일요일 17시 만석, 약 5분 기다려서'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26000009/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000009/",
     "tabelog_score": 3.65,
     "google_rating": 4.3,
     "google_reviews": 1897,
     "google_maps_uri": "https://maps.google.com/?cid=8747067629740610963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -17590,6 +17721,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "매장 밖 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001013/",
     "tabelog_score": 3.5,
     "google_rating": 4.1,
@@ -17704,6 +17837,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26001803/",
     "tabelog_score": 3.58,
     "google_rating": 4.3,
@@ -17823,6 +17957,7 @@
       "basis": "타베로그 후기 2026-11 '11:30부터 줄을 서서 먹기 시작한 것은 13:20', 2026-11 '이미 20명 정도 줄 서 있어 1차에는 들어갈 수 없었다', 2026-10 '30분 정도 기다려서 입장' 2건, 2026-10 '외부 대기 한 팀, 10분 정도'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26000815/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000815/",
     "tabelog_score": 3.52,
     "google_rating": 4.4,
@@ -17943,12 +18078,12 @@
       "basis": "타베로그 후기 2026-11 '9시쯤 줄 서서 10시 반쯤', 2026-10 '8시 45분 도착, 2시간 후에 구매', 2026-11 '13시 전 도착, 구매까지 약 50분', 2026-11 '평일 11시가 지나서 30분 대기, 검은콩 다이후쿠와 몽블랑은 매진', 2026-11 '6시 45분쯤 도착했는데 이미 20명', 2026-11 '사전 전화 예약을 했습니다'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260302/26001520/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26001520/",
     "tabelog_score": 3.83,
     "google_rating": 4.4,
     "google_reviews": 5381,
     "google_maps_uri": "https://maps.google.com/?cid=6582104238265648487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -18061,6 +18196,7 @@
       "basis": "타베로그 후기 2026-10 토요일 15시 이후 '웨이팅 보드에 이름을 적고 15분 정도 기다렸습니다', 2026-08 공휴일 15:00 '입구 대기 장소에 약 15명… 먼저 기록을 하고 호출될 때까지', 2026-08 '평일 아침 개점과 동시에 대기 없이', 2026-11 '대기 없음'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260503/26001872/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260503/26001872/",
     "tabelog_score": 3.85,
     "google_rating": 4.5,
@@ -18214,6 +18350,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26001041/",
     "tabelog_score": 3.59,
     "google_rating": 4.4,
@@ -18330,6 +18467,7 @@
       "basis": "타베로그 후기 2026-09 '휴일 낮이어서 30분 정도 기다렸습니다', 2026-09 '연휴 중 15시 전쯤이어서 조금 줄을 섰습니다', 점포 비고 '만석일 경우 이름 순서 대기제'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260202/26004652/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26004652/",
     "tabelog_score": 3.77,
     "google_rating": 4.3,
@@ -18438,12 +18576,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26003237/",
     "tabelog_score": 3.73,
     "google_rating": 4.5,
     "google_reviews": 2506,
     "google_maps_uri": "https://maps.google.com/?cid=16849004629883831225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -18563,6 +18701,8 @@
       "basis": "타베로그 후기 2026-11 일요일 8시 전 '15명 정도의 줄에 합류(25분 대기)', 2026-09 평일 10:30 '3팀 정도 대기', 2026-11 주말 11시 이후 '우연히 대기열이 없어서', 2026-10 평일 점심 이후 '대기 인원은 없었지만 만석', 2026-10 '낮에는 항상 줄을 지나쳤지만 (아침) 대기 시간 없이'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260202/26000412/dtlrvwlst/"
     },
+    "smoking": "분연",
+    "smoking_note": "건물 안 금연, 흡연 부스 있음. 단 정원(야외) 좌석은 흡연 가능",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26000412/",
     "tabelog_score": 3.54,
     "google_rating": 4.3,
@@ -18703,6 +18843,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26000921/",
     "tabelog_score": 3.71,
     "google_rating": 4.3,
@@ -18843,6 +18984,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26001312/",
     "tabelog_score": 4.01,
     "google_rating": 4.6,
@@ -18970,6 +19112,7 @@
       "basis": "타베로그 후기 2026-10 '예상치 못하게 3시간을 기다렸습니다', 2026-10 '80명이 기다리고 있네요(11시 조금 전)', 2026-09 '평일 오후 2시경에 25팀 대기', 2026-08 '대기 시간은 대략 1시간', 2026-09 '개점 45분 전 15명', 2026-09 '9시 20분 도착 접수 대기', 2026-08 '정리권의 QR 코드로 대기 시간', 2026-08 '테라스 좌석은 대기 없음'",
       "source": "https://tabelog.com/kr/kyoto/A2607/A260701/26000722/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2607/A260701/26000722/",
     "tabelog_score": 3.54,
     "google_rating": 4.4,
@@ -19079,12 +19222,12 @@
       "basis": "타베로그 후기 2026-10 토요일 '7시 50분경부터 줄, 30분 후쯤 입장', 2026-10 평일 13시 '30분 정도 기다렸다', 2026-10 연휴 첫날 개점 직후 '30분 정도 기다린 후', 2026-11 일요일 15시 '줄이 10명 정도, 10분', 2026-11 사진 '개점 전부터 행렬'",
       "source": "https://tabelog.com/kr/kyoto/A2607/A260701/26025957/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2607/A260701/26025957/",
     "tabelog_score": 3.76,
     "google_rating": 4.3,
     "google_reviews": 2831,
     "google_maps_uri": "https://maps.google.com/?cid=4864680728407226694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -19191,6 +19334,7 @@
       "basis": "타베로그 후기 2026-10 '13시 조금 지나서 10명 정도 대기, 20분 정도 기다려서', 2026-10 휴일 '10:20 3명 → 11:00 12명 → 11:10 16명 대기 & 20분 일찍 개점', 2026-10 토요일 15시 '제공까지 30분', 2026-10 평일 16:56 '대기 없음', 2026-11 '주말 18시경 줄 서지 않고'. 최근 20건엔 정리권 언급 없음(가게 앞 줄)",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260303/26017870/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260303/26017870/",
     "tabelog_score": 3.74,
     "google_rating": 4,
@@ -19308,6 +19452,7 @@
       "basis": "타베로그 후기 2026-10 토요일 저녁 '20분 정도 기다린 후', 2026-10 토요일 22:30 '15분 정도 기다려야', 2026-10 13시 '줄은 5팀 정도', 2026-10 평일 20시 '손님이 0명', 2026-11 평일 15시 반 '대기 없이'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260303/26001199/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260303/26001199/",
     "tabelog_score": 3.7,
     "google_rating": 4.1,
@@ -19436,6 +19581,7 @@
       "basis": "타베로그 후기 2026-10 '평일 18시쯤 갔는데 이미 20명은 줄', 2026-08 '기다린 지 20분 정도', 2026-10 연휴 '10:40 도착 2번째', 2026-08 '오픈 15분 전 3번째', 2026-10 '17시쯤 사람이 적어 쉽게 입장', 2026-09 '14시 30분경 기다림 없이'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260302/26000716/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260302/26000716/",
     "tabelog_score": 3.51,
     "google_rating": 4.2,
@@ -19544,6 +19690,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26002592/",
     "tabelog_score": 3.73,
     "google_rating": 4.4,
@@ -19666,6 +19813,7 @@
       "basis": "타베로그 후기 2026-11 '약 40명이 대기 중, 1시간 줄을 서서 13시에', 2026-11 '12시 도착 약 40명, 1시간 정도 기다렸다', 2026-11 '40분 정도 줄, 자리에 앉고 20분', 2026-11 '15시쯤 대기줄이 길지만 회전은 빠름', 2026-10 '13:48 대기 4명, 5분'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260503/26001669/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260503/26001669/",
     "tabelog_score": 3.71,
     "google_rating": 4.5,
@@ -19780,6 +19928,7 @@
       "basis": "타베로그 후기 2026-05 금요일 '5명 정도 줄 서 있었고 15분 정도 기다려서', 2026-11 '점심 시간대 가게 밖에 6, 7팀', 2026-05 연휴 '밖에서 12명이 대기', 2026-09 '개점 15분 전 도착 간신히 1순위', 2026-11 '오픈 조금 전 도착, 개점 시 10명 이상', 2026-05 '14시에 입장'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260601/26015996/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26015996/",
     "tabelog_score": 3.66,
     "google_rating": 4.2,
@@ -19893,6 +20042,7 @@
       "basis": "타베로그 후기 2026-08 '약 20분 정도 기다린 후 입장, 앞에 3팀', 2026-06 '13시쯤 한 분 줄, 15분 정도 밖에서 기다렸다', 2026-07 '토요일 12:00경 외부 대기 3팀', 2026-09 '상당히 줄을 서야 했지만', 2026-10 '개점 전에 가니 아직 여유'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260601/26020260/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26020260/",
     "tabelog_score": 3.72,
     "google_rating": 3.8,
@@ -20021,6 +20171,7 @@
       "basis": "타베로그 후기 2026-11 평일 12시 이후 '긴 줄, 30분 정도 기다려 입장' / 평일 10시 '6명 대기, 10분 정도' / 평일 19시 이후 '20분 이상' / 일 17시 '8명 대기' / 폐점 전 '바로 들어갈 수 있었다'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26036754/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26036754/",
     "tabelog_score": 3.7,
     "google_rating": 4.3,
@@ -20160,6 +20311,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000484/",
     "tabelog_score": 3.66,
     "google_rating": 4.2,
@@ -20308,12 +20460,12 @@
       "basis": "타베로그 후기 2026-10 휴일 19시대 '5팀 대기, 30분 정도 기다려 입장' / 2026-11 '18:40 3번째 발권, 15분 후 이메일 안내' / 점심 '10팀 이상 대기', '대기 7번째(약 15명)' / 16시 오픈 직후 '바로 입장'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26039724/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26039724/",
     "tabelog_score": 3.63,
     "google_rating": 4.4,
     "google_reviews": 140,
     "google_maps_uri": "https://maps.google.com/?cid=12614726155654206038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -20421,6 +20573,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26034294/",
     "tabelog_score": 3.66,
     "google_rating": 4.1,
@@ -20543,6 +20696,7 @@
       "basis": "타베로그 후기 2026-10 토 14시 '8팀 대기, 30분 정도 후 입장' / 공휴일(월) 15:45 '2명 약 25분' / 평일 14시 이후 '10분 정도 기다림'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260101/26030973/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26030973/",
     "tabelog_score": 3.64,
     "google_rating": 4,
@@ -20662,12 +20816,12 @@
       "basis": "타베로그 후기 2026-08 평일 점심 '계란말이 만들기가 끝나 조용' / 2024-04 '니시키 시장 대혼잡'(시장 전체) / 2023-01 토 16시 크림빵 품절 — 가게 줄·대기 시간 언급은 없음",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26004870/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26004870/",
     "tabelog_score": 3.48,
     "google_rating": 3.9,
     "google_reviews": 359,
     "google_maps_uri": "https://maps.google.com/?cid=2551357859586536674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -20769,12 +20923,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26007146/",
     "tabelog_score": 3.69,
     "google_rating": 4.4,
     "google_reviews": 209,
     "google_maps_uri": "https://maps.google.com/?cid=1337754677308815592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -20893,12 +21047,12 @@
       "basis": "타베로그 후기 2026-03 평일 13시 '10명 정도 줄, 20분 기다려 입장' / 2026-01 '4명 대기' / 2025-06 일 13시 이후 '5분 정도 기다림' / 2026-10 16시 이후 '품절이 많아 밥은 없음'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26017337/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26017337/",
     "tabelog_score": 3.52,
     "google_rating": 4.4,
     "google_reviews": 777,
     "google_maps_uri": "https://maps.google.com/?cid=10768125862104098058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -21045,12 +21199,12 @@
       "basis": "타베로그 후기 2026-11 비 오는 날 11:20 '앞에 8명' / 11:00 '대기 3팀' / 평일 10:53 '개점 대기 3명, 외부 대기 4명' / 2026-09 '1팀, 10분 정도' / 2026-10 토 19시 '5분' / 2026-08 '예약만 가능한 날'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260203/26020410/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26020410/",
     "tabelog_score": 3.86,
     "google_rating": 4.5,
     "google_reviews": 495,
     "google_maps_uri": "https://maps.google.com/?cid=7924686316326849924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -21178,6 +21332,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26003254/",
     "tabelog_score": 3.68,
     "google_rating": 4.1,
@@ -21297,12 +21452,12 @@
       "basis": "타베로그 후기 2026-10 점심 13시 전 '가게 앞 4팀 대기' / 2026-09 평일 10:50 '선행객 4명, 후행객 5명' / 2026-11 평일 12시 '대기 없이 바로' / 2026-09 금 10:11 '대기 없음' / '휴일에 줄 서 있는 모습'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260203/26002251/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26002251/",
     "tabelog_score": 3.68,
     "google_rating": 4.4,
     "google_reviews": 919,
     "google_maps_uri": "https://maps.google.com/?cid=4616067572429306878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -21423,6 +21578,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26012281/",
     "tabelog_score": 3.7,
     "google_rating": 4.8,
@@ -21538,12 +21694,12 @@
       "basis": "타베로그 후기 2026-11 화 10:30 '줄 서지 않고 구매' / 2026-10 휴일 12:50 '대기 없이 구매' / 2026-09 '대기 0' / 2026-09 휴일 15시 '10명 10분 정도'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260403/26001309/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26001309/",
     "tabelog_score": 3.62,
     "google_rating": 4,
     "google_reviews": 332,
     "google_maps_uri": "https://maps.google.com/?cid=8050874193580366971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -21662,6 +21818,7 @@
       "basis": "타베로그 후기 2026-05 토 오후 '약 40분을 기다려서' / 2026-09 연휴 16시 '20분 정도' / 2026-07 '오픈 전부터 줄' / 2026-05 '폐점 직전 줄이 끊어지는 타이밍' / 2026-04 '밝은 시간에는 항상 줄'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260403/26025913/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26025913/",
     "tabelog_score": 3.57,
     "google_rating": 4.2,
@@ -21767,6 +21924,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26022843/",
     "tabelog_score": 3.59,
     "google_rating": 4.6,
@@ -21877,12 +22035,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260501/26001539/",
     "tabelog_score": 3.76,
     "google_rating": 4.5,
     "google_reviews": 1019,
     "google_maps_uri": "https://maps.google.com/?cid=9396448236229273815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -22011,6 +22169,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260501/26026908/",
     "tabelog_score": 3.61,
     "google_rating": 4.6,
@@ -22109,12 +22268,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26007559/",
     "tabelog_score": 3.65,
     "google_rating": 4.4,
     "google_reviews": 224,
     "google_maps_uri": "https://maps.google.com/?cid=5442309203631997809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -22236,6 +22395,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "매장 밖 야외 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26027659/",
     "tabelog_score": 3.57,
     "google_rating": 4.2,
@@ -22351,6 +22512,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
+    "smoking_note": "담배 냄새 강한 손님 입점 거절(비흡연자에 우호적)",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26024211/",
     "tabelog_score": 3.64,
     "google_rating": 4.6,
@@ -22481,6 +22644,7 @@
       "basis": "타베로그 후기 2026-09 '예약 없이 30분 정도 기다려 착석' / 공휴일 10:35 '대기 1팀, 정리권 받고 10분' / 2026-06 일 17시 전 '5~10분' / 평일 13:35 '줄 없음 ※정리권 제도' / 예전엔 '아침 7시부터 긴 줄'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26033014/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26033014/",
     "tabelog_score": 3.59,
     "google_rating": 4.3,
@@ -22635,6 +22799,7 @@
       "basis": "타베로그 후기 2026-10 토 20시 '대기 없이 바로' / 평일 저녁 '바로 입장' / 2026-11 토 '코어 타임 피해 대기 없이' / 14:20 '줄 서지 않고' / '몇 명이 줄', '항상 붐비지만 회전 빠름'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260202/26029638/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26029638/",
     "tabelog_score": 3.68,
     "google_rating": 4.3,
@@ -22764,6 +22929,7 @@
       "basis": "타베로그 후기 2026-04 '매우 붐벼 1층 거의 만석, 2층으로 안내' / 2026-07 '21시쯤 입장'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26001266/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26001266/",
     "tabelog_score": 3.51,
     "google_rating": 3.9,
@@ -22880,6 +23046,8 @@
       "basis": "타베로그 후기 2024-11 '작년엔 운 좋게 입장, 이번엔 2개월 전에 예약' / 2025-09 '추천받아 예약하고 방문'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/dtlrvwlst/"
     },
+    "smoking": "분연",
+    "smoking_note": "1층은 안쪽 다다미방 제외 전면 금연 — 안쪽 다다미방은 흡연 가능할 수 있음",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26000698/",
     "tabelog_score": 3.51,
     "google_rating": 4.2,
@@ -23001,6 +23169,7 @@
       "basis": "타베로그 후기 2026-07 '7:30 자리 예약, 만석' / 2026-05 '당연히 만석' / 2026-08 '사전 예약으로 토요일 7시 30분 첫 자리'",
       "source": "https://tabelog.com/kr/kyoto/A2601/A260301/26028888/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26028888/",
     "tabelog_score": 3.69,
     "google_rating": 4.3,
@@ -23113,12 +23282,12 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000106/",
     "tabelog_score": 3.66,
     "google_rating": 4.3,
     "google_reviews": 1953,
     "google_maps_uri": "https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -23270,6 +23439,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "매장 밖 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000884/",
     "tabelog_score": 3.56,
     "google_rating": 4.3,
@@ -23338,6 +23509,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280103/28006575/",
     "tabelog_score": 4.24,
     "google_rating": 3.7,
@@ -23485,6 +23657,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000954/",
     "tabelog_score": 3.62,
     "google_rating": 4.4,
@@ -23634,6 +23807,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28000407/",
     "tabelog_score": 3.49,
     "google_rating": 4.3,
@@ -23756,6 +23930,7 @@
       "basis": "타베로그 후기 2026-11 월 17:30 '10번째, 대기 5분' / 2026-03 아침 '약 20분' / 2025-07 평일 12시 '15분' / 2025-06 일 '개점 10분 전 줄, 약 40분' / 2025-01 주말 '60분 정도'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28000947/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000947/",
     "tabelog_score": 3.68,
     "google_rating": 4.1,
@@ -23904,6 +24079,7 @@
       "basis": "타베로그 후기 2026-07 '대기 시간 40분' / 2026-08 평일 '11:30 개점 전 수십 명 줄' / 2026-10 금 '11:15부터 줄, 개점 시 만석' / 2026-09 비 오는 평일 13시 이후 '대기 시간 없음'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28000923/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000923/",
     "tabelog_score": 3.52,
     "google_rating": 4.1,
@@ -24044,12 +24220,12 @@
       "basis": "타베로그 후기 2026-10 휴일 점심 '1시간 정도 기다려 입장' / '30분 정도' / 2026-09 휴일 14시 전 '10명, 30분' / 개점 전 '10팀 이상, 30분' / 평일 12시 '줄 서지 않고 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28000849/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000849/",
     "tabelog_score": 3.49,
     "google_rating": 4,
     "google_reviews": 729,
     "google_maps_uri": "https://maps.google.com/?cid=13005890997019742431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -24154,12 +24330,12 @@
       "basis": "타베로그 후기 2026-09 비 오는 일 점심 '10분 정도 기다리기만 하면' / 15시 전 '6팀 대기' / 2026-10 '이름을 적고 대기 공간에서 기다리는 스타일' / 일 17시 '대부분 품절'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28002315/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28002315/",
     "tabelog_score": 3.75,
     "google_rating": 4.3,
     "google_reviews": 575,
     "google_maps_uri": "https://maps.google.com/?cid=13374274258373822288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -24261,6 +24437,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
+    "smoking_note": "좌석 흡연 가능(개정 건강증진법 안내 문구 병기, 방문 전 확인 권장)",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000524/",
     "tabelog_score": 3.61,
     "google_rating": 4.3,
@@ -24393,6 +24571,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000847/",
     "tabelog_score": 3.68,
     "google_rating": 4,
@@ -24506,12 +24685,13 @@
       "basis": "타베로그 후기 2026-10 평일 11:45 '계산대 선행 3명, 금방 차례' / 일 13시 '계속 만석이라 기다리는 사람이 있었는데 기다리지 않고 입장' / 토 16시 '테라스 자리도 찰 정도'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28001007/dtlrvwlst/"
     },
+    "smoking": "분연",
+    "smoking_note": "점내 금연, 테라스석만 흡연 가능",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28001007/",
     "tabelog_score": 3.64,
     "google_rating": 4.2,
     "google_reviews": 614,
     "google_maps_uri": "https://maps.google.com/?cid=1384452264188649804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -24624,6 +24804,7 @@
       "basis": "타베로그 후기 2026-09 토 점심 '10명 줄, 20분 후 입장' / 연휴 '20분 줄 서서 매진 직전', 실버위크 '30분 정도' / 2026-11 '약 10분' / 평일 12시 '선행 6명' / 평일 14시 '바로 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28002361/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28002361/",
     "tabelog_score": 3.52,
     "google_rating": 4,
@@ -24738,6 +24919,7 @@
       "basis": "타베로그 후기 2026-11 일 13시 '70% 정도 차 있어 바로 입장' / 2026-10 '만석이었지만 대기 없이' / 2026-09 실버위크 낮 '만석에 2팀 대기' / 주말 아침 '선행 고객 없음'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280102/28000650/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000650/",
     "tabelog_score": 3.67,
     "google_rating": 4.1,
@@ -24873,6 +25055,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000615/",
     "tabelog_score": 3.45,
     "google_rating": 4.6,
@@ -25015,6 +25198,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000962/",
     "tabelog_score": 4.08,
     "google_rating": 3.9,
@@ -25136,6 +25320,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000531/",
     "tabelog_score": 3.69,
     "google_rating": 4.3,
@@ -25275,6 +25460,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "분연",
+    "smoking_note": "표기는 금연이나 '점내 일부 흡연 가능' 메모 있음 — 방문 전 확인 권장",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28032718/",
     "tabelog_score": 3.6,
     "google_rating": 4.8,
@@ -25408,6 +25595,8 @@
       "basis": "타베로그 후기 2026-11 평일 13:55 '선행객 6명' / 2026-10 일 19:30 '선행 3명, 후행 5명' / 평일 13시 '줄 서지 않고 입장' / 심야 '대기 없이' / 일 19시 전 '줄 서지 않고'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28002413/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "가게 밖에 흡연 공간 있음(점내 금연)",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28002413/",
     "tabelog_score": 3.68,
     "google_rating": 4,
@@ -25533,12 +25722,12 @@
       "basis": "타베로그 후기 2026-10 토 '개점 전부터 줄, 개점 15분 후 만석' / 평일 19시 '4명 대기, 15분 정도 기다려 입장' / 금 20:30 '대기 없음' / 2026-11 평일 20시 '바로 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28000977/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000977/",
     "tabelog_score": 3.7,
     "google_rating": 4.2,
     "google_reviews": 318,
     "google_maps_uri": "https://maps.google.com/?cid=15532363971609917817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -25681,6 +25870,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28002105/",
     "tabelog_score": 3.56,
     "google_rating": 4.5,
@@ -25792,12 +25982,12 @@
       "basis": "타베로그 후기 2026-11 14시 '이트인 만석, 테이크아웃은 줄 서지 않고' / 공휴일 8:30 '대기 없이 바로' / 토 15시 '빵은 거의 다 팔림' / 2026-10 일 7:45 '1순위로 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28004087/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28004087/",
     "tabelog_score": 3.75,
     "google_rating": 4.2,
     "google_reviews": 779,
     "google_maps_uri": "https://maps.google.com/?cid=6021112084175066680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -25934,6 +26124,7 @@
       "basis": "타베로그 후기 2026-11 늦은 점심 '대기 8명, 입장까지 30분' / 2026-10 화 개점 '줄 10명 이상, 30분 정도' / 금 저녁 '6명 줄, 30분' / 2026-11 '오픈 전 20명 정도 대기' / 평일 13:30 '거의 줄 서지 않고'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28060647/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28060647/",
     "tabelog_score": 3.68,
     "google_rating": 4.2,
@@ -26060,12 +26251,12 @@
       "basis": "타베로그 후기 2026-11 평일 12시 '선행객도 후행객도 없음' / 일 13:45 '기다리지 않고' / 2026-10 토 점심 '대기 없이' / 휴일 점심 '기다리지 않고' / 토 19:35 '가득 참'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28001625/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28001625/",
     "tabelog_score": 3.7,
     "google_rating": 4.4,
     "google_reviews": 436,
     "google_maps_uri": "https://maps.google.com/?cid=13036946823577508898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -26174,12 +26365,13 @@
       "basis": "타베로그 후기 2026-09 '30분 정도 줄을 서서' / 2026-11 일 10:30 '6팀 정도 대기' / 2026-10 토 11시 '대기 5분, 계산 5분, 수령 10분' / 휴일 '거의 줄 서지 않고'",
       "source": "https://tabelog.com/kr/hyogo/A2803/A280301/28001357/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "테이크아웃 전용",
     "tabelog_url": "https://tabelog.com/hyogo/A2803/A280301/28001357/",
     "tabelog_score": 3.69,
     "google_rating": 4.6,
     "google_reviews": 932,
     "google_maps_uri": "https://maps.google.com/?cid=1501679150619229747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -26293,6 +26485,8 @@
       "basis": "타베로그 후기 2026-11 토 10:20 '1팀 대기, 15분 정도' / 2026-10 15:30 '3팀 대기' / 2026-09 '14:30쯤 가면 쉽게 들어갈 수 있어요' / 2026-08 11:50 '나갈 때 약 10명 줄' / 휴일 '줄이 길었지만 테이크아웃은 훨씬 빨리'",
       "source": "https://tabelog.com/kr/hyogo/A2804/A280401/28000374/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "가게 앞(밖)에 흡연 장소 있음, 점내 금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2804/A280401/28000374/",
     "tabelog_score": 3.49,
     "google_rating": 4.1,
@@ -26426,6 +26620,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2804/A280401/28031883/",
     "tabelog_score": 3.74,
     "google_rating": 4.5,
@@ -26539,12 +26734,12 @@
       "basis": "타베로그 후기 2026-11 일 10시 '15명 정도 줄, 11시 넘어 입장' / 2026-10 '1시간 반을 기다렸다', 일요일 개점 시간 도착 '입장까지 1시간', 연휴 '2시간' 안내 / 2026-09 '90분', '약 1시간' / 2026-08 일 15:30 '12명 줄, 1시간 후 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2804/A280401/28001170/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2804/A280401/28001170/",
     "tabelog_score": 3.7,
     "google_rating": 4.3,
     "google_reviews": 2019,
     "google_maps_uri": "https://maps.google.com/?cid=3762957422048838183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -26645,12 +26840,13 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "테이크아웃 전용",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280105/28001078/",
     "tabelog_score": 3.64,
     "google_rating": 4.3,
     "google_reviews": 285,
     "google_maps_uri": "https://maps.google.com/?cid=12707852374329506465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -26776,6 +26972,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "건물 전체 금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28008517/",
     "tabelog_score": 3.84,
     "google_rating": 4.3,
@@ -26892,12 +27090,12 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28025768/",
     "tabelog_score": 3.59,
     "google_rating": 4.5,
     "google_reviews": 76,
     "google_maps_uri": "https://maps.google.com/?cid=10281105234232242805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -26997,6 +27195,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000918/",
     "tabelog_score": 3.7,
     "google_rating": 4.2,
@@ -27146,6 +27345,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28008218/",
     "tabelog_score": 3.63,
     "google_rating": 4.3,
@@ -27295,6 +27495,7 @@
       "basis": "타베로그 후기 2026-09 비 오는 평일 13시 '5명 줄, 약 40분' / 평일 10:57 '대기 6명, 11시 오픈 시 9명, 만석(1회전)' / 개점 20분 전 '1순위' / 2026-07 토 18시 '대기 없이' / 2026-08 '자리가 비어도 바로 들어갈 수 없었다'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28033392/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28033392/",
     "tabelog_score": 3.68,
     "google_rating": 4.2,
@@ -27409,6 +27610,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "흡연가능",
+    "smoking_note": "좌석 흡연 가능(개정 건강증진법 안내 문구 병기, 방문 전 확인 권장)",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28035865/",
     "tabelog_score": 3.84,
     "google_rating": 4.1,
@@ -27546,6 +27749,7 @@
       "basis": "타베로그 후기 2026-09 '12시쯤 도착, 약 30분 기다려 입장' / '개점 직전부터 줄 서서 1차로 입장' / 2026-10 일 11:20 '줄이 생겼다' / '회전이 빨라 금방 입장'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280101/28000604/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000604/",
     "tabelog_score": 3.53,
     "google_rating": 4.2,
@@ -27655,6 +27859,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28005803/",
     "tabelog_score": 3.6,
     "google_rating": 4.4,
@@ -27776,12 +27981,12 @@
       "basis": "타베로그 후기 20건 중 줄 언급 없음 — 2026-05 '주말이라 가게 안이 가득' / 2026-02 '관광객들로 북적'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280112/28027412/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28027412/",
     "tabelog_score": 3.52,
     "google_rating": 4.4,
     "google_reviews": 160,
     "google_maps_uri": "https://maps.google.com/?cid=5975301367146390682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -27889,12 +28094,12 @@
       "basis": "타베로그 후기 2026-11 '줄이 길었지만 회전이 빨라 그리 오래 기다리지 않음' / 2026-10 토 오후 '6명 줄, 회전 빠름' / 점심 '줄이 짧은 걸 보고' / '대행렬'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280112/28044218/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28044218/",
     "tabelog_score": 3.61,
     "google_rating": 4.2,
     "google_reviews": 726,
     "google_maps_uri": "https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -27977,6 +28182,7 @@
       "basis": "타베로그 후기 2026-10 금 11시 '약 40분 대기' / 2026-09 11:30 '외부 20명, 1시간' / 개점 15분 전 '15명 줄' / 2026-07 '항상 1시간 이상, 이번엔 30분' / 2026-11 토 17시 전 줄, 1회차 못 들고 18시 이후 입장 / 2026-08 '5팀, 15분'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280112/28001997/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28001997/",
     "tabelog_score": 3.54,
     "google_rating": 4.4,
@@ -28120,6 +28326,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "레스토랑 금연, 호텔 내 별도 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28008755/",
     "tabelog_score": 3.59,
     "google_rating": 4.5,
@@ -28264,6 +28472,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28009951/",
     "tabelog_score": 3.64,
     "google_rating": 4.6,
@@ -28403,13 +28612,12 @@
       "basis": "타베로그 후기 2026-10 '토요일 18시 반 만석, 대기 공간에서 15분' / 2026-08 '11:20 도착 이미 5명 대기, 이후에도 줄' / 2026-10 '일요일 13시 대기 2팀' / 2026-09 '토요일 18시 한산, 바로 안내'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280110/28000773/",
     "tabelog_score": 3.5,
     "google_rating": null,
     "google_reviews": null,
     "google_maps_uri": "https://maps.google.com/?cid=160485502234496222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
-    "google_status": null,
     "google_checked_at": "2026-11-21",
     "awards": [
       "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
@@ -28553,6 +28761,7 @@
       "basis": "타베로그 후기 2026-10 '평일이었지만 만석이라 밖에서 기다렸다' / 2026-09 '입장하는 데 조금 기다렸다' / 2026-07 '토요일 11:40 간신히 착석' / 2026-10 '만석, 마침 나가는 사람이 있어 바로'",
       "source": "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280110/28002109/",
     "tabelog_score": 3.5,
     "google_rating": 4.1,
@@ -28674,6 +28883,7 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29008456/",
     "tabelog_score": 3.7,
     "google_rating": 4.2,
@@ -28795,6 +29005,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2903/A290302/29012942/",
     "tabelog_score": 3.41,
     "google_rating": 4.5,
@@ -28924,12 +29135,12 @@
       "basis": "타베로그 후기 2026-11 '아침 일찍 가면 비교적 줄 없이' / 휴일 '기다릴 필요 없었다' / 16시경 '많이 줄 서지 않고 구매' / '대기 시간 없이' / '항상 줄이 서 있지만 잘 돌아간다', '위협적인 회전율'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29000222/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000222/",
     "tabelog_score": 3.72,
     "google_rating": 4.3,
     "google_reviews": 6573,
     "google_maps_uri": "https://maps.google.com/?cid=14561917136571056776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -29050,6 +29261,8 @@
       "basis": "타베로그 후기 2026-11 토 10:30 '이미 13명 줄' / 2026-03 12:50 합류 '1시간 정도 기다려 입장' / 2026-05 '2번째, 30분 정도 기다림' / 2026-09 '10:55 도착 간신히 첫 순서, 제공까지 30분' / 2025-11 금 12시 '약 20명 줄'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29000714/dtlrvwlst/"
     },
+    "smoking": "금연",
+    "smoking_note": "가게 밖(야외)에 흡연 공간 있음, 점내 금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000714/",
     "tabelog_score": 3.48,
     "google_rating": 4.1,
@@ -29191,6 +29404,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29010346/",
     "tabelog_score": 4.28,
     "google_rating": 4.4,
@@ -29323,6 +29537,7 @@
       "basis": "타베로그 후기 2026-04 공휴일 14:21 '대기 0팀' / 2026-02 토 14시 이후 '한산해서 스무스하게 착석' / 2026-07 토 12시 '많은 손님들로 북적' / 2026-04 '영수증 번호로 호출' / 2026-01 '회전도 빨라서'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29000715/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000715/",
     "tabelog_score": 3.53,
     "google_rating": 4.3,
@@ -29504,6 +29719,7 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000026/",
     "tabelog_score": 3.58,
     "google_rating": 4.5,
@@ -29635,6 +29851,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "분연",
+    "smoking_note": "좌석 금연, 별도 흡연 전용실 있음",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012172/",
     "tabelog_score": 3.6,
     "google_rating": 4.7,
@@ -29761,12 +29979,12 @@
       "basis": "타베로그 후기 2026-09 16시 이후 '5팀 줄, 약 30분 후 입장' / 공휴일 11:30 '1팀 대기' / 2026-10 평일 13:30 '대기 없이' / 일 12시 이후 '선행 고객 없음' / 주말 15시 이후 '의외로 한산'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29004169/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29004169/",
     "tabelog_score": 3.65,
     "google_rating": 4.1,
     "google_reviews": 431,
     "google_maps_uri": "https://maps.google.com/?cid=3714503733425422766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -29902,6 +30120,8 @@
     "booking_checked": [
       "타베로그"
     ],
+    "smoking": "금연",
+    "smoking_note": "구내 옥외에 흡연소 있음, 점내 금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29010047/",
     "tabelog_score": 3.66,
     "google_rating": 4.5,
@@ -30006,6 +30226,7 @@
       "basis": "타베로그 후기 2026-08 '이름 적고 1시간 넘게', '1시간 정도 후 순서' / 2026-10 '1시간 반 정도 기...' / 10:20 '보드에 이미 5팀' / 일 10:40 '약 5번째' / 2026-09 일 '많이 기다렸다' / 2026-07 평일 11:30 이후 '12시 전 입장'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29001343/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29001343/",
     "tabelog_score": 3.47,
     "google_rating": 4,
@@ -30136,12 +30357,12 @@
       "basis": "타베로그 후기 2026-10 토 오후 '줄이 조금, 10분 정도 기다려 입장' / 2026-11 15:20 '대기 3명' / 평일 12:30 '1층 만석' / 11:00 '대기 없이 입장' / 타베로그 마토메 '빙수는 한정이라 아침 일찍 줄, 평일은 한산'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29002296/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29002296/",
     "tabelog_score": 3.83,
     "google_rating": 4.3,
     "google_reviews": 603,
     "google_maps_uri": "https://maps.google.com/?cid=13860052895261947675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -30297,6 +30518,7 @@
       "basis": "타베로그 후기 2026-10 '대기시간 1시간 초과' / '10월이 되면 주말에도 예약 없이 이용' / 주말 오후 '대기 시간 없이 바로' / 2026-11 15:30 '예약 안 해도 자리 있음' / 2026-09 'AIR RESERVE, 전날 21시부터 예약'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29011038/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29011038/",
     "tabelog_score": 3.68,
     "google_rating": 4.3,
@@ -30421,6 +30643,7 @@
       "basis": "타베로그 후기 2026-08 토 12시 경 '대기 약 1시간' / 2026-07 토 12시 '45분 정도' / 2026-11 금 13:30 '5팀, 30분 대기' / 2026-06 평일 11시 '정리권 받고 20분' / 2026-10 '개점 전 정리권 1순위' / 2026-07 평일 12시 전 '바로 입장'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29007516/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29007516/",
     "tabelog_score": 3.5,
     "google_rating": 4.3,
@@ -30560,6 +30783,8 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
+    "smoking_note": "입구·가게 앞 포함 전면 금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012612/",
     "tabelog_score": 4.07,
     "google_rating": 4.7,
@@ -30678,6 +30903,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000753/",
     "tabelog_score": 3.32,
     "google_rating": 4.2,
@@ -30797,12 +31023,12 @@
       "basis": "타베로그 후기 2026-11 평일 14시 '5팀 대기, 약 15분' / 2026-10 점심 '만석이라 5분', '10분 정도 줄' / 평일 10:55 '3번째, 줄 조금' / 토 점심 '미리 가서 종이에 이름' / 2026-11 목 17:50 '대기 없음'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29000615/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000615/",
     "tabelog_score": 3.59,
     "google_rating": 4.2,
     "google_reviews": 828,
     "google_maps_uri": "https://maps.google.com/?cid=11017317038791907565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -30913,6 +31139,8 @@
       "basis": "타베로그 후기 2026-10 11:30 '10팀 정도 대기' / 2026-11 일 '13:30이 지나도 여전히 기다려야 할 정도' / 2026-10 15시 이후 '한산해서 바로 앉음'",
       "source": "https://tabelog.com/kr/nara/A2904/A290401/29000407/dtlrvwlst/"
     },
+    "smoking": "흡연가능",
+    "smoking_note": "좌석 흡연 가능(개정 건강증진법 안내 문구 병기, 방문 전 확인 권장)",
     "tabelog_url": "https://tabelog.com/nara/A2904/A290401/29000407/",
     "tabelog_score": 3.39,
     "google_rating": 3.9,
@@ -31044,6 +31272,7 @@
       "basis": "타베로그 후기 2026-11 '만석이라 10분 정도 기다림' / '3명 줄, 다른 가게 둘러보고 오니 줄 없음' / 2026-10 '점심은 혼잡, 저녁은 비교적 한산' / 평일 17:30 '대기 없이 바로'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29014444/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29014444/",
     "tabelog_score": 3.57,
     "google_rating": 4,
@@ -31168,12 +31397,12 @@
       "basis": "타베로그 후기 2026-10 '벚꽃 시즌에는 오픈 전에 줄을 서도 먹을 수 있는 것은 오후 2시가 지나야' / 2026-11 '시간대마다 예약 수가 정해져', '아침 예약 잡으려 사전 방문', '가쓰키리는 마감이 빨라' / 2026-07 평일 13:30 '입장 대기 시간: 없음' / 2026-10 평일 '기다리지 않고'",
       "source": "https://tabelog.com/kr/nara/A2905/A290501/29008812/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2905/A290501/29008812/",
     "tabelog_score": 3.55,
     "google_rating": 4.4,
     "google_reviews": 374,
     "google_maps_uri": "https://maps.google.com/?cid=9412201621940802632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [],
@@ -31286,6 +31515,7 @@
       "basis": "타베로그 후기 2026-04 벚꽃 시즌 '이 시기는 대기 시간이 꽤 있었지만', '순서대로 호출' / 2026-04 점심 전 '줄 서지 않고 입장'",
       "source": "https://tabelog.com/kr/nara/A2905/A290501/29001686/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2905/A290501/29001686/",
     "tabelog_score": 3.48,
     "google_rating": 4.3,
@@ -31404,12 +31634,12 @@
       "basis": "타베로그 후기 2026-08 토 12:30 '이름 적고 1시간 정도, 스마트폰으로 연락' / 2026-10 토 11시 '이미 15번째' / 2026-07 평일 12:20 '30분 정도' / 2026-10 평일 11:10 '앞에 2팀' / 2026-06 '웨이팅 보드는 10시 30분부터'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29012452/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012452/",
     "tabelog_score": 3.75,
     "google_rating": 4.6,
     "google_reviews": 298,
     "google_maps_uri": "https://maps.google.com/?cid=15460432328173692794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-21",
     "awards": [
@@ -31527,6 +31757,7 @@
       "타베로그",
       "핫페퍼"
     ],
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000052/",
     "tabelog_score": 4.02,
     "google_rating": 4,
@@ -31677,6 +31908,7 @@
       "basis": "타베로그 후기 2026-07 '11:30 입장, 예약석으로 거의 만석' / 2026-05 '완전 예약제(직전 예약 가능)' / 2026-05 '오늘은 예약 없이 들어갈 수 있었다' / 2026-04 '예약하고 갔는데 만석이라 잘한 선택'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29001366/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29001366/",
     "tabelog_score": 3.72,
     "google_rating": 4.3,
@@ -31825,6 +32057,7 @@
       "basis": "타베로그 후기 2026-11 '점심 시간 대기 필수' / 2026-10 '토 개점 직전 4팀 대기, 카운터라 금방' / 2026-08 '개점 15분 전, 정리권 등록' / 2026-06 '개점과 동시에 갔지만 만석, 정리권' / 2026-10 '화 17:30 대기 없음'",
       "source": "https://tabelog.com/kr/nara/A2901/A290101/29012436/dtlrvwlst/"
     },
+    "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012436/",
     "tabelog_score": 3.61,
     "google_rating": 4.3,

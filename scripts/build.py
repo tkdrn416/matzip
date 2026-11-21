@@ -91,6 +91,13 @@ BOOKING_TYPES = OrderedDict([
     ("원격줄서기", "🎫"),   # 예약 불가, 앱/웹 번호표로 원격 대기
     ("현장방문", "🚶"),     # 예약 불가, 가서 줄 서기/바로 입장
 ])
+# 흡연 (타베로그 「禁煙・喫煙」 기준)
+SMOKING = OrderedDict([
+    ("금연", "🚭"),       # 전면 금연
+    ("분연", "🚪"),       # 별도 흡연실·구역, 좌석은 금연
+    ("가열식만", "💨"),   # 좌석에서 가열식 담배(아이코스 등)만 허용
+    ("흡연가능", "🚬"),   # 좌석 흡연 가능(시간대별 포함)
+])
 BOOKING_APPS = {
     "구글예약", "타베로그", "TableCheck", "OMAKASE", "핫페퍼", "잇큐", "구루나비", "포켓컨시어지", "byFood",
     "공식사이트", "EPARK", "Airウェイト", "LINE",
@@ -100,7 +107,7 @@ FIELD_ORDER = [
     "id", "name_ko", "name_ja", "name_en", "region", "area", "category", "signature", "why", "reasons", "tips",
     "address_ja", "address_building", "station", "phone", "lat", "lng", "geo",
     "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
-    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "wait",
+    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "wait", "smoking", "smoking_note",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
     "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon",
     "sources", "verified_open", "checked_at",
@@ -199,6 +206,8 @@ def validate(items: list[dict]) -> list[str]:
         score = r.get("tabelog_score")
         if score is not None and not (isinstance(score, (int, float)) and 3.0 <= score <= 5.0):
             errors.append(f"{tag}: tabelog_score 범위 이상 → {score}")
+        if r.get("smoking") not in (*SMOKING, None):
+            errors.append(f"{tag}: smoking '{r.get('smoking')}' 은 {list(SMOKING)} 또는 null")
         wt = r.get("wait")
         if wt is not None and (not isinstance(wt, dict) or wt.get("level") not in (0, 1, 2, 3, None)):
             errors.append(f"{tag}: wait 형식 이상 → {wt}")
@@ -513,6 +522,7 @@ def write_js(items: list[dict], generated: str) -> None:
         "categories": [{"name": k, "emoji": e, "color": c} for k, (e, c) in CATEGORIES.items()],
         "priceLabel": PRICE_LABEL,
         "waitLabel": WAIT_LABEL,
+        "smokingTypes": [{"name": k, "emoji": v} for k, v in SMOKING.items()],
         "bookingTypes": [{"name": k, "emoji": v} for k, v in BOOKING_TYPES.items()],
         "reasonTypes": [{"name": k, "emoji": v} for k, v in REASON_TYPES.items()],
         "levelLabel": LEVEL_LABEL,
@@ -528,7 +538,7 @@ def write_js(items: list[dict], generated: str) -> None:
 
 CSV_COLS = [
     "id", "region", "area", "name_ko", "name_ja", "name_en", "category", "signature", "legend_level",
-    "online_booking", "booking_type", "booking_apps", "booking_urls", "booking_note", "wait", "wait_estimate", "wait_best_time", "reasons",
+    "online_booking", "booking_type", "booking_apps", "booking_urls", "booking_note", "smoking", "smoking_note", "wait", "wait_estimate", "wait_best_time", "reasons",
     "tabelog_score", "google_rating", "google_reviews",
     "price_level", "price_note", "hours", "closed", "reservation", "awards", "youtube",
     "tags", "why", "tips", "address_ja", "address_building", "station", "phone", "lat", "lng",
@@ -545,6 +555,7 @@ def row_for_csv(r: dict) -> dict:
         "price_level": r.get("price_level") or "", "price_note": r.get("price_note") or "",
         "hours": r.get("hours") or "", "closed": r.get("closed") or "", "reservation": r.get("reservation") or "",
         "online_booking": online_label(r), "reasons": reasons_text(r),
+        "smoking": r.get("smoking") or "", "smoking_note": r.get("smoking_note") or "",
         "wait": WAIT_LABEL.get((r.get("wait") or {}).get("level"), ""),
         "wait_estimate": (r.get("wait") or {}).get("estimate") or "",
         "wait_best_time": (r.get("wait") or {}).get("best_time") or "",
@@ -616,6 +627,8 @@ def description_html(r: dict) -> str:
         parts.append(" / ".join(meta))
     if r.get("booking_note"):
         parts.append(f"<b>예약 팁</b> {e(r['booking_note'])}")
+    if r.get("smoking"):
+        parts.append(f"<b>{SMOKING[r['smoking']]} 흡연</b> {e(r['smoking'])}" + (f" — {e(r['smoking_note'])}" if r.get("smoking_note") else ""))
     w = r.get("wait") or {}
     if w.get("level") is not None or w.get("estimate"):
         parts.append(f"<b>⏳ 예상 웨이팅</b> {e(WAIT_LABEL.get(w.get('level'), ''))} {e(w.get('estimate') or '')}" + (f"<br>추천 시간: {e(w['best_time'])}" if w.get("best_time") else ""))
@@ -663,7 +676,7 @@ def write_mymaps(items: list[dict]) -> None:
                 "이름": f"{r['name_ko']} ⭐{r['tabelog_score']:.2f}", "일본어": r["name_ja"], "타베로그점수": f"{r['tabelog_score']:.2f}",
                 "위도": r["lat"], "경도": r["lng"],
                 "카테고리": r["category"], "등급": "★" * r["legend_level"], "지역": r["area"],
-                "온라인예약": online_label(r), "선정이유": reasons_text(r),
+                "온라인예약": online_label(r), "흡연": r.get("smoking") or "미확인", "선정이유": reasons_text(r),
                 "예상웨이팅": " ".join(x for x in [WAIT_LABEL.get((r.get("wait") or {}).get("level"), ""), (r.get("wait") or {}).get("estimate") or ""] if x),
                 "대표메뉴": r.get("signature") or "", "설명": r["why"], "팁": r.get("tips") or "",
                 "가격": r.get("price_note") or PRICE_LABEL.get(r.get("price_level"), ""),
@@ -747,6 +760,8 @@ def write_list_md(items: list[dict], generated: str) -> None:
                     lines.append("- **온라인 예약: ❔ 미확인**")
                 if r.get("booking_note"):
                     lines.append(f"- 예약 팁: {r['booking_note']}")
+                if r.get("smoking"):
+                    lines.append(f"- {SMOKING[r['smoking']]} 흡연: **{r['smoking']}**" + (f" — {r['smoking_note']}" if r.get("smoking_note") else ""))
                 w = r.get("wait") or {}
                 if w.get("level") is not None or w.get("estimate"):
                     lines.append(f"- ⏳ 예상 웨이팅: **{WAIT_LABEL.get(w.get('level'), '?')}**" + (f" — {w['estimate']}" if w.get("estimate") else ""))
@@ -791,7 +806,7 @@ def write_cheatsheet(items: list[dict], generated: str) -> None:
         "# 📍 거점별 맛집 치트시트",
         "",
         f"> 자동 생성 ({generated}) · 지금 있는 동네를 찾아서 타베로그 점수 높은 순으로 고르세요.",
-        "> 웨이팅은 최근 후기 기반 예상치(피크 시간 기준)이며 실시간이 아닙니다.",
+        "> 웨이팅은 최근 후기 기반 예상치(피크 시간 기준)이며 실시간이 아닙니다. 🚬 흡연 가능 / 💨 가열식 담배만 인 곳은 표시해 두었습니다(나머지는 금연·분연).",
         "> ✅ 온라인 예약 가능 · ☎️ 전화예약만 · 🎫 원격줄서기 · 🚶 현장방문(예약 불가) · 가격은 1인 기준 ¥ ~1,500엔 / ¥¥ ~4,000엔 / ¥¥¥ ~10,000엔 / ¥¥¥¥ 10,000엔+",
         "> 가게 이름을 누르면 상세(선정 이유·영업시간·예약·팁)로 이동합니다. ★ 등급: ★★★ " + LEVEL_RULE[3] + " · 🏯 지역 상징",
         "",
@@ -822,7 +837,9 @@ def write_cheatsheet(items: list[dict], generated: str) -> None:
                     f"- **{(format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else '-')}** "
                     f"[**{r['name_ko']}**](list/{r['region']}.md#{r['id']}) {'★' * r['legend_level']}{' 🏯' if r.get('icon') else ''} "
                     f"· {CATEGORIES[r['category']][0]} {r['category']} · {yen.get(r.get('price_level'), '')}  \n"
-                    f"  {book}" + (f" · ⏳ {wt}" if wt else "") + (f" · {one}" if one else "")
+                    f"  {book}" + (f" · ⏳ {wt}" if wt else "")
+                    + (f" · {SMOKING[r['smoking']]} {r['smoking']}" if r.get("smoking") in ("흡연가능", "가열식만") else "")
+                    + (f" · {one}" if one else "")
                 )
             body.append("")
     lines += toc + [""] + body
@@ -852,6 +869,8 @@ def write_readme_stats(items: list[dict], generated: str) -> None:
             lines.append(f"| {meta['ko']} | {by_reg[k]} | {lv3[k]} |")
     on = Counter(online_label(r) for r in items)
     lines += ["", f"**온라인 예약 가능 {on['가능']}곳** · 불가 {on['불가']}곳 · 미확인 {on['미확인']}곳"]
+    sm = Counter(r.get("smoking") or "미확인" for r in items)
+    lines += ["", "흡연: " + " · ".join(f"{SMOKING.get(k, '❔')} {k} {sm[k]}" for k in [*SMOKING, "미확인"] if sm[k])]
     bts = Counter(r.get("booking_type") or "미확인" for r in items)
     lines += ["", "예약: " + " · ".join(f"{BOOKING_TYPES.get(k, '❔')} {k} {bts[k]}" for k in [*BOOKING_TYPES, "미확인"] if bts[k])]
     lines += ["", "카테고리: " + " · ".join(f"{CATEGORIES[c][0]} {c} {n}" for c, n in cats.most_common()), end]

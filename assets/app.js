@@ -25,7 +25,7 @@
   const fav = store.get(LS.fav);
   const vis = store.get(LS.vis);
 
-  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, me: null, sort: "level" };
+  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" };
   const BOOK = Object.fromEntries((D.bookingTypes || []).map((b) => [b.name, b]));
   const BOOK_SHORT = { "앱예약": "온라인예약 가능", "전화예약만": "전화예약만", "원격줄서기": "원격줄서기", "현장방문": "현장방문" };
   const REASON = Object.fromEntries((D.reasonTypes || []).map((t) => [t.name, t]));
@@ -79,6 +79,8 @@
   // ------------------------------------------------------------------ popup
   function badgesHtml(r, limit) {
     const b = [];
+    if (r.smoking === "흡연가능") b.push(`<span class="badge smk">🚬 흡연 가능</span>`);
+    else if (r.smoking === "가열식만") b.push(`<span class="badge smk2">💨 가열식 담배만</span>`);
     if (r.google_status === "CLOSED_TEMPORARILY") b.push(`<span class="badge st-warn">⚠️ 임시 휴업(구글)</span>`);
     else if (r.google_status === "CLOSED_PERMANENTLY") b.push(`<span class="badge st-warn">⚠️ 폐업(구글)</span>`);
     const st = statusBadge(r);
@@ -193,6 +195,9 @@
     const next = today.map(([o]) => toMin(o)).filter((om) => om > min).sort((a, b) => a - b)[0];
     return next != null ? { s: "later", t: `${fmtT(next)} 오픈` } : { s: "closed", t: "오늘 영업 종료" };
   }
+  const SMOKE = Object.fromEntries((D.smokingTypes || []).map((x) => [x.name, x.emoji]));
+  const smokeLabel = { "금연": "금연", "분연": "분연(흡연실 따로)", "가열식만": "가열식 담배만", "흡연가능": "흡연 가능" };
+  const noSmoke = (r) => r.smoking === "금연" || r.smoking === "분연";
   const WAIT_SHORT = { 0: "웨이팅 거의 없음", 1: "웨이팅 ~15분", 2: "웨이팅 15~45분", 3: "웨이팅 45분+" };
   const waitLv = (r) => (r.wait && [0, 1, 2, 3].includes(r.wait.level) ? r.wait.level : null);
   const waitBadge = (r) => {
@@ -287,6 +292,7 @@
     } else if (r.booking_type === "앱예약") {
       rows.push(["웨이팅", "예약하면 대기 없음 (인기점은 예약 자체가 빨리 마감)"]);
     }
+    if (r.smoking) rows.push(["흡연", `${SMOKE[r.smoking] || ""} ${smokeLabel[r.smoking] || r.smoking}${r.smoking_note ? " — " + r.smoking_note : ""} (타베로그 기준)`]);
     if (r.hours_note) rows.push(["영업참고", r.hours_note]);
     if (r.station) rows.push(["역", r.station]);
     if (r.phone) rows.push(["전화", `${telLocal(r.phone)} (해외에서 ${r.phone})`]);
@@ -343,7 +349,7 @@
     return t.replace(/끼/g, "키").replace(/꾸/g, "쿠").replace(/까/g, "카").replace(/[쯔쓰]/g, "츠").replace(/찌/g, "치").replace(/따/g, "타").replace(/빠/g, "파").replace(/뽀/g, "포");
   };
   function textOf(r) {
-    return [r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" ")]
+    return [r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" "), r.smoking ? (noSmoke(r) ? "금연" : "흡연") : ""]
       .join(" ");
   }
   const TEXT = new Map(R.map((r) => [r.id, norm(textOf(r))]));
@@ -360,6 +366,7 @@
       (!state.favOnly || fav.has(r.id)) &&
       (!state.openNow || ["open", "soon"].includes((openStatus(r) || {}).s)) &&
       (!state.easyWait || easyWait(r)) &&
+      (!state.noSmoke || noSmoke(r)) &&
       (!state.hideVisited || !vis.has(r.id)) &&
       terms.every((t) => TEXT.get(r.id).includes(t))
     );
@@ -447,6 +454,7 @@
     $("favOnly").setAttribute("aria-pressed", String(state.favOnly));
     $("openNow").setAttribute("aria-pressed", String(state.openNow));
     $("easyWait").setAttribute("aria-pressed", String(state.easyWait));
+    $("noSmoke").setAttribute("aria-pressed", String(state.noSmoke));
     $("favRoute").hidden = !fav.size;
     $("favShare").hidden = !fav.size;
     $("hideVisited").setAttribute("aria-pressed", String(state.hideVisited));
@@ -466,7 +474,7 @@
         <div>
           <div class="t">${esc(r.name_ko)}<span class="lv" title="${esc((D.levelRule || {})[r.legend_level] || "")}">${"★".repeat(r.legend_level)}</span>${r.icon ? `<span class="icn" title="점수 기준 밖이지만 꼭 가볼 만한 원조·명물">🏯</span>` : ""}</div>
           <div class="ja">${esc(r.name_ja)}</div>
-          <div class="meta">${esc(D.regions[r.region].ko)} ${esc(r.area)} · ${esc(r.category)} · <span class="nw">${YEN[r.price_level] || ""}</span></div>
+          <div class="meta">${esc(D.regions[r.region].ko)} ${esc(r.area)} · ${esc(r.category)} · <span class="nw">${YEN[r.price_level] || ""}</span>${noSmoke(r) ? ` · <span class="nw" title="${esc(smokeLabel[r.smoking])}">🚭${r.smoking === "분연" ? " 분연" : ""}</span>` : ""}</div>
           ${r.signature ? `<div class="sig">${esc(r.signature)}</div>` : ""}
           <div class="badges">${badgesHtml(r, 3)}</div>
         </div>
@@ -509,7 +517,7 @@
     if (!m) return;
     const hidden = listOnly() ? !current.some((x) => x.id === id) : !cluster.hasLayer(m);
     if (hidden) { // 필터에 걸려 숨겨진 경우 필터 해제
-      Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false });
+      Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false });
       state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
       update();
       toast("필터에 가려진 가게라 필터를 해제하고 보여드려요");
@@ -665,10 +673,11 @@
   $("dlgClose").addEventListener("click", () => $("dlg").close());
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
+  $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });
   setInterval(() => { if (state.openNow) update(); else renderList(current); }, 5 * 60 * 1000); // 영업 상태 5분마다 갱신
   $("hideVisited").addEventListener("click", () => { state.hideVisited = !state.hideVisited; update(); });
   $("reset").addEventListener("click", () => {
-    Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, me: null, sort: "level" });
+    Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" });
     $("sort").value = "level";
     state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
     if (meMarker) { map.removeLayer(meMarker); meMarker = null; }
@@ -703,7 +712,7 @@
   // 모바일: 상세 필터 접기/펼치기
   const moreBtn = $("moreFilters");
   function syncMore() {
-    const n = state.cats.size + state.books.size + state.prices.size + (state.level ? 1 : 0) + (state.openNow ? 1 : 0) + (state.easyWait ? 1 : 0) + (state.favOnly ? 1 : 0) + (state.hideVisited ? 1 : 0);
+    const n = state.cats.size + state.books.size + state.prices.size + (state.level ? 1 : 0) + (state.openNow ? 1 : 0) + (state.easyWait ? 1 : 0) + (state.noSmoke ? 1 : 0) + (state.favOnly ? 1 : 0) + (state.hideVisited ? 1 : 0);
     moreBtn.textContent = (document.body.classList.contains("fopen") ? "필터 접기 ▴" : "필터 더보기 ▾") + (n ? ` (${n})` : "");
   }
   moreBtn.addEventListener("click", () => { document.body.classList.toggle("fopen"); syncMore(); });
