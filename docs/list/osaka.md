@@ -7,7 +7,7 @@
 ## 한눈에 보기 (등급·점수순)
 
 - ★★★ **4.55** [혼코게츠](#osaka-036) · 🍱 일식·카이세키 · 도톤보리·난바 · 🚫 ☎️ 전화예약만 · 구글 4.6 (73)
-- ★★★ **4.34** [하지메](#osaka-069) · 🍷 프렌치·이노베이티브 · 우츠보·니시구 · ✅ 가능
+- ★★★ **4.34** [하지메](#osaka-069) · 🍷 프렌치·이노베이티브 · 우츠보·니시구 · ✅ 가능 · 구글 4.5 (328)
 - ★★★ **4.23** [진세이](#osaka-048) · 🍣 스시·해산물 · 신사이바시·아메무라 · 🚫 ☎️ 전화예약만 · 구글 4.3 (142)
 - ★★★ **4.16** [스시 오오하타](#osaka-003) · 🍣 스시·해산물 · 기타신치 · 🚫 ☎️ 전화예약만 · 구글 4.6 (150)
 - ★★★ **4.02** [와후 모츠료리 아라타](#osaka-089) · 🥩 야키니쿠·호르몬 · 니시나카지마·신오사카 · 🚫 🚶 현장방문 · 구글 4.4 (294)
@@ -48,7 +48,7 @@
 - ★★ **3.70** [후쿠타로 본점](#osaka-042) · 🥞 오코노미야키 · 센니치마에·우라난바 · 🚫 🚶 현장방문 · 구글 4.2 (3,910)
 - ★★ **3.70** [카페 반호프 한큐산반가이점](#osaka-112) · ☕ 카페·킷사텐 · 우메다·오사카역 · 🚫 🚶 현장방문 · 구글 4 (552)
 - ★★ **3.69** [멘노요지](#osaka-023) · 🍜 라멘 · 닛폰바시·구로몬 · 🚫 🚶 현장방문 · 구글 4.4 (1,293)
-- ★★ **3.69** [소라 쓰루하시 총본점](#osaka-057) · 🥩 야키니쿠·호르몬 · 쓰루하시 · 🚫 🚶 현장방문
+- ★★ **3.69** [소라 쓰루하시 총본점](#osaka-057) · 🥩 야키니쿠·호르몬 · 쓰루하시 · 🚫 🚶 현장방문 · 구글 4.1 (2,818)
 - ★★ **3.69** [멘야 사이사이 쇼와초 본점](#osaka-059) · 🍜 라멘 · 아베노 · 🚫 🚶 현장방문 · 구글 4.2 (731)
 - ★★ **3.69** [키지 우메다 스카이빌딩점](#osaka-062) · 🥞 오코노미야키 · 우메다·오사카역 · 🚫 🚶 현장방문 · 구글 4.2 (1,425)
 - ★★ **3.69** [모쟈카레 신오사카 본점](#osaka-090) · 🍛 카레 · 니시나카지마·신오사카 · 🚫 🚶 현장방문 · 구글 4 (611)
@@ -109,7 +109,7 @@
 - ★ **3.52** [이부키 커피 구로몬시장점](#osaka-094) · ☕ 카페·킷사텐 · 닛폰바시·구로몬 · 🚫 🚶 현장방문 · 구글 4.1 (460)
 - ★ **3.51** [키야스 총본포 본점](#osaka-072) · 🍡 화과자·디저트 · 주소 · 🚫 🚶 현장방문 · 구글 4.3 (1,442)
 - ★ **3.50** [하나다코](#osaka-064) · 🐙 타코야키 · 우메다·오사카역 · 🚫 🚶 현장방문 · 구글 4.2 (4,700)
-- ★ **3.50** [요시노즈시](#osaka-113) · 🍣 스시·해산물 · 기타하마·요도야바시·혼마치 · 🚫 ☎️ 전화예약만
+- ★ **3.50** [요시노즈시](#osaka-113) · 🍣 스시·해산물 · 기타하마·요도야바시·혼마치 · 🚫 ☎️ 전화예약만 · 구글 3.9 (150)
 - ★ **3.49** [지유켄 난바 본점](#osaka-029) · 🍛 카레 · 도톤보리·난바 · 🚫 🚶 현장방문 · 구글 4 (3,495)
 - ★ **3.49** [야에카츠](#osaka-055) · 🍢 쿠시카츠 · 신세카이·덴노지 · 🚫 🚶 현장방문 · 구글 4 (3,974)
 - ★ **3.49** [마츠바 총본점](#osaka-063) · 🍢 쿠시카츠 · 우메다·오사카역 · 🚫 🚶 현장방문 · 구글 3.9 (1,357)
@@ -446,7 +446,7 @@
 - 영업 월~금 테이크아웃 9:30-15:00 / 2층 식사 11:00-14:00 / 휴무 토·일·공휴일
 - 💡 평일만 영업(토·일·공휴일 휴무). 2층 카운터·테이블에서 먹을 수 있고, 1층은 테이크아웃(선물용). 하코즈시 8조각 2,592엔·장어말이 1,815엔(2025-05 후기). 난바 다카시마야·신오사카역 등에도 매장 있음(후기 언급).
 - 🚃 요도야바시역 11번 출구 도보 4~5분 / 혼마치역 도보 5분
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA3-4-14) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27000011/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%8B%9C%EB%85%B8%EC%A6%88%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1836599017792475107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27000011/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%8B%9C%EB%85%B8%EC%A6%88%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 나카자키초
 
@@ -1830,7 +1830,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 11:00-22:00 / 휴무 화(공휴일이면 다음날)
 - 💡 예약 불가·현금만. 화요일 휴무(공휴일이면 다음날). 11시부터 통으로 영업해 저녁 피크를 피해 이른 시간 방문 추천.
 - 🚃 JR 쓰루하시역 도보 1분 / 지하철 쓰루하시역 도보 3분
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E7%A9%BA%20%E9%B6%B4%E6%A9%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8B%E5%91%B3%E5%8E%9F%E7%94%BA1-10) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%20%E9%B6%B4%E6%A9%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8B%E5%91%B3%E5%8E%9F%E7%94%BA1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000564/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%9D%BC%20%EC%93%B0%EB%A3%A8%ED%95%98%EC%8B%9C%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17307329987200885888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%20%E9%B6%B4%E6%A9%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8B%E5%91%B3%E5%8E%9F%E7%94%BA1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000564/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%9D%BC%20%EC%93%B0%EB%A3%A8%ED%95%98%EC%8B%9C%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-058"></a>
 #### ★★ 오모니 본점 (お好み焼 オモニ 本店) — 🥞 오코노미야키 · 타베로그 3.67
@@ -2297,6 +2297,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 🎖️ **미쉐린** [미쉐린 가이드 교토·오사카 3스타, 2026년판에서도 3스타 유지](https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026)
 - 🍽️ **타베로그** [타베로그 4.34 (리뷰 405건)](https://tabelog.com/osaka/A2701/A270102/27015488/)
 - 🏆 **수상·백명점** [The Tabelog Award 2017~2026 10년 연속 수상(Silver 7회·Bronze 3회), 이노베이티브 백명점 2025](https://tabelog.com/osaka/A2701/A270102/27015488/)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 328개 (2026-11-21 기준)](https://maps.google.com/?cid=16315036906105016071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 - **온라인 예약: ✅ 가능** · [OMAKASE](https://omakase.in/ja/r/fy215196), [공식사이트](https://omakase.in/ja/r/fy215196), [잇큐](https://restaurant.ikyu.com/115801)
 - 예약 팁: 공식 온라인 예약 폼(hajime-reservation.com)과 잇큐에서 예약 신청 가능(잇큐 공석 표시는 수동 갱신). 전화는 월~토 10:00-18:00(06-6447-6688).
@@ -2306,7 +2307,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 화~토 17:00-23:00(입점 17:00-19:00) / 휴무 일·월요일(부정기)
 - 💡 화~토 저녁, 17:00-19:00 사이 입점. 일·월 휴무(부정기, 공식 캘린더 확인). 서비스료 15%. 1대 주차 가능.
 - 🚃 히고바시역 7번 출구 도보 3분
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=HAJIME%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-9-11) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=HAJIME%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-9-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015488/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%A7%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16315036906105016071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=HAJIME%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-9-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015488/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%A7%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-070"></a>
 #### ★★ 잇포 본점 (一宝 本店) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.62

@@ -46,8 +46,8 @@
 - ★★ **3.66** [야마모토 만보](#kyoto-048) · 🥞 오코노미야키 · 교토역 · 🚫 ☎️ 전화예약만 · 구글 4.1 (1,196)
 - ★★ **3.65** [헨코츠](#kyoto-011) · 🍶 이자카야·다치노미 · 교토역 · 🚫 🚶 현장방문 · 구글 3.4 (471)
 - ★★ **3.65** [그릴 코다카라](#kyoto-024) · 🍳 경양식·오므라이스 · 긴카쿠지·오카자키 · 🚫 🚶 현장방문 · 구글 4.3 (1,897)
-- ★★ **3.65** [이나리 후타바](#kyoto-062) · 🍡 화과자·디저트 · 후시미 · 🚫 🚶 현장방문
-- ★★ **3.64** [후쿠나가 901](#kyoto-049) · ☕ 카페·킷사텐 · 교토역 · 🚫 🚶 현장방문
+- ★★ **3.65** [이나리 후타바](#kyoto-062) · 🍡 화과자·디저트 · 후시미 · 🚫 🚶 현장방문 · 구글 4.4 (224)
+- ★★ **3.64** [후쿠나가 901](#kyoto-049) · ☕ 카페·킷사텐 · 교토역 · 🚫 🚶 현장방문 · 구글 4 (326)
 - ★★ **3.64** [데우치 소바·스시 이마후쿠](#kyoto-064) · 🍲 우동·소바 · 후시미 · 🚫 ☎️ 전화예약만 · 구글 4.6 (126)
 - ★★ **3.63** [사이쿄야키 교토 야마로쿠](#kyoto-047) · 🍱 일식·카이세키 · 교토역 · 🚫 🚶 현장방문 · 구글 4.4 (140)
 - ★★ **3.62** [신파치차야 (젤라토)](#kyoto-057) · 🍡 화과자·디저트 · 아라시야마 · 🚫 🚶 현장방문 · 구글 4 (332)
@@ -62,7 +62,7 @@
 - ★ **3.59** [아라시야마 다이젠](#kyoto-059) · 🍣 스시·해산물 · 아라시야마 · 🚫 ☎️ 전화예약만 · 구글 4.6 (410)
 - ★ **3.58** [이즈주](#kyoto-021) · 🍣 스시·해산물 · 기온·히가시야마 · 🚫 🚶 현장방문 · 구글 4.2 (1,449)
 - ★ **3.58** [오멘 긴카쿠지 본점](#kyoto-026) · 🍲 우동·소바 · 긴카쿠지·오카자키 · 🚫 ☎️ 전화예약만 · 구글 4.3 (2,004)
-- ★ **3.57** [% 아라비카 교토 아라시야마](#kyoto-058) · ☕ 카페·킷사텐 · 아라시야마 · 🚫 🚶 현장방문
+- ★ **3.57** [% 아라비카 교토 아라시야마](#kyoto-058) · ☕ 카페·킷사텐 · 아라시야마 · 🚫 🚶 현장방문 · 구글 4.2 (5,856)
 - ★ **3.57** [후시미 사카구라코지 (사케 골목)](#kyoto-063) · 🍶 이자카야·다치노미 · 후시미 · ✅ 가능 · 구글 4.2 (2,885)
 - ★ **3.54** [이노다 커피 본점](#kyoto-033) · ☕ 카페·킷사텐 · 시조·카라스마 · 🚫 🚶 현장방문 · 구글 4.3 (5,582)
 - ★ **3.52** [후미야 (니시키시장 우동)](#kyoto-052) · 🍲 우동·소바 · 니시키시장 · 🚫 🚶 현장방문 · 구글 4.4 (777)
@@ -479,7 +479,7 @@
 - 영업 10:00-19:30 / 휴무 교토역 빌딩 휴무일에 따름
 - 💡 예약 불가. 교토역 빌딩 8층이라 비 오는 날·출발 전 시간 때우기 좋음. 카드·전자화폐·QR 결제 가능.
 - 🚃 JR 교토역 직결 (교토역 빌딩 8층)
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E3%83%95%E3%82%AF%E3%83%8A%E3%82%AC901%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%82%AF%E3%83%8A%E3%82%AC901%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26030973/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%82%98%EA%B0%80%20901%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17243246723617911745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%82%AF%E3%83%8A%E3%82%AC901%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26030973/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%82%98%EA%B0%80%20901%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 기온·히가시야마
 
@@ -1225,6 +1225,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.57 (리뷰 590)](https://tabelog.com/kyoto/A2601/A260403/26025913/)
 - 👥 **현지평판** [2015년 오픈, 아라시야마 강변 테이크아웃 커피로 관광객 줄이 끊이지 않는 곳 (좌석 4석)](https://tabelog.com/kyoto/A2601/A260403/26025913/)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,856개 (2026-11-21 기준)](https://maps.google.com/?cid=17029760350450268096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가, 줄 서서 주문.
@@ -1236,7 +1237,7 @@
 - 영업 09:00-18:00 / 휴무 부정기
 - 💡 좌석이 4석뿐이라 사실상 테이크아웃. 오전 일찍 가면 줄이 짧음. 카드·IC·PayPay 가능, 영어 메뉴 있음.
 - 🚃 란덴 아라시야마역 도보 약 5분 (도게츠쿄 북단 근처)
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E4%BA%AC%E9%83%BD%20%E5%B5%90%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA3-47) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E4%BA%AC%E9%83%BD%20%E5%B5%90%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA3-47) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26025913/) · [유튜브](https://www.youtube.com/results?search_query=%25%20%EC%95%84%EB%9D%BC%EB%B9%84%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17029760350450268096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E4%BA%AC%E9%83%BD%20%E5%B5%90%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA3-47) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26025913/) · [유튜브](https://www.youtube.com/results?search_query=%25%20%EC%95%84%EB%9D%BC%EB%B9%84%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-059"></a>
 #### ★ 아라시야마 다이젠 (嵐山 大善) — 🍣 스시·해산물 · 타베로그 3.59
@@ -1490,7 +1491,7 @@
 - 영업 09:00-18:00 / 휴무 수·목요일
 - 💡 테이크아웃 전용(좌석 없음). 현금만. 수·목 휴무라 일정 확인 필수. 인기 상품은 오후에 품절되기 쉬움.
 - 🚃 게이한 후시미이나리역 약 150m (JR 이나리역에서도 도보권)
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E3%81%84%E3%81%AA%E3%82%8A%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%A8%B2%E8%8D%B7%E4%BB%B2%E4%B9%8B%E7%94%BA55) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%AA%E3%82%8A%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%A8%B2%E8%8D%B7%E4%BB%B2%E4%B9%8B%E7%94%BA55) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26007559/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%82%98%EB%A6%AC%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5442309203631997809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%AA%E3%82%8A%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%A8%B2%E8%8D%B7%E4%BB%B2%E4%B9%8B%E7%94%BA55) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26007559/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%82%98%EB%A6%AC%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-043"></a>
 #### ★★ 츠케멘 키라리 (つけ麺 きらり) — 🍜 라멘 · 타베로그 3.66

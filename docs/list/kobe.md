@@ -6,7 +6,7 @@
 
 ## 한눈에 보기 (등급·점수순)
 
-- ★★★ **4.24** [스시 조스케](#kobe-003) · 🍣 스시·해산물 · 기타노 · 🚫 ☎️ 전화예약만
+- ★★★ **4.24** [스시 조스케](#kobe-003) · 🍣 스시·해산물 · 기타노 · 🚫 ☎️ 전화예약만 · 구글 3.7 (153)
 - ★★★ **4.08** [아라가와](#kobe-016) · 🐂 와규·스테이크 · 산노미야 · ✅ 가능 · 구글 3.9 (149)
 - ★★★ **3.84** [토리이치즈](#kobe-030) · 🍗 야키토리·닭요리 · 나다·롯코 · ✅ 가능 · 구글 4.3 (166)
 - ★★★ **3.84** [스미야키 시오호르몬 '아' 고베사카바](#kobe-035) · 🥩 야키니쿠·호르몬 · 산노미야 · 🚫 ☎️ 전화예약만 · 구글 4.1 (139)
@@ -32,7 +32,7 @@
 - ★★ **3.63** [고베 프레지르 본점](#kobe-033) · 🐂 와규·스테이크 · 산노미야 · ✅ 가능 · 구글 4.3 (766)
 - ★★ **3.62** [와코쿠 기타노자카 본점](#kobe-004) · 🐂 와규·스테이크 · 기타노 · ✅ 가능 · 구글 4.4 (654)
 - ★★ **3.61** [미야스](#kobe-010) · 🐂 와규·스테이크 · 모토마치 · 🚫 ☎️ 전화예약만 · 구글 4.3 (160)
-- ★★ **3.61** [아리마 젤라테리아 스타지오네](#kobe-039) · 🍡 화과자·디저트 · 아리마온센 · 🚫 🚶 현장방문
+- ★★ **3.61** [아리마 젤라테리아 스타지오네](#kobe-039) · 🍡 화과자·디저트 · 아리마온센 · 🚫 🚶 현장방문 · 구글 4.2 (726)
 - ★★ **3.60** [고베규 스테이크 이시다 본점](#kobe-018) · 🐂 와규·스테이크 · 산노미야 · ✅ 가능 · 구글 4.8 (2,365)
 - ★★ **3.60** [기세쓰잇핀료리 후지와라](#kobe-037) · 🍶 이자카야·다치노미 · 산노미야 · 🚫 ☎️ 전화예약만 · 구글 4.4 (86)
 - ★★ **3.59** [스테이크하우스 오리엔탈](#kobe-041) · 🐂 와규·스테이크 · 하버랜드·메리켄 · ✅ 가능 · 구글 4.5 (222)
@@ -70,7 +70,7 @@
 - 영업 17:30- / 휴무 부정기
 - 💡 예약 필수, 현금만. 가게에서 일본어로 대화할 수 있는 사람만 예약해 달라고 안내하니 일본어가 되는 동행이나 호텔 컨시어지를 통해 예약하자. 예약 시간보다 30분 늦고 연락이 안 되면 취소 처리된다.
 - 🚃 신고베역 남쪽 출구 도보 8분 / JR 산노미야역 도보 11분
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280103/28006575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%A1%B0%EC%8A%A4%EC%BC%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3488569617321358058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280103/28006575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%A1%B0%EC%8A%A4%EC%BC%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-002"></a>
 #### ★★ 도텐카쿠 고베 본점 (東天閣 神戸本店) — 🥟 중화·교자 · 타베로그 3.56
@@ -778,6 +778,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.61(리뷰 949)](https://tabelog.com/hyogo/A2801/A280112/28044218/)
 - 🏆 **수상·백명점** [타베로그 아이스크림·젤라토 백명점 2023·2026](https://tabelog.com/hyogo/A2801/A280112/28044218/)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 726개 (2026-11-21 기준)](https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 방문해서 바로 주문.
@@ -789,7 +790,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-17:00 / 휴무 화·수요일
 - 💡 현금만(카드·전자결제 불가). 화·수 휴무. 온천 거리 산책 중 먹기 좋은 테이크아웃 디저트.
 - 🚃 아리마온센역 도보 약 8분 (아리마온센 버스터미널 옆 언덕길)
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=%E3%82%A2%E3%83%AA%E3%83%9E%20%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1163) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%AA%E3%83%9E%20%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1163) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28044218/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%A6%AC%EB%A7%88%20%EC%A0%A4%EB%9D%BC%ED%85%8C%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%83%80%EC%A7%80%EC%98%A4%EB%84%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%AA%E3%83%9E%20%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1163) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28044218/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%A6%AC%EB%A7%88%20%EC%A0%A4%EB%9D%BC%ED%85%8C%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%83%80%EC%A7%80%EC%98%A4%EB%84%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-038"></a>
 #### ★ 미츠모리 혼포 (三津森本舗) — 🍡 화과자·디저트 · 타베로그 3.52
