@@ -78,7 +78,104 @@
   if (koLayer) bases["한국어 지도"] = koLayer;
   bases["OpenStreetMap (일본어)"] = osm;
   bases["지리원 지도(연한색)"] = gsi;
-  L.control.layers(bases, null, { position: "topright" }).addTo(map);
+  const layerCtl = L.control.layers(bases, null, { position: "topright" }).addTo(map);
+
+  // ---- (선택) 구글 지도 한국어: Map Tiles API + 브라우저용 키 (tkdrn416.github.io 로 제한한 키)
+  //      키 넣는 법: ⚙️ 지도 설정에 붙여넣기, 또는 한 번만 https://…/matzip/#gkey=키 로 열기 → 이 폰에 저장
+  const GKEY_LS = "matzip:gkey";
+  function captureKeyFromHash() {
+    const m = location.hash.match(/^#gkey=([\w-]{20,})$/);
+    if (!m) return false;
+    try { localStorage.setItem(GKEY_LS, m[1]); } catch (e) { /* */ }
+    try { Object.keys(localStorage).filter((k) => k.startsWith("matzip:gsess:")).forEach((k) => localStorage.removeItem(k)); } catch (e) { /* */ }
+    history.replaceState(null, "", location.pathname + location.search);
+    setTimeout(() => toast("구글 지도 키를 이 폰에 저장했어요"), 600);
+    return true;
+  }
+  captureKeyFromHash();
+  window.addEventListener("hashchange", () => { if (captureKeyFromHash()) enableGoogle(true); });
+  const gKey = () => { let k = ""; try { k = localStorage.getItem(GKEY_LS) || ""; } catch (e) { /* */ } return k || (window.MATZIP_CONFIG || {}).googleMapsKey || ""; };
+  const NIGHT = [
+    { elementType: "geometry", stylers: [{ color: "#242f3e" }] },
+    { elementType: "labels.text.stroke", stylers: [{ color: "#242f3e" }] },
+    { elementType: "labels.text.fill", stylers: [{ color: "#9aa0a6" }] },
+    { featureType: "poi", elementType: "labels.text.fill", stylers: [{ color: "#d59563" }] },
+    { featureType: "poi.park", elementType: "geometry", stylers: [{ color: "#263c3f" }] },
+    { featureType: "road", elementType: "geometry", stylers: [{ color: "#38414e" }] },
+    { featureType: "road", elementType: "geometry.stroke", stylers: [{ color: "#212a37" }] },
+    { featureType: "road.highway", elementType: "geometry", stylers: [{ color: "#746855" }] },
+    { featureType: "transit", elementType: "geometry", stylers: [{ color: "#2f3948" }] },
+    { featureType: "transit.station", elementType: "labels.text.fill", stylers: [{ color: "#d59563" }] },
+    { featureType: "water", elementType: "geometry", stylers: [{ color: "#17263c" }] },
+  ];
+  let gLayer = null, gSession = null, gAttrText = "";
+  async function googleSession(key) {
+    const dark = DARK.matches, ck = "matzip:gsess:" + (dark ? "d" : "l");
+    let sess = null;
+    try { sess = JSON.parse(localStorage.getItem(ck) || "null"); } catch (e) { /* */ }
+    if (sess && sess.session && sess.k === key.slice(-6) && Date.now() / 1000 < Number(sess.expiry) - 3600) return sess.session;
+    const body = { mapType: "roadmap", language: "ko-KR", region: "JP", scale: "scaleFactor2x", highDpi: true };
+    if (dark) body.styles = NIGHT;
+    const res = await fetch("https://tile.googleapis.com/v1/createSession?key=" + encodeURIComponent(key), {
+      method: "POST", headers: { "Content-Type": "application/json" }, body: JSON.stringify(body),
+    });
+    if (!res.ok) throw new Error(`HTTP ${res.status} ${(await res.text()).slice(0, 140)}`);
+    sess = await res.json(); sess.k = key.slice(-6);
+    try { localStorage.setItem(ck, JSON.stringify(sess)); } catch (e) { /* */ }
+    return sess.session;
+  }
+  let gAttrTimer;
+  function updateGoogleAttr() {
+    if (!gLayer || !map.hasLayer(gLayer)) return;
+    clearTimeout(gAttrTimer);
+    gAttrTimer = setTimeout(async () => {
+      const b = map.getBounds(), key = gKey();
+      const url = `https://tile.googleapis.com/tile/v1/viewport?session=${gSession}&key=${encodeURIComponent(key)}&zoom=${map.getZoom()}` +
+        `&north=${b.getNorth()}&south=${b.getSouth()}&east=${b.getEast()}&west=${b.getWest()}`;
+      try {
+        const j = await (await fetch(url)).json();
+        const txt = j.copyright ? `지도 데이터 ${j.copyright}` : "Google";
+        if (txt !== gAttrText) { if (gAttrText) map.attributionControl.removeAttribution(gAttrText); map.attributionControl.addAttribution(txt); gAttrText = txt; }
+      } catch (e) { /* */ }
+    }, 800);
+  }
+  async function enableGoogle(showErrors) {
+    const key = gKey();
+    if (!key) return false;
+    try {
+      gSession = await googleSession(key);
+      if (gLayer) { layerCtl.removeLayer(gLayer); map.removeLayer(gLayer); }
+      gLayer = L.tileLayer(`https://tile.googleapis.com/v1/2dtiles/{z}/{x}/{y}?session=${gSession}&key=${encodeURIComponent(key)}`, { maxZoom: 21, maxNativeZoom: 21, tileSize: 256 });
+      layerCtl.addBaseLayer(gLayer, "구글 지도 (한국어)");
+      Object.values(bases).forEach((l) => map.hasLayer(l) && map.removeLayer(l));
+      gLayer.addTo(map);
+      map.getContainer().classList.add("google-on");
+      updateGoogleAttr();
+      return true;
+    } catch (e) {
+      if (showErrors) toast("구글 지도를 못 불러와서 기본 지도를 써요: " + e.message);
+      return false;
+    }
+  }
+  map.on("moveend", updateGoogleAttr);
+  map.on("baselayerchange", (e) => {
+    map.getContainer().classList.toggle("google-on", e.layer === gLayer);
+    if (e.layer !== gLayer && gAttrText) { map.attributionControl.removeAttribution(gAttrText); gAttrText = ""; }
+    else updateGoogleAttr();
+  });
+  enableGoogle(true);
+  // 지도 위 ⚙️ (폰에서도 지도 설정 열기)
+  const GearCtl = L.Control.extend({
+    options: { position: "topright" },
+    onAdd() {
+      const b = L.DomUtil.create("button", "gearbtn");
+      b.type = "button"; b.title = "지도 설정"; b.setAttribute("aria-label", "지도 설정"); b.textContent = "⚙️";
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", () => $("mapSettings") && $("mapSettings").click());
+      return b;
+    },
+  });
+  if (!NOMAP) new GearCtl().addTo(map);
 
   const cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 42, disableClusteringAtZoom: 16, spiderfyOnMaxZoom: true });
   map.addLayer(cluster);
@@ -126,6 +223,7 @@
     if (st) b.push(st);
     const wb = waitBadge(r);
     if (wb) b.push(wb);
+    else if (qOf(r).s >= 3) b.push(`<span class="badge wt0" title="${esc(qOf(r).why.join(", "))}">🧘 한적한 편</span>`);
     const hasCta = r.booking_type === "앱예약" && ((r.links && r.links.booking) || []).length;
     if (r.booking_type && BOOK[r.booking_type] && !(hasCta && !limit)) {
       b.push(`<span class="badge bk bk-${esc(r.booking_type)}">${BOOK[r.booking_type].emoji} ${esc(BOOK_SHORT[r.booking_type] || r.booking_type)}</span>`);
@@ -245,7 +343,33 @@
     return `<span class="badge wt wt${lv}" title="최근 후기 기반 예상(피크 시간)">⏳ ${WAIT_SHORT[lv]}</span>`;
   };
   // 웨이팅 짧은 곳: 예상 15분 이하이거나 온라인 예약 가능
-  const easyWait = (r) => { const lv = waitLv(r); return lv !== null && lv <= 1; };
+  // ---- 한적함 점수: 후기 기반 웨이팅 + 구글 리뷰 수(관광객 몰림) + 태그
+  function quiet(r) {
+    let s = 0;
+    const why = [];
+    const lv = waitLv(r);
+    if (lv === 0) { s += 3; why.push("웨이팅 거의 없음"); }
+    else if (lv === 1) { s += 2; why.push("웨이팅 짧음(~15분)"); }
+    else if (lv === 2) { s -= 1; why.push("피크엔 15~45분 대기"); }
+    else if (lv === 3) { s -= 3; why.push("피크엔 45분+ 대기"); }
+    else if (r.booking_type === "앱예약" || r.booking_type === "전화예약만") { s += 1; why.push("예약하면 줄 없음"); }
+    const n = r.google_reviews || 0;
+    if (n && n < 300) { s += 2; why.push(`구글 리뷰 ${n}개(관광객 적음)`); }
+    else if (n && n < 1000) { s += 1; why.push(`구글 리뷰 ${fmtN(n)}개`); }
+    else if (n >= 3000) { s -= 2; why.push(`구글 리뷰 ${fmtN(n)}개(관광객 많음)`); }
+    const t = r.tags || [];
+    if (t.includes("줄서는집")) s -= 2;
+    if (t.includes("웨이팅김")) s -= 2;
+    if (t.includes("관광객인기")) s -= 1;
+    if (t.includes("한국인인기")) s -= 1;
+    if (t.includes("현지인맛집")) { s += 1; why.push("현지인 위주"); }
+    return { s, why };
+  }
+  const QUIET = new Map();
+  const qOf = (r) => { if (!QUIET.has(r.id)) QUIET.set(r.id, quiet(r)); return QUIET.get(r.id); };
+  // 한적·웨이팅 없음: 점수 2 이상이고, 후기상 피크 대기가 15분 넘는 곳은 제외
+  const easyWait = (r) => { const lv = waitLv(r); return qOf(r).s >= 2 && (lv === null || lv <= 1); };
+  const quietLabel = (r) => { const q = qOf(r).s; return q >= 4 ? "아주 한적한 편" : q >= 2 ? "한적한 편" : q >= 0 ? "보통" : q >= -2 ? "붐비는 편" : "많이 붐빔"; };
   const statusBadge = (r) => {
     const st = openStatus(r);
     if (!st) return "";
@@ -322,10 +446,11 @@
     if (r.booking_type) rows.push(["예약", `${BOOK[r.booking_type] ? BOOK[r.booking_type].emoji + " " : ""}${r.booking_type}${r.reservation ? " · 예약 " + r.reservation : ""}`]);
     else if (r.reservation) rows.push(["예약", r.reservation]);
     if (r.booking_note) rows.push(["예약팁", r.booking_note]);
+    rows.push(["혼잡도", `${quietLabel(r)} — ${qOf(r).why.join(", ") || "정보 적음"}`]);
     if (r.wait) {
       const w = r.wait;
       if (w.level !== undefined || w.estimate) rows.push(["웨이팅", [D.waitLabel[w.level], w.estimate].filter(Boolean).join(" — ") + " (후기 기반 예상)"]);
-      if (w.best_time) rows.push(["추천시간", w.best_time]);
+      if (w.best_time) rows.push(["한산한 때", w.best_time]);
       if (w.queue_system) rows.push(["번호표", w.queue_system]);
       if (w.sellout) rows.push(["품절", w.sellout]);
     } else if (r.booking_type === "앱예약") {
@@ -413,6 +538,7 @@
       tabelog: (a, b) => (b.tabelog_score || 0) - (a.tabelog_score || 0),
       google: (a, b) => (b.google_reviews || 0) - (a.google_reviews || 0),
       grating: (a, b) => (b.google_rating || 0) - (a.google_rating || 0) || (b.google_reviews || 0) - (a.google_reviews || 0),
+      quiet: (a, b) => qOf(b).s - qOf(a).s || (b.tabelog_score || 0) - (a.tabelog_score || 0),
     };
     if (state.me) out.forEach((r) => { r._d = map.distance(state.me, [r.lat, r.lng]); });
     if (sorters[state.sort]) {
@@ -710,6 +836,25 @@
     setTimeout(() => { $("dlgCopy").textContent = "복사"; }, 1500);
   });
   $("dlgClose").addEventListener("click", () => $("dlg").close());
+  // ⚙️ 지도 설정 (구글 지도 키)
+  const setBtn = $("mapSettings");
+  if (setBtn) setBtn.addEventListener("click", () => {
+    $("gkeyInput").value = gKey();
+    $("gkeyStatus").textContent = gLayer ? "✅ 구글 지도 사용 중" : (gKey() ? "⚠️ 키는 있지만 불러오지 못함" : "키 없음 — 한국어 기본 지도 사용 중");
+    $("setDlg").showModal();
+  });
+  if ($("gkeySave")) $("gkeySave").addEventListener("click", async () => {
+    const v = $("gkeyInput").value.trim();
+    try { v ? localStorage.setItem(GKEY_LS, v) : localStorage.removeItem(GKEY_LS); } catch (e) { /* */ }
+    try { Object.keys(localStorage).filter((k) => k.startsWith("matzip:gsess:")).forEach((k) => localStorage.removeItem(k)); } catch (e) { /* */ }
+    if (!v) {
+      if (gLayer) { map.removeLayer(gLayer); layerCtl.removeLayer(gLayer); gLayer = null; (koLayer || osm).addTo(map); }
+      $("gkeyStatus").textContent = "키를 지웠어요 — 기본 지도"; return;
+    }
+    $("gkeyStatus").textContent = "확인 중…";
+    $("gkeyStatus").textContent = (await enableGoogle(true)) ? "✅ 구글 지도로 바꿨어요" : "⚠️ 이 키로는 구글 지도를 못 불러와요 (설정 확인)";
+  });
+  if ($("setClose")) $("setClose").addEventListener("click", () => $("setDlg").close());
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
   $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });

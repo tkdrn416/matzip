@@ -367,3 +367,12 @@ button, .chip, .cta, a { touch-action: manipulation; }
 .leaflet-control-attribution { font-size: 10px; line-height: 1.4; padding: 0 5px; background: rgba(255,255,255,.75) !important; max-width: 70vw; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
 .maplibregl-ctrl-attrib, .maplibregl-ctrl-logo { display: none !important; } /* 같은 출처를 Leaflet 쪽에 표기 */
 @media (prefers-color-scheme: dark) { .leaflet-control-attribution { background: rgba(20,18,15,.7) !important; color: #b3aa9c; } .leaflet-control-attribution a { color: #8ab4f8; } }
+.linkbtn { border: none; background: none; padding: 0; color: #1d70b8; text-decoration: underline; font: inherit; cursor: pointer; }
+.cform1 { display: flex; flex-direction: column; gap: 4px; font-size: 13px; color: var(--muted); }
+.cform1 input { font-size: 16px; padding: 8px 10px; border: 1px solid var(--line); border-radius: 8px; width: 100%; }
+/* 구글 지도 사용 시 구글 로고 표시(약관) */
+.google-on::after { content: ""; position: absolute; left: 8px; bottom: 18px; width: 66px; height: 26px; z-index: 800; pointer-events: none;
+  background: url("https://maps.gstatic.com/mapfiles/api-3/images/google_white5_hdpi.png") no-repeat center / contain; }
+@media (prefers-color-scheme: dark) { .cform1 input { background: #14120f; color: var(--ink); border-color: var(--line); } .linkbtn { color: #8ab4f8; } }
+.gearbtn { width: 40px; height: 40px; border-radius: 8px; border: 2px solid rgba(0,0,0,.2); background: #fff; font-size: 18px; cursor: pointer; }
+@media (prefers-color-scheme: dark) { .gearbtn { background: #1e1b17; } }

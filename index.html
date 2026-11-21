@@ -28,7 +28,7 @@
       <header class="head">
         <h1>🍜 간사이 레전드 맛집</h1>
         <p class="sub" id="sub">오사카 · 교토 · 고베 · 나라</p>
-        <p class="modenote2"><a href="list.html">📋 목록 모드로 보기</a></p>
+        <p class="modenote2"><a href="list.html">📋 목록 모드로 보기</a> · <button id="mapSettings" class="linkbtn" type="button">⚙️ 지도 설정</button></p>
       </header>
 
       <div class="filters">
@@ -38,7 +38,7 @@
         <div class="row quick">
           <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 영업 중</button>
           <button class="chip toggle" id="noSmoke" aria-pressed="false">🚭 금연·분연만</button>
-          <button class="chip toggle" id="easyWait" aria-pressed="false">⏳ 웨이팅 짧은 곳</button>
+          <button class="chip toggle" id="easyWait" aria-pressed="false">🧘 한적·웨이팅 없음</button>
           <button class="chip" id="locate">📍 내 위치순</button>
           <button class="chip more" id="moreFilters">필터 더보기 ▾</button>
         </div>
@@ -64,6 +64,7 @@
         <select id="sort" class="sort" aria-label="정렬">
           <option value="level">추천순</option>
           <option value="tabelog">타베로그 점수순</option>
+          <option value="quiet">한적한 순</option>
           <option value="grating">구글 평점순</option>
           <option value="google">구글 리뷰 많은순</option>
         </select>
@@ -84,6 +85,15 @@
   <button id="viewToggle" class="viewtoggle" type="button">📋 목록 크게</button>
   <div id="toast" class="toast" role="status" hidden></div>
 
+  <dialog id="setDlg" class="dlg">
+    <h3>⚙️ 지도 설정</h3>
+    <p class="cnote">구글 지도(한국어)로 보려면 <b>브라우저용 Google Maps 키</b>를 넣으세요. 키는 이 기기에만 저장됩니다.
+      키는 Google Cloud 에서 <b>Map Tiles API</b>를 켜고, 웹사이트 제한을 <code>https://tkdrn416.github.io/*</code> 로 건 키여야 해요.</p>
+    <label class="cform1">브라우저용 키 <input type="text" id="gkeyInput" autocomplete="off" spellcheck="false" placeholder="AIza…"></label>
+    <p id="gkeyStatus" class="cnote"></p>
+    <div class="dlgbtns"><button id="gkeySave" class="cta">저장</button><button id="setClose">닫기</button></div>
+  </dialog>
+
   <dialog id="dlg" class="dlg">
     <h3 id="dlgTitle"></h3>
     <div id="dlgExtra"></div>
@@ -96,6 +106,7 @@
   <script src="assets/vendor/maplibre/maplibre-gl.js"></script>
   <script src="assets/vendor/maplibre/leaflet-maplibre-gl.js"></script>
   <script src="data/restaurants.js"></script>
+  <script src="assets/config.js" onerror="void 0"></script>
   <script src="assets/app.js"></script>
   <script>
     // 오프라인 지원(https 에서만). 아티팩트·로컬 파일에선 건너뜀
