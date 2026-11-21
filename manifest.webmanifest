@@ -1,0 +1,16 @@
+{
+  "name": "간사이 레전드 맛집",
+  "short_name": "맛집",
+  "description": "오사카·교토·고베·나라 레전드 맛집 지도 (타베로그 점수·온라인 예약·웨이팅·영업시간)",
+  "lang": "ko",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#fbf8f3",
+  "theme_color": "#e4572e",
+  "icons": [
+    { "src": "assets/icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "assets/icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "assets/icons/icon-maskable-512.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}

@@ -10,6 +10,16 @@
   <link rel="stylesheet" href="assets/vendor/leaflet/MarkerCluster.css">
   <link rel="stylesheet" href="assets/vendor/leaflet/MarkerCluster.Default.css">
   <link rel="stylesheet" href="assets/style.css">
+  <meta name="color-scheme" content="light dark">
+  <meta name="theme-color" content="#fbf8f3" media="(prefers-color-scheme: light)">
+  <meta name="theme-color" content="#14120f" media="(prefers-color-scheme: dark)">
+  <link rel="manifest" href="manifest.webmanifest">
+  <link rel="apple-touch-icon" href="assets/icons/apple-touch-icon.png">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="맛집">
+  <meta name="apple-mobile-web-app-status-bar-style" content="default">
+  <meta name="format-detection" content="telephone=no">
 </head>
 <body>
   <div class="app">
@@ -83,5 +93,11 @@
   <script src="assets/vendor/leaflet/leaflet.markercluster.js"></script>
   <script src="data/restaurants.js"></script>
   <script src="assets/app.js"></script>
+  <script>
+    // 오프라인 지원(https 에서만). 아티팩트·로컬 파일에선 건너뜀
+    if ("serviceWorker" in navigator && location.protocol === "https:" && window.top === window.self) {
+      navigator.serviceWorker.register("sw.js").catch(() => {});
+    }
+  </script>
 </body>
 </html>

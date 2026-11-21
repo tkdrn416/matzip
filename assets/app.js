@@ -292,7 +292,7 @@
     return `${onlineHtml(r)}
       ${r.notice ? `<div class="notice">⚠️ ${esc(r.notice)}</div>` : ""}
       ${linkBtns(r)}
-      <div class="badges">${badgesHtml(r)}</div>
+      <div class="badges dbadges">${badgesHtml(r)}</div>
       <div class="why">${esc(r.why)}</div>
       ${reasonsHtml(r)}
       ${r.tips ? `<div class="tips">💡 ${esc(r.tips)}</div>` : ""}

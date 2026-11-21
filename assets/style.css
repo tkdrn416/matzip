@@ -311,3 +311,26 @@ body.nomap .modenote2 { display: none; }
 }
 .nw { white-space: nowrap; }
 @media (prefers-color-scheme: dark) { .pp .rs .rt { color: var(--muted); } .pp .rs a { color: var(--ink); } }
+
+/* =========================================================
+   iPhone 18 Pro / Galaxy S25 Ultra 대응
+   ========================================================= */
+html { -webkit-tap-highlight-color: transparent; }
+body { padding-left: env(safe-area-inset-left); padding-right: env(safe-area-inset-right); overscroll-behavior-y: none; }
+button, .chip, .cta, a { touch-action: manipulation; }
+.leaflet-top { top: env(safe-area-inset-top); }
+@media (max-width: 860px) {
+  /* iOS Safari 는 16px 미만 입력칸을 누르면 화면을 확대 → 16px */
+  .sort, .search, select, input { font-size: 16px; }
+  .panel { padding-bottom: env(safe-area-inset-bottom); }
+  .foot { padding-bottom: calc(80px + env(safe-area-inset-bottom)); }
+}
+/* 홈 화면 앱(standalone)으로 열었을 때 상태바·다이내믹 아일랜드 아래로 */
+@media (display-mode: standalone) {
+  .app { padding-top: env(safe-area-inset-top); box-sizing: border-box; }
+}
+/* 목록에서 펼친 상세: 카드 위에 이미 있는 배지는 반복하지 않음 (수상 내역은 '선정 이유'에 있음) */
+.item .more .dbadges { display: none; }
+@media (max-width: 860px) {
+  .viewtoggle { padding: 9px 14px; font-size: 14px; right: 12px; bottom: calc(12px + env(safe-area-inset-bottom)); opacity: .94; }
+}
