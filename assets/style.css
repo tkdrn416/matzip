@@ -376,3 +376,57 @@ button, .chip, .cta, a { touch-action: manipulation; }
 @media (prefers-color-scheme: dark) { .cform1 input { background: #14120f; color: var(--ink); border-color: var(--line); } .linkbtn { color: #8ab4f8; } }
 .gearbtn { width: 40px; height: 40px; border-radius: 8px; border: 2px solid rgba(0,0,0,.2); background: #fff; font-size: 18px; cursor: pointer; }
 @media (prefers-color-scheme: dark) { .gearbtn { background: #1e1b17; } }
+
+/* =========================================================
+   지도 편의: 하단 카드, 보기 전환, 이 지역만, 상태 점, 길게 누르기 메뉴
+   ========================================================= */
+.mapwrap { position: relative; }
+.pcard { position: absolute; left: 8px; right: 8px; bottom: calc(8px + env(safe-area-inset-bottom)); z-index: 1100;
+  background: var(--card); color: var(--ink); border-radius: 16px; padding: 12px 14px 12px; box-shadow: 0 8px 28px #0005; max-height: 70%; overflow: auto; }
+.pcard .pc-x { position: absolute; right: 8px; top: 6px; border: none; background: transparent; font-size: 18px; color: var(--muted); width: 36px; height: 36px; cursor: pointer; }
+.pc-h { display: grid; grid-template-columns: 40px 1fr auto; gap: 10px; align-items: center; padding-right: 28px; }
+.pc-em { width: 40px; height: 40px; border-radius: 50%; display: grid; place-items: center; font-size: 21px; }
+.pc-t b { font-size: 17px; }
+.pc-t .lv { color: var(--gold); font-size: 13px; }
+.pc-m { font-size: 13px; color: var(--muted); margin-top: 2px; }
+.pcard .badges { margin-top: 8px; display: flex; flex-wrap: wrap; gap: 5px; }
+.pc-why { font-size: 14px; line-height: 1.5; margin-top: 8px; display: -webkit-box; -webkit-line-clamp: 2; -webkit-box-orient: vertical; overflow: hidden; }
+.pc-btns { display: grid; grid-auto-flow: column; grid-auto-columns: 1fr; gap: 8px; margin-top: 10px; }
+.pc-btns .cta { padding: 12px 6px; font-size: 15px; border-radius: 12px; }
+.pc-btns .cta.more { background: var(--chip); color: var(--ink); border: 1px solid var(--line); }
+.pin.sel { transform: scale(1.25); box-shadow: 0 0 0 3px #1a73e8, 0 2px 8px #0006; }
+.sdot { position: absolute; right: -2px; top: -2px; width: 11px; height: 11px; border-radius: 50%; border: 2px solid #fff; box-shadow: 0 1px 2px #0004; }
+.sd-open { background: #1e8e3e; }
+.sd-closed { background: #9aa0a6; }
+.areabtn { border: none; border-radius: 999px; padding: 8px 12px; background: #fff; color: #1f1d1a; font-size: 13px; font-weight: 700; box-shadow: 0 2px 8px #0003; cursor: pointer; }
+.areabtn[aria-pressed="true"] { background: #1a73e8; color: #fff; }
+.fitbtn { width: 46px; height: 46px; border-radius: 50%; border: none; background: #fff; color: #5f6368; font-size: 22px; box-shadow: 0 2px 8px #0004; cursor: pointer; margin-bottom: 8px !important; }
+.ctx { display: flex; flex-direction: column; gap: 6px; min-width: 190px; }
+.ctx button { padding: 10px 12px; border-radius: 10px; border: 1px solid var(--line); background: #fff; font-size: 14px; font-weight: 600; cursor: pointer; text-align: left; }
+.hotel-pin, .ref-pin { font-size: 26px; filter: drop-shadow(0 2px 3px #0006); }
+.viewseg { display: none; }
+@media (max-width: 860px) {
+  .viewtoggle { display: none !important; }
+  .viewseg { display: flex; position: fixed; left: 50%; transform: translateX(-50%); bottom: calc(12px + env(safe-area-inset-bottom)); z-index: 1500;
+    background: #1f1d1a; border-radius: 999px; padding: 4px; gap: 4px; box-shadow: 0 6px 18px #0005; }
+  .viewseg button { border: none; background: transparent; color: #fff; font-size: 14px; font-weight: 700; padding: 8px 14px; border-radius: 999px; cursor: pointer; }
+  .viewseg button[aria-pressed="true"] { background: #fff; color: #1f1d1a; }
+  body.nomap .viewseg { display: none; }
+  body.mapbig .app { grid-template-rows: 1fr; }
+  body.mapbig .panel { display: none; }
+  body.mapbig .mapwrap { grid-row: 1; }
+  body.mapbig .pcard { bottom: calc(64px + env(safe-area-inset-bottom)); }
+  .pcard { left: 6px; right: 6px; }
+}
+@media (prefers-color-scheme: dark) {
+  .areabtn, .fitbtn { background: #1e1b17; color: #f2eee6; }
+  .ctx button { background: #1e1b17; color: #f2eee6; border-color: var(--line); }
+  .viewseg { background: #f2eee6; }
+  .viewseg button { color: #14120f; }
+  .viewseg button[aria-pressed="true"] { background: #14120f; color: #f2eee6; }
+  .sdot { border-color: #1e1b17; }
+}
+@media (max-width: 860px) {
+  body.mapbig .leaflet-bottom { margin-bottom: calc(58px + env(safe-area-inset-bottom)); }
+  body.mapbig .leaflet-bottom .leaflet-control-attribution { margin-bottom: 0; }
+}

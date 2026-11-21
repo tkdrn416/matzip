@@ -182,10 +182,12 @@
 
   function pinIcon(r) {
     const c = CAT[r.category] || CAT["기타"];
-    const cls = "pin lv" + r.legend_level + (fav.has(r.id) ? " fav" : "");
+    const cls = "pin lv" + r.legend_level + (fav.has(r.id) ? " fav" : "") + (selId === r.id ? " sel" : "");
+    let dot = "";
+    if (PIN_STATUS) { const st = openStatus(r); if (st) dot = `<i class="sdot sd-${st.s === "open" || st.s === "soon" ? "open" : "closed"}"></i>`; }
     return L.divIcon({
       className: "pin-wrap",
-      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div><span class="plabel">${esc(r.name_ko)} <b>${Number(r.tabelog_score).toFixed(2)}</b></span>`,
+      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div>${dot}<span class="plabel">${esc(r.name_ko)} <b>${Number(r.tabelog_score).toFixed(2)}</b></span>`,
       iconSize: [34, 34], iconAnchor: [17, 17], popupAnchor: [0, -16],
     });
   }
@@ -195,10 +197,13 @@
   const syncLabels = () => map.getContainer().classList.toggle("show-labels", map.getZoom() >= 16);
   map.on("zoomend", syncLabels);
 
+  let PIN_STATUS = false, selId = null;
+  const USE_CARD = PHONE && !NOMAP; // 폰: 팝업 대신 하단 카드
   const markers = new Map();
   R.forEach((r) => {
     const m = L.marker([r.lat, r.lng], { icon: pinIcon(r), title: r.name_ko, riseOnHover: true, zIndexOffset: r.legend_level * 100 });
-    m.bindPopup(() => popupHtml(r), { maxWidth: 300, minWidth: 260, maxHeight: Math.max(280, Math.round(map.getSize().y * 0.85)), autoPanPadding: [20, 20] });
+    if (USE_CARD) m.on("click", () => showCard(r));
+    else m.bindPopup(() => popupHtml(r), { maxWidth: 300, minWidth: 260, maxHeight: Math.max(280, Math.round(map.getSize().y * 0.85)), autoPanPadding: [20, 20] });
     m.on("popupopen", () => {
       history.replaceState(null, "", "#" + r.id);
       if (state.open !== r.id) {
@@ -540,6 +545,8 @@
       grating: (a, b) => (b.google_rating || 0) - (a.google_rating || 0) || (b.google_reviews || 0) - (a.google_reviews || 0),
       quiet: (a, b) => qOf(b).s - qOf(a).s || (b.tabelog_score || 0) - (a.tabelog_score || 0),
     };
+    const hotel = refHotelSort();
+    if (hotel) { out.forEach((r) => { r._d = map.distance(hotel, [r.lat, r.lng]); }); out.sort((a, b) => a._d - b._d); return out; }
     if (state.me) out.forEach((r) => { r._d = map.distance(state.me, [r.lat, r.lng]); });
     if (sorters[state.sort]) {
       out.sort(sorters[state.sort]);
@@ -627,10 +634,13 @@
   }
 
   function fmtDist(m) { return m < 1000 ? Math.round(m) + "m" : (m / 1000).toFixed(m < 10000 ? 1 : 0) + "km"; }
+  // 도보 80m/분 (일본 부동산 표기 기준)
+  const walk = (m) => (m <= 2500 ? `🚶 ${Math.max(1, Math.round(m / 80))}분 · ${fmtDist(m)}` : `🚃 ${fmtDist(m)}`);
 
   function renderList(rs) {
     const ol = $("list");
-    $("count").textContent = `${rs.length}곳 표시 중` + (fav.size ? ` · 찜 ${fav.size}` : "") + (vis.size ? ` · 방문 ${vis.size}` : "");
+    if (state.inView && !listOnly()) { const b = map.getBounds(); rs = rs.filter((r) => b.contains([r.lat, r.lng])); }
+    $("count").textContent = (state.inView && !listOnly() ? `지도 화면 안 ${rs.length}곳` : `${rs.length}곳 표시 중`) + (fav.size ? ` · 찜 ${fav.size}` : "") + (vis.size ? ` · 방문 ${vis.size}` : "");
     if (!rs.length) { ol.innerHTML = '<li class="empty">조건에 맞는 곳이 없어요.</li>'; return; }
     ol.innerHTML = rs.map((r) => {
       const c = CAT[r.category] || CAT["기타"];
@@ -647,7 +657,7 @@
           ${tbScore(r)}
           <button class="iconbtn ${fav.has(r.id) ? "on" : ""}" data-act="fav" data-id="${r.id}" aria-label="찜">${fav.has(r.id) ? "♥" : "♡"}</button>
           <button class="iconbtn vis ${vis.has(r.id) ? "on" : ""}" data-act="vis" data-id="${r.id}" aria-label="방문">✓</button>
-          ${state.me && r._d != null ? `<span class="dist">${fmtDist(r._d)}</span>` : ""}
+          ${(state.me || refHotelSort()) && r._d != null ? `<span class="dist">${walk(r._d)}</span>` : ""}
         </div>
         ${state.open === r.id ? `<div class="more pp">${detailHtml(r)}</div>` : ""}
       </li>`;
@@ -696,13 +706,55 @@
       return;
     }
     map.setView([r.lat, r.lng], Math.max(map.getZoom(), 16), { animate: false });
-    cluster.zoomToShowLayer(m, () => m.openPopup());
-    if (scrollList) {
+    cluster.zoomToShowLayer(m, () => (USE_CARD ? showCard(r) : m.openPopup()));
+    if (scrollList && !USE_CARD) {
       const el = document.querySelector(`.item[data-id="${id}"]`);
       if (el) el.scrollIntoView({ block: "nearest" });
     }
-    if (window.matchMedia("(max-width: 860px)").matches) window.scrollTo({ top: 0, behavior: "smooth" });
+    if (USE_CARD && document.body.classList.contains("listbig")) setViewMode("split");
   }
+
+  // ---- 폰 하단 카드 (핀을 누르면)
+  function setSel(id) {
+    const prev = selId; selId = id;
+    [prev, id].forEach((x) => { if (x && markers.get(x)) markers.get(x).setIcon(pinIcon(R.find((r) => r.id === x))); });
+  }
+  function showCard(r) {
+    const c = CAT[r.category] || CAT["기타"];
+    const bk = (r.links && r.links.booking) || [];
+    let act = "";
+    if (bk.length && (r.booking_type === "앱예약" || r.booking_type === "원격줄서기")) act = `<a class="cta book" href="${esc(bk[0].url)}" target="_blank" rel="noopener">${r.booking_type === "원격줄서기" ? "🎫 번호표" : "📱 예약"}</a>`;
+    else if (r.phone && r.phone_booking !== false && r.booking_type === "전화예약만") act = `<a class="cta tel" href="${telHref(r.phone)}">📞 전화</a>`;
+    const d = state.me ? map.distance(state.me, [r.lat, r.lng]) : null;
+    const card = $("pcard");
+    card.innerHTML = `<button class="pc-x" data-pc="close" aria-label="닫기">✕</button>
+      <div class="pc-h"><span class="pc-em" style="background:${c.color}22">${c.emoji}</span>
+        <div class="pc-t"><b>${esc(r.name_ko)}</b> <span class="lv">${"★".repeat(r.legend_level)}</span>${r.icon ? " 🏯" : ""}
+          <div class="pc-m">${esc(r.area)} · ${esc(r.category)} · ${YEN[r.price_level] || ""}${d != null ? ` · ${walk(d)}` : ""}</div></div>
+        ${tbScore(r)}</div>
+      <div class="badges">${badgesHtml(r, 4)}</div>
+      <div class="pc-why">${esc(r.why)}</div>
+      <div class="pc-btns">${act}<a class="cta nav" href="${esc(r.links.directions)}" target="_blank" rel="noopener">🧭 길찾기</a><button class="cta more" data-pc="more">📖 자세히</button></div>`;
+    card.hidden = false;
+    card.dataset.id = r.id;
+    setSel(r.id);
+    history.replaceState(null, "", "#" + r.id);
+    state.open = r.id; renderList(current); highlight(r.id);
+  }
+  function hideCard() { const card = $("pcard"); if (card) card.hidden = true; setSel(null); }
+  if ($("pcard")) $("pcard").addEventListener("click", (e) => {
+    const t = e.target.closest("[data-pc]");
+    if (!t) return;
+    if (t.dataset.pc === "close") hideCard();
+    if (t.dataset.pc === "more") {
+      const id = $("pcard").dataset.id;
+      setViewMode("split");
+      hideCard(); // 상세는 목록에서 펼쳐 보여 주므로 카드는 닫기
+      state.open = id; renderList(current);
+      setTimeout(() => { const el = document.querySelector(`.item[data-id="${id}"]`); if (el) el.scrollIntoView({ block: "start", behavior: "smooth" }); }, 120);
+    }
+  });
+  map.on("click", () => { if (USE_CARD) hideCard(); });
 
   // ---- 공유 · 컨시어지 문구 · 찜 경로
   function shareText(r) {
@@ -858,7 +910,8 @@
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
   $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });
-  setInterval(() => { if (state.openNow) update(); else renderList(current); }, 5 * 60 * 1000); // 영업 상태 5분마다 갱신
+  const refreshPins = () => { if (NOMAP) return; markers.forEach((m, id) => m.setIcon(pinIcon(R.find((r) => r.id === id)))); };
+  setInterval(() => { if (state.openNow) update(); else renderList(current); refreshPins(); }, 5 * 60 * 1000); // 영업 상태 5분마다 갱신
   $("hideVisited").addEventListener("click", () => { state.hideVisited = !state.hideVisited; update(); });
   $("reset").addEventListener("click", () => {
     Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" });
@@ -903,11 +956,12 @@
   function stopLocate() {
     if (watchId !== null) navigator.geolocation.clearWatch(watchId);
     watchId = null; follow = false; state.me = null; lastSorted = null;
-    [meMarker, meCircle].forEach((x) => x && map.removeLayer(x)); meMarker = meCircle = null;
+    [meMarker, meCircle, refMarker].forEach((x) => x && map.removeLayer(x)); meMarker = meCircle = refMarker = null;
     $("sort").options[0].text = "추천순"; setLocBtn("off"); update();
   }
   function toggleLocate(forceStart) {
     if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요"); return; }
+    if (watchId === null && refMarker) { map.removeLayer(refMarker); refMarker = null; state.me = null; }
     if (watchId !== null && !forceStart) {
       if (!follow && state.me) { follow = true; setLocBtn("follow"); map.setView(state.me, Math.max(map.getZoom(), 16)); return; }
       stopLocate(); return;
@@ -921,7 +975,7 @@
   }
 
   $("locate").addEventListener("click", () => {
-    if (state.me) { stopLocate(); return; }
+    if (state.me && watchId !== null) { stopLocate(); return; }
     state.sort = "level"; $("sort").value = "level";
     if (listOnly() && !NOMAP) setListBig(false);
     toggleLocate(true);
@@ -943,18 +997,93 @@
   const _renderChips = renderChips;
   renderChips = function () { _renderChips(); syncMore(); };
 
-  // 모바일 보기 전환 (지도+목록 ↔ 목록 크게)
-  const viewBtn = $("viewToggle");
-  function setListBig(on) {
-    document.body.classList.toggle("listbig", on);
-    if (viewBtn) viewBtn.textContent = on ? "🗺 지도 보기" : "📋 목록 크게";
-    if (!on) setTimeout(() => map.invalidateSize(), 60);
+  // 모바일 보기: split(지도+목록) / map(지도 크게) / list(목록 크게)
+  function setViewMode(mode) {
+    document.body.classList.toggle("listbig", mode === "list");
+    document.body.classList.toggle("mapbig", mode === "map");
+    document.querySelectorAll("#viewSeg [data-view]").forEach((b) => b.setAttribute("aria-pressed", String(b.dataset.view === mode)));
+    if (mode !== "list") setTimeout(() => map.invalidateSize(), 60);
+    if (mode === "list") hideCard();
   }
-  if (viewBtn) viewBtn.addEventListener("click", () => setListBig(!document.body.classList.contains("listbig")));
+  const setListBig = (on) => setViewMode(on ? "list" : "split");
+  const curMode = () => (document.body.classList.contains("mapbig") ? "map" : document.body.classList.contains("listbig") ? "list" : "split");
+  document.querySelectorAll("#viewSeg [data-view]").forEach((b) => b.addEventListener("click", () => setViewMode(curMode() === b.dataset.view ? "split" : b.dataset.view)));
+
+  // ---- 이 지역 가게만 목록에
+  const AreaCtl = L.Control.extend({
+    options: { position: "topleft" },
+    onAdd() {
+      const b = L.DomUtil.create("button", "areabtn");
+      b.type = "button"; b.textContent = "🔍 이 지역만 목록에";
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", () => { state.inView = !state.inView; b.setAttribute("aria-pressed", String(state.inView)); renderList(current); if (state.inView) toast("지도를 움직이면 화면 안의 가게만 목록에 보여요"); });
+      return b;
+    },
+  });
+  if (!NOMAP) new AreaCtl().addTo(map);
+  let inViewTimer;
+  map.on("moveend", () => { if (state.inView) { clearTimeout(inViewTimer); inViewTimer = setTimeout(() => renderList(current), 150); } });
+
+  // ---- 결과 전체 보기
+  const FitCtl = L.Control.extend({
+    options: { position: "bottomright" },
+    onAdd() {
+      const b = L.DomUtil.create("button", "fitbtn");
+      b.type = "button"; b.title = "결과 전체 보기"; b.textContent = "⤢";
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", () => { if (current.length) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.08), { maxZoom: 15 }); });
+      return b;
+    },
+  });
+  if (!NOMAP) new FitCtl().addTo(map);
+
+  // ---- 길게 누르기(또는 오른쪽 클릭): 여기 기준 가까운순 / 숙소로 저장
+  const HOTEL_LS = "matzip:hotel";
+  let hotel = null, hotelMarker = null, refMarker = null;
+  try { hotel = JSON.parse(localStorage.getItem(HOTEL_LS) || "null"); } catch (e) { /* */ }
+  function refHotelSort() { return state.sort === "hotel" && hotel ? L.latLng(hotel.lat, hotel.lng) : null; }
+  function drawHotel() {
+    if (hotelMarker) { map.removeLayer(hotelMarker); hotelMarker = null; }
+    const opt = document.querySelector('#sort option[value="hotel"]');
+    if (hotel) {
+      hotelMarker = L.marker([hotel.lat, hotel.lng], { icon: L.divIcon({ className: "", html: '<div class="hotel-pin">🏨</div>', iconSize: [34, 34], iconAnchor: [17, 17] }), zIndexOffset: 1500 })
+        .bindPopup('<div class="ctx"><b>🏨 내 숙소</b><button data-ctx="hotelsort">숙소에서 가까운순</button><button data-ctx="hoteldel">숙소 지우기</button></div>').addTo(map);
+      if (!opt) { const o = document.createElement("option"); o.value = "hotel"; o.textContent = "🏨 숙소에서 가까운순"; $("sort").appendChild(o); }
+    } else if (opt) { if (state.sort === "hotel") { state.sort = "level"; $("sort").value = "level"; } opt.remove(); }
+  }
+  if (!NOMAP) drawHotel();
+  map.on("contextmenu", (e) => {
+    L.popup({ closeButton: true, className: "ctxpop" }).setLatLng(e.latlng)
+      .setContent('<div class="ctx"><button data-ctx="here">📍 여기 기준으로 가까운순</button><button data-ctx="hotel">🏨 여기를 숙소로 저장</button></div>')
+      .openOn(map);
+    map._ctxLatLng = e.latlng;
+  });
+  map.getContainer().addEventListener("click", (e) => {
+    const t = e.target.closest("[data-ctx]");
+    if (!t) return;
+    const ll = map._ctxLatLng;
+    if (t.dataset.ctx === "here" && ll) {
+      if (watchId !== null) stopLocate();
+      if (refMarker) map.removeLayer(refMarker);
+      refMarker = L.marker(ll, { icon: L.divIcon({ className: "", html: '<div class="ref-pin">📍</div>', iconSize: [30, 30], iconAnchor: [15, 28] }), zIndexOffset: 1500 }).addTo(map);
+      state.me = ll; state.sort = "level"; $("sort").value = "level"; $("sort").options[0].text = "가까운순 (선택한 곳)";
+      map.closePopup(); update(); if (curMode() === "map") setViewMode("split");
+      toast("선택한 곳에서 가까운 순으로 정렬했어요");
+    }
+    if (t.dataset.ctx === "hotel" && ll) {
+      hotel = { lat: ll.lat, lng: ll.lng };
+      try { localStorage.setItem(HOTEL_LS, JSON.stringify(hotel)); } catch (err) { /* */ }
+      map.closePopup(); drawHotel(); toast("숙소를 저장했어요 — 정렬에서 '숙소에서 가까운순'을 고르세요");
+    }
+    if (t.dataset.ctx === "hotelsort") { state.sort = "hotel"; $("sort").value = "hotel"; map.closePopup(); update(); if (curMode() === "map") setViewMode("split"); }
+    if (t.dataset.ctx === "hoteldel") { hotel = null; try { localStorage.removeItem(HOTEL_LS); } catch (err) { /* */ } map.closePopup(); drawHotel(); update(); }
+  });
 
   // ------------------------------------------------------------------ init
   $("sub").textContent = Object.entries(D.regions).map(([k, v]) => `${v.ko} ${R.filter((r) => r.region === k).length}`).join(" · ") + ` · 총 ${R.length}곳`;
   $("gen").textContent = `데이터 기준일 ${D.generated}`;
+  PIN_STATUS = true;
+  refreshPins();
   update(true, false);
   const hash = decodeURIComponent(location.hash.slice(1));
   if (hash && markers.has(hash)) setTimeout(() => openPlace(hash, true), 100);
