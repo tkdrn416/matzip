@@ -45,6 +45,8 @@
 | 🚭 담배 | 가게마다 **🚭 금연 / 🚪 분연(흡연실 따로) / 💨 가열식 담배만 / 🚬 흡연 가능** 표시(타베로그 「禁煙・喫煙」 기준), 흡연 가능 가게는 빨간 배지 · **🚭 금연·분연만** 필터 |
 | ⏳ 얼마나 기다리나 | **예상 웨이팅** 배지(~15분 / 15~45분 / 45분+), 추천 방문 시간, 번호표·조기 품절 정보 · **웨이팅 짧은 곳** 필터 — 최근 타베로그 후기 등 기반 예상치(실시간 아님) |
 | 📱 예약 | 온라인 예약 가능 → **지금 예약하기** 버튼 (TableCheck·타베로그는 한국어 페이지로) / 전화만 → **📞 전화 버튼** + **🏨 예약 부탁 문구**(날짜·인원 넣으면 호텔 프런트에 보여줄 일본어 문장 생성) |
+| 🗺 지도 | **한국어 지도**(OpenFreeMap 벡터, 지명 한국어 → 없으면 영어) · 폰 다크 모드면 어두운 지도 · 확대하면 핀 아래 **가게 이름·타베로그 점수** · 레이어에서 일본어 OSM/지리원 지도로 전환 |
+| 📍 내 위치 | 지도 오른쪽 아래 **◎**: 파란 점·정확도 원, 걸으면 따라감(지도를 움직이면 멈춤 → ◎ 다시 누르면 복귀, 한 번 더 누르면 끄기) · 목록이 **가까운순**으로 실시간 정렬 |
 | 🧭 이동 | **구글맵 길찾기**(대중교통) · 구글맵에서 보기 — 폰에서는 구글맵 앱으로 바로 열림 |
 | ♥ 동선 짜기 | 찜 → **🗺 찜한 곳 구글맵 경로**(가까운 순으로 이어서 다구간 경로) · **📤 찜 목록 공유** |
 | 🔗 일행과 공유 | 가게별 **일행에게 공유**(카톡 등으로 이름·타베로그·구글맵·예약 링크 전송) |
@@ -245,6 +247,6 @@ Actions 탭 → "구글 평점 채우기 (Google Places)" → Run workflow. 결�
 
 ## 출처·라이선스
 
-- 지도: [Leaflet](https://leafletjs.com/) (BSD-2), [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) (MIT), 타일 © [OpenStreetMap](https://www.openstreetmap.org/copyright) 기여자, [지리원 타일](https://maps.gsi.go.jp/development/ichiran.html)
+- 지도: [Leaflet](https://leafletjs.com/) (BSD-2), [Leaflet.markercluster](https://github.com/Leaflet/Leaflet.markercluster) (MIT), [MapLibre GL JS](https://maplibre.org/) (BSD-3) + [maplibre-gl-leaflet](https://github.com/maplibre/maplibre-gl-leaflet) (ISC), 한국어 벡터 지도 [OpenFreeMap](https://openfreemap.org/) · [OpenMapTiles](https://openmaptiles.org/), 데이터 © [OpenStreetMap](https://www.openstreetmap.org/copyright) 기여자, [지리원 타일](https://maps.gsi.go.jp/development/ichiran.html)
 - 지오코딩: 국토지리원 [주소 검색 API](https://msearch.gsi.go.jp/)
 - 맛집 정보: 각 항목의 `sources` 필드 참고 (타베로그, 미쉐린 가이드, 언론·블로그 등)

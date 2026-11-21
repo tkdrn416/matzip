@@ -1,12 +1,13 @@
 // 오프라인 지원: 한 번 열어 두면 로밍이 끊겨도 목록·상세가 열리도록 앱 파일과 데이터를 저장.
 // 지도 타일은 저장하지 않음(용량). GitHub Pages 등 https 에서만 동작.
-const CACHE = "matzip-v1";
+const CACHE = "matzip-v2";
 const SHELL = [
   "./", "./index.html", "./list.html", "./manifest.webmanifest",
   "./assets/style.css", "./assets/app.js", "./data/restaurants.js",
   "./assets/vendor/leaflet/leaflet.js", "./assets/vendor/leaflet/leaflet.css",
   "./assets/vendor/leaflet/leaflet.markercluster.js", "./assets/vendor/leaflet/MarkerCluster.css",
   "./assets/vendor/leaflet/MarkerCluster.Default.css", "./assets/icons/icon-192.png",
+  "./assets/vendor/maplibre/maplibre-gl.js", "./assets/vendor/maplibre/maplibre-gl.css", "./assets/vendor/maplibre/leaflet-maplibre-gl.js",
 ];
 self.addEventListener("install", (e) => {
   e.waitUntil(caches.open(CACHE).then((c) => c.addAll(SHELL)).then(() => self.skipWaiting()));

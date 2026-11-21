@@ -337,3 +337,33 @@ button, .chip, .cta, a { touch-action: manipulation; }
 .badge.smk { background: #fce8e6; color: #b3261e; font-weight: 700; }
 .badge.smk2 { background: #fff4e5; color: #8a4b00; font-weight: 700; }
 @media (prefers-color-scheme: dark) { .badge.smk { background: #3a1a1a; color: #ff9b9b; } .badge.smk2 { background: #3a2a12; color: #ffc77a; } }
+
+/* =========================================================
+   지도 품질: 핀 이름표, 내 위치 버튼·파란 점
+   ========================================================= */
+.pin-wrap { position: relative; }
+.plabel { display: none; position: absolute; top: 37px; left: 50%; transform: translateX(-50%); white-space: nowrap;
+  font-size: 12px; font-weight: 700; color: #1f1d1a; background: rgba(255,255,255,.92); padding: 1px 6px; border-radius: 6px;
+  box-shadow: 0 1px 3px #0003; pointer-events: none; }
+.plabel b { color: #b25b00; }
+.show-labels .plabel { display: block; }
+.locbtn { width: 46px; height: 46px; border-radius: 50%; border: none; background: #fff; color: #5f6368; font-size: 26px; line-height: 1;
+  box-shadow: 0 2px 8px #0004; cursor: pointer; margin-bottom: 6px !important; }
+.locbtn[data-mode="on"] { color: #1a73e8; }
+.locbtn[data-mode="follow"] { color: #fff; background: #1a73e8; }
+.me-dot { width: 18px; height: 18px; border-radius: 50%; background: #1a73e8; border: 3px solid #fff; box-shadow: 0 0 0 0 #1a73e880; animation: mepulse 2s infinite; }
+@keyframes mepulse { 0% { box-shadow: 0 0 0 0 #1a73e866; } 70% { box-shadow: 0 0 0 14px #1a73e800; } 100% { box-shadow: 0 0 0 0 #1a73e800; } }
+@media (prefers-reduced-motion: reduce) { .me-dot { animation: none; } }
+@media (max-width: 860px) {
+  .leaflet-bottom.leaflet-right { margin-bottom: 0; }
+  .leaflet-control-layers-toggle { width: 40px; height: 40px; }
+}
+@media (prefers-color-scheme: dark) {
+  .plabel { background: rgba(30,27,23,.92); color: #f2eee6; }
+  .plabel b { color: #ffc77a; }
+  .locbtn { background: #1e1b17; color: #c9c0b2; }
+}
+/* 지도 출처 표기: 한 줄·작게 (핀을 가리지 않게) */
+.leaflet-control-attribution { font-size: 10px; line-height: 1.4; padding: 0 5px; background: rgba(255,255,255,.75) !important; max-width: 70vw; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; }
+.maplibregl-ctrl-attrib, .maplibregl-ctrl-logo { display: none !important; } /* 같은 출처를 Leaflet 쪽에 표기 */
+@media (prefers-color-scheme: dark) { .leaflet-control-attribution { background: rgba(20,18,15,.7) !important; color: #b3aa9c; } .leaflet-control-attribution a { color: #8ab4f8; } }

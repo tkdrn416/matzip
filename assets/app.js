@@ -35,16 +35,50 @@
   const $ = (id) => document.getElementById(id);
 
   // ------------------------------------------------------------------ map
-  const map = L.map("map", { zoomControl: true, preferCanvas: false }).setView([34.75, 135.6], 9);
+  const PHONE = window.matchMedia("(max-width: 860px)").matches;
+  const map = L.map("map", { zoomControl: !PHONE, preferCanvas: false, maxZoom: 19 }).setView([34.75, 135.6], 9);
   const osm = L.tileLayer("https://{s}.tile.openstreetmap.org/{z}/{x}/{y}.png", {
     maxZoom: 19,
     attribution: '&copy; <a href="https://www.openstreetmap.org/copyright">OpenStreetMap</a>',
-  }).addTo(map);
+  });
   const gsi = L.tileLayer("https://cyberjapandata.gsi.go.jp/xyz/pale/{z}/{x}/{y}.png", {
     maxZoom: 18,
     attribution: '<a href="https://maps.gsi.go.jp/development/ichiran.html">地理院タイル</a>',
   });
-  L.control.layers({ "OpenStreetMap": osm, "지리원 지도(연한색)": gsi }, null, { position: "topright" }).addTo(map);
+
+  // ---- 한국어 벡터 지도 (OpenFreeMap: 무료·키 없음). 지명은 한국어 → 없으면 일본어
+  const DARK = window.matchMedia("(prefers-color-scheme: dark)");
+  const OFM = (dark) => `https://tiles.openfreemap.org/styles/${dark ? "dark" : "liberty"}`;
+  // 한국어 → 영어(현지 표지판과 같은 로마자) → 일본어 순
+  const KO_LABEL = ["coalesce", ["get", "name:ko"], ["get", "name:en"], ["get", "name:latin"], ["get", "name"]];
+  function koreanize(gl) {
+    try {
+      (gl.getStyle().layers || []).forEach((ly) => {
+        if (ly.type !== "symbol" || !ly.layout || !ly.layout["text-field"]) return;
+        if (!JSON.stringify(ly.layout["text-field"]).includes("name")) return; // 도로 번호 등은 그대로
+        gl.setLayoutProperty(ly.id, "text-field", KO_LABEL);
+      });
+    } catch (e) { /* 스타일 로딩 중 */ }
+  }
+  let koLayer = null;
+  const glOK = !!(window.maplibregl && L.maplibreGL && (!maplibregl.supported || maplibregl.supported()));
+  if (glOK) {
+    koLayer = L.maplibreGL({
+      style: OFM(DARK.matches),
+      attribution: '<a href="https://openfreemap.org" target="_blank">OpenFreeMap</a> · <a href="https://www.openmaptiles.org/" target="_blank">OpenMapTiles</a> · &copy; <a href="https://www.openstreetmap.org/copyright" target="_blank">OSM</a>',
+    });
+    koLayer.addTo(map);
+    const gl = koLayer.getMaplibreMap();
+    gl.on("styledata", () => koreanize(gl));
+    DARK.addEventListener && DARK.addEventListener("change", (e) => { try { gl.setStyle(OFM(e.matches)); } catch (err) { /* */ } });
+  } else {
+    osm.addTo(map); // WebGL 이 안 되면 일반 지도
+  }
+  const bases = {};
+  if (koLayer) bases["한국어 지도"] = koLayer;
+  bases["OpenStreetMap (일본어)"] = osm;
+  bases["지리원 지도(연한색)"] = gsi;
+  L.control.layers(bases, null, { position: "topright" }).addTo(map);
 
   const cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 42, disableClusteringAtZoom: 16, spiderfyOnMaxZoom: true });
   map.addLayer(cluster);
@@ -54,10 +88,15 @@
     const cls = "pin lv" + r.legend_level + (fav.has(r.id) ? " fav" : "");
     return L.divIcon({
       className: "pin-wrap",
-      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div>`,
+      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div><span class="plabel">${esc(r.name_ko)} <b>${Number(r.tabelog_score).toFixed(2)}</b></span>`,
       iconSize: [34, 34], iconAnchor: [17, 17], popupAnchor: [0, -16],
     });
   }
+
+  // 확대하면 핀 아래에 가게 이름·타베로그 점수
+  map.attributionControl.setPrefix(false); // 출처 표기를 한 줄로
+  const syncLabels = () => map.getContainer().classList.toggle("show-labels", map.getZoom() >= 16);
+  map.on("zoomend", syncLabels);
 
   const markers = new Map();
   R.forEach((r) => {
@@ -680,28 +719,68 @@
     Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" });
     $("sort").value = "level";
     state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
-    if (meMarker) { map.removeLayer(meMarker); meMarker = null; }
+    if (watchId !== null) stopLocate();
     update(true);
   });
 
-  let meMarker = null;
+  // ---- 내 위치 (파란 점 + 정확도 원, 따라가기)
+  let meMarker = null, meCircle = null, watchId = null, follow = false, lastSorted = null;
+  const LocateCtl = L.Control.extend({
+    options: { position: "bottomright" },
+    onAdd() {
+      const b = L.DomUtil.create("button", "locbtn");
+      b.type = "button"; b.title = "내 위치"; b.setAttribute("aria-label", "내 위치");
+      b.innerHTML = "◎";
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", () => toggleLocate());
+      this._b = b; return b;
+    },
+  });
+  const locCtl = new LocateCtl().addTo(map);
+  const setLocBtn = (mode) => { locCtl._b.dataset.mode = mode; }; // off | on | follow
+  map.on("dragstart", () => { if (follow) { follow = false; setLocBtn("on"); } });
+  function onPos(pos) {
+    const ll = L.latLng(pos.coords.latitude, pos.coords.longitude), acc = pos.coords.accuracy || 50;
+    if (!meMarker) {
+      meMarker = L.marker(ll, { icon: L.divIcon({ className: "", html: '<div class="me-dot"></div>', iconSize: [18, 18], iconAnchor: [9, 9] }), zIndexOffset: 2000, interactive: false }).addTo(map);
+      meCircle = L.circle(ll, { radius: acc, color: "#1a73e8", weight: 1, fillColor: "#1a73e8", fillOpacity: 0.12, interactive: false }).addTo(map);
+      map.setView(ll, Math.max(map.getZoom(), 16));
+    } else { meMarker.setLatLng(ll); meCircle.setLatLng(ll).setRadius(acc); }
+    if (follow) map.panTo(ll, { animate: true });
+    state.me = ll;
+    // 목록 '가까운순'은 50m 이상 움직였을 때만 다시 정렬 (깜빡임 방지)
+    if (!lastSorted || map.distance(lastSorted, ll) > 50) {
+      lastSorted = ll;
+      $("sort").options[0].text = "가까운순 (내 위치)";
+      if (state.sort === "level") update(); else renderList(current);
+    }
+  }
+  function stopLocate() {
+    if (watchId !== null) navigator.geolocation.clearWatch(watchId);
+    watchId = null; follow = false; state.me = null; lastSorted = null;
+    [meMarker, meCircle].forEach((x) => x && map.removeLayer(x)); meMarker = meCircle = null;
+    $("sort").options[0].text = "추천순"; setLocBtn("off"); update();
+  }
+  function toggleLocate(forceStart) {
+    if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요"); return; }
+    if (watchId !== null && !forceStart) {
+      if (!follow && state.me) { follow = true; setLocBtn("follow"); map.setView(state.me, Math.max(map.getZoom(), 16)); return; }
+      stopLocate(); return;
+    }
+    if (watchId !== null) return;
+    follow = true; setLocBtn("follow");
+    watchId = navigator.geolocation.watchPosition(onPos, (err) => {
+      toast("위치를 가져오지 못했어요 (설정에서 위치 권한 확인): " + err.message);
+      stopLocate();
+    }, { enableHighAccuracy: true, maximumAge: 10000, timeout: 15000 });
+  }
+
   $("locate").addEventListener("click", () => {
-    if (state.me) { state.me = null; $("sort").options[0].text = "추천순"; if (meMarker) { map.removeLayer(meMarker); meMarker = null; } update(); return; }
-    if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요."); return; }
-    $("locate").textContent = "📍 찾는 중…";
-    navigator.geolocation.getCurrentPosition((pos) => {
-      $("locate").textContent = "📍 내 위치순";
-      state.me = L.latLng(pos.coords.latitude, pos.coords.longitude);
-      state.sort = "level"; $("sort").value = "level"; $("sort").options[0].text = "가까운순 (내 위치)";
-      if (meMarker) map.removeLayer(meMarker);
-      meMarker = L.marker(state.me, { icon: L.divIcon({ className: "", html: '<div class="me-dot"></div>', iconSize: [16, 16], iconAnchor: [8, 8] }), zIndexOffset: 1000 }).addTo(map);
-      map.setView(state.me, 15);
-      update();
-      $("list").scrollTop = 0;
-    }, (err) => {
-      $("locate").textContent = "📍 내 위치순";
-      toast("위치를 가져오지 못했어요 (위치 권한 확인): " + err.message);
-    }, { enableHighAccuracy: true, timeout: 10000, maximumAge: 60000 });
+    if (state.me) { stopLocate(); return; }
+    state.sort = "level"; $("sort").value = "level";
+    if (listOnly() && !NOMAP) setListBig(false);
+    toggleLocate(true);
+    $("list").scrollTop = 0;
   });
 
   // 구글 평점 데이터가 거의 없으면(20% 미만) 구글 정렬 옵션 숨김 — 의미 없는 정렬 방지
