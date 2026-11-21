@@ -1,0 +1,737 @@
+#!/usr/bin/env python3
+"""간사이 레전드 맛집 DB 빌드 스크립트 (표준 라이브러리만 사용).
+
+하는 일
+  1. data/restaurants.json (마스터 DB) 검증
+  2. id 가 없는 항목에 id 부여 (osaka-001 ...)
+  3. lat/lng 가 없는 항목은 국토지리원(GSI) 주소 검색 API 로 지오코딩
+     (결과는 data/geocode_cache.json 에 캐시, 마스터 DB 에도 기록)
+  4. 산출물 생성
+     - data/restaurants.js        : 지도 앱(index.html)이 읽는 데이터
+     - data/restaurants.csv       : 엑셀/구글 시트용 (UTF-8 BOM)
+     - data/restaurants.geojson   : GIS/지도 도구용
+     - exports/google-mymaps/*.kml, *.csv : 구글 내 지도(My Maps) 가져오기용
+     - docs/LIST.md               : 깃허브에서 바로 읽는 목록
+
+사용법
+  python3 scripts/build.py              # 검증 + 지오코딩 + 산출물 생성
+  python3 scripts/build.py --offline    # 지오코딩 없이 (좌표 없는 항목은 경고)
+"""
+from __future__ import annotations
+
+import argparse
+import csv
+import datetime as dt
+import html
+import json
+import re
+import sys
+import time
+import unicodedata
+import urllib.parse
+import urllib.request
+from collections import Counter, OrderedDict
+from pathlib import Path
+
+ROOT = Path(__file__).resolve().parent.parent
+DATA = ROOT / "data"
+MASTER = DATA / "restaurants.json"
+CACHE = DATA / "geocode_cache.json"
+
+REGIONS = OrderedDict(
+    osaka={"ko": "오사카", "pref": "大阪府", "tabelog": "osaka", "bbox": (34.25, 135.05, 35.10, 135.75), "color": "#e4572e"},
+    kyoto={"ko": "교토", "pref": "京都府", "tabelog": "kyoto", "bbox": (34.70, 135.05, 35.80, 136.10), "color": "#7b2cbf"},
+    kobe={"ko": "고베", "pref": "兵庫県", "tabelog": "hyogo", "bbox": (34.45, 134.50, 35.10, 135.50), "color": "#1d70b8"},
+    nara={"ko": "나라", "pref": "奈良県", "tabelog": "nara", "bbox": (33.85, 135.55, 34.80, 136.25), "color": "#2a9d55"},
+)
+
+# 선정 근거 종류
+REASON_TYPES = OrderedDict([
+    ("타베로그", "🍽️"), ("유튜브", "▶️"), ("구글", "⭐"), ("미쉐린", "🎖️"),
+    ("수상·백명점", "🏆"), ("노포·원조", "🏯"), ("현지평판", "👥"), ("언론·가이드", "📰"),
+])
+
+# 카테고리: (이모지, 색) — 지도 마커와 필터에 사용
+CATEGORIES = OrderedDict([
+    ("라멘", ("🍜", "#d1495b")),
+    ("스시·해산물", ("🍣", "#ef8354")),
+    ("오코노미야키", ("🥞", "#c97c10")),
+    ("타코야키", ("🐙", "#e36414")),
+    ("쿠시카츠", ("🍢", "#a4161a")),
+    ("야키니쿠·호르몬", ("🥩", "#9d0208")),
+    ("와규·스테이크", ("🐂", "#6a040f")),
+    ("우동·소바", ("🍲", "#bc6c25")),
+    ("튀김·돈카츠·규카츠", ("🍤", "#dda15e")),
+    ("카레", ("🍛", "#b08900")),
+    ("경양식·오므라이스", ("🍳", "#f4a261")),
+    ("일식·카이세키", ("🍱", "#2a9d8f")),
+    ("장어", ("🐟", "#264653")),
+    ("야키토리·닭요리", ("🍗", "#bb3e03")),
+    ("이자카야·다치노미", ("🍶", "#5e548e")),
+    ("중화·교자", ("🥟", "#c1121f")),
+    ("두부·쇼진요리", ("🥢", "#588157")),
+    ("화과자·디저트", ("🍡", "#e56b6f")),
+    ("카페·킷사텐", ("☕", "#6f4518")),
+    ("베이커리", ("🥐", "#b5838d")),
+    ("시장·길거리음식", ("🏮", "#f77f00")),
+    ("기타", ("📍", "#6c757d")),
+])
+
+TAGS = {
+    "노포", "원조", "현지인맛집", "줄서는집", "관광객인기", "한국인인기", "유튜브맛집", "미쉐린", "백명점",
+    "예약필수", "현금만", "혼밥가능", "아침식사", "심야영업", "테이크아웃", "가성비", "고급", "웨이팅김",
+}
+RESERVATION = {"불가", "가능", "권장", "필수", None}
+
+# 예약 방식: 여행자 입장에서 "어떻게 자리를 잡나"
+BOOKING_TYPES = OrderedDict([
+    ("앱예약", "📱"),       # 타베로그·TableCheck·OMAKASE 등 온라인 예약 확인
+    ("전화예약만", "☎️"),   # 예약은 받지만 온라인 예약 없음 → AutoReserve 등 AI 전화대행 활용
+    ("원격줄서기", "🎫"),   # 예약 불가, 앱/웹 번호표로 원격 대기
+    ("현장방문", "🚶"),     # 예약 불가, 가서 줄 서기/바로 입장
+])
+BOOKING_APPS = {
+    "구글예약", "타베로그", "TableCheck", "OMAKASE", "핫페퍼", "잇큐", "구루나비", "포켓컨시어지", "byFood",
+    "공식사이트", "EPARK", "Airウェイト", "LINE",
+}
+
+FIELD_ORDER = [
+    "id", "name_ko", "name_ja", "name_en", "region", "area", "category", "signature", "why", "reasons", "tips",
+    "address_ja", "address_building", "station", "lat", "lng", "geo",
+    "price_level", "price_note", "hours", "closed", "reservation",
+    "booking_type", "booking_apps", "booking_note",
+    "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
+    "google_checked_at", "awards", "youtube", "tags", "legend_level",
+    "sources", "verified_open", "checked_at",
+]
+REQUIRED = ["name_ko", "name_ja", "region", "area", "category", "why", "address_ja", "legend_level"]
+
+PRICE_LABEL = {1: "~1,500엔", 2: "1,500~4,000엔", 3: "4,000~10,000엔", 4: "10,000엔+"}
+LEVEL_LABEL = {3: "필수 레전드", 2: "강력 추천", 1: "추천"}
+
+
+# ---------------------------------------------------------------- utils
+def nfkc(s: str) -> str:
+    return unicodedata.normalize("NFKC", s or "").strip()
+
+
+def load_json(path: Path, default):
+    if path.exists():
+        with path.open(encoding="utf-8") as f:
+            return json.load(f)
+    return default
+
+
+def dump_json(path: Path, obj) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8") as f:
+        json.dump(obj, f, ensure_ascii=False, indent=2)
+        f.write("\n")
+
+
+def ordered(r: dict) -> OrderedDict:
+    out = OrderedDict()
+    for k in FIELD_ORDER:
+        if k in r:
+            out[k] = r[k]
+    for k in r:  # 알 수 없는 필드는 뒤에 보존
+        if k not in out:
+            out[k] = r[k]
+    return out
+
+
+# ---------------------------------------------------------------- validate
+def validate(items: list[dict]) -> list[str]:
+    errors: list[str] = []
+    seen: dict[tuple, str] = {}
+    for i, r in enumerate(items):
+        tag = f"[{i}] {r.get('name_ko') or r.get('name_ja') or '?'}"
+        for k in REQUIRED:
+            if r.get(k) in (None, "", []):
+                errors.append(f"{tag}: 필수 필드 누락 '{k}'")
+        reg = r.get("region")
+        if reg not in REGIONS:
+            errors.append(f"{tag}: region '{reg}' 은 {list(REGIONS)} 중 하나여야 함")
+        elif r.get("address_ja") and not nfkc(r["address_ja"]).startswith(REGIONS[reg]["pref"]):
+            errors.append(f"{tag}: address_ja 가 {REGIONS[reg]['pref']} 로 시작하지 않음 → {r['address_ja']}")
+        if r.get("category") not in CATEGORIES:
+            errors.append(f"{tag}: category '{r.get('category')}' 가 목록에 없음")
+        if r.get("legend_level") not in (1, 2, 3):
+            errors.append(f"{tag}: legend_level 은 1~3")
+        if r.get("price_level") not in (1, 2, 3, 4, None):
+            errors.append(f"{tag}: price_level 은 1~4 또는 null")
+        if r.get("reservation") not in RESERVATION:
+            errors.append(f"{tag}: reservation '{r.get('reservation')}' 은 {RESERVATION}")
+        if r.get("booking_type") not in (*BOOKING_TYPES, None):
+            errors.append(f"{tag}: booking_type '{r.get('booking_type')}' 은 {list(BOOKING_TYPES)} 또는 null")
+        for b in r.get("booking_apps") or []:
+            if not isinstance(b, dict) or not (b.get("app") in BOOKING_APPS or str(b.get("app", "")).startswith("기타:")):
+                errors.append(f"{tag}: booking_apps 항목 이상 → {b}")
+            elif b.get("url") and not re.match(r"^https?://", b["url"]):
+                errors.append(f"{tag}: booking_apps url 이상 → {b['url']}")
+        bad_tags = [t for t in r.get("tags") or [] if t not in TAGS]
+        if bad_tags:
+            errors.append(f"{tag}: 알 수 없는 태그 {bad_tags}")
+        url = r.get("tabelog_url")
+        if url and not re.match(r"^https://tabelog\.com/[a-z]+/A\d{4}/A\d{6}/\d{7,9}/?$", url):
+            errors.append(f"{tag}: tabelog_url 형식 이상 → {url}")
+        score = r.get("tabelog_score")
+        if score is not None and not (isinstance(score, (int, float)) and 3.0 <= score <= 5.0):
+            errors.append(f"{tag}: tabelog_score 범위 이상 → {score}")
+        for rs in r.get("reasons") or []:
+            if not isinstance(rs, dict) or rs.get("type") not in REASON_TYPES or not rs.get("detail"):
+                errors.append(f"{tag}: reasons 항목 이상 → {rs}")
+        g = r.get("google_rating")
+        if g is not None and not (isinstance(g, (int, float)) and 1.0 <= g <= 5.0):
+            errors.append(f"{tag}: google_rating 범위 이상 → {g}")
+        gr = r.get("google_reviews")
+        if gr is not None and not (isinstance(gr, int) and gr >= 0):
+            errors.append(f"{tag}: google_reviews 는 0 이상 정수 → {gr}")
+        for k in ("lat", "lng"):
+            if r.get(k) is not None and not isinstance(r[k], (int, float)):
+                errors.append(f"{tag}: {k} 는 숫자")
+        key = (r.get("region"), nfkc(r.get("name_ja", "")))
+        if key in seen:
+            errors.append(f"{tag}: 중복 (같은 지역·같은 상호) ← {seen[key]}")
+        seen[key] = tag
+        ids = r.get("id")
+        if ids is not None and not re.match(r"^(osaka|kyoto|kobe|nara)-\d{3}$", ids):
+            errors.append(f"{tag}: id 형식 이상 → {ids}")
+    dup_ids = [k for k, v in Counter(r.get("id") for r in items if r.get("id")).items() if v > 1]
+    for d in dup_ids:
+        errors.append(f"id 중복: {d}")
+    return errors
+
+
+def assign_ids(items: list[dict]) -> None:
+    used = {r["id"] for r in items if r.get("id")}
+    counters = Counter()
+    for u in used:
+        reg, n = u.split("-")
+        counters[reg] = max(counters[reg], int(n))
+    for r in items:
+        if not r.get("id"):
+            counters[r["region"]] += 1
+            r["id"] = f"{r['region']}-{counters[r['region']]:03d}"
+            used.add(r["id"])
+
+
+# ---------------------------------------------------------------- geocode
+def clean_address(addr: str) -> str:
+    a = nfkc(addr)
+    a = re.sub(r"\s+", "", a)
+    a = re.sub(r"(?<=\d)[‐‑‒–—―−ーの](?=\d)", "-", a)  # 숫자 사이 각종 대시 통일
+    a = re.sub(r"(\d+)丁目(?=\d)", r"\1-", a)
+    a = re.sub(r"(\d+)番地?(?=\d)", r"\1-", a)
+    a = re.sub(r"(\d+)(?:番地?|号)", r"\1", a)
+    # 번지 뒤의 건물명 제거: 첫 번째 '숫자(-숫자)*' 덩어리까지만 남김
+    m = re.match(r"^(\D*\d+(?:-\d+)*)", a)
+    return m.group(1) if m else a
+
+
+def in_bbox(lat: float, lng: float, bbox) -> bool:
+    s, w, n, e = bbox
+    return s <= lat <= n and w <= lng <= e
+
+
+def gsi_geocode(query: str) -> list[dict]:
+    url = "https://msearch.gsi.go.jp/address-search/AddressSearch?q=" + urllib.parse.quote(query)
+    req = urllib.request.Request(url, headers={"User-Agent": "matzip-builder/1.0"})
+    with urllib.request.urlopen(req, timeout=20) as resp:
+        return json.loads(resp.read().decode("utf-8"))
+
+
+KYOTO_DIR = re.compile(
+    r"(区)\D*?(?:通|筋)\D*(?:上る|下る|上ル|下ル|西入ル|東入ル|西入る|東入る|西入|東入)(?:\d+丁目)?(?:[東西南北]側)?"
+)
+KYOTO_STREET = re.compile(r"(区)[^\d区]+?通(?=\D)")  # 例: 東山区四条通祇園町南側 → 東山区祇園町南側
+ITAIJI = str.maketrans({"斉": "斎", "髙": "高", "﨑": "崎", "邉": "辺", "邊": "辺", "冨": "富", "嶋": "島"})
+FOOD_TYPES = {
+    "restaurant", "cafe", "fast_food", "bar", "pub", "food_court", "ice_cream", "biergarten",
+    "confectionery", "bakery", "pastry", "deli", "tea", "coffee", "seafood", "butcher", "alcohol", "beverages",
+}
+
+
+def is_precise(title: str) -> bool:
+    """GSI 결과가 번지(숫자)까지 매칭됐는지."""
+    return bool(re.search(r"\d+(番地?|号)?$", nfkc(title)))
+
+
+def candidates(addr: str) -> list[str]:
+    q = clean_address(addr)
+    out = [q]
+    # 교토식 주소(○○通××上る/下る/西入/東入 + 町名)는 방향 표기를 빼고 町名+번지로 재시도
+    for pat in (KYOTO_DIR, KYOTO_STREET):
+        alt = clean_address(pat.sub(r"\1", nfkc(addr)))
+        if alt not in out:
+            out.append(alt)
+    # 이체자(異体字) 변형도 시도: 例) 斉藤町 → 斎藤町
+    for c in list(out):
+        v = c.translate(ITAIJI)
+        if v not in out:
+            out.append(v)
+    return out
+
+
+def nominatim_by_name(r: dict, near: dict | None, cache: dict, offline: bool):
+    """GSI 가 번지까지 못 찾은 경우: OpenStreetMap 에서 상호명으로 검색 (음식점 종류 + 같은 구/시 + 근접성 확인)."""
+    addr = nfkc(r["address_ja"])
+    m = re.match(r"^.+?[都道府県](?:.+?郡)?(.+?[市町村])(.+?区)?", addr)
+    ward = (m.group(2) or m.group(1)) if m else ""
+    key = f"nominatim:{nfkc(r['name_ja'])}|{ward}"
+    if key in cache:
+        return cache[key] or None
+    if offline:
+        return None
+    s_, w_, n_, e_ = REGIONS[r["region"]]["bbox"]
+    best = None
+    names = [nfkc(r["name_ja"])]
+    parts = [x for x in re.split(r"[ 　()（）]", names[0]) if x]
+    for x in (parts[0] if parts else "", parts[-1] if parts else ""):  # 例) '葛屋 中井春風堂' → '中井春風堂'
+        if len(x) >= 2 and x not in names:
+            names.append(x)
+    for name in names:
+        url = (
+            "https://nominatim.openstreetmap.org/search?format=jsonv2&limit=5&countrycodes=jp&bounded=1"
+            f"&viewbox={w_},{n_},{e_},{s_}&q=" + urllib.parse.quote(name)
+        )
+        req = urllib.request.Request(url, headers={"User-Agent": "matzip-builder/1.0"})
+        with urllib.request.urlopen(req, timeout=20) as resp:
+            res = json.loads(resp.read().decode("utf-8"))
+        time.sleep(1.1)  # Nominatim 이용 정책: 초당 1회 이하
+        for x in res:
+            if x.get("type") not in FOOD_TYPES:
+                continue
+            if ward and ward not in x.get("display_name", ""):
+                continue
+            lat, lng = float(x["lat"]), float(x["lon"])
+            d = _dist_m(lat, lng, near["lat"], near["lng"]) if near else 0
+            if near and d > 2500:
+                continue
+            if best is None or d < best["_d"]:
+                best = {"lat": round(lat, 6), "lng": round(lng, 6), "title": x["display_name"][:80], "_d": d}
+        if best:
+            break
+    if best:
+        best.pop("_d", None)
+    cache[key] = best or {}
+    return best
+
+
+def _dist_m(a_lat, a_lng, b_lat, b_lng) -> float:
+    import math
+    dy = (a_lat - b_lat) * 111_000
+    dx = (a_lng - b_lng) * 111_000 * math.cos(math.radians(a_lat))
+    return (dx * dx + dy * dy) ** 0.5
+
+
+def lookup(q: str, reg: dict, cache: dict, offline: bool):
+    if q in cache:
+        return cache[q] or None
+    if offline:
+        return None
+    res = gsi_geocode(q)
+    time.sleep(0.3)
+    # GSI 결과 제목에는 '郡' 이 빠지므로 시/정/촌 이름으로 대조 (例: 吉野郡吉野町 → 吉野町)
+    city = re.match(r"^(.+?[都道府県])(?:.+?郡)?(.+?[市町村])", q)
+    hit = None
+    for f in res:
+        lng, lat = f["geometry"]["coordinates"]
+        title = f["properties"]["title"]
+        if not in_bbox(lat, lng, reg["bbox"]):
+            continue
+        if city and city.group(2) not in nfkc(title):
+            continue
+        hit = {"lat": round(lat, 6), "lng": round(lng, 6), "title": title}
+        break
+    cache[q] = hit or {}
+    return hit
+
+
+def geocode(items: list[dict], offline: bool) -> list[str]:
+    cache = load_json(CACHE, {})
+    warnings = []
+    for r in items:
+        if isinstance(r.get("lat"), (int, float)) and isinstance(r.get("lng"), (int, float)):
+            continue
+        reg = REGIONS[r["region"]]
+        best = None
+        try:
+            for q in candidates(r["address_ja"]):
+                hit = lookup(q, reg, cache, offline)
+                if hit and (best is None or (is_precise(hit["title"]) and not is_precise(best["title"]))):
+                    best = hit
+                if best and is_precise(best["title"]):
+                    break
+        except Exception as e:  # noqa: BLE001
+            warnings.append(f"{r['id']} {r['name_ko']}: 지오코딩 실패 ({e})")
+            continue
+        if best and not is_precise(best["title"]):
+            try:
+                osm = nominatim_by_name(r, best, cache, offline)
+            except Exception as e:  # noqa: BLE001
+                osm = None
+                warnings.append(f"{r['id']} {r['name_ko']}: OSM 검색 실패 ({e})")
+            if osm:
+                r["lat"], r["lng"], r["geo"] = osm["lat"], osm["lng"], f"osm:{osm['title']}"
+                continue
+        if best:
+            r["lat"], r["lng"] = best["lat"], best["lng"]
+            r["geo"] = f"gsi:{best['title']}"
+            if not is_precise(best["title"]):
+                warnings.append(f"{r['id']} {r['name_ko']}: 정밀도 낮음 → {best['title']} (주소: {r['address_ja']})")
+        else:
+            warnings.append(f"{r['id']} {r['name_ko']}: 좌표 없음 (주소: {r['address_ja']}) → lat/lng 수동 입력 필요")
+    dump_json(CACHE, dict(sorted(cache.items())))
+    return warnings
+
+
+# ---------------------------------------------------------------- links
+def links(r: dict) -> dict:
+    reg = REGIONS[r["region"]]
+    q = f"{r['name_ja']} {nfkc(r['address_ja'])}"
+    gm = r.get("google_maps_uri") or ("https://www.google.com/maps/search/?api=1&query=" + urllib.parse.quote(q))
+    nav = "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=" + urllib.parse.quote(q)
+    # 타베로그 가게 페이지는 한국어판(/kr/)으로 연결 — 점수·예약 가능 여부를 한국어로 확인 가능
+    tb = (
+        r["tabelog_url"].replace("https://tabelog.com/", "https://tabelog.com/kr/", 1)
+        if r.get("tabelog_url")
+        else f"https://tabelog.com/{reg['tabelog']}/rstLst/?vs=1&sk=" + urllib.parse.quote(r["name_ja"])
+    )
+    yt = "https://www.youtube.com/results?search_query=" + urllib.parse.quote(f"{r['name_ko']} {reg['ko']} 맛집")
+    return {"google_maps": gm, "directions": nav, "tabelog": tb, "tabelog_is_search": not r.get("tabelog_url"), "youtube": yt}
+
+
+def online_label(r: dict) -> str:
+    bt = r.get("booking_type")
+    return "가능" if bt == "앱예약" else ("미확인" if not bt else "불가")
+
+
+def reasons_text(r: dict, sep: str = " / ") -> str:
+    return sep.join(f"[{x['type']}] {x['detail']}" for x in r.get("reasons") or [])
+
+
+def booking_text(r: dict) -> str:
+    bt = r.get("booking_type")
+    if not bt:
+        return ""
+    apps = ", ".join(b["app"] for b in r.get("booking_apps") or [])
+    return f"{BOOKING_TYPES[bt]} {bt}" + (f" ({apps})" if apps else "")
+
+
+# ---------------------------------------------------------------- outputs
+def write_js(items: list[dict], generated: str) -> None:
+    payload = {
+        "generated": generated,
+        "regions": {k: {"ko": v["ko"], "color": v["color"]} for k, v in REGIONS.items()},
+        "categories": [{"name": k, "emoji": e, "color": c} for k, (e, c) in CATEGORIES.items()],
+        "priceLabel": PRICE_LABEL,
+        "bookingTypes": [{"name": k, "emoji": v} for k, v in BOOKING_TYPES.items()],
+        "reasonTypes": [{"name": k, "emoji": v} for k, v in REASON_TYPES.items()],
+        "levelLabel": LEVEL_LABEL,
+        "restaurants": [dict(r, links=links(r)) for r in items if r.get("lat") is not None],
+    }
+    with (DATA / "restaurants.js").open("w", encoding="utf-8") as f:
+        f.write("// 자동 생성 파일 — 직접 수정하지 말고 data/restaurants.json 수정 후 scripts/build.py 실행\n")
+        f.write("window.MATZIP = ")
+        json.dump(payload, f, ensure_ascii=False, separators=(",", ":"))
+        f.write(";\n")
+
+
+CSV_COLS = [
+    "id", "region", "area", "name_ko", "name_ja", "name_en", "category", "signature", "legend_level",
+    "online_booking", "booking_type", "booking_apps", "booking_urls", "booking_note", "reasons",
+    "tabelog_score", "google_rating", "google_reviews",
+    "price_level", "price_note", "hours", "closed", "reservation", "awards", "youtube",
+    "tags", "why", "tips", "address_ja", "address_building", "station", "lat", "lng",
+    "google_maps", "tabelog", "youtube_search", "sources",
+]
+
+
+def row_for_csv(r: dict) -> dict:
+    lk = links(r)
+    return {
+        "id": r["id"], "region": REGIONS[r["region"]]["ko"], "area": r["area"],
+        "name_ko": r["name_ko"], "name_ja": r["name_ja"], "name_en": r.get("name_en") or "",
+        "category": r["category"], "signature": r.get("signature") or "", "legend_level": r["legend_level"],
+        "price_level": r.get("price_level") or "", "price_note": r.get("price_note") or "",
+        "hours": r.get("hours") or "", "closed": r.get("closed") or "", "reservation": r.get("reservation") or "",
+        "online_booking": online_label(r), "reasons": reasons_text(r),
+        "google_rating": r.get("google_rating") or "", "google_reviews": r.get("google_reviews") or "",
+        "booking_type": r.get("booking_type") or "",
+        "booking_apps": " | ".join(b["app"] for b in r.get("booking_apps") or []),
+        "booking_urls": " ".join(b["url"] for b in r.get("booking_apps") or [] if b.get("url")),
+        "booking_note": r.get("booking_note") or "",
+        "tabelog_score": r.get("tabelog_score") or "", "awards": " | ".join(r.get("awards") or []),
+        "youtube": " | ".join(r.get("youtube") or []), "tags": " ".join("#" + t for t in r.get("tags") or []),
+        "why": r["why"], "tips": r.get("tips") or "", "address_ja": r["address_ja"],
+        "address_building": r.get("address_building") or "", "station": r.get("station") or "",
+        "lat": r.get("lat") or "", "lng": r.get("lng") or "",
+        "google_maps": lk["google_maps"], "tabelog": lk["tabelog"], "youtube_search": lk["youtube"],
+        "sources": " ".join(r.get("sources") or []),
+    }
+
+
+def write_csv(path: Path, rows: list[dict], cols: list[str]) -> None:
+    path.parent.mkdir(parents=True, exist_ok=True)
+    with path.open("w", encoding="utf-8-sig", newline="") as f:
+        w = csv.DictWriter(f, fieldnames=cols)
+        w.writeheader()
+        for row in rows:
+            w.writerow({k: row.get(k, "") for k in cols})
+
+
+def write_geojson(items: list[dict]) -> None:
+    feats = []
+    for r in items:
+        if r.get("lat") is None:
+            continue
+        props = {k: v for k, v in r.items() if k not in ("lat", "lng")}
+        props["links"] = links(r)
+        feats.append({"type": "Feature", "geometry": {"type": "Point", "coordinates": [r["lng"], r["lat"]]}, "properties": props})
+    dump_json(DATA / "restaurants.geojson", {"type": "FeatureCollection", "features": feats})
+
+
+def description_html(r: dict) -> str:
+    lk = links(r)
+    e = html.escape
+    parts = [
+        f"<b>{e(r['category'])}</b> · {e(r['area'])} · {'★' * r['legend_level']} {e(LEVEL_LABEL[r['legend_level']])}",
+        f"<b>대표 메뉴</b> {e(r.get('signature') or '-')}",
+        e(r["why"]),
+    ]
+    if r.get("reasons"):
+        parts.append("<b>선정 이유</b><br>" + "<br>".join(f"{REASON_TYPES[x['type']]} {e(x['detail'])}" for x in r["reasons"]))
+    parts.insert(1, f"<b>온라인 예약 {online_label(r)}</b>" + (f" · {e(booking_text(r))}" if r.get("booking_type") else ""))
+    if r.get("tips"):
+        parts.append(f"<b>팁</b> {e(r['tips'])}")
+    meta = []
+    if r.get("price_note") or r.get("price_level"):
+        meta.append(f"가격 {e(r.get('price_note') or PRICE_LABEL[r['price_level']])}")
+    if r.get("hours"):
+        meta.append(f"영업 {e(r['hours'])}")
+    if r.get("closed"):
+        meta.append(f"휴무 {e(r['closed'])}")
+    if r.get("booking_type"):
+        meta.append(f"예약 {e(booking_text(r))}")
+    elif r.get("reservation"):
+        meta.append(f"예약 {e(r['reservation'])}")
+    if r.get("tabelog_score"):
+        meta.append(f"타베로그 {r['tabelog_score']}")
+    if r.get("google_rating"):
+        meta.append(f"구글 {r['google_rating']}" + (f" ({r['google_reviews']:,})" if r.get("google_reviews") else ""))
+    if meta:
+        parts.append(" / ".join(meta))
+    if r.get("booking_note"):
+        parts.append(f"<b>예약 팁</b> {e(r['booking_note'])}")
+    book_links = [f'<a href="{e(b["url"])}">{e(b["app"])} 예약</a>' for b in r.get("booking_apps") or [] if b.get("url")]
+    if book_links:
+        parts.append(" · ".join(book_links))
+    if r.get("awards"):
+        parts.append("🏆 " + e(", ".join(r["awards"])))
+    parts.append(f"{e(r['name_ja'])}<br>{e(r['address_ja'])} {e(r.get('address_building') or '')}")
+    parts.append(f'<a href="{e(lk["tabelog"])}">타베로그</a> · <a href="{e(lk["youtube"])}">유튜브</a>')
+    return "<br><br>".join(parts)
+
+
+def write_mymaps(items: list[dict]) -> None:
+    out = ROOT / "exports" / "google-mymaps"
+    out.mkdir(parents=True, exist_ok=True)
+    for reg, meta in REGIONS.items():
+        rs = [r for r in items if r["region"] == reg and r.get("lat") is not None]
+        if not rs:
+            continue
+        # KML
+        lines = [
+            '<?xml version="1.0" encoding="UTF-8"?>',
+            '<kml xmlns="http://www.opengis.net/kml/2.2"><Document>',
+            f"<name>{html.escape(meta['ko'])} 레전드 맛집</name>",
+        ]
+        for r in rs:
+            lines.append(
+                "<Placemark>"
+                f"<name>{html.escape(r['name_ko'])} ({html.escape(r['name_ja'])})</name>"
+                f"<description><![CDATA[{description_html(r)}]]></description>"
+                "<ExtendedData>"
+                f'<Data name="카테고리"><value>{html.escape(r["category"])}</value></Data>'
+                f'<Data name="등급"><value>{"★" * r["legend_level"]}</value></Data>'
+                f'<Data name="지역"><value>{html.escape(r["area"])}</value></Data>'
+                "</ExtendedData>"
+                f"<Point><coordinates>{r['lng']},{r['lat']},0</coordinates></Point>"
+                "</Placemark>"
+            )
+        lines.append("</Document></kml>")
+        (out / f"{reg}.kml").write_text("\n".join(lines) + "\n", encoding="utf-8")
+        # CSV (My Maps 에서 '카테고리' 열로 스타일 지정 가능)
+        rows = [
+            {
+                "이름": f"{r['name_ko']} ({r['name_ja']})", "위도": r["lat"], "경도": r["lng"],
+                "카테고리": r["category"], "등급": "★" * r["legend_level"], "지역": r["area"],
+                "온라인예약": online_label(r), "선정이유": reasons_text(r),
+                "대표메뉴": r.get("signature") or "", "설명": r["why"], "팁": r.get("tips") or "",
+                "가격": r.get("price_note") or PRICE_LABEL.get(r.get("price_level"), ""),
+                "영업시간": r.get("hours") or "", "휴무": r.get("closed") or "",
+                "예약방식": r.get("booking_type") or "미확인",
+                "예약앱": ", ".join(b["app"] for b in r.get("booking_apps") or []),
+                "예약링크": " ".join(b["url"] for b in r.get("booking_apps") or [] if b.get("url")),
+                "주소": r["address_ja"], "타베로그": links(r)["tabelog"],
+            }
+            for r in rs
+        ]
+        write_csv(out / f"{reg}.csv", rows, list(rows[0].keys()))
+
+
+def write_list_md(items: list[dict], generated: str) -> None:
+    lines = [
+        "# 간사이 레전드 맛집 목록",
+        "",
+        f"> 자동 생성 ({generated}) · 총 {len(items)}곳 · ★★★ 필수 레전드 / ★★ 강력 추천 / ★ 추천",
+        "> 온라인 예약: ✅ 가능 / 🚫 불가(☎️ 전화예약만 · 🎫 원격줄서기 · 🚶 현장방문) / ❔ 미확인 — 앱 사용법은 [README 예약 앱 가이드](../README.md#-예약-앱-가이드)",
+        "> 영업시간·휴무는 수시로 바뀌니 방문 전 구글 지도/타베로그에서 꼭 다시 확인하세요.",
+        "",
+        "**바로가기:** " + " · ".join(f"[{m['ko']}](#{m['ko']}-{sum(1 for r in items if r['region'] == k)}곳)" for k, m in REGIONS.items() if any(r["region"] == k for r in items)),
+        "",
+    ]
+    for reg, meta in REGIONS.items():
+        rs = [r for r in items if r["region"] == reg]
+        if not rs:
+            continue
+        lines += [f"## {meta['ko']} ({len(rs)}곳)", ""]
+        # 한눈에 보기 표
+        lines += ["| 등급 | 가게 | 종류 | 지역 | 온라인 예약 | 타베로그 | 구글 |", "|---|---|---|---|---|---:|---:|"]
+        for r in sorted(rs, key=lambda x: (-x["legend_level"], x["area"], x["name_ko"])):
+            ob = online_label(r)
+            ob = "✅ 가능" if ob == "가능" else ("❔" if ob == "미확인" else f"🚫 {BOOKING_TYPES[r['booking_type']]} {r['booking_type']}")
+            g = f"{r['google_rating']}" + (f" ({r['google_reviews']:,})" if r.get("google_reviews") else "") if r.get("google_rating") else ""
+            lines.append(
+                f"| {'★' * r['legend_level']} | [{r['name_ko']}](#{r['id']}) | {CATEGORIES[r['category']][0]} {r['category']} | {r['area']} "
+                f"| {ob} | {r.get('tabelog_score') or ''} | {g} |"
+            )
+        lines.append("")
+        areas = OrderedDict()
+        for r in sorted(rs, key=lambda x: (x["area"], -x["legend_level"], x["name_ko"])):
+            areas.setdefault(r["area"], []).append(r)
+        for area, ars in areas.items():
+            lines += [f"### {area}", ""]
+            for r in ars:
+                lk = links(r)
+                lines.append(f'<a id="{r["id"]}"></a>')
+                lines.append(f"#### {'★' * r['legend_level']} {r['name_ko']} ({r['name_ja']}) — {CATEGORIES[r['category']][0]} {r['category']}")
+                lines.append("")
+                lines.append(f"{r['why']}")
+                lines.append("")
+                if r.get("reasons"):
+                    lines.append("**선정 이유**")
+                    for x in r["reasons"]:
+                        d = f"[{x['detail']}]({x['url']})" if x.get("url") else x["detail"]
+                        lines.append(f"- {REASON_TYPES[x['type']]} **{x['type']}** {d}")
+                    lines.append("")
+                ob = online_label(r)
+                if ob == "가능":
+                    apps = ", ".join(f"[{b['app']}]({b['url']})" if b.get("url") else b["app"] for b in r.get("booking_apps") or [])
+                    lines.append(f"- **온라인 예약: ✅ 가능** {('· ' + apps) if apps else ''}")
+                elif ob == "불가":
+                    lines.append(f"- **온라인 예약: 🚫 불가** · {BOOKING_TYPES[r['booking_type']]} {r['booking_type']}")
+                else:
+                    lines.append("- **온라인 예약: ❔ 미확인**")
+                if r.get("booking_note"):
+                    lines.append(f"- 예약 팁: {r['booking_note']}")
+                if r.get("signature"):
+                    lines.append(f"- 대표 메뉴: {r['signature']}")
+                price = r.get("price_note") or PRICE_LABEL.get(r.get("price_level"), "")
+                if price:
+                    lines.append(f"- 가격: {price}")
+                hc = " / ".join(x for x in [r.get("hours") and f"영업 {r['hours']}", r.get("closed") and f"휴무 {r['closed']}"] if x)
+                if hc:
+                    lines.append(f"- {hc}")
+                if r.get("tips"):
+                    lines.append(f"- 💡 {r['tips']}")
+                if r.get("station"):
+                    lines.append(f"- 🚃 {r['station']}")
+                lines.append(f"- [구글 지도]({lk['google_maps']}) · [길찾기]({lk['directions']}) · [타베로그]({lk['tabelog']}) · [유튜브]({lk['youtube']})")
+                lines.append("")
+    (ROOT / "docs").mkdir(exist_ok=True)
+    (ROOT / "docs" / "LIST.md").write_text("\n".join(lines), encoding="utf-8")
+
+def write_readme_stats(items: list[dict], generated: str) -> None:
+    readme = ROOT / "README.md"
+    if not readme.exists():
+        return
+    text = readme.read_text(encoding="utf-8")
+    start, end = "<!-- STATS:START -->", "<!-- STATS:END -->"
+    if start not in text or end not in text:
+        return
+    by_reg = Counter(r["region"] for r in items)
+    lv3 = Counter(r["region"] for r in items if r["legend_level"] == 3)
+    cats = Counter(r["category"] for r in items)
+    lines = [
+        start,
+        f"**총 {len(items)}곳** (데이터 기준일 {generated})",
+        "",
+        "| 지역 | 맛집 수 | ★★★ 필수 레전드 |",
+        "|---|---:|---:|",
+    ]
+    for k, meta in REGIONS.items():
+        if by_reg[k]:
+            lines.append(f"| {meta['ko']} | {by_reg[k]} | {lv3[k]} |")
+    on = Counter(online_label(r) for r in items)
+    lines += ["", f"**온라인 예약 가능 {on['가능']}곳** · 불가 {on['불가']}곳 · 미확인 {on['미확인']}곳"]
+    bts = Counter(r.get("booking_type") or "미확인" for r in items)
+    lines += ["", "예약: " + " · ".join(f"{BOOKING_TYPES.get(k, '❔')} {k} {bts[k]}" for k in [*BOOKING_TYPES, "미확인"] if bts[k])]
+    lines += ["", "카테고리: " + " · ".join(f"{CATEGORIES[c][0]} {c} {n}" for c, n in cats.most_common()), end]
+    head, rest = text.split(start, 1)
+    _, tail = rest.split(end, 1)
+    readme.write_text(head + "\n".join(lines) + tail, encoding="utf-8")
+
+
+# ---------------------------------------------------------------- main
+def main() -> int:
+    ap = argparse.ArgumentParser()
+    ap.add_argument("--offline", action="store_true", help="지오코딩 API 호출 안 함")
+    args = ap.parse_args()
+
+    items = load_json(MASTER, [])
+    errors = validate(items)
+    if errors:
+        print("❌ 검증 실패:")
+        for e in errors:
+            print("  -", e)
+        return 1
+
+    assign_ids(items)
+    warnings = geocode(items, args.offline)
+    # 타베로그 점수는 필수 (사용자 요구사항) — 빠진 곳은 경고
+    for r in items:
+        if r.get("tabelog_score") is None:
+            warnings.append(f"{r['id']} {r['name_ko']}: 타베로그 점수 없음 (필수)")
+        elif not r.get("tabelog_url"):
+            warnings.append(f"{r['id']} {r['name_ko']}: 타베로그 URL 없음")
+    for r in items:
+        r.setdefault("checked_at", dt.date.today().isoformat())
+
+    region_rank = {k: i for i, k in enumerate(REGIONS)}
+    items.sort(key=lambda r: (region_rank[r["region"]], int(r["id"].split("-")[1])))
+    dump_json(MASTER, [ordered(r) for r in items])
+
+    generated = dt.date.today().isoformat()
+    write_js(items, generated)
+    write_csv(DATA / "restaurants.csv", [row_for_csv(r) for r in items], CSV_COLS)
+    write_geojson(items)
+    write_mymaps(items)
+    write_list_md(items, generated)
+    write_readme_stats(items, generated)
+
+    by_reg = Counter(REGIONS[r["region"]]["ko"] for r in items)
+    by_cat = Counter(r["category"] for r in items)
+    print(f"✅ {len(items)}곳 빌드 완료: " + ", ".join(f"{k} {v}" for k, v in by_reg.items()))
+    print("   카테고리: " + ", ".join(f"{k} {v}" for k, v in by_cat.most_common()))
+    print("   예약: " + ", ".join(f"{k} {v}" for k, v in Counter(r.get("booking_type") or "미확인" for r in items).most_common()))
+    if warnings:
+        print(f"⚠️  경고 {len(warnings)}건:")
+        for w in warnings:
+            print("  -", w)
+    return 0
+
+
+if __name__ == "__main__":
+    sys.exit(main())
