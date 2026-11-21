@@ -27,6 +27,8 @@ import json
 import os
 import sys
 import time
+import math
+import unicodedata
 import urllib.error
 import urllib.request
 from pathlib import Path
@@ -60,6 +62,31 @@ def search(key: str, r: dict) -> dict | None:
     return places[0] if places else None
 
 
+def dist_m(a_lat, a_lng, b_lat, b_lng) -> float:
+    dy = (a_lat - b_lat) * 111_000
+    dx = (a_lng - b_lng) * 111_000 * math.cos(math.radians(a_lat))
+    return math.hypot(dx, dy)
+
+
+def same_place(r: dict, p: dict) -> tuple[bool, str]:
+    """엉뚱한 가게를 붙이지 않도록: 좌표 300m 이내 + 상호 일부 일치."""
+    loc = p.get("location") or {}
+    if isinstance(r.get("lat"), (int, float)) and loc:
+        d = dist_m(r["lat"], r["lng"], loc.get("latitude", 0), loc.get("longitude", 0))
+        if d > 300:
+            return False, f"거리 {d:.0f}m"
+    norm = lambda x: unicodedata.normalize("NFKC", x or "").replace(" ", "").lower()
+    a, b = norm(r["name_ja"]), norm((p.get("displayName") or {}).get("text"))
+    core = [t for t in __import__("re").split(r"[\s()（）・]", unicodedata.normalize("NFKC", r["name_ja"])) if len(t) >= 2]
+    if not (a in b or b in a or any(norm(t) in b for t in core)):
+        return False, f"상호 불일치({b})"
+    return True, ""
+
+
+def save(items: list) -> None:
+    MASTER.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+
+
 def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only-missing", action="store_true")
@@ -82,11 +109,20 @@ def main() -> int:
         except urllib.error.HTTPError as e:
             print(f"❌ {r['id']} {r['name_ko']}: HTTP {e.code} {e.read()[:200]!r}")
             if e.code in (400, 401, 403):
+                if not args.dry_run and changed:
+                    save(items)
                 return 1
+            continue
+        except (urllib.error.URLError, TimeoutError) as e:
+            print(f"⚠️  {r['id']} {r['name_ko']}: 네트워크 오류 {e} — 건너뜀")
             continue
         time.sleep(0.2)
         if not p:
             print(f"❔ {r['id']} {r['name_ko']}: 구글에서 못 찾음")
+            continue
+        ok, why = same_place(r, p)
+        if not ok:
+            print(f"❔ {r['id']} {r['name_ko']}: 다른 가게로 보여 건너뜀 ({why})")
             continue
         name = (p.get("displayName") or {}).get("text", "")
         rating, count = p.get("rating"), p.get("userRatingCount")
@@ -106,9 +142,11 @@ def main() -> int:
         if p.get("reservable") and r.get("booking_type") != "앱예약":
             print(f"   ℹ️  구글은 '예약 가능'으로 표시 — booking_type({r.get('booking_type')}) 재확인 권장")
         changed += 1
+        if not args.dry_run and changed % 20 == 0:
+            save(items)  # 중간 저장
 
     if not args.dry_run:
-        MASTER.write_text(json.dumps(items, ensure_ascii=False, indent=2) + "\n", encoding="utf-8")
+        save(items)
     print(f"완료: {changed}곳 갱신" + (" (dry-run)" if args.dry_run else ""))
     return 0
 

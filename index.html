@@ -4,7 +4,7 @@
   <meta charset="utf-8">
   <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
   <title>간사이 레전드 맛집 지도 · 오사카 교토 고베 나라</title>
-  <meta name="description" content="오사카·교토·고베·나라 레전드 맛집 DB와 지도 (타베로그·미쉐린·유튜브·구글지도 기반)">
+  <meta name="description" content="오사카·교토·고베·나라 레전드 맛집 DB와 지도 (타베로그 점수·미쉐린·노포 기준, 온라인 예약·웨이팅·영업시간)">
   <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>🍜</text></svg>">
   <link rel="stylesheet" href="assets/vendor/leaflet/leaflet.css">
   <link rel="stylesheet" href="assets/vendor/leaflet/MarkerCluster.css">
@@ -23,20 +23,26 @@
         <input id="q" class="search" type="search" placeholder="가게·메뉴·지역 검색 (예: 라멘, 난바, 551)" autocomplete="off">
         <div class="chips" id="regionChips" role="group" aria-label="지역"></div>
         <div class="chips scroll" id="areaChips" role="group" aria-label="세부 지역" hidden></div>
-        <div class="chips scroll" id="catChips" role="group" aria-label="카테고리"></div>
-        <div class="chips" id="bookChips" role="group" aria-label="예약 방식"></div>
-        <div class="row">
-          <div class="chips" id="levelChips" role="group" aria-label="등급"></div>
-          <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
-        </div>
-        <div class="row">
+        <div class="row quick">
           <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 영업 중</button>
-          <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
-          <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
-          <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
-          <button class="chip toggle" id="hideVisited" aria-pressed="false">✓ 방문한 곳 숨기기</button>
+          <button class="chip toggle" id="easyWait" aria-pressed="false">⏳ 웨이팅 짧은 곳</button>
           <button class="chip" id="locate">📍 내 위치순</button>
-          <button class="chip" id="reset">초기화</button>
+          <button class="chip more" id="moreFilters">필터 더보기 ▾</button>
+        </div>
+        <div class="secondary">
+          <div class="chips scroll" id="catChips" role="group" aria-label="카테고리"></div>
+          <div class="chips" id="bookChips" role="group" aria-label="예약 방식"></div>
+          <div class="row">
+            <div class="chips" id="levelChips" role="group" aria-label="등급"></div>
+            <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
+          </div>
+          <div class="row">
+            <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
+            <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
+            <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
+            <button class="chip toggle" id="hideVisited" aria-pressed="false">✓ 방문한 곳 숨기기</button>
+            <button class="chip" id="reset">초기화</button>
+          </div>
         </div>
       </div>
 
@@ -61,6 +67,8 @@
       <div id="map" aria-label="맛집 지도"></div>
     </main>
   </div>
+
+  <div id="toast" class="toast" role="status" hidden></div>
 
   <dialog id="dlg" class="dlg">
     <h3 id="dlgTitle"></h3>
