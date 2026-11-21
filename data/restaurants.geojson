@@ -121,14 +121,20 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점",
+          "구글 4.4",
+          "유튜브",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270107/27002949/",
           "https://award.tabelog.com/hyakumeiten/tachinomi/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11050747874980278285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -256,14 +262,19 @@
           "현지인맛집"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.91",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270107/27090232/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -358,14 +369,19 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.16",
+          "백명점",
+          "Tabelog Award"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27057420/",
           "https://award.tabelog.com/hyakumeiten/sushi_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5850482256756436459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -482,14 +498,18 @@
           "현지인맛집"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.97",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27118018/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8786908061230927811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -632,14 +652,20 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.90",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27077650/",
           "https://award.tabelog.com/hyakumeiten/japanese_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -763,14 +789,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27002139/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5303543436378541206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -883,14 +913,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27016897/",
           "https://award.tabelog.com/hyakumeiten/izakaya_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14654312220387651662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1026,6 +1060,13 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27003404/",
           "https://award.tabelog.com/hyakumeiten/sweets_west/2026",
@@ -1033,8 +1074,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8178627238361474125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1158,14 +1197,19 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270106/27001820/",
           "https://award.tabelog.com/hyakumeiten/kissaten/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4215713606756217002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1288,14 +1332,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27003694/",
           "https://award.tabelog.com/hyakumeiten/curry_west/2024"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14947109176181255086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1421,14 +1470,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27015618/",
           "https://award.tabelog.com/hyakumeiten/curry_west/2024"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8174338616631393474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1561,14 +1615,18 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27073991/",
           "https://award.tabelog.com/hyakumeiten/curry_west/2024"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6141230116087474371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1695,14 +1753,19 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270106/27012545/",
           "https://award.tabelog.com/hyakumeiten/curry_west/2024"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9870686394993745535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -1843,6 +1906,12 @@
           "예약필수"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27000015/",
           "https://www.mimiu.co.jp/pages/honten",
@@ -1850,8 +1919,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -1998,14 +2065,19 @@
           "현지인맛집"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.92",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27104891/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -2134,14 +2206,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.74",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27003232/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1480996770654964846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -2272,14 +2348,17 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27091193/",
           "https://award.tabelog.com/hyakumeiten/sweets_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5052839548583722300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -2435,14 +2514,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27067874/",
           "https://award.tabelog.com/hyakumeiten/udon_west/2024"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -2584,6 +2667,12 @@
           "미쉐린"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270406/27001123/",
           "https://www.aiduya.com/",
@@ -2591,8 +2680,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -2734,14 +2821,19 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점",
+          "구글 4.7"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27019100/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12697853774598797665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -2878,14 +2970,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270301/27064584/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6418836266917594457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -2990,14 +3087,19 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001576/",
           "https://award.tabelog.com/hyakumeiten/wagashi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17193496079202062229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3163,14 +3265,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27072765/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11833311574059077621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3291,14 +3398,17 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27013511/",
           "https://takoume.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5675327647209572366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3429,13 +3539,18 @@
           "유튜브맛집"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "구글 4.2",
+          "유튜브",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001312/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2120556066066794875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3565,14 +3680,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001289/",
           "https://www.d-imai.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18399770083682177411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3712,6 +3832,12 @@
           "줄서는집"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27002336/",
           "https://www.rikuro.co.jp/shoplist/134.html",
@@ -3719,8 +3845,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [
             {
@@ -3856,14 +3980,17 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001278/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14993068628475195202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -3993,6 +4120,12 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "노포·원조",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001310/",
           "https://www.jiyuken.co.jp/",
@@ -4000,8 +4133,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=365342684045844433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -4130,14 +4261,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "백명점",
+          "구글 4.9"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001305/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -4273,14 +4409,18 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.3",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27015375/",
           "https://ja.wikipedia.org/wiki/夫婦善哉_(小説)"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12187781741516759471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -4409,14 +4549,18 @@
           "아침식사"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27005758/",
           "https://award.tabelog.com/hyakumeiten/kissaten"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16910750404935257493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -4547,14 +4691,20 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001511/",
           "https://award.tabelog.com/hyakumeiten/kissaten"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17566366636701267772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -4710,14 +4860,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001308/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=716891188368770783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -4876,6 +5031,12 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001250/",
           "https://www.harijyu.co.jp/",
@@ -4883,8 +5044,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -5016,14 +5175,19 @@
           "백명점"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.55",
+          "백명점",
+          "Tabelog Award"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001286/",
           "https://award.tabelog.com/hyakumeiten/japanese_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4139773270745534990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -5107,14 +5271,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27123561/",
           "https://award.tabelog.com/hyakumeiten/tempura"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -5245,14 +5413,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001538/",
           "https://award.tabelog.com/hyakumeiten/sweets_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -5415,14 +5588,20 @@
           "백명점"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점",
+          "Tabelog Award",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2705/A270501/27001079/",
           "https://award.tabelog.com/hyakumeiten/sushi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -5561,14 +5740,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2705/A270501/27001078/",
           "https://award.tabelog.com/hyakumeiten/wagashi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5321635333233198905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -5697,6 +5881,13 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27002763/",
           "https://ja.wikipedia.org/wiki/肉吸い_(料理)",
@@ -5704,8 +5895,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4741825626377761725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -5843,14 +6032,19 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27002665/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=806559085317412531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6003,14 +6197,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27084754/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4091417499978083138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6146,14 +6344,18 @@
           "미쉐린"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27002320/",
           "https://takoyaki-wanaka.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14307774044429847286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6288,14 +6490,18 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001274/",
           "https://ja.wikipedia.org/wiki/オムライス"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7101572526531839344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6447,14 +6653,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27001834/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12921712387673618451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6591,6 +6801,14 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27000931/",
           "https://ja.wikipedia.org/wiki/きつねうどん",
@@ -6598,8 +6816,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13100384311338914887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6727,14 +6943,20 @@
           "백명점"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.23",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27000411/",
           "https://award.tabelog.com/hyakumeiten/sushi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16891895298749739451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6857,14 +7079,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27000889/",
           "https://award.tabelog.com/hyakumeiten/sukiyaki_shabushabu"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=568154845182932388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -6991,13 +7218,17 @@
           "미쉐린"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "미쉐린"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27000578/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -7139,14 +7370,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270201/27134224/",
           "https://award.tabelog.com/hyakumeiten/tonkatsu"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -7284,14 +7519,17 @@
           "줄서는집"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27004260/",
           "https://ja.wikipedia.org/wiki/串カツ"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17209588581346616951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -7448,14 +7686,18 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27001105/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18159818243211090275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -7606,14 +7848,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27005006/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=938185873184974134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -7740,13 +7986,16 @@
           "웨이팅김"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27000443/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5223555477227955972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -7841,14 +8090,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270205/27000561/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5138672742046468206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -7977,14 +8231,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270205/27000564/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17307329987200885888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8110,14 +8368,19 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270205/27000560/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10995549564776691126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8273,14 +8536,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270203/27059500/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12287819238588015693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8423,14 +8691,19 @@
           "현지인맛집"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.74",
+          "백명점",
+          "Tabelog Award"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270104/27081196/",
           "https://award.tabelog.com/hyakumeiten/unagi/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16057071794334039410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8482,6 +8755,7 @@
         "address_building": "大阪駅前地下街6号",
         "station": "한신 오사카우메다역 동쪽 개찰구 앞(지하 2층)",
         "phone": "+81-6-6342-7890",
+        "geo": "gsi:大阪府大阪市北区梅田三丁目",
         "price_level": 1,
         "price_note": "~999엔(타베로그)",
         "hours": "07:00-22:00",
@@ -8562,15 +8836,19 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27013772/",
           "https://award.tabelog.com/hyakumeiten/sweets_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
-        "geo": "gsi:大阪府大阪市北区梅田三丁目",
         "links": {
           "booking": [],
           "google_maps": "https://www.google.com/maps/search/?api=1&query=%E6%A2%85%E7%94%B0%20%E3%83%9F%E3%83%83%E3%82%AF%E3%82%B9%E3%82%B8%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B03",
@@ -8706,14 +8984,20 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27000322/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16710215185814148984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8843,13 +9127,16 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27001927/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6320722990641199318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -8993,13 +9280,17 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27012248/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11352409233880323705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -9123,14 +9414,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27002290/",
           "https://award.tabelog.com/hyakumeiten/tonkatsu/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -9288,14 +9583,19 @@
           "줄서는집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270204/27060944/",
           "https://award.tabelog.com/hyakumeiten/curry_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17362797368194333286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -9428,14 +9728,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270205/27104509/",
           "https://award.tabelog.com/hyakumeiten/sushi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1811395221721162600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -9563,6 +9867,13 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.83",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270105/27001084/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025",
@@ -9570,8 +9881,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4715903537433432411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -9713,6 +10022,15 @@
           "백명점"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.34",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27015488/",
           "https://award.tabelog.com/hyakumeiten/creative_innovative/2025",
@@ -9721,8 +10039,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -9878,14 +10194,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.62",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270102/27000267/",
           "https://award.tabelog.com/hyakumeiten/tempura/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10577160605727765595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10028,14 +10348,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270302/27000981/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17140013327103955808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10165,13 +10490,17 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270302/27004531/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8498471591387799166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10304,14 +10633,20 @@
           "줄서는집"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27002698/",
           "https://gigazine.net/news/20140329-endo-sushi"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7968571347243365068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10443,13 +10778,18 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27002205/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6656831565755969603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10581,14 +10921,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27002291/",
           "https://yakiniku-manryo-minamimorimachi.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -10734,14 +11079,20 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.65",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27002204/",
           "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14467874836275969506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -10863,14 +11214,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27000671/",
           "https://award.tabelog.com/hyakumeiten/steak_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -11019,14 +11374,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27040987/",
           "https://award.tabelog.com/hyakumeiten/unagi/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1383055371007821358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -11170,14 +11530,17 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270103/27002221/",
           "https://award.tabelog.com/hyakumeiten/chinese_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13900929053598510750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -11312,14 +11675,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27093282/",
           "https://award.tabelog.com/hyakumeiten/tempura/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -11477,14 +11844,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27091454/",
           "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15211390249895172293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -11607,13 +11979,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27001234/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -11750,14 +12126,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270108/27003802/",
           "https://award.tabelog.com/hyakumeiten/wagashi_west/2026"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7562697388417744909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -11877,14 +12258,17 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270201/27013496/",
           "https://www.youtube.com/watch?v=jogtpBx1cC4"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12237864819201507057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12008,6 +12392,11 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270201/27083055/",
           "https://www.waug.com/ko/magazines/552",
@@ -12015,8 +12404,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10092584069688419764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12166,14 +12553,18 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.4",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270206/27045066/",
           "https://zakruti.com/food/markwiens/video-16340"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10631297181652875660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12314,14 +12705,17 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27000442/",
           "https://tabelog.com/en/osaka/A2701/A270206/rstLst/kushiage/?SrtT=rt"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5198892808408323011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12471,6 +12865,13 @@
           "심야영업"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.4",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270205/27103780/",
           "https://www.cdqjp.com/info/34612feb-9764-47ae-bfcf-289b10e120d3",
@@ -12478,8 +12879,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -12614,14 +13013,19 @@
           "가성비"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.02",
+          "Tabelog Award",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270301/27012977/",
           "http://wafumotsu.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10788136089187287710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12780,13 +13184,17 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270301/27012792/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10802235109311242345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -12910,6 +13318,12 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27000401/",
           "https://www.rokukakutei.co.jp/",
@@ -12917,8 +13331,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -13046,13 +13458,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27050565/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9361136982922627059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -13197,13 +13613,16 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27104034/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17940521616587389289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -13330,14 +13749,15 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27012983/",
           "http://www.ibuki-coffee.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15123496326032779613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -13472,13 +13892,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27112089/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6712168601677447523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -13608,14 +14033,17 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001483/",
           "https://tabelog.com/en/osaka/A2701/rstLst/RC010911/?SrtT=rt"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13233410597884382898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -13755,14 +14183,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270402/27085855/",
           "https://www.akarengasteak.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -13891,14 +14323,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270402/27081824/",
           "https://tabelog.com/en/osaka/A2701/A270402/rstLst/?SrtT=rt"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13546943019628679382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14014,14 +14450,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27094403/",
           "http://s-hidezo.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=187833502701698313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14168,13 +14607,17 @@
           "혼밥가능"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.81",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270203/27066977/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4872431967231017423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14303,14 +14746,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27017860/",
           "http://www.sennariya-coffee.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=573427284082764967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14433,14 +14881,15 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270206/27011377/",
           "https://tabelog.com/en/osaka/A2701/rstLst/RC010911/?SrtT=rt"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6087713483950905479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14574,14 +15023,18 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270203/27002750/",
           "https://takoyaki-yamachan.net/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14310328804541557959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14699,6 +15152,11 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270104/27011721/",
           "http://94katu5jyoya.com/yoyaku/",
@@ -14706,8 +15164,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=3128080239414944233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14858,13 +15314,17 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270104/27092793/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=95778445716286493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -14989,6 +15449,12 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27000479/",
           "http://www.shiruhisa.com/",
@@ -14996,8 +15462,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -15139,13 +15603,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.9"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27135358/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -15310,13 +15778,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27080479/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16024921270097560802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15445,14 +15917,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.77",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27052204/",
           "https://kamatake.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8423748828023520682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15564,13 +16040,16 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.62"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27092965/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15314857107174454809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15697,14 +16176,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270101/27011966/",
           "http://bahnhof.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10298230041858614051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15821,6 +16304,11 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://www.yoshino-sushi.co.jp/",
           "https://www.yoshino-sushi.co.jp/hpgen/HPB/entries/1.html",
@@ -15828,8 +16316,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1836599017792475107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -15969,6 +16455,12 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27001300/",
           "https://hotei-houzenjiyokocho.com",
@@ -15976,8 +16468,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -16174,6 +16664,12 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 5",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270202/27156304/",
           "https://www.tablecheck.com/ko/chisou-uosa",
@@ -16181,8 +16677,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -16327,6 +16821,14 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "백명점",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2705/A270501/27134058/",
           "https://award.tabelog.com/hyakumeiten/shokudo/2026",
@@ -16334,8 +16836,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5841713953314609121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -16465,6 +16965,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270306/27032294/",
           "https://tabelog.com/kr/osaka/A2701/A270306/27032294/",
@@ -16472,8 +16978,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2293733922011150599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -16609,6 +17113,9 @@
           "심야영업"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/en/osaka/A2701/A270302/27009857/",
           "https://tabelog.com/kr/osaka/A2701/A270302/27009857/",
@@ -16616,8 +17123,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -16758,13 +17263,19 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260302/26001072/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15755540826425964427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -16888,13 +17399,16 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26000665/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16478169323700992172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -17043,6 +17557,11 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26001330/",
           "https://guide.michelin.com/us/en/kyoto-region/kyoto/restaurant/kyogoku-kaneyo",
@@ -17050,8 +17569,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -17215,6 +17732,12 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26000766/",
           "https://guide.michelin.com/us/en/kyoto-region/kyoto/restaurant/kikunoi-roan",
@@ -17222,8 +17745,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -17391,13 +17912,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26032368/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7790049876187503413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -17528,14 +18054,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26000647/",
           "https://award.tabelog.com/hyakumeiten/kissaten"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4515862979063215810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -17665,14 +18196,19 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26000900/",
           "https://award.tabelog.com/hyakumeiten/kissaten"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18118152212597146212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -17819,6 +18355,13 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260202/26000943/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west",
@@ -17826,8 +18369,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -17964,14 +18505,18 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260101/26000791/",
           "https://tabelog.com/kyoto/A2601/A260101/26000791/dtlrvwlst/B415794522/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=569084589944505485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18097,14 +18642,18 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260101/26000873/",
           "https://www.gltjp.com/en/directory/item/13170/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11956261545466959499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18226,14 +18775,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.65",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260101/26000797/",
           "https://award.tabelog.com/hyakumeiten/izakaya_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11327509786405904139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18408,6 +18961,15 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.10",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001346/",
           "https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026",
@@ -18415,8 +18977,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -18555,13 +19115,18 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.68",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26000585/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4934790349886876838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18693,13 +19258,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.78",
+          "백명점",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001887/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15475411711944997808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18840,14 +19411,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26000252/",
           "https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/kanesho"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16448353697598890051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -18889,6 +19464,7 @@
         "address_building": null,
         "station": "게이한 기온시조역 도보권",
         "phone": "+81-75-561-5554",
+        "geo": "gsi:京都府京都市東山区祇園町南側５７０番地",
         "price_level": 1,
         "price_note": "1,000~2,000엔",
         "hours": "12:00-18:00 (품절 시 종료)",
@@ -18971,14 +19547,17 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26002075/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
-        "geo": "gsi:京都府京都市東山区祇園町南側５７０番地",
         "links": {
           "booking": [],
           "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8E%E3%81%8A%E3%82%93%E5%BE%B3%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-127",
@@ -19100,13 +19679,16 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001629/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16376875927891201901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19239,13 +19821,17 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26000408/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19362,14 +19948,17 @@
           "현금만"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001625/",
           "https://tabelog.com/matome/25391/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15171176335987554794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19509,14 +20098,18 @@
           "예약필수"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001870/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9365290189199434822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19636,14 +20229,17 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26002550/",
           "https://magazine.tabelog.com/articles/325594"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4939091622905446115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19745,14 +20341,19 @@
           "한국인인기"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.95",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26002504/",
           "https://yamamotomenzou.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6861482635893519122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -19927,6 +20528,16 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.91",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001012/",
           "https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026",
@@ -19934,8 +20545,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -20068,14 +20677,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.65",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26000009/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8747067629740610963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20224,14 +20838,17 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26001013/",
           "http://www.to-fu.co.jp/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -20365,13 +20982,16 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260302/26001803/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6519410145993321678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20506,14 +21126,19 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.4",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260301/26000815/",
           "https://award.tabelog.com/hyakumeiten/udon_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13962427309304455296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20643,13 +21268,18 @@
           "테이크아웃"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.83",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260302/26001520/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6582104238265648487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20776,14 +21406,20 @@
           "백명점"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.85",
+          "백명점",
+          "Tabelog Award",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260503/26001872/",
           "https://magazine.tabelog.com/articles/14738"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14984916418930954449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -20944,6 +21580,13 @@
           "고급"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260302/26001041/",
           "https://guide.michelin.com/jp/ja/kyoto-region/kyoto/restaurant/shimogamo-saryo",
@@ -20951,8 +21594,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -21087,13 +21728,18 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.77",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260202/26004652/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11759027762573946126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -21215,14 +21861,19 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260203/26003237/",
           "https://award.tabelog.com/hyakumeiten/bread_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16849004629883831225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -21352,13 +22003,16 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260202/26000412/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6724769626404834516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -21512,6 +22166,14 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260403/26000921/",
           "https://foodle.pro/restaurants/kyoto/6752f1537e9f5",
@@ -21519,8 +22181,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [
             {
@@ -21673,14 +22333,19 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.01",
+          "백명점",
+          "Tabelog Award"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260403/26001312/",
           "https://kyoto-kitcho.com/reservation_policy/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -21824,13 +22489,18 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "백명점",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2607/A260701/26000722/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8281509582425298759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -21949,14 +22619,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2607/A260701/26025957/",
           "https://award.tabelog.com/hyakumeiten/bread_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4864680728407226694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22078,13 +22753,17 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.74",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260303/26017870/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10249343747795898642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22213,13 +22892,17 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260303/26001199/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6519996197422050623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22354,13 +23037,17 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260302/26000716/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=541012913519295992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22481,14 +23168,18 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.73",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260203/26002592/",
           "https://shinme-kyoto.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -22626,13 +23317,19 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.71",
+          "백명점",
+          "구글 4.5",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260503/26001669/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8057478357884529694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22757,14 +23454,19 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260601/26015996/",
           "https://award.tabelog.com/hyakumeiten/ramen_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5960093566973369656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -22887,14 +23589,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260601/26020260/",
           "https://award.tabelog.com/hyakumeiten/udon_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18276439014726427332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23032,13 +23738,18 @@
           "심야영업"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260101/26036754/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17089015779610438882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23184,13 +23895,17 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260101/26000484/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -23354,13 +24069,17 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260101/26039724/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12614726155654206038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23487,13 +24206,18 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260101/26034294/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15007516441916275023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23622,13 +24346,17 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260101/26030973/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17243246723617911745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23757,14 +24485,17 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260201/26004870/",
           "https://www.kyoto-nishiki.or.jp/en/stores/mikikeiran/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2551357859586536674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -23880,13 +24611,17 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260201/26007146/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1337754677308815592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24020,13 +24755,16 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260201/26017337/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10768125862104098058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24190,13 +24928,18 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.86",
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260203/26020410/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7924686316326849924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24339,13 +25082,17 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260203/26003254/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2775651138573193423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24477,13 +25224,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260203/26002251/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4616067572429306878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24617,6 +25369,13 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260403/26012281/",
           "https://boruta.jp/reservation-2/",
@@ -24624,8 +25383,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -24753,13 +25510,17 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.62",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260403/26001309/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8050874193580366971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -24892,13 +25653,16 @@
           "테이크아웃"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260403/26025913/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=17029760350450268096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25014,13 +25778,16 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.6"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260403/26022843/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=748064463898465650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25144,13 +25911,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.76",
+          "백명점",
+          "구글 4.5",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260501/26001539/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9396448236229273815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25289,13 +26062,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "구글 4.6"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260501/26026908/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13927119884927261933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25408,13 +26185,17 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.65",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260601/26007559/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5442309203631997809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25549,6 +26330,11 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260601/26027659/",
           "https://www.tablecheck.com/ja/fushimi-sakagura-kouji/reserve",
@@ -25556,8 +26342,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -25693,13 +26477,17 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260601/26024211/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11346485251786058840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -25846,14 +26634,19 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.3",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260201/26033014/",
           "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5427004345287345115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -26018,14 +26811,20 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.3",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260202/26029638/",
           "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14623616051134978570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -26155,6 +26954,11 @@
           "현지인맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "http://www.menami.jp",
           "https://tabelog.com/en/kyoto/A2601/A260201/26001266/",
@@ -26162,8 +26966,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6328300409024769424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -26289,6 +27091,9 @@
           "현금만"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/en/kyoto/A2601/A260201/26000698/",
           "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/",
@@ -26296,8 +27101,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11519110095288407472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -26428,6 +27231,12 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "구글 4.3"
+        ],
         "sources": [
           "https://www.kishin.world/",
           "https://tabelog.com/en/kyoto/A2601/A260301/26028888/",
@@ -26435,8 +27244,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -26565,14 +27372,20 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000106/",
           "https://award.tabelog.com/hyakumeiten/bread_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -26740,14 +27553,19 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000884/",
           "https://www.totenkaku.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -26833,14 +27651,18 @@
           "현지인맛집"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.24",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280103/28006575/",
           "https://award.tabelog.com/hyakumeiten/sushi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%AF%BF%E5%BF%97%20%E5%9F%8E%E5%8A%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-6-7",
@@ -26999,14 +27821,19 @@
           "한국인인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.62",
+          "백명점",
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000954/",
           "https://enjoy-osaka-kyoto-kobe.com/ko/article/s/kobe-steak-roasted-beef-studio-wakkoqu/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -27161,14 +27988,18 @@
         "youtube": [],
         "tags": [],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.3",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280106/28000407/",
           "https://www.shushinkan.co.jp/sakabayashi/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -27316,6 +28147,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.68",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000947/",
           "https://prtimes.jp/main/html/rd/p/000000011.000088216.html",
@@ -27323,8 +28160,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5464853522272701238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -27481,14 +28316,19 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "노포·원조",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000923/",
           "https://rurubu.jp/andmore/article/17943"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2304729373091389771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -27634,14 +28474,17 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000849/",
           "https://hamoni.jp/en/shop/cLxBiRbNRgmqGNVgY711"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13005890997019742431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -27765,14 +28608,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28002315/",
           "https://www.gltjp.com/ja/directory/item/11409/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13374274258373822288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -27891,14 +28739,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000524/",
           "https://gurunavi.com/en/ka88800/rst"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1067988422303061993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -28039,14 +28891,19 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000847/",
           "https://award.tabelog.com/hyakumeiten/yoshoku_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -28173,14 +29030,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28001007/",
           "https://award.tabelog.com/hyakumeiten/sweets_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1384452264188649804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -28310,14 +29172,18 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28002361/",
           "https://www.gltjp.com/ja/directory/item/16836/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12036216362769729943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -28441,14 +29307,18 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.67",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000650/",
           "https://award.tabelog.com/hyakumeiten/kissaten"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16029639196709618620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -28588,6 +29458,12 @@
           "한국인인기"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "구글 4.6",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000615/",
           "https://www.mouriya.co.jp/reserve",
@@ -28595,8 +29471,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [
             {
@@ -28769,14 +29643,21 @@
           "고급"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.08",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000962/",
           "https://award.tabelog.com/hyakumeiten/steak_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -28906,14 +29787,20 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점",
+          "구글 4.3",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000531/",
           "https://www.mapple.net/article/16924/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4666374070709548707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -29061,13 +29948,18 @@
           "관광객인기"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점",
+          "구글 4.8"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28032718/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -29222,14 +30114,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28002413/",
           "https://award.tabelog.com/hyakumeiten/ramen_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13163950924652379245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -29361,14 +30257,20 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000977/",
           "https://www.gltjp.com/en/directory/item/16809/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15532363971609917817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -29523,14 +30425,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.5"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28002105/",
           "https://award.tabelog.com/hyakumeiten/steak_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -29667,14 +30573,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28004087/",
           "https://www.comme-chinois.com/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=6021112084175066680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -29823,14 +30734,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28060647/",
           "https://award.tabelog.com/hyakumeiten/ramen_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4052083110137100163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -29967,14 +30883,20 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.4",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28001625/",
           "https://www.mapple.net/article/16352/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13036946823577508898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30098,14 +31020,19 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.69",
+          "백명점",
+          "구글 4.6"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2803/A280301/28001357/",
           "https://www.mec-h.com/town/mh-nishinomiya/104"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1501679150619229747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30232,14 +31159,17 @@
           "테이크아웃"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2804/A280401/28000374/",
           "https://www.mapple.net/original/441816/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14704887228210169699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30384,14 +31314,19 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.74",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2804/A280401/28031883/",
           "https://award.tabelog.com/hyakumeiten/sushi_west"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4072536056309844922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30509,14 +31444,18 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2804/A280401/28001170/",
           "https://www.mapple.net/article/107705/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=3762957422048838183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30639,6 +31578,13 @@
           "테이크아웃"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280105/28001078/",
           "https://www.mapple.net/article/249603/",
@@ -30646,8 +31592,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=12707852374329506465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -30790,14 +31734,19 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.84",
+          "백명점",
+          "Tabelog Award"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280106/28008517/",
           "https://tabelog.com/kr/hyogo/A2801/A280106/28008517/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -30917,13 +31866,14 @@
           "현금만"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280106/28025768/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10281105234232242805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31044,14 +31994,19 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28000918/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5087958474330908315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31211,13 +32166,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.63",
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28008218/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -31379,14 +32339,18 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.68",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28033392/",
           "https://tabelog.com/kr/hyogo/A2801/A280101/28033392/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10955183035826992742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31512,14 +32476,18 @@
           "심야영업"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.84",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28035865/",
           "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1658628461022001210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31669,6 +32637,12 @@
           "유튜브맛집"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2",
+          "유튜브"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28000604/",
           "https://tabelog.com/en/hyogo/A2801/A280101/28000604/dtlmenu/lunch/",
@@ -31676,8 +32650,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5817947521025709705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31793,14 +32765,18 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280101/28005803/",
           "https://award.tabelog.com/hyakumeiten/izakaya_west/2025"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16604405734661957096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -31927,13 +32903,16 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280112/28027412/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5975301367146390682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -32059,13 +33038,18 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280112/28044218/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -32159,14 +33143,17 @@
           "현금만"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "구글 4.4"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280112/28001997/",
           "https://tabelog.com/kr/hyogo/A2801/A280112/28001997/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16327366664739646369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -32322,13 +33309,16 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28008755/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -32490,14 +33480,18 @@
           "고급"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.64",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280102/28009951/",
           "https://tabelog.com/en/hyogo/A2801/A280102/28009951/party/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -32650,6 +33644,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280110/28000773/",
           "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/",
@@ -32657,8 +33657,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=160485502234496222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -32816,6 +33814,11 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/hyogo/A2801/A280110/28002109/",
           "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/",
@@ -32823,8 +33826,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2890513990370818788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -32954,6 +33955,13 @@
           "예약필수"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.70",
+          "백명점",
+          "미쉐린"
+        ],
         "sources": [
           "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/yakitori-mochizuki",
           "https://r.gnavi.co.jp/b8w6pndj0000/",
@@ -32962,8 +33970,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -33095,6 +34101,12 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "미쉐린",
+          "언론·가이드"
+        ],
         "sources": [
           "https://serai.jp/gourmet/1249440",
           "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/tori-yamaguchi",
@@ -33102,8 +34114,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=1369497222336753260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -33250,6 +34260,15 @@
           "유튜브맛집"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점",
+          "구글 4.3",
+          "유튜브",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/nara/A2901/A290101/29000222/dtlrvwlst/B393686916/",
           "https://livejapan.com/ja/in-kansai/in-pref-nara/in-nara_ikoma_tenri/article-a2000330/",
@@ -33257,8 +34276,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=14561917136571056776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -33383,6 +34400,9 @@
           "웨이팅김"
         ],
         "legend_level": 1,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [],
         "sources": [
           "https://tabelog.com/nara/A2901/A290101/29000714/",
           "https://www.gltjp.com/ja/directory/item/13162/",
@@ -33390,8 +34410,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9070215802604063361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -33548,6 +34566,14 @@
           "예약필수"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.28",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린"
+        ],
         "sources": [
           "https://gourmet.watch.impress.co.jp/docs/news/2108468.html",
           "https://ssl.tabelog.com/en/nara/A2901/A290101/29010346/dtlmap/",
@@ -33555,8 +34581,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -33694,6 +34718,12 @@
           "혼밥가능"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.3",
+          "언론·가이드"
+        ],
         "sources": [
           "https://kasugataisha.or.jp/?p=5389",
           "https://rurubu.jp/andmore/spot/80031311",
@@ -33701,8 +34731,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=5277543106139279322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -33896,6 +34924,13 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.5",
+          "언론·가이드"
+        ],
         "sources": [
           "https://www.tablecheck.com/ja/narahotel-mikasa",
           "https://restaurant.ikyu.com/106078/",
@@ -33904,8 +34939,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -34052,6 +35085,13 @@
           "백명점"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.60",
+          "백명점",
+          "구글 4.7"
+        ],
         "sources": [
           "https://r.gnavi.co.jp/k929500/",
           "https://www.navitime.co.jp/category/0305028/29/",
@@ -34060,8 +35100,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -34203,14 +35241,19 @@
           "줄서는집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.65",
+          "백명점",
+          "언론·가이드"
+        ],
         "sources": [
           "https://rurubu.jp/andmore/spot/80095534",
           "https://tabelog.com/nara/A2901/A290101/29004169/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=3714503733425422766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -34362,14 +35405,20 @@
           "노포"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.66",
+          "백명점",
+          "구글 4.5",
+          "노포·원조"
+        ],
         "sources": [
           "https://icotto.jp/restaurants/37362",
           "https://tabelog.com/en/nara/A2901/A290101/29010047/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -34487,14 +35536,17 @@
           "현금만"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/nara/A2901/A290101/29001343/",
           "https://gigazine.net/news/20171213-reverse-kitsune-udon"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9854652946642265329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -34639,6 +35691,14 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 3,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.83",
+          "백명점",
+          "구글 4.3",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/nara/A2901/A290101/29002296/dtlrvwlst/B415702708/",
           "https://r.gnavi.co.jp/npb3tw4m0000/",
@@ -34646,8 +35706,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13860052895261947675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -34816,14 +35874,20 @@
           "현금만"
         ],
         "legend_level": 2,
+        "editor_level": 3,
+        "icon": true,
+        "evidence": [
+          "타베로그 3.68",
+          "백명점",
+          "구글 4.3",
+          "언론·가이드"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2901/A290101/29011038/dtlrvwlst/",
           "https://www.arukikata.co.jp/tokuhain/381396/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 3,
-        "icon": true,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11705946474602219024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -34954,6 +36018,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.3"
+        ],
         "sources": [
           "https://hamoni.jp/shop/5LIQ3Mo5fgfU1mSUNZtd",
           "https://ssl.tabelog.com/en/nara/A2901/A290101/29007516/dtlmap/",
@@ -34961,8 +36031,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=16947665511496280812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35114,6 +36182,14 @@
           "예약필수"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.07",
+          "백명점",
+          "Tabelog Award",
+          "미쉐린"
+        ],
         "sources": [
           "https://gourmet.watch.impress.co.jp/docs/news/2108468.html",
           "https://tabelog.com/matome/6480/",
@@ -35121,8 +36197,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11174650697522134876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35243,6 +36317,12 @@
           "테이크아웃"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.2",
+          "노포·원조"
+        ],
         "sources": [
           "https://www.navitime.co.jp/category/0305022/29201/",
           "https://tabelog.com/en/nara/A2901/A290101/29000753/",
@@ -35250,8 +36330,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=10586700744419000367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35381,6 +36459,12 @@
           "혼밥가능"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/nara/A2901/A290101/29000615/",
           "https://rurubu.jp/andmore/spot/80031436",
@@ -35388,8 +36472,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=11017317038791907565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35514,6 +36596,11 @@
           "가성비"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "노포·원조"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2904/A290401/29000407/",
           "https://hamoni.jp/en/area/nara/tenri/ichinomoto",
@@ -35521,8 +36608,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=18365561613429450785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35664,6 +36749,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "백명점",
+          "언론·가이드"
+        ],
         "sources": [
           "https://nara.goguynet.jp/2024/10/13/noromahonten/",
           "https://tabelog.com/nara/A2901/A290101/29014444/dtlrvwlst/B502119163/",
@@ -35671,8 +36762,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=4483389256223460047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35799,6 +36888,12 @@
           "관광객인기"
         ],
         "legend_level": 1,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "구글 4.4",
+          "언론·가이드"
+        ],
         "sources": [
           "https://rurubu.jp/andmore/spot/80095507",
           "https://4travel.jp/dm_shisetsu/11520020",
@@ -35806,8 +36901,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=9412201621940802632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -35935,6 +37028,12 @@
           "테이크아웃"
         ],
         "legend_level": 1,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "노포·원조",
+          "언론·가이드"
+        ],
         "sources": [
           "https://rurubu.jp/andmore/spot/80031812",
           "https://tabi-mag.jp/na0301/",
@@ -35942,8 +37041,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=7907346791701780967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -36075,14 +37172,18 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.75",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2901/A290101/29012452/",
           "https://tabelog.com/kr/nara/A2901/A290101/29012452/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=15460432328173692794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -36219,14 +37320,18 @@
           "현금만"
         ],
         "legend_level": 3,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 4.02",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2901/A290101/29000052/",
           "https://tabelog.com/en/nara/A2901/A290101/29000052/dtlmenu/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=2176292025049253195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",
@@ -36379,6 +37484,12 @@
           "현지인맛집"
         ],
         "legend_level": 2,
+        "editor_level": 2,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2901/A290101/29001366/",
           "https://dandannara.com",
@@ -36386,8 +37497,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 2,
-        "icon": false,
         "links": {
           "booking": [
             {
@@ -36547,6 +37656,12 @@
           "가성비"
         ],
         "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.61",
+          "구글 4.3"
+        ],
         "sources": [
           "https://tabelog.com/en/nara/A2901/A290101/29012436/",
           "https://shijin2021.com/",
@@ -36554,8 +37669,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "editor_level": 1,
-        "icon": false,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=13507165874632330088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA",

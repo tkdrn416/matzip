@@ -114,6 +114,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점",
+      "구글 4.4",
+      "유튜브",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270107/27002949/",
       "https://award.tabelog.com/hyakumeiten/tachinomi/2025"
@@ -233,6 +239,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.91",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270107/27090232/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west/2026"
@@ -314,6 +325,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.16",
+      "백명점",
+      "Tabelog Award"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27057420/",
       "https://award.tabelog.com/hyakumeiten/sushi_west/2025"
@@ -422,6 +438,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.97",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27118018/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west/2025"
@@ -556,6 +576,12 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.90",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27077650/",
       "https://award.tabelog.com/hyakumeiten/japanese_west/2025"
@@ -666,6 +692,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27002139/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west/2026"
@@ -770,6 +800,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27016897/",
       "https://award.tabelog.com/hyakumeiten/izakaya_west/2026"
@@ -897,6 +931,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27003404/",
       "https://award.tabelog.com/hyakumeiten/sweets_west/2026",
@@ -1013,6 +1052,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270106/27001820/",
       "https://award.tabelog.com/hyakumeiten/kissaten/2026"
@@ -1127,6 +1171,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27003694/",
       "https://award.tabelog.com/hyakumeiten/curry_west/2024"
@@ -1244,6 +1293,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27015618/",
       "https://award.tabelog.com/hyakumeiten/curry_west/2024"
@@ -1368,6 +1422,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27073991/",
       "https://award.tabelog.com/hyakumeiten/curry_west/2024"
@@ -1486,6 +1544,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270106/27012545/",
       "https://award.tabelog.com/hyakumeiten/curry_west/2024"
@@ -1618,6 +1681,10 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27000015/",
       "https://www.mimiu.co.jp/pages/honten",
@@ -1752,6 +1819,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.92",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27104891/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
@@ -1867,6 +1939,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.74",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27003232/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
@@ -1989,6 +2065,9 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27091193/",
       "https://award.tabelog.com/hyakumeiten/sweets_west/2026"
@@ -2136,6 +2215,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27067874/",
       "https://award.tabelog.com/hyakumeiten/udon_west/2024"
@@ -2264,6 +2347,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270406/27001123/",
       "https://www.aiduya.com/",
@@ -2393,6 +2480,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점",
+      "구글 4.7"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27019100/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki"
@@ -2521,6 +2613,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270301/27064584/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
@@ -2617,6 +2714,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001576/",
       "https://award.tabelog.com/hyakumeiten/wagashi_west"
@@ -2774,6 +2876,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27072765/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka"
@@ -2886,6 +2993,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27013511/",
       "https://takoume.jp/"
@@ -3008,6 +3118,11 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "구글 4.2",
+      "유튜브",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001312/"
     ],
@@ -3128,6 +3243,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001289/",
       "https://www.d-imai.com/"
@@ -3259,6 +3379,10 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27002336/",
       "https://www.rikuro.co.jp/shoplist/134.html",
@@ -3382,6 +3506,9 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001278/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki"
@@ -3503,6 +3630,10 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "노포·원조",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001310/",
       "https://www.jiyuken.co.jp/",
@@ -3624,6 +3755,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "백명점",
+      "구글 4.9"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001305/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west"
@@ -3746,6 +3882,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.3",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27015375/",
       "https://ja.wikipedia.org/wiki/夫婦善哉_(小説)"
@@ -3866,6 +4006,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27005758/",
       "https://award.tabelog.com/hyakumeiten/kissaten"
@@ -3988,6 +4132,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001511/",
       "https://award.tabelog.com/hyakumeiten/kissaten"
@@ -4135,6 +4285,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001308/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west"
@@ -4285,6 +4440,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001250/",
       "https://www.harijyu.co.jp/",
@@ -4400,6 +4559,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.55",
+      "백명점",
+      "Tabelog Award"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001286/",
       "https://award.tabelog.com/hyakumeiten/japanese_west"
@@ -4475,6 +4639,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27123561/",
       "https://award.tabelog.com/hyakumeiten/tempura"
@@ -4592,6 +4760,11 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001538/",
       "https://award.tabelog.com/hyakumeiten/sweets_west"
@@ -4741,6 +4914,12 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점",
+      "Tabelog Award",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2705/A270501/27001079/",
       "https://award.tabelog.com/hyakumeiten/sushi_west"
@@ -4862,6 +5041,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2705/A270501/27001078/",
       "https://award.tabelog.com/hyakumeiten/wagashi_west"
@@ -4982,6 +5166,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27002763/",
       "https://ja.wikipedia.org/wiki/肉吸い_(料理)",
@@ -5112,6 +5301,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27002665/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki"
@@ -5256,6 +5450,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27084754/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka"
@@ -5383,6 +5581,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27002320/",
       "https://takoyaki-wanaka.com/"
@@ -5509,6 +5711,10 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001274/",
       "https://ja.wikipedia.org/wiki/オムライス"
@@ -5652,6 +5858,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27001834/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west"
@@ -5780,6 +5990,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27000931/",
       "https://ja.wikipedia.org/wiki/きつねうどん",
@@ -5900,6 +6116,12 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.23",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27000411/",
       "https://award.tabelog.com/hyakumeiten/sushi_west"
@@ -6014,6 +6236,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27000889/",
       "https://award.tabelog.com/hyakumeiten/sukiyaki_shabushabu"
@@ -6132,6 +6359,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "미쉐린"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27000578/"
     ],
@@ -6259,6 +6490,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270201/27134224/",
       "https://award.tabelog.com/hyakumeiten/tonkatsu"
@@ -6383,6 +6618,9 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27004260/",
       "https://ja.wikipedia.org/wiki/串カツ"
@@ -6531,6 +6769,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27001105/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west"
@@ -6673,6 +6915,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27005006/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka"
@@ -6791,6 +7037,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27000443/"
     ],
@@ -6876,6 +7125,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270205/27000561/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west"
@@ -6996,6 +7250,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270205/27000564/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west"
@@ -7113,6 +7371,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270205/27000560/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki"
@@ -7260,6 +7523,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270203/27059500/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka"
@@ -7394,6 +7662,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.74",
+      "백명점",
+      "Tabelog Award"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270104/27081196/",
       "https://award.tabelog.com/hyakumeiten/unagi/2026"
@@ -7518,6 +7791,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27013772/",
       "https://award.tabelog.com/hyakumeiten/sweets_west/2026"
@@ -7645,6 +7923,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27000322/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
@@ -7766,6 +8050,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27001927/"
     ],
@@ -7900,6 +8187,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27012248/"
     ],
@@ -8014,6 +8305,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27002290/",
       "https://award.tabelog.com/hyakumeiten/tonkatsu/2026"
@@ -8158,6 +8453,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270204/27060944/",
       "https://award.tabelog.com/hyakumeiten/curry_west"
@@ -8282,6 +8582,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270205/27104509/",
       "https://award.tabelog.com/hyakumeiten/sushi_west"
@@ -8401,6 +8705,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.83",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270105/27001084/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025",
@@ -8535,6 +8844,13 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.34",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27015488/",
       "https://award.tabelog.com/hyakumeiten/creative_innovative/2025",
@@ -8671,6 +8987,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.62",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270102/27000267/",
       "https://award.tabelog.com/hyakumeiten/tempura/2025"
@@ -8805,6 +9125,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270302/27000981/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
@@ -8926,6 +9251,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270302/27004531/"
     ],
@@ -9049,6 +9378,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27002698/",
       "https://gigazine.net/news/20140329-endo-sushi"
@@ -9172,6 +9507,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27002205/"
     ],
@@ -9294,6 +9634,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27002291/",
       "https://yakiniku-manryo-minamimorimachi.com/"
@@ -9422,6 +9767,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.65",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27002204/",
       "https://award.tabelog.com/hyakumeiten/okonomiyaki/2025"
@@ -9535,6 +9886,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27000671/",
       "https://award.tabelog.com/hyakumeiten/steak_west/2025"
@@ -9670,6 +10025,11 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27040987/",
       "https://award.tabelog.com/hyakumeiten/unagi/2026"
@@ -9805,6 +10165,9 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270103/27002221/",
       "https://award.tabelog.com/hyakumeiten/chinese_west/2026"
@@ -9931,6 +10294,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27093282/",
       "https://award.tabelog.com/hyakumeiten/tempura/2025"
@@ -10075,6 +10442,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27091454/",
       "https://award.tabelog.com/hyakumeiten/ramen_osaka/2025"
@@ -10189,6 +10561,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27001234/"
     ],
@@ -10311,6 +10687,11 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27003802/",
       "https://award.tabelog.com/hyakumeiten/wagashi_west/2026"
@@ -10422,6 +10803,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270201/27013496/",
       "https://www.youtube.com/watch?v=jogtpBx1cC4"
@@ -10537,6 +10921,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270201/27083055/",
       "https://www.waug.com/ko/magazines/552",
@@ -10679,6 +11066,10 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.4",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270206/27045066/",
       "https://zakruti.com/food/markwiens/video-16340"
@@ -10811,6 +11202,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27000442/",
       "https://tabelog.com/en/osaka/A2701/A270206/rstLst/kushiage/?SrtT=rt"
@@ -10952,6 +11346,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.4",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270205/27103780/",
       "https://www.cdqjp.com/info/34612feb-9764-47ae-bfcf-289b10e120d3",
@@ -11074,6 +11473,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 4.02",
+      "Tabelog Award",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270301/27012977/",
       "http://wafumotsu.com/"
@@ -11224,6 +11628,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270301/27012792/"
     ],
@@ -11338,6 +11746,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27000401/",
       "https://www.rokukakutei.co.jp/",
@@ -11449,6 +11861,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27050565/"
     ],
@@ -11584,6 +12000,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27104034/"
     ],
@@ -11701,6 +12120,7 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27012983/",
       "http://www.ibuki-coffee.com/"
@@ -11827,6 +12247,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27112089/"
     ],
@@ -11947,6 +12372,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001483/",
       "https://tabelog.com/en/osaka/A2701/rstLst/RC010911/?SrtT=rt"
@@ -12078,6 +12506,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270402/27085855/",
       "https://www.akarengasteak.jp/"
@@ -12189,6 +12621,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270402/27081824/",
       "https://tabelog.com/en/osaka/A2701/A270402/rstLst/?SrtT=rt"
@@ -12296,6 +12732,9 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27094403/",
       "http://s-hidezo.jp/"
@@ -12434,6 +12873,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.81",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270203/27066977/"
     ],
@@ -12553,6 +12996,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27017860/",
       "http://www.sennariya-coffee.jp/"
@@ -12667,6 +13115,7 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270206/27011377/",
       "https://tabelog.com/en/osaka/A2701/rstLst/RC010911/?SrtT=rt"
@@ -12792,6 +13241,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270203/27002750/",
       "https://takoyaki-yamachan.net/"
@@ -12901,6 +13354,9 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270104/27011721/",
       "http://94katu5jyoya.com/yoyaku/",
@@ -13044,6 +13500,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270104/27092793/"
     ],
@@ -13159,6 +13619,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27000479/",
       "http://www.shiruhisa.com/",
@@ -13284,6 +13748,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.9"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27135358/"
     ],
@@ -13434,6 +13902,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27080479/"
     ],
@@ -13553,6 +14025,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.77",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27052204/",
       "https://kamatake.com/"
@@ -13656,6 +14132,9 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.62"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27092965/"
     ],
@@ -13773,6 +14252,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270101/27011966/",
       "http://bahnhof.jp/"
@@ -13881,6 +14364,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://www.yoshino-sushi.co.jp/",
       "https://www.yoshino-sushi.co.jp/hpgen/HPB/entries/1.html",
@@ -14013,6 +14499,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27001300/",
       "https://hotei-houzenjiyokocho.com",
@@ -14193,6 +14683,10 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 5",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270202/27156304/",
       "https://www.tablecheck.com/ko/chisou-uosa",
@@ -14325,6 +14819,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "백명점",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2705/A270501/27134058/",
       "https://award.tabelog.com/hyakumeiten/shokudo/2026",
@@ -14447,6 +14947,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270306/27032294/",
       "https://tabelog.com/kr/osaka/A2701/A270306/27032294/",
@@ -14575,6 +15079,7 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270302/27009857/",
       "https://tabelog.com/kr/osaka/A2701/A270302/27009857/",
@@ -14703,6 +15208,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260302/26001072/"
     ],
@@ -14817,6 +15328,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26000665/"
     ],
@@ -14956,6 +15470,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26001330/",
       "https://guide.michelin.com/us/en/kyoto-region/kyoto/restaurant/kyogoku-kaneyo",
@@ -15103,6 +15620,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26000766/",
       "https://guide.michelin.com/us/en/kyoto-region/kyoto/restaurant/kikunoi-roan",
@@ -15254,6 +15775,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26032368/"
     ],
@@ -15375,6 +15901,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26000647/",
       "https://award.tabelog.com/hyakumeiten/kissaten"
@@ -15496,6 +16027,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26000900/",
       "https://award.tabelog.com/hyakumeiten/kissaten"
@@ -15634,6 +16170,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260202/26000943/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west",
@@ -15758,6 +16299,10 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260101/26000791/",
       "https://tabelog.com/kyoto/A2601/A260101/26000791/dtlrvwlst/B415794522/"
@@ -15875,6 +16420,10 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260101/26000873/",
       "https://www.gltjp.com/en/directory/item/13170/"
@@ -15988,6 +16537,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.65",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260101/26000797/",
       "https://award.tabelog.com/hyakumeiten/izakaya_west"
@@ -16154,6 +16707,13 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 4.10",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001346/",
       "https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026",
@@ -16276,6 +16836,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.68",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26000585/"
     ],
@@ -16398,6 +16963,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.78",
+      "백명점",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001887/"
     ],
@@ -16529,6 +17100,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26000252/",
       "https://guide.michelin.com/en/kyoto-region/kyoto/restaurant/kanesho"
@@ -16645,6 +17220,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26002075/"
     ],
@@ -16757,6 +17336,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001629/"
     ],
@@ -16880,6 +17462,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26000408/"
     ],
@@ -16987,6 +17573,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001625/",
       "https://tabelog.com/matome/25391/"
@@ -17118,6 +17707,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001870/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west"
@@ -17229,6 +17822,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26002550/",
       "https://magazine.tabelog.com/articles/325594"
@@ -17322,6 +17918,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.95",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26002504/",
       "https://yamamotomenzou.com/"
@@ -17488,6 +18089,14 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.91",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001012/",
       "https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026",
@@ -17600,6 +18209,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.65",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26000009/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west"
@@ -17740,6 +18354,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26001013/",
       "http://www.to-fu.co.jp/"
@@ -17856,6 +18473,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260302/26001803/"
     ],
@@ -17981,6 +18601,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.4",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260301/26000815/",
       "https://award.tabelog.com/hyakumeiten/udon_west"
@@ -18102,6 +18727,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.83",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260302/26001520/"
     ],
@@ -18219,6 +18849,12 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.85",
+      "백명점",
+      "Tabelog Award",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260503/26001872/",
       "https://magazine.tabelog.com/articles/14738"
@@ -18371,6 +19007,11 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260302/26001041/",
       "https://guide.michelin.com/jp/ja/kyoto-region/kyoto/restaurant/shimogamo-saryo",
@@ -18489,6 +19130,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.77",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260202/26004652/"
     ],
@@ -18601,6 +19247,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260203/26003237/",
       "https://award.tabelog.com/hyakumeiten/bread_west"
@@ -18722,6 +19373,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260202/26000412/"
     ],
@@ -18866,6 +19520,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260403/26000921/",
       "https://foodle.pro/restaurants/kyoto/6752f1537e9f5",
@@ -19006,6 +19666,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.01",
+      "백명점",
+      "Tabelog Award"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260403/26001312/",
       "https://kyoto-kitcho.com/reservation_policy/"
@@ -19136,6 +19801,11 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "백명점",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2607/A260701/26000722/"
     ],
@@ -19245,6 +19915,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2607/A260701/26025957/",
       "https://award.tabelog.com/hyakumeiten/bread_west"
@@ -19358,6 +20033,10 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.74",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260303/26017870/"
     ],
@@ -19477,6 +20156,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260303/26001199/"
     ],
@@ -19602,6 +20285,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260302/26000716/"
     ],
@@ -19713,6 +20400,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.73",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260203/26002592/",
       "https://shinme-kyoto.com/"
@@ -19837,6 +20528,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "구글 4.5",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260503/26001669/"
     ],
@@ -19952,6 +20649,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260601/26015996/",
       "https://award.tabelog.com/hyakumeiten/ramen_west"
@@ -20066,6 +20768,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260601/26020260/",
       "https://award.tabelog.com/hyakumeiten/udon_west"
@@ -20195,6 +20901,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260101/26036754/"
     ],
@@ -20331,6 +21042,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260101/26000484/"
     ],
@@ -20480,6 +21195,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260101/26039724/"
     ],
@@ -20597,6 +21316,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260101/26034294/"
     ],
@@ -20716,6 +21440,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260101/26030973/"
     ],
@@ -20835,6 +21563,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260201/26004870/",
       "https://www.kyoto-nishiki.or.jp/en/stores/mikikeiran/"
@@ -20942,6 +21673,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260201/26007146/"
     ],
@@ -21066,6 +21801,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260201/26017337/"
     ],
@@ -21220,6 +21958,11 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.86",
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260203/26020410/"
     ],
@@ -21353,6 +22096,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260203/26003254/"
     ],
@@ -21475,6 +22222,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260203/26002251/"
     ],
@@ -21599,6 +22351,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260403/26012281/",
       "https://boruta.jp/reservation-2/",
@@ -21714,6 +22471,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.62",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260403/26001309/"
     ],
@@ -21837,6 +22598,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260403/26025913/"
     ],
@@ -21943,6 +22707,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.6"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260403/26022843/"
     ],
@@ -22057,6 +22824,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.76",
+      "백명점",
+      "구글 4.5",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260501/26001539/"
     ],
@@ -22186,6 +22959,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "구글 4.6"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260501/26026908/"
     ],
@@ -22289,6 +23066,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.65",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260601/26007559/"
     ],
@@ -22414,6 +23195,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260601/26027659/",
       "https://www.tablecheck.com/ja/fushimi-sakagura-kouji/reserve",
@@ -22533,6 +23317,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260601/26024211/"
     ],
@@ -22670,6 +23458,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.3",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260201/26033014/",
       "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
@@ -22826,6 +23619,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.3",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/kr/kyoto/A2601/A260202/26029638/",
       "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
@@ -22947,6 +23746,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "http://www.menami.jp",
       "https://tabelog.com/en/kyoto/A2601/A260201/26001266/",
@@ -23065,6 +23867,7 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/en/kyoto/A2601/A260201/26000698/",
       "https://tabelog.com/kr/kyoto/A2601/A260201/26000698/",
@@ -23188,6 +23991,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "구글 4.3"
+    ],
     "sources": [
       "https://www.kishin.world/",
       "https://tabelog.com/en/kyoto/A2601/A260301/26028888/",
@@ -23304,6 +24111,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000106/",
       "https://award.tabelog.com/hyakumeiten/bread_west"
@@ -23463,6 +24276,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000884/",
       "https://www.totenkaku.com/"
@@ -23531,6 +24349,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.24",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280103/28006575/",
       "https://award.tabelog.com/hyakumeiten/sushi_west"
@@ -23681,6 +24503,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.62",
+      "백명점",
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000954/",
       "https://enjoy-osaka-kyoto-kobe.com/ko/article/s/kobe-steak-roasted-beef-studio-wakkoqu/"
@@ -23822,6 +24649,10 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.3",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280106/28000407/",
       "https://www.shushinkan.co.jp/sakabayashi/"
@@ -23952,6 +24783,10 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.68",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000947/",
       "https://prtimes.jp/main/html/rd/p/000000011.000088216.html",
@@ -24101,6 +24936,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "노포·원조",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000923/",
       "https://rurubu.jp/andmore/article/17943"
@@ -24238,6 +25078,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000849/",
       "https://hamoni.jp/en/shop/cLxBiRbNRgmqGNVgY711"
@@ -24353,6 +25196,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28002315/",
       "https://www.gltjp.com/ja/directory/item/11409/"
@@ -24463,6 +25311,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000524/",
       "https://gurunavi.com/en/ka88800/rst"
@@ -24595,6 +25447,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000847/",
       "https://award.tabelog.com/hyakumeiten/yoshoku_west/2025"
@@ -24708,6 +25565,11 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28001007/",
       "https://award.tabelog.com/hyakumeiten/sweets_west"
@@ -24829,6 +25691,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28002361/",
       "https://www.gltjp.com/ja/directory/item/16836/"
@@ -24944,6 +25810,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.67",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000650/",
       "https://award.tabelog.com/hyakumeiten/kissaten"
@@ -25075,6 +25945,10 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "구글 4.6",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000615/",
       "https://www.mouriya.co.jp/reserve",
@@ -25227,6 +26101,13 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 4.08",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000962/",
       "https://award.tabelog.com/hyakumeiten/steak_west/2025"
@@ -25343,6 +26224,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점",
+      "구글 4.3",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000531/",
       "https://www.mapple.net/article/16924/"
@@ -25482,6 +26369,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점",
+      "구글 4.8"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28032718/"
     ],
@@ -25622,6 +26514,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28002413/",
       "https://award.tabelog.com/hyakumeiten/ramen_west"
@@ -25745,6 +26641,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000977/",
       "https://www.gltjp.com/en/directory/item/16809/"
@@ -25891,6 +26793,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.5"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28002105/",
       "https://award.tabelog.com/hyakumeiten/steak_west/2025"
@@ -26006,6 +26912,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28004087/",
       "https://www.comme-chinois.com/"
@@ -26146,6 +27057,11 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28060647/",
       "https://award.tabelog.com/hyakumeiten/ramen_west"
@@ -26274,6 +27190,12 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.4",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28001625/",
       "https://www.mapple.net/article/16352/"
@@ -26389,6 +27311,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.69",
+      "백명점",
+      "구글 4.6"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2803/A280301/28001357/",
       "https://www.mec-h.com/town/mh-nishinomiya/104"
@@ -26507,6 +27434,9 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2804/A280401/28000374/",
       "https://www.mapple.net/original/441816/"
@@ -26643,6 +27573,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.74",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2804/A280401/28031883/",
       "https://award.tabelog.com/hyakumeiten/sushi_west"
@@ -26752,6 +27687,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2804/A280401/28001170/",
       "https://www.mapple.net/article/107705/"
@@ -26866,6 +27805,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280105/28001078/",
       "https://www.mapple.net/article/249603/",
@@ -27001,6 +27945,11 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.84",
+      "백명점",
+      "Tabelog Award"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280106/28008517/",
       "https://tabelog.com/kr/hyogo/A2801/A280106/28008517/"
@@ -27107,6 +28056,7 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280106/28025768/"
     ],
@@ -27218,6 +28168,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28000918/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
@@ -27369,6 +28324,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.63",
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28008218/"
     ],
@@ -27516,6 +28476,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.68",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28033392/",
       "https://tabelog.com/kr/hyogo/A2801/A280101/28033392/"
@@ -27633,6 +28597,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.84",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28035865/",
       "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
@@ -27774,6 +28742,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2",
+      "유튜브"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28000604/",
       "https://tabelog.com/en/hyogo/A2801/A280101/28000604/dtlmenu/lunch/",
@@ -27882,6 +28854,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280101/28005803/",
       "https://award.tabelog.com/hyakumeiten/izakaya_west/2025"
@@ -28000,6 +28976,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280112/28027412/"
     ],
@@ -28116,6 +29095,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280112/28044218/"
     ],
@@ -28200,6 +29184,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "구글 4.4"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280112/28001997/",
       "https://tabelog.com/kr/hyogo/A2801/A280112/28001997/"
@@ -28347,6 +29334,9 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28008755/"
     ],
@@ -28494,6 +29484,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.64",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280102/28009951/",
       "https://tabelog.com/en/hyogo/A2801/A280102/28009951/party/"
@@ -28633,6 +29627,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280110/28000773/",
       "https://tabelog.com/kr/hyogo/A2801/A280110/28000773/",
@@ -28783,6 +29781,9 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/hyogo/A2801/A280110/28002109/",
       "https://tabelog.com/kr/hyogo/A2801/A280110/28002109/",
@@ -28905,6 +29906,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.70",
+      "백명점",
+      "미쉐린"
+    ],
     "sources": [
       "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/yakitori-mochizuki",
       "https://r.gnavi.co.jp/b8w6pndj0000/",
@@ -29025,6 +30031,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "미쉐린",
+      "언론·가이드"
+    ],
     "sources": [
       "https://serai.jp/gourmet/1249440",
       "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/tori-yamaguchi",
@@ -29164,6 +30174,13 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점",
+      "구글 4.3",
+      "유튜브",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29000222/dtlrvwlst/B393686916/",
       "https://livejapan.com/ja/in-kansai/in-pref-nara/in-nara_ikoma_tenri/article-a2000330/",
@@ -29281,6 +30298,7 @@
     "legend_level": 1,
     "editor_level": 3,
     "icon": true,
+    "evidence": [],
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29000714/",
       "https://www.gltjp.com/ja/directory/item/13162/",
@@ -29430,6 +30448,12 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 4.28",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린"
+    ],
     "sources": [
       "https://gourmet.watch.impress.co.jp/docs/news/2108468.html",
       "https://ssl.tabelog.com/en/nara/A2901/A290101/29010346/dtlmap/",
@@ -29555,6 +30579,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.3",
+      "언론·가이드"
+    ],
     "sources": [
       "https://kasugataisha.or.jp/?p=5389",
       "https://rurubu.jp/andmore/spot/80031311",
@@ -29741,6 +30769,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.5",
+      "언론·가이드"
+    ],
     "sources": [
       "https://www.tablecheck.com/ja/narahotel-mikasa",
       "https://restaurant.ikyu.com/106078/",
@@ -29872,6 +30905,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.60",
+      "백명점",
+      "구글 4.7"
+    ],
     "sources": [
       "https://r.gnavi.co.jp/k929500/",
       "https://www.navitime.co.jp/category/0305028/29/",
@@ -29998,6 +31036,11 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.65",
+      "백명점",
+      "언론·가이드"
+    ],
     "sources": [
       "https://rurubu.jp/andmore/spot/80095534",
       "https://tabelog.com/nara/A2901/A290101/29004169/"
@@ -30141,6 +31184,12 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.66",
+      "백명점",
+      "구글 4.5",
+      "노포·원조"
+    ],
     "sources": [
       "https://icotto.jp/restaurants/37362",
       "https://tabelog.com/en/nara/A2901/A290101/29010047/"
@@ -30245,6 +31294,9 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29001343/",
       "https://gigazine.net/news/20171213-reverse-kitsune-udon"
@@ -30381,6 +31433,12 @@
     "legend_level": 3,
     "editor_level": 3,
     "icon": false,
+    "evidence": [
+      "타베로그 3.83",
+      "백명점",
+      "구글 4.3",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29002296/dtlrvwlst/B415702708/",
       "https://r.gnavi.co.jp/npb3tw4m0000/",
@@ -30542,6 +31600,12 @@
     "legend_level": 2,
     "editor_level": 3,
     "icon": true,
+    "evidence": [
+      "타베로그 3.68",
+      "백명점",
+      "구글 4.3",
+      "언론·가이드"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29011038/dtlrvwlst/",
       "https://www.arukikata.co.jp/tokuhain/381396/"
@@ -30664,6 +31728,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.3"
+    ],
     "sources": [
       "https://hamoni.jp/shop/5LIQ3Mo5fgfU1mSUNZtd",
       "https://ssl.tabelog.com/en/nara/A2901/A290101/29007516/dtlmap/",
@@ -30808,6 +31876,12 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.07",
+      "백명점",
+      "Tabelog Award",
+      "미쉐린"
+    ],
     "sources": [
       "https://gourmet.watch.impress.co.jp/docs/news/2108468.html",
       "https://tabelog.com/matome/6480/",
@@ -30921,6 +31995,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.2",
+      "노포·원조"
+    ],
     "sources": [
       "https://www.navitime.co.jp/category/0305022/29201/",
       "https://tabelog.com/en/nara/A2901/A290101/29000753/",
@@ -31043,6 +32121,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "구글 4.2"
+    ],
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29000615/",
       "https://rurubu.jp/andmore/spot/80031436",
@@ -31160,6 +32242,9 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "노포·원조"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2904/A290401/29000407/",
       "https://hamoni.jp/en/area/nara/tenri/ichinomoto",
@@ -31294,6 +32379,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "백명점",
+      "언론·가이드"
+    ],
     "sources": [
       "https://nara.goguynet.jp/2024/10/13/noromahonten/",
       "https://tabelog.com/nara/A2901/A290101/29014444/dtlrvwlst/B502119163/",
@@ -31413,6 +32502,10 @@
     "legend_level": 1,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "구글 4.4",
+      "언론·가이드"
+    ],
     "sources": [
       "https://rurubu.jp/andmore/spot/80095507",
       "https://4travel.jp/dm_shisetsu/11520020",
@@ -31533,6 +32626,10 @@
     "legend_level": 1,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "노포·원조",
+      "언론·가이드"
+    ],
     "sources": [
       "https://rurubu.jp/andmore/spot/80031812",
       "https://tabi-mag.jp/na0301/",
@@ -31657,6 +32754,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.75",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29012452/",
       "https://tabelog.com/kr/nara/A2901/A290101/29012452/"
@@ -31785,6 +32886,10 @@
     "legend_level": 3,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 4.02",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29000052/",
       "https://tabelog.com/en/nara/A2901/A290101/29000052/dtlmenu/"
@@ -31929,6 +33034,10 @@
     "legend_level": 2,
     "editor_level": 2,
     "icon": false,
+    "evidence": [
+      "타베로그 3.72",
+      "백명점"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29001366/",
       "https://dandannara.com",
@@ -32076,6 +33185,10 @@
     "legend_level": 2,
     "editor_level": 1,
     "icon": false,
+    "evidence": [
+      "타베로그 3.61",
+      "구글 4.3"
+    ],
     "sources": [
       "https://tabelog.com/en/nara/A2901/A290101/29012436/",
       "https://shijin2021.com/",

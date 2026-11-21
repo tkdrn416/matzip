@@ -430,3 +430,5 @@ button, .chip, .cta, a { touch-action: manipulation; }
   body.mapbig .leaflet-bottom { margin-bottom: calc(58px + env(safe-area-inset-bottom)); }
   body.mapbig .leaflet-bottom .leaflet-control-attribution { margin-bottom: 0; }
 }
+.evc { margin-left: 6px; font-size: 11px; font-weight: 700; color: #137333; background: #e6f4ea; border-radius: 6px; padding: 1px 5px; vertical-align: 2px; }
+@media (prefers-color-scheme: dark) { .evc { background: #15301f; color: #7fd39a; } }

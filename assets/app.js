@@ -25,7 +25,7 @@
   const fav = store.get(LS.fav);
   const vis = store.get(LS.vis);
 
-  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" };
+  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false, me: null, sort: "level" };
   const BOOK = Object.fromEntries((D.bookingTypes || []).map((b) => [b.name, b]));
   const BOOK_SHORT = { "앱예약": "온라인예약 가능", "전화예약만": "전화예약만", "원격줄서기": "원격줄서기", "현장방문": "현장방문" };
   const REASON = Object.fromEntries((D.reasonTypes || []).map((t) => [t.name, t]));
@@ -451,6 +451,8 @@
     if (r.booking_type) rows.push(["예약", `${BOOK[r.booking_type] ? BOOK[r.booking_type].emoji + " " : ""}${r.booking_type}${r.reservation ? " · 예약 " + r.reservation : ""}`]);
     else if (r.reservation) rows.push(["예약", r.reservation]);
     if (r.booking_note) rows.push(["예약팁", r.booking_note]);
+    const ev = r.evidence || [];
+    rows.push(["신뢰도", `${ev.length >= 3 ? "✔✔✔ 탄탄" : ev.length === 2 ? "✔✔ 괜찮음" : "✔ 근거 적음"} — ${ev.join(" · ") || "타베로그 등록"}`]);
     rows.push(["혼잡도", `${quietLabel(r)} — ${qOf(r).why.join(", ") || "정보 적음"}`]);
     if (r.wait) {
       const w = r.wait;
@@ -536,6 +538,7 @@
       (!state.openNow || ["open", "soon"].includes((openStatus(r) || {}).s)) &&
       (!state.easyWait || easyWait(r)) &&
       (!state.noSmoke || noSmoke(r)) &&
+      (!state.strong || (r.evidence || []).length >= 3) &&
       (!state.hideVisited || !vis.has(r.id)) &&
       terms.every((t) => TEXT.get(r.id).includes(t))
     );
@@ -627,6 +630,7 @@
     $("openNow").setAttribute("aria-pressed", String(state.openNow));
     $("easyWait").setAttribute("aria-pressed", String(state.easyWait));
     $("noSmoke").setAttribute("aria-pressed", String(state.noSmoke));
+    $("strong").setAttribute("aria-pressed", String(state.strong));
     $("favRoute").hidden = !fav.size;
     $("favShare").hidden = !fav.size;
     $("hideVisited").setAttribute("aria-pressed", String(state.hideVisited));
@@ -647,7 +651,7 @@
       return `<li class="item${vis.has(r.id) ? " visited" : ""}${state.open === r.id ? " open" : ""}" data-id="${r.id}">
         <div class="em" style="background:${c.color}22">${c.emoji}</div>
         <div>
-          <div class="t">${esc(r.name_ko)}<span class="lv" title="${esc((D.levelRule || {})[r.legend_level] || "")}">${"★".repeat(r.legend_level)}</span>${r.icon ? `<span class="icn" title="점수 기준 밖이지만 꼭 가볼 만한 원조·명물">🏯</span>` : ""}</div>
+          <div class="t">${esc(r.name_ko)}<span class="lv" title="${esc((D.levelRule || {})[r.legend_level] || "")}">${"★".repeat(r.legend_level)}</span>${r.icon ? `<span class="icn" title="점수 기준 밖이지만 꼭 가볼 만한 원조·명물">🏯</span>` : ""}<span class="evc" title="독립 근거 ${(r.evidence || []).length}개: ${esc((r.evidence || []).join(", "))}">✔${(r.evidence || []).length}</span></div>
           <div class="ja">${esc(r.name_ja)}</div>
           <div class="meta">${esc(D.regions[r.region].ko)} ${esc(r.area)} · ${esc(r.category)} · <span class="nw">${YEN[r.price_level] || ""}</span>${noSmoke(r) ? ` · <span class="nw" title="${esc(smokeLabel[r.smoking])}">🚭${r.smoking === "분연" ? " 분연" : ""}</span>` : ""}</div>
           ${r.signature ? `<div class="sig">${esc(r.signature)}</div>` : ""}
@@ -692,7 +696,7 @@
     if (!m) return;
     const hidden = listOnly() ? !current.some((x) => x.id === id) : !cluster.hasLayer(m);
     if (hidden) { // 필터에 걸려 숨겨진 경우 필터 해제
-      Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false });
+      Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false });
       state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
       update();
       toast("필터에 가려진 가게라 필터를 해제하고 보여드려요");
@@ -910,11 +914,12 @@
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
   $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });
+  $("strong").addEventListener("click", () => { state.strong = !state.strong; update(); });
   const refreshPins = () => { if (NOMAP) return; markers.forEach((m, id) => m.setIcon(pinIcon(R.find((r) => r.id === id)))); };
   setInterval(() => { if (state.openNow) update(); else renderList(current); refreshPins(); }, 5 * 60 * 1000); // 영업 상태 5분마다 갱신
   $("hideVisited").addEventListener("click", () => { state.hideVisited = !state.hideVisited; update(); });
   $("reset").addEventListener("click", () => {
-    Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, me: null, sort: "level" });
+    Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false, me: null, sort: "level" });
     $("sort").value = "level";
     state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
     if (watchId !== null) stopLocate();
@@ -990,7 +995,7 @@
   // 모바일: 상세 필터 접기/펼치기
   const moreBtn = $("moreFilters");
   function syncMore() {
-    const n = state.cats.size + state.books.size + state.prices.size + (state.level ? 1 : 0) + (state.openNow ? 1 : 0) + (state.easyWait ? 1 : 0) + (state.noSmoke ? 1 : 0) + (state.favOnly ? 1 : 0) + (state.hideVisited ? 1 : 0);
+    const n = state.cats.size + state.books.size + state.prices.size + (state.level ? 1 : 0) + (state.openNow ? 1 : 0) + (state.easyWait ? 1 : 0) + (state.noSmoke ? 1 : 0) + (state.strong ? 1 : 0) + (state.favOnly ? 1 : 0) + (state.hideVisited ? 1 : 0);
     moreBtn.textContent = (document.body.classList.contains("fopen") ? "필터 접기 ▴" : "필터 더보기 ▾") + (n ? ` (${n})` : "");
   }
   moreBtn.addEventListener("click", () => { document.body.classList.toggle("fopen"); syncMore(); });

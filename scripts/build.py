@@ -109,7 +109,7 @@ FIELD_ORDER = [
     "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
     "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "wait", "smoking", "smoking_note",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
-    "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon",
+    "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon", "evidence",
     "sources", "verified_open", "checked_at",
 ]
 REQUIRED = ["name_ko", "name_ja", "region", "area", "category", "why", "address_ja", "legend_level"]
@@ -125,6 +125,32 @@ LEVEL_RULE = {
     2: "타베로그 3.60 이상 · 타베로그 백명점 · 미쉐린 빕구르망",
     1: "그 외 (노포·원조·유튜브 등 다른 이유로 선정)",
 }
+
+
+def evidence(r: dict) -> list[str]:
+    """독립 근거 목록 (신뢰도 표시용)."""
+    ev = []
+    sc = r.get("tabelog_score") or 0
+    aw = " ".join(r.get("awards") or [])
+    types = {x.get("type") for x in r.get("reasons") or []}
+    if sc >= 3.6:
+        ev.append(f"타베로그 {sc:.2f}")
+    if "백명점" in (r.get("tags") or []) or "백명점" in aw:
+        ev.append("백명점")
+    if "Award" in aw:
+        ev.append("Tabelog Award")
+    if "미쉐린" in aw or "미쉐린" in types:
+        ev.append("미쉐린")
+    g, n = r.get("google_rating"), r.get("google_reviews") or 0
+    if g and g >= 4.2 and n >= 300:
+        ev.append(f"구글 {g}")
+    if "유튜브" in types:
+        ev.append("유튜브")
+    if "노포·원조" in types:
+        ev.append("노포·원조")
+    if "언론·가이드" in types:
+        ev.append("언론·가이드")
+    return ev
 
 
 def legend_rule(r: dict) -> int:
@@ -898,6 +924,7 @@ def main() -> int:
         if "editor_level" not in r:
             r["editor_level"] = r.get("legend_level")  # 조사 단계에서 매긴 등급(참고용)
         r["legend_level"] = legend_rule(r)
+        r["evidence"] = evidence(r)
         # 조사자가 '꼭 가볼 곳'으로 봤지만 점수 기준 ★★★ 가 아닌 곳 → 지역 상징 배지
         r["icon"] = bool(r.get("editor_level") == 3 and r["legend_level"] < 3)
     warnings = geocode(items, args.offline)
