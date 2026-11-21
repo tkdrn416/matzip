@@ -13,6 +13,7 @@
 }
 
 * { box-sizing: border-box; }
+[hidden] { display: none !important; }
 html, body { margin: 0; height: 100%; background: var(--bg); color: var(--ink); }
 button { font: inherit; color: inherit; }
 a { color: #1d70b8; }
@@ -78,6 +79,8 @@ a { color: #1d70b8; }
 .item .more { grid-column: 1 / -1; border-top: 1px dashed var(--line); padding-top: 8px; margin-top: 2px; font-size: 13px; line-height: 1.5; cursor: default; }
 .item.open { border-color: #1f1d1a88; }
 .badge.more { background: #f3f1ee; color: #6b665e; }
+.pp .near { margin: 6px 0; font-size: 12px; }
+.pp .near a { color: inherit; text-decoration: underline dotted; cursor: pointer; }
 .pp .hint { margin-top: 6px; font-size: 11px; color: var(--muted); text-align: center; }
 .item .side { display: flex; flex-direction: column; align-items: flex-end; gap: 4px; }
 .iconbtn { border: none; background: none; font-size: 18px; cursor: pointer; padding: 2px 4px; line-height: 1; color: #bbb; }

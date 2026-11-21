@@ -21,7 +21,7 @@
   const fav = store.get(LS.fav);
   const vis = store.get(LS.vis);
 
-  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), favOnly: false, hideVisited: false, me: null, sort: "level" };
+  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, me: null, sort: "level" };
   const BOOK = Object.fromEntries((D.bookingTypes || []).map((b) => [b.name, b]));
   const BOOK_SHORT = { "앱예약": "온라인예약 가능", "전화예약만": "전화예약만", "원격줄서기": "원격줄서기", "현장방문": "현장방문" };
   const REASON = Object.fromEntries((D.reasonTypes || []).map((t) => [t.name, t]));
@@ -134,6 +134,17 @@
       </div>`;
   }
 
+  function nearHtml(r) {
+    const near = R.filter((x) => x.id !== r.id)
+      .map((x) => ({ x, d: map.distance([r.lat, r.lng], [x.lat, x.lng]) }))
+      .filter((o) => o.d <= 1200)
+      .sort((a, b) => a.d - b.d)
+      .slice(0, 4);
+    if (!near.length) return "";
+    return `<div class="near"><b>근처 다른 맛집</b> ${near.map(({ x, d }) =>
+      `<a data-goto="${x.id}">${(CAT[x.category] || CAT["기타"]).emoji} ${esc(x.name_ko)}</a> <span class="dist">${fmtDist(d)}</span>`).join(" · ")}</div>`;
+  }
+
   function detailHtml(r) {
     const rows = [];
     if (r.signature) rows.push(["대표메뉴", r.signature]);
@@ -151,6 +162,7 @@
       ${reasonsHtml(r)}
       ${r.tips ? `<div class="tips">💡 ${esc(r.tips)}</div>` : ""}
       <dl>${rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
+      ${nearHtml(r)}
       ${linkBtns(r)}
       <div class="addr">${esc(r.address_ja)} ${esc(r.address_building || "")}</div>`;
   }
@@ -179,6 +191,7 @@
     const terms = state.q.toLowerCase().split(/\s+/).filter(Boolean);
     let out = R.filter((r) =>
       (state.region === "all" || r.region === state.region) &&
+      (!state.areas.size || state.areas.has(r.area)) &&
       (!state.cats.size || state.cats.has(r.category)) &&
       (!state.level || r.legend_level >= state.level) &&
       (!state.prices.size || state.prices.has(r.price_level)) &&
@@ -216,14 +229,27 @@
 
   function renderChips() {
     const rc = $("regionChips"); rc.innerHTML = "";
-    rc.append(chip("전체", state.region === "all", () => { state.region = "all"; update(true); }, R.length));
+    rc.append(chip("전체", state.region === "all", () => { state.region = "all"; state.areas.clear(); update(true); }, R.length));
     Object.entries(D.regions).forEach(([k, v]) => {
       const n = R.filter((r) => r.region === k).length;
-      if (n) rc.append(chip(v.ko, state.region === k, () => { state.region = k; update(true); }, n));
+      if (n) rc.append(chip(v.ko, state.region === k, () => { state.region = k; state.areas.clear(); update(true); }, n));
     });
 
+    const ac = $("areaChips"); ac.innerHTML = "";
+    ac.hidden = state.region === "all";
+    if (state.region !== "all") {
+      const areaCount = {};
+      R.filter((r) => r.region === state.region).forEach((r) => { areaCount[r.area] = (areaCount[r.area] || 0) + 1; });
+      ac.append(chip("📍 전체 지역", !state.areas.size, () => { state.areas.clear(); update(true); }));
+      Object.entries(areaCount).sort((a, b) => b[1] - a[1]).forEach(([a, n]) =>
+        ac.append(chip(a, state.areas.has(a), () => {
+          state.areas.has(a) ? state.areas.delete(a) : state.areas.add(a);
+          update(true);
+        }, n)));
+    }
+
     const cc = $("catChips"); cc.innerHTML = "";
-    const base = R.filter((r) => state.region === "all" || r.region === state.region);
+    const base = R.filter((r) => (state.region === "all" || r.region === state.region) && (!state.areas.size || state.areas.has(r.area)));
     cc.append(chip("전체 종류", !state.cats.size, () => { state.cats.clear(); update(); }));
     D.categories.forEach((c) => {
       const n = base.filter((r) => r.category === c.name).length;
@@ -309,7 +335,7 @@
     if (!m) return;
     if (!cluster.hasLayer(m)) { // 필터에 걸려 숨겨진 경우 필터 해제
       Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false });
-      state.cats.clear(); state.prices.clear(); state.books.clear(); $("q").value = "";
+      state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
       update();
     }
     const r = R.find((x) => x.id === id);
@@ -338,6 +364,8 @@
   $("list").addEventListener("click", (e) => {
     const btn = e.target.closest("button[data-act]");
     if (btn) { e.stopPropagation(); toggle(btn.dataset.act === "fav" ? fav : vis, btn.dataset.act === "fav" ? LS.fav : LS.vis, btn.dataset.id); return; }
+    const go = e.target.closest("[data-goto]");
+    if (go) { state.open = go.dataset.goto; openPlace(go.dataset.goto, true); renderList(current); return; }
     if (e.target.closest("a, .more")) return; // 펼친 상세 안의 링크/내용 클릭은 그대로
     const li = e.target.closest(".item");
     if (!li) return;
@@ -347,6 +375,8 @@
     openPlace(id, true);
   });
   map.getContainer().addEventListener("click", (e) => {
+    const go = e.target.closest(".pp [data-goto]");
+    if (go) { openPlace(go.dataset.goto, true); return; }
     const btn = e.target.closest(".pp button[data-act]");
     if (btn) toggle(btn.dataset.act === "fav" ? fav : vis, btn.dataset.act === "fav" ? LS.fav : LS.vis, btn.dataset.id);
   });
@@ -359,7 +389,7 @@
   $("reset").addEventListener("click", () => {
     Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, me: null, sort: "level" });
     $("sort").value = "level";
-    state.cats.clear(); state.prices.clear(); state.books.clear(); $("q").value = "";
+    state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
     if (meMarker) { map.removeLayer(meMarker); meMarker = null; }
     update(true);
   });

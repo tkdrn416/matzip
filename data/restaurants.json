@@ -19,6 +19,11 @@
         "type": "언론·가이드",
         "detail": "넷플릭스 다큐 'Street Food(ストリート・グルメを求めて)'로 알려진 전설의 이자카야로 언급(타베로그 리뷰)",
         "url": "https://tabelog.com/osaka/A2701/A270107/27002949/dtlrvwlst/B31965092/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens: 영상 제목의 'KING OF TUNA' 파트이자 마지막 코스. 토요 사장이 토치로 직접 구워주는 참치 볼살(가마) 등, 일행 전체 8,500엔.",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
       }
     ],
     "tips": "낮에만 여는 가게: 화·수·금 13:00-16:30, 토 12:00-16:30(월·목·일 휴무). 예약 불가, 1시간 가까이 기다리기도. 음료는 셀프. 현금만. 오마카세가 무난.",
@@ -43,13 +48,17 @@
     "awards": [
       "타베로그 백명점 다치노미 2025"
     ],
-    "youtube": [],
+    "youtube": [
+      "Mark Wiens — Japanese Street Food in Osaka!! 🇯🇵 KING OF TUNA + 5 Foods You Have to Try in Osaka, Japan!"
+    ],
     "tags": [
       "백명점",
       "줄서는집",
       "웨이팅김",
       "현금만",
-      "관광객인기"
+      "관광객인기",
+      "유튜브맛집",
+      "한국인인기"
     ],
     "legend_level": 3,
     "sources": [
@@ -1466,6 +1475,11 @@
         "type": "타베로그",
         "detail": "타베로그 3.48 (리뷰 1,947건) — 551 전 점포 중 최고점",
         "url": "https://tabelog.com/osaka/A2701/A270202/27001312/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Paolo fromTOKYO: 551 호라이 부타만이 만들어지는 과정을 취재한 영상(브랜드 단위 영상, 본점 매장 방문 여부는 미확인).",
+        "url": "https://www.youtube.com/watch?v=U9QlvPz6iYQ"
       }
     ],
     "tips": "에비스바시스지 상점가 안. 테이크아웃 줄은 회전이 빠르다. 화요일 휴무. 카드 가능.",
@@ -1488,13 +1502,16 @@
     "google_rating": null,
     "google_reviews": null,
     "awards": [],
-    "youtube": [],
+    "youtube": [
+      "Paolo fromTOKYO — How Japan's Most Popular Steamed Buns are Made in Japan"
+    ],
     "tags": [
       "노포",
       "관광객인기",
       "한국인인기",
       "테이크아웃",
-      "가성비"
+      "가성비",
+      "유튜브맛집"
     ],
     "legend_level": 3,
     "sources": [
@@ -3867,6 +3884,11 @@
         "type": "현지평판",
         "detail": "'우메다에서 가장 행렬이 생기는 타코야키집'(타베로그 리뷰)",
         "url": "https://tabelog.com/osaka/A2701/A270101/27012248/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens: 타코야키 코스. '현지인들이 오사카 최고 타코야키로 많이 추천하는 곳'이라고 소개(860엔).",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
       }
     ],
     "tips": "카운터 6석 서서 먹기, 포장 가능. 현금만. 연중무휴.",
@@ -3889,13 +3911,17 @@
     "google_rating": null,
     "google_reviews": null,
     "awards": [],
-    "youtube": [],
+    "youtube": [
+      "Mark Wiens — Japanese Street Food in Osaka!! 🇯🇵 KING OF TUNA + 5 Foods You Have to Try in Osaka, Japan!"
+    ],
     "tags": [
       "줄서는집",
       "테이크아웃",
       "혼밥가능",
       "가성비",
-      "현금만"
+      "현금만",
+      "유튜브맛집",
+      "한국인인기"
     ],
     "legend_level": 2,
     "sources": [
@@ -4152,7 +4178,7 @@
     "name_en": "HAJIME",
     "region": "osaka",
     "area": "우츠보·니시구",
-    "category": "기타",
+    "category": "프렌치·이노베이티브",
     "signature": "요네다 하지메 셰프의 이노베이티브 프렌치 오마카세 코스",
     "why": "미쉐린 3스타(2026년판 유지), 타베로그 4.34·Tabelog Award 10년 연속 수상(Silver 7회·Bronze 3회). 오사카 최정상 파인다이닝.",
     "reasons": [
@@ -5070,6 +5096,362 @@
     "sources": [
       "https://tabelog.com/en/osaka/A2701/A270108/27003802/",
       "https://award.tabelog.com/hyakumeiten/wagashi_west/2026"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-084",
+    "name_ko": "돈소쿠 비짱",
+    "name_ja": "とん足 びーちゃん",
+    "name_en": "Tonsoku Bichan",
+    "region": "osaka",
+    "area": "신사이바시·아메무라",
+    "category": "이자카야·다치노미",
+    "signature": "겉은 바삭, 속은 젤라틴처럼 쫀득한 구운 돼지족발(돈소쿠/豚足)",
+    "why": "카운터 6석짜리 돼지족발 구이 전문점. 성시경 '먹을텐데' 도쿄·오사카 회차에서 오사카 대표로 소개돼 한국인 사이 화제가 됐다. 타베로그 3.56.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "성시경 '먹을텐데' 「도쿄 후지키, 오사카 돈조쿠 비짱」 회차에서 오사카 편으로 소개",
+        "url": "https://www.youtube.com/watch?v=jogtpBx1cC4"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.56 (리뷰 104건)",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27013496/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "성시경 먹을텐데: 도쿄 후지키와 함께 묶인 회차의 오사카 파트. 구운 돼지족발(돈소쿠) 전문 카운터집 소개, 설명란 주소 東心斎橋2-4-19(玉屋町ギャラクシービル).",
+        "url": "https://www.youtube.com/watch?v=jogtpBx1cC4"
+      }
+    ],
+    "tips": "카운터 6석, 18~21시의 짧은 영업에 족발 매진 시 조기 마감. 타베로그상 카드·전자화폐·QR 불가라 현금 준비. 전화 예약 가능.",
+    "address_ja": "大阪府大阪市中央区東心斎橋2-4-19",
+    "address_building": "玉屋町ギャラクシービル3号館 1F",
+    "station": "신사이바시역 도보 5분",
+    "lat": 34.671375,
+    "lng": 135.504349,
+    "geo": "gsi:大阪府大阪市中央区東心斎橋二丁目４番１９号",
+    "price_level": 2,
+    "price_note": "3,000~5,000엔",
+    "hours": "18:00-21:00 (월~토, 매진 시 조기 마감)",
+    "closed": "일요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」, 온라인 예약 없음. 전화 +81-6-6211-6114.",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27013496/",
+    "tabelog_score": 3.56,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [
+      "성시경 먹을텐데 '도쿄 후지키, 오사카 돈조쿠 비짱'",
+      "성시경 먹을텐데 — [sub] 성시경의 먹을텐데 l 도쿄 후지키, 오사카 돈조쿠 비짱"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "한국인인기",
+      "현지인맛집"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270201/27013496/",
+      "https://www.youtube.com/watch?v=jogtpBx1cC4"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-085",
+    "name_ko": "히마와리",
+    "name_ja": "ひまわり",
+    "name_en": "Himawari",
+    "region": "osaka",
+    "area": "신사이바시·아메무라",
+    "category": "오코노미야키",
+    "signature": "철판요리(규탄 니코미·돈페이야키·구운 풋콩)와 오코노미야키·야키소바",
+    "why": "성시경 '먹을텐데' 마츠다상과 오사카 특집 1편(2022)에서 오사카에사는사람들TV 마츠다 부장과 함께 간 철판·오코노미야키집. 이후 '성시경·마츠다 부장 맛집'으로 한국인 사이에 유명해졌다.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "성시경 '먹을텐데' 마츠다상과 오사카 특집 1편에서 마츠다 부장(오사카에사는사람들TV)과 철판요리(데판야키·돈페이야키·규탄 니코미 등)를 먹음 (2022-10)",
+        "url": "https://www.youtube.com/watch?v=EMR0Aot9yUI"
+      },
+      {
+        "type": "현지평판",
+        "detail": "와그 매거진이 '성시경 먹을텐데에 나왔던 바로 그곳'이자 마츠다 부장 추천 맛집으로 소개",
+        "url": "https://www.waug.com/ko/magazines/552"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.45 (리뷰 122건) — 3.5 미만이지만 성시경·마츠다 부장 방문으로 한국인에게 유명해 포함",
+        "url": "https://tabelog.com/osaka/A2701/A270201/27083055/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "성시경 먹을텐데: 오사카에사는사람들TV 마츠다 부장과 함께 방문한 히가시신사이바시 철판·오코노미야키집. 데판야키·돈페이야키·구운 풋콩(야키에다마메)·규탄 니코미(철판 우설 조림) 등을 먹음. 와그 매거진이 '성시경 먹을텐데에 나왔던 바로 그곳'으로 정리.",
+        "url": "https://www.youtube.com/watch?v=EMR0Aot9yUI"
+      }
+    ],
+    "tips": "저녁 영업(17시~)만, 일요일 휴무. 예약은 전화로. 카드·PayPay 가능.",
+    "address_ja": "大阪府大阪市中央区東心斎橋1-19-5",
+    "address_building": "ウイステリア心斎橋 2F",
+    "station": "신사이바시역 도보 5분 / 나가호리바시역 도보 4분",
+    "lat": 34.674358,
+    "lng": 135.503265,
+    "geo": "gsi:大阪府大阪市中央区東心斎橋一丁目１９番５号",
+    "price_level": 3,
+    "price_note": "5,000~6,000엔 (타베로그 리뷰 집계)",
+    "hours": "17:00-23:30 (L.O. 요리 22:30, 음료 23:00)",
+    "closed": "일요일, 여름휴가·연말연시",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」이나 온라인 예약 버튼은 확인 못 함 → 전화 예약. 대관은 전화 상담.",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27083055/",
+    "tabelog_score": 3.45,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [
+      "성시경 먹을텐데 '마츠다상과 오사카 특집 1편' (2022-10)",
+      "성시경 먹을텐데 — [sub] 성시경의 먹을텐데 l 마츠다상과 오사카 특집 1편"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "한국인인기"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270201/27083055/",
+      "https://www.waug.com/ko/magazines/552",
+      "https://www.youtube.com/watch?v=EMR0Aot9yUI"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-086",
+    "name_ko": "논키야",
+    "name_ja": "のんきや",
+    "name_en": "Nonkiya",
+    "region": "osaka",
+    "area": "신세카이·덴노지",
+    "category": "이자카야·다치노미",
+    "signature": "오뎅, 미소에 조린 도테야키 꼬치",
+    "why": "신세카이 뒷골목의 서서 먹는 오뎅·도테야키 선술집. Mark Wiens가 2024년 오사카 영상의 첫 코스로 '노포(heritage)'라 소개했고, 아침 8시부터 여는 현지 단골집이다.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens 2024년 오사카 영상 첫 코스. 서서 먹는 노포 오뎅·도테야키(1,420엔)로 소개",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.49 (리뷰 410건) — 3.5 미만이지만 Mark Wiens 소개와 신세카이 서민 선술집 상징성으로 포함",
+        "url": "https://tabelog.com/osaka/A2701/A270206/27045066/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens: 첫 코스. 서서 먹는 노포(heritage) 오뎅집으로 소개, 오뎅과 미소에 조린 도테야키 꼬치(1,420엔).",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
+      }
+    ],
+    "tips": "현금만. 화·수 휴무. 아침 8시 오픈이라 신세카이 아침 코스로 좋고, 바로 옆 입식 우동집 마츠야도 Mark Wiens 코스.",
+    "address_ja": "大阪府大阪市浪速区恵美須東3-4-5",
+    "address_building": null,
+    "station": "도부쓰엔마에역 도보 3분 / 신이마미야역 동쪽 출구 도보 5분",
+    "lat": 34.650383,
+    "lng": 135.506271,
+    "geo": "gsi:大阪府大阪市浪速区恵美須東三丁目４番５号",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "08:00-14:30, 16:30-20:00 (토·일 오후 16:00~, L.O. 19:30)",
+    "closed": "화·수요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約不可」. 서서 먹는 선술집이라 그냥 방문.",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27045066/",
+    "tabelog_score": 3.49,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [
+      "Mark Wiens 'Japanese Street Food in Osaka!! KING OF TUNA + 5 Foods' (2024-08)",
+      "Mark Wiens — Japanese Street Food in Osaka!! 🇯🇵 KING OF TUNA + 5 Foods You Have to Try in Osaka, Japan!"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "현지인맛집",
+      "현금만",
+      "아침식사",
+      "가성비",
+      "혼밥가능",
+      "한국인인기"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270206/27045066/",
+      "https://zakruti.com/food/markwiens/video-16340"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-087",
+    "name_ko": "텐구",
+    "name_ja": "てんぐ",
+    "name_en": "Tengu",
+    "region": "osaka",
+    "area": "신세카이·덴노지",
+    "category": "쿠시카츠",
+    "signature": "쿠시카츠(꼬치튀김), 도테야키",
+    "why": "신세카이 쿠시카츠 거리의 인기 쿠시카츠집. Mark Wiens가 2024년 오사카 영상에서 쿠시카츠 코스로 방문했고 타베로그 리뷰 1,100건 이상.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens 2024년 오사카 영상의 쿠시카츠 코스(5인 8,420엔)",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.49 (리뷰 1,135건) — 3.5 미만이지만 Mark Wiens 소개로 포함",
+        "url": "https://tabelog.com/osaka/A2701/A270206/27000442/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Mark Wiens: 쿠시카츠 코스. 맥주와 함께 여러 쿠시카츠를 먹음(5인 8,420엔).",
+        "url": "https://www.youtube.com/watch?v=3zLvByt52go"
+      }
+    ],
+    "tips": "예약 불가. 타베로그상 카드·QR 불가라 현금 준비. 10:30부터 영업해 낮술 가능.",
+    "address_ja": "大阪府大阪市浪速区恵美須東3-4-12",
+    "address_building": null,
+    "station": "도부쓰엔마에역 1번 출구 도보 2분",
+    "lat": 34.649773,
+    "lng": 135.506073,
+    "geo": "gsi:大阪府大阪市浪速区恵美須東三丁目４番１２号",
+    "price_level": 2,
+    "price_note": "2,000~3,000엔",
+    "hours": "10:30-20:00",
+    "closed": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約不可」. 현장 대기.",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270206/27000442/",
+    "tabelog_score": 3.49,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [
+      "Mark Wiens 'Japanese Street Food in Osaka!! KING OF TUNA + 5 Foods' (2024-08)",
+      "Mark Wiens — Japanese Street Food in Osaka!! 🇯🇵 KING OF TUNA + 5 Foods You Have to Try in Osaka, Japan!"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "관광객인기",
+      "한국인인기"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270206/27000442/",
+      "https://zakruti.com/food/markwiens/video-16340"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-088",
+    "name_ko": "아지쿠라야",
+    "name_ja": "お好み焼き あじくらや",
+    "name_en": "Okonomiyaki Ajikuraya",
+    "region": "osaka",
+    "area": "우에혼마치·다니마치9",
+    "category": "오코노미야키",
+    "signature": "오사카야키 믹스(大阪焼ミックス)·철판 야키소바, 문어·가리비·대창 토핑 오코노미야키",
+    "why": "성시경 '먹을텐데'(2025)와 풍자 '또간집' 오사카편(EP.77)에 연달아 나와 한국인 사이에서 급부상한 오코노미야키·철판집. 타베로그 3.59에 오코노미야키 百名店 2025 선정으로 현지 평가도 탄탄하다.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "성시경 '먹을텐데'에서 단독 회차 '오사카 아지쿠라야'로 소개 (2025-07)",
+        "url": "https://www.youtube.com/watch?v=RocWgkePVMw"
+      },
+      {
+        "type": "유튜브",
+        "detail": "풍자 '또간집' EP.77 오사카편에서 현지인 추천으로 방문, 오코노미야키·야키소바 먹고 인증 스티커 부착",
+        "url": "https://www.youtube.com/watch?v=ER8NwhJ6yH4"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 오코노미야키 百名店 2025 선정",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270205/27103780/"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59 (리뷰 605건)",
+        "url": "https://tabelog.com/osaka/A2701/A270205/27103780/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "성시경 먹을텐데: 단독 회차로 소개된 우에혼마치(天王寺区小橋町) 오코노미야키·철판집. 일본 블로그도 '풍자와 성시경 채널에 소개돼 한국인 관광객 사이 일약 유명'이라고 정리.",
+        "url": "https://www.youtube.com/watch?v=RocWgkePVMw"
+      },
+      {
+        "type": "유튜브",
+        "detail": "또간집(풍자, 스튜디오 수제): 현지인 추천을 받아 찾아간 오사카편 소개 가게 중 하나. 문어·가리비·대창 등을 올린 오코노미야키와 야키소바를 먹고 또간집 인증 스티커(삐라)를 붙임.",
+        "url": "https://www.youtube.com/watch?v=ER8NwhJ6yH4"
+      }
+    ],
+    "tips": "자정까지 영업해 늦은 저녁 코스로 좋음. 타베로그 온라인 예약 가능(혼잡 시 90분 제한, 15분 늦으면 취소). 카드·PayPay 가능.",
+    "address_ja": "大阪府大阪市天王寺区小橋町13-18",
+    "address_building": "リッチハイムアルテ上本町 1F",
+    "station": "오사카우에혼마치역 도보 4분 / 쓰루하시역 도보 10분",
+    "lat": 34.666462,
+    "lng": 135.524048,
+    "geo": "gsi:大阪府大阪市天王寺区小橋町１３番１８号",
+    "price_level": 2,
+    "price_note": "1,000~4,000엔 (타베로그 예산)",
+    "hours": "11:00-24:00 (L.O. 23:30)",
+    "closed": "연말연시",
+    "reservation": "가능",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/osaka/A2701/A270205/27103780/"
+      }
+    ],
+    "booking_note": "타베로그 「予約可」 + 온라인 예약 표시 확인(당일 온라인 예약자 수 노출). 혼잡 시 좌석 90분 제한.",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27103780/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 오코노미야키 2025"
+    ],
+    "youtube": [
+      "성시경 먹을텐데 '오사카 아지쿠라야' (2025-07)",
+      "풍자 또간집 EP.77 오사카편 소개 (2025)",
+      "성시경 먹을텐데 — [sub] 성시경의 먹을텐데 l 오사카 아지쿠라야",
+      "또간집(풍자, 스튜디오 수제) — [EN/JP] 한국인은 대부분 모르는 오사카 로컬 찐맛집🇯🇵 찾아왔습니다 | 또간집 EP.77"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "한국인인기",
+      "백명점",
+      "현지인맛집",
+      "심야영업"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270205/27103780/",
+      "https://www.cdqjp.com/info/34612feb-9764-47ae-bfcf-289b10e120d3",
+      "https://www.youtube.com/watch?v=RocWgkePVMw"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -7668,6 +8050,1318 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "kyoto-045",
+    "name_ko": "가이다시멘 기타다 (조개육수 라멘)",
+    "name_ja": "貝だし麺 きた田",
+    "name_en": "Kaidashimen Kitada",
+    "region": "kyoto",
+    "area": "교토역",
+    "category": "라멘",
+    "signature": "가이다시멘 특제(조개 육수 시오/쇼유 라멘, 1,200엔)",
+    "why": "2021년 오픈한 조개 육수 라멘 전문점으로 타베로그 3.70·리뷰 2,000건, 라멘 WEST 백명점 2024·2025 연속 선정. 교토역에서 걸어갈 수 있는 신흥 강자.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.70 (리뷰 2,000+)",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26036754/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 라멘 WEST 백명점 2024·2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26036754/"
+      }
+    ],
+    "tips": "식권제, 11석(카운터 7석). 아침 7시부터 영업해 교토 도착 직후 아침 라멘으로 좋음. 가게 안 화장실 없음. 카드·QR결제 가능.",
+    "address_ja": "京都府京都市下京区北不動堂町570-3",
+    "address_building": null,
+    "station": "JR 교토역 도보 약 8분 (사가노선 홈 서쪽 출구에서 약 5분)",
+    "lat": 34.987373,
+    "lng": 135.754013,
+    "geo": "gsi:京都府京都市下京区北不動堂町５７０番地",
+    "price_level": 1,
+    "price_note": "1,000~1,500엔",
+    "hours": "07:00-23:30 (매일)",
+    "closed": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 기준 예약 불가, 온라인 예약 없음. 줄 서서 식권 구매.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26036754/",
+    "tabelog_score": 3.7,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 라멘 WEST 2024·2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "줄서는집",
+      "혼밥가능",
+      "아침식사",
+      "심야영업"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260101/26036754/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-046",
+    "name_ko": "덴푸라도코로 교린센",
+    "name_ja": "天婦羅処 京林泉",
+    "name_en": "Tempura-dokoro Kyorinsen",
+    "region": "kyoto",
+    "area": "교토역",
+    "category": "튀김·돈카츠·규카츠",
+    "signature": "교야사이(교토 채소)·해산물 덴푸라 코스 (유키 코스 12,000엔 등), 마무리 가키아게동",
+    "why": "교토역 중앙구 호텔 그란비아 안의 덴푸라 전문점. 타베로그 3.66, 덴푸라 백명점 2022·2023·2025 선정 — 교토역 거점의 '특별한 한 끼'.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.66 (리뷰 370)",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26000484/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 덴푸라 백명점 2022·2023·2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26000484/"
+      }
+    ],
+    "tips": "점심 90분·저녁 120분 제한, 20분 이상 연락 없이 늦으면 취소 처리. 주말·공휴일 점심은 11:30/13:30 2부제. 카드·QR 결제 가능.",
+    "address_ja": "京都府京都市下京区烏丸通塩小路下ル東塩小路町901",
+    "address_building": "ホテルグランヴィア京都 M3F",
+    "station": "JR 교토역 중앙개찰구 도보 1분 (호텔 그란비아 교토 M3층)",
+    "lat": 34.986393,
+    "lng": 135.75824,
+    "geo": "gsi:京都府京都市下京区東塩小路町９０１番地",
+    "price_level": 3,
+    "price_note": "점심 4,000~5,000엔 / 저녁 9,000~15,000엔",
+    "hours": "11:30-15:00(L.O.14:00), 17:00-22:00(L.O.21:00)",
+    "closed": "월요일(공휴일이면 영업, 공휴일 다음 화요일 휴무)",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26000484/"
+      }
+    ],
+    "booking_note": "타베로그 네트예약 가능(페이지에 '인터넷 예약' 항목, 당일 온라인 예약자 표시). 코스 예약 권장.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000484/",
+    "tabelog_score": 3.66,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 덴푸라 2022·2023·2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "고급"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260101/26000484/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-047",
+    "name_ko": "사이쿄야키 교토 야마로쿠",
+    "name_ja": "西京焼き 京都やま六",
+    "name_en": "Saikyoyaki Kyoto Yamaroku",
+    "region": "kyoto",
+    "area": "교토역",
+    "category": "일식·카이세키",
+    "signature": "사이쿄야키 정식(은대구 사이쿄야키 정식 2,650엔 등, 반찬 4종·밥·미소시루)",
+    "why": "교토 백미소에 절인 생선을 갓 구워 내는 사이쿄야키 정식집. 교토역 직결 이세탄 지하라 접근성 최고, 타베로그 3.63·식당 백명점 2026.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.63 (리뷰 500+)",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26039724/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 식당(食堂) 백명점 2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26039724/"
+      }
+    ],
+    "tips": "예약 불가, 현장에서 정리권(整理券)을 발행하며 좌석 21석이라 당일 접수가 일찍 마감될 수 있음. 카드·QR결제 가능.",
+    "address_ja": "京都府京都市下京区烏丸通塩小路下ル東塩小路町901",
+    "address_building": "ジェイアール京都伊勢丹 B1F",
+    "station": "JR 교토역 직결 (JR 교토 이세탄 지하 1층)",
+    "lat": 34.986393,
+    "lng": 135.75824,
+    "geo": "gsi:京都府京都市下京区東塩小路町９０１番地",
+    "price_level": 2,
+    "price_note": "2,000~3,000엔",
+    "hours": "11:00-15:00(L.O.14:30), 16:00-20:00(L.O.19:30)",
+    "closed": "JR 교토 이세탄 휴무일에 따름",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가. 매장 앞 종이 정리권으로 순번 대기(앱 원격 대기 아님).",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26039724/",
+    "tabelog_score": 3.63,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 식당 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "혼밥가능",
+      "관광객인기"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260101/26039724/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-048",
+    "name_ko": "야마모토 만보",
+    "name_ja": "山本まんぼ",
+    "name_en": "Yamamoto Manbo",
+    "region": "kyoto",
+    "area": "교토역",
+    "category": "오코노미야키",
+    "signature": "만보야키(まんぼ焼き, 야키소바 들어간 교토식 오코노미야키)·베타야키",
+    "why": "1948년 창업한 교토 오코노미야키 노포(2020년 교토역 근처로 이전). 타베로그 3.66·리뷰 1,400건+, 오코노미야키 백명점 2022~2025 4회 연속.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.66 (리뷰 1,400+)",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26034294/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 오코노미야키 백명점 2022·2023·2024·2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26034294/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "1948년(쇼와 23년) 창업, 2020년 5월 현 위치로 이전",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26034294/"
+      }
+    ],
+    "tips": "평일은 전화 예약 가능, 토·일·공휴일은 예약 불가라 줄 설 각오. 현금만(카드·전자화폐·QR 불가). 테이크아웃 가능.",
+    "address_ja": "京都府京都市下京区小稲荷町61-54",
+    "address_building": null,
+    "station": "JR 교토역 중앙출구 도보 약 7분",
+    "lat": 34.987934,
+    "lng": 135.763092,
+    "geo": "gsi:京都府京都市下京区小稲荷町６１番地",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "10:00-21:30",
+    "closed": "수요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」(토·일·공휴일 예약 불가), 온라인 예약 버튼 없음. 전화 075-341-8050.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26034294/",
+    "tabelog_score": 3.66,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 오코노미야키 2022~2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "백명점",
+      "현지인맛집",
+      "현금만",
+      "테이크아웃",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260101/26034294/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-049",
+    "name_ko": "후쿠나가 901",
+    "name_ja": "フクナガ901",
+    "name_en": "Fukunaga 901",
+    "region": "kyoto",
+    "area": "교토역",
+    "category": "카페·킷사텐",
+    "signature": "말차 티라미수 세트(와즈카 홍차, 1,400엔)·오지기 파르페",
+    "why": "교토역 빌딩 안에 있는 일본차 카페. 타베로그 3.64, 카페 WEST 백명점 2025 선정으로 기차 시간 전 디저트 타임에 딱.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.64 (리뷰 590)",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26030973/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 카페 WEST 백명점 2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260101/26030973/"
+      }
+    ],
+    "tips": "예약 불가. 교토역 빌딩 8층이라 비 오는 날·출발 전 시간 때우기 좋음. 카드·전자화폐·QR 결제 가능.",
+    "address_ja": "京都府京都市下京区烏丸通塩小路下る東塩小路町901",
+    "address_building": "京都駅ビル 8F",
+    "station": "JR 교토역 직결 (교토역 빌딩 8층)",
+    "lat": 34.986393,
+    "lng": 135.75824,
+    "geo": "gsi:京都府京都市下京区東塩小路町９０１番地",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "10:00-19:30",
+    "closed": "교토역 빌딩 휴무일에 따름",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 기준 예약 불가.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26030973/",
+    "tabelog_score": 3.64,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 카페 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "혼밥가능"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260101/26030973/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-050",
+    "name_ko": "미키케이란 (다시마키 달걀말이)",
+    "name_ja": "三木鶏卵",
+    "name_en": "Miki Keiran",
+    "region": "kyoto",
+    "area": "니시키시장",
+    "category": "시장·길거리음식",
+    "signature": "다시마키 다마고(교토식 육수 달걀말이)",
+    "why": "1928년 창업한 니시키시장의 다시마키 전문점. 구리 냄비로 구운 폭신한 달걀말이로 시장 상징 같은 가게(타베로그 3.48).",
+    "reasons": [
+      {
+        "type": "노포·원조",
+        "detail": "1928년(쇼와 3년) 창업 다시마키 전문점 — 니시키시장 공식 사이트 소개",
+        "url": "https://www.kyoto-nishiki.or.jp/en/stores/mikikeiran/"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.48 (리뷰 296) — 3.5 미만이지만 니시키시장 대표 노포라 예외 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26004870/"
+      }
+    ],
+    "tips": "테이크아웃. 현금만. 작은 컵·한 입 사이즈도 있어 시장 걷기 간식으로 좋음. 17시에 닫음.",
+    "address_ja": "京都府京都市中京区錦小路通富小路西入東魚屋町182",
+    "address_building": null,
+    "station": "한큐 가와라마치역·가라스마역 도보 약 10분 (니시키시장 동쪽)",
+    "lat": 35.005142,
+    "lng": 135.764557,
+    "geo": "gsi:京都府京都市中京区東魚屋町１８２番地",
+    "price_level": 1,
+    "price_note": "~1,000엔",
+    "hours": "09:00-17:00",
+    "closed": "부정기(출처마다 '무휴'/'부정기'로 다름)",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가, 매장 앞에서 바로 구매.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26004870/",
+    "tabelog_score": 3.48,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "현금만",
+      "테이크아웃",
+      "관광객인기"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26004870/",
+      "https://www.kyoto-nishiki.or.jp/en/stores/mikikeiran/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-051",
+    "name_ko": "후카 니시키점 (나마후 만주)",
+    "name_ja": "麩嘉 錦店",
+    "name_en": "Fuka Nishiki",
+    "region": "kyoto",
+    "area": "니시키시장",
+    "category": "화과자·디저트",
+    "signature": "후만주(麩まんじゅう, 나마후로 팥을 감싼 조릿대잎 만주)",
+    "why": "니시키시장 서쪽 끝(사카이마치 모퉁이)의 나마후(생밀기울) 전문점. 타베로그 3.69, 화과자·간미도코로 WEST 백명점 2023·2026 선정.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.69 (리뷰 487)",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26007146/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 화과자·간미도코로 WEST 백명점 2023·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26007146/"
+      }
+    ],
+    "tips": "테이크아웃 위주(좌석 2석). 월요일 휴무 + 2~8월은 마지막 일요일도 휴무. 후만주는 당일 소비 권장. 카드 가능.",
+    "address_ja": "京都府京都市中京区錦小路堺町角菊屋町534-1",
+    "address_building": null,
+    "station": "한큐 가라스마역·지하철 시조역 도보 약 5분 (니시키시장 서쪽 입구)",
+    "lat": 35.005508,
+    "lng": 135.763458,
+    "geo": "gsi:京都府京都市中京区菊屋町５３４番地",
+    "price_level": 1,
+    "price_note": "~1,500엔",
+    "hours": "10:00-17:30",
+    "closed": "월요일, 2~8월 마지막 일요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」(전화로 포장 取り置き 예약), 온라인 예약 없음. 전화 075-221-4533.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26007146/",
+    "tabelog_score": 3.69,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 화과자·간미도코로 WEST 2023·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "테이크아웃"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26007146/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-052",
+    "name_ko": "후미야 (니시키시장 우동)",
+    "name_ja": "冨美家",
+    "name_en": "Fumiya",
+    "region": "kyoto",
+    "area": "니시키시장",
+    "category": "우동·소바",
+    "signature": "후미야 나베(냄비우동)·앙카케 우동(720엔)·가야쿠고항 세트",
+    "why": "니시키시장 사카이마치 입구 바로 옆 우동·간미 식당. 타베로그 3.52, 시장 구경 중 1,000엔 안팎으로 앉아서 먹을 수 있는 대표 식당.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.52 (리뷰 349)",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26017337/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "니시키시장 안팎에서 앉아서 식사할 수 있는 몇 안 되는 저가 식당으로 꾸준한 인기",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26017337/"
+      }
+    ],
+    "tips": "예약 불가, 점심 피크(12~13시)엔 줄. 현금만. 16:30(주말 17:00)에 일찍 닫음.",
+    "address_ja": "京都府京都市中京区錦小路堺町上ル菊屋町519",
+    "address_building": null,
+    "station": "한큐 가라스마역 약 360m (니시키시장 서쪽 끝)",
+    "lat": 35.005508,
+    "lng": 135.763458,
+    "geo": "gsi:京都府京都市中京区菊屋町５１９番地",
+    "price_level": 1,
+    "price_note": "~1,500엔",
+    "hours": "평일 11:00-16:30 / 토·일·공휴일 11:00-17:00",
+    "closed": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 기준 예약 불가.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26017337/",
+    "tabelog_score": 3.52,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현금만",
+      "가성비",
+      "혼밥가능",
+      "관광객인기"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26017337/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-053",
+    "name_ko": "신린쇼쿠도 (森林食堂)",
+    "name_ja": "森林食堂",
+    "name_en": "Shinrin Shokudo",
+    "region": "kyoto",
+    "area": "니조성",
+    "category": "카레",
+    "signature": "스파이스 카레 2종 모둠(오늘의 카레·멧돼지 카레 등) + 고대미 밥",
+    "why": "타베로그 3.86으로 교토 카레 최상위권. 카레 백명점 2017~2026 사이 8회 선정된 스파이스 카레 명가.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.86 (리뷰 632) — 니조성 주변 지역 2위",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26020410/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 카레 백명점 2017·2018·2019·2020·2022·2023·2024·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26020410/"
+      }
+    ],
+    "tips": "부정기 휴무라 공식 영업 캘린더 확인 필수. 현금만(카드·전자화폐·QR 불가). 점심 오픈 전 줄 서는 경우 많음.",
+    "address_ja": "京都府京都市中京区西ノ京内畑町24-4",
+    "address_building": null,
+    "station": "JR·지하철 니조역 도보 약 10분",
+    "lat": 35.014217,
+    "lng": 135.73877,
+    "geo": "gsi:京都府京都市中京区西ノ京内畑町２４番地",
+    "price_level": 2,
+    "price_note": "1,500~3,000엔",
+    "hours": "11:30-14:30, 18:00-20:00",
+    "closed": "부정기",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」, 온라인 예약 버튼 없음(전화).",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26020410/",
+    "tabelog_score": 3.86,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 카레 (2017~2026 중 8회)"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "줄서는집",
+      "현금만"
+    ],
+    "legend_level": 3,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260203/26020410/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-054",
+    "name_ko": "다이호 (사천요리)",
+    "name_ja": "大鵬",
+    "name_en": "Taiho",
+    "region": "kyoto",
+    "area": "니조성",
+    "category": "중화·교자",
+    "signature": "점심 덮밥·정식(てりどん 계열), 상하이 탕수육, 자차이 볶음밥",
+    "why": "니조역 앞 사천요리 인기점. 타베로그 3.68·리뷰 1,100건+, 중식 WEST 백명점 2021·2023·2024·2026 선정. 점심 1,000~2,000엔대.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.68 (리뷰 1,148)",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26003254/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 중식 WEST 백명점 2021·2023·2024·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26003254/"
+      }
+    ],
+    "tips": "화요일·격주 수요일 휴무. 카드는 12,000엔 이상일 때만, 전자화폐·QR 불가. 점심 L.O. 14:15.",
+    "address_ja": "京都府京都市中京区西ノ京星池町149",
+    "address_building": null,
+    "station": "지하철 니조역 3번 출구 도보 1분 (JR 니조역 도보 3분)",
+    "lat": 35.012348,
+    "lng": 135.74054,
+    "geo": "gsi:京都府京都市中京区西ノ京星池町１４９番地",
+    "price_level": 2,
+    "price_note": "점심 1,000~2,000엔 / 저녁 4,000~8,000엔",
+    "hours": "11:30-14:15, 17:30-21:00(L.O.20:20)",
+    "closed": "화요일, 격주 수요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」, 온라인 예약 없음(전화).",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26003254/",
+    "tabelog_score": 3.68,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 중식 WEST 2021·2023·2024·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "가성비"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260203/26003254/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-055",
+    "name_ko": "킷사 치로루",
+    "name_ja": "喫茶チロル",
+    "name_en": "Kissa Tyrol",
+    "region": "kyoto",
+    "area": "니조성",
+    "category": "카페·킷사텐",
+    "signature": "두툼한 달걀 샌드위치·카레·야키메시·크림소다",
+    "why": "니조성 남쪽 오이케도리의 레트로 킷사텐. 타베로그 3.68, 킷사텐 백명점 2021·2022·2026 선정 — 니조성 관람 전후 아침·점심으로 딱.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.68 (리뷰 854)",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26002251/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 킷사텐 백명점 2021·2022·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260203/26002251/"
+      }
+    ],
+    "tips": "아침 8시 오픈. 일요일·공휴일 휴무. 14석이라 점심엔 대기. 카드·전자화폐 불가(현금).",
+    "address_ja": "京都府京都市中京区御池通大宮西入ル門前町539-3",
+    "address_building": null,
+    "station": "지하철 니조조마에역 도보 약 5분",
+    "lat": 35.01149,
+    "lng": 135.747849,
+    "geo": "gsi:京都府京都市中京区門前町５３９番地",
+    "price_level": 1,
+    "price_note": "~1,500엔",
+    "hours": "08:00-16:00 (L.O.15:30)",
+    "closed": "일요일·공휴일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 기준 예약 불가.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26002251/",
+    "tabelog_score": 3.68,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 킷사텐 2021·2022·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "아침식사",
+      "현금만",
+      "가성비",
+      "혼밥가능"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260203/26002251/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-056",
+    "name_ko": "보루타 (야채와 스테이크)",
+    "name_ja": "野菜とステーキ ぼるた",
+    "name_en": "Boruta",
+    "region": "kyoto",
+    "area": "아라시야마",
+    "category": "와규·스테이크",
+    "signature": "흑모와규(암소) 스테이크 + 교토 채소 코스 (점심 함박 3,000엔~, 오마카세 6,000엔~)",
+    "why": "1973년 문을 연 사가아라시야마의 스테이크집. 타베로그 3.70, 스테이크·철판구이 WEST 백명점 2024·2025 — 아라시야마 거점의 특별한 한 끼.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.70",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26012281/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스테이크·철판구이 WEST 백명점 2024·2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26012281/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "1973년 6월 개업 (타베로그 오픈일 기준)",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26012281/"
+      }
+    ],
+    "tips": "화·수·목 휴무(공휴일은 영업). 15석 남짓 작은 가게라 예약 필수급. 당일 예약은 전화만. 카드·QR 결제 가능.",
+    "address_ja": "京都府京都市右京区嵯峨天龍寺瀬戸川町4-3",
+    "address_building": null,
+    "station": "JR 사가아라시야마역 도보 4분",
+    "lat": 35.019199,
+    "lng": 135.678787,
+    "geo": "gsi:京都府京都市右京区嵯峨天龍寺瀬戸川町４番地",
+    "price_level": 3,
+    "price_note": "점심 3,000~6,000엔 / 저녁 8,000~12,000엔",
+    "hours": "12:00-14:00(L.O.13:00), 17:00-21:00(L.O.19:00)",
+    "closed": "화·수·목요일(공휴일은 영업)",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "공식사이트",
+        "url": "https://boruta.jp/reservation-2/"
+      }
+    ],
+    "booking_note": "공식사이트 예약폼에서 날짜·시간(12:00~19:30)·인원(1~15명)·메뉴 선택 후 예약. 당일 예약은 전화만. 알레르기는 예약 시 기재.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26012281/",
+    "tabelog_score": 3.7,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스테이크·철판구이 WEST 2024·2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "노포",
+      "고급"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260403/26012281/",
+      "https://boruta.jp/reservation-2/",
+      "https://page.line.me/031uxwuk"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-057",
+    "name_ko": "신파치차야 (젤라토)",
+    "name_ja": "新八茶屋",
+    "name_en": "Shinpachi Chaya",
+    "region": "kyoto",
+    "area": "아라시야마",
+    "category": "화과자·디저트",
+    "signature": "젤라토(피스타치오, 말차, 레몬 등 더블)",
+    "why": "란덴 아라시야마역 바로 앞 젤라토 가게로 타베로그 아이스·젤라토 백명점 2023·2026 선정(3.62). 아라시야마 산책 중 디저트 1순위.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.62 (리뷰 570)",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26001309/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 아이스크림·젤라토 백명점 2023·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26001309/"
+      }
+    ],
+    "tips": "예약 불가, 회전 빠름. 카드(AMEX)·PayPay 가능.",
+    "address_ja": "京都府京都市右京区嵯峨天龍寺造路町37-17",
+    "address_building": null,
+    "station": "란덴 아라시야마역 도보 1분",
+    "lat": 35.014477,
+    "lng": 135.679031,
+    "geo": "gsi:京都府京都市右京区嵯峨天龍寺造路町３７番地",
+    "price_level": 1,
+    "price_note": "~1,000엔",
+    "hours": "10:00-18:00",
+    "closed": "목요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 기준 예약 불가.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26001309/",
+    "tabelog_score": 3.62,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 아이스크림·젤라토 2023·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "관광객인기",
+      "테이크아웃"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260403/26001309/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-058",
+    "name_ko": "% 아라비카 교토 아라시야마",
+    "name_ja": "アラビカ京都 嵐山",
+    "name_en": "% Arabica Kyoto Arashiyama",
+    "region": "kyoto",
+    "area": "아라시야마",
+    "category": "카페·킷사텐",
+    "signature": "카페라테",
+    "why": "도게츠쿄 앞 가쓰라강변의 '응(%) 커피' 본점격 매장. 2015년 오픈 이후 아라시야마 대표 커피 스폿으로 타베로그 3.57·리뷰 590건.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.57 (리뷰 590)",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26025913/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "2015년 오픈, 아라시야마 강변 테이크아웃 커피로 관광객 줄이 끊이지 않는 곳 (좌석 4석)",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26025913/"
+      }
+    ],
+    "tips": "좌석이 4석뿐이라 사실상 테이크아웃. 오전 일찍 가면 줄이 짧음. 카드·IC·PayPay 가능, 영어 메뉴 있음.",
+    "address_ja": "京都府京都市右京区嵯峨天龍寺芒ノ馬場町3-47",
+    "address_building": null,
+    "station": "란덴 아라시야마역 도보 약 5분 (도게츠쿄 북단 근처)",
+    "lat": 35.013912,
+    "lng": 135.674866,
+    "geo": "gsi:京都府京都市右京区嵯峨天龍寺芒ノ馬場町３番地",
+    "price_level": 1,
+    "price_note": "~1,000엔",
+    "hours": "09:00-18:00",
+    "closed": "부정기",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가, 줄 서서 주문.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26025913/",
+    "tabelog_score": 3.57,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "관광객인기",
+      "줄서는집",
+      "테이크아웃"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260403/26025913/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-059",
+    "name_ko": "아라시야마 다이젠",
+    "name_ja": "嵐山 大善",
+    "name_en": "Arashiyama Daizen",
+    "region": "kyoto",
+    "area": "아라시야마",
+    "category": "스시·해산물",
+    "signature": "사바즈시(고등어 봉초밥)·이나리즈시·마스즈시 등 교토식 테이크아웃/이트인 초밥",
+    "why": "사가 지역의 교토식 초밥(봉초밥·이나리) 가게로 타베로그 3.59. 아라시야마에서 점심 1,000~2,000엔대로 먹을 수 있는 몇 안 되는 고득점집.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59 (아라시야마 지역 상위권)",
+        "url": "https://tabelog.com/kyoto/A2601/A260403/26022843/"
+      }
+    ],
+    "tips": "시모사가 버스정류장 바로 앞. 고등어 입하가 없는 날은 사바즈시가 없을 수 있음. 카드·IC·QR 결제 가능.",
+    "address_ja": "京都府京都市右京区嵯峨伊勢ノ上町10-3",
+    "address_building": null,
+    "station": "란덴 사가역 약 300m (시모사가 버스정류장 도보 15초)",
+    "lat": 35.014549,
+    "lng": 135.68277,
+    "geo": "gsi:京都府京都市右京区嵯峨伊勢ノ上町１０番地",
+    "price_level": 2,
+    "price_note": "점심 1,000~2,000엔 / 저녁 3,000~4,000엔",
+    "hours": "10:00-19:00",
+    "closed": "목요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」, 온라인 예약 버튼 없음. 전화 075-882-0018(일본어).",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26022843/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "테이크아웃",
+      "가성비"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260403/26022843/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-060",
+    "name_ko": "아와모치도코로 사와야",
+    "name_ja": "粟餅所・澤屋",
+    "name_en": "Awamochi-dokoro Sawaya",
+    "region": "kyoto",
+    "area": "킨카쿠지·기타노",
+    "category": "화과자·디저트",
+    "signature": "아와모치(좁쌀떡) — 팥앙금(고시앙)·콩가루 2종",
+    "why": "기타노텐만구 정문 앞에서 에도시대부터 이어온 좁쌀떡 노포. 타베로그 3.76·리뷰 1,200건+, 스위츠/화과자 백명점 2018~2026 6회 선정.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.76 (리뷰 1,209)",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26001539/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스위츠 백명점 2018·2019·2020·2022, 화과자·간미도코로 WEST 백명점 2023·2026",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26001539/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "1682년(덴나 2년) 기타노텐만구 문전 찻집에서 시작한 것으로 소개됨(타베로그 리뷰 등)",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26001539/"
+      }
+    ],
+    "tips": "주문 후 바로 만들어 주는 떡이라 가게 안에서 먹는 걸 추천(당일 소비). 수·목·매월 26일 휴무. 현금만.",
+    "address_ja": "京都府京都市上京区北野天満宮前西入紙屋川町838-7",
+    "address_building": null,
+    "station": "시버스 기타노텐만구마에 도보 1분 / 란덴 기타노하쿠바이초역 도보 5분",
+    "lat": 35.027599,
+    "lng": 135.735199,
+    "geo": "gsi:京都府京都市上京区紙屋川町８３８番地",
+    "price_level": 1,
+    "price_note": "~1,000엔",
+    "hours": "09:00-17:00",
+    "closed": "수·목요일, 매월 26일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」(포장 取り置き 전화 예약, 혼잡 시 불가). 이트인은 현장 대기. 온라인 예약 없음.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260501/26001539/",
+    "tabelog_score": 3.76,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스위츠 2018·2019·2020·2022",
+      "타베로그 백명점 화과자·간미도코로 WEST 2023·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "백명점",
+      "현금만",
+      "현지인맛집"
+    ],
+    "legend_level": 3,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260501/26001539/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-061",
+    "name_ko": "소바슈보 이치이",
+    "name_ja": "蕎麦酒房 櫟",
+    "name_en": "Sobashubo Ichii",
+    "region": "kyoto",
+    "area": "킨카쿠지·기타노",
+    "category": "우동·소바",
+    "signature": "자가제분 맷돌 수타 소바, 가와치 오리(鴨) 요리, 덴푸라",
+    "why": "히라노신사 근처, 직접 맷돌로 간 메밀로 만드는 수타 소바집. 타베로그 3.61, 킨카쿠지·기타노 일대에서 점심 1,000~2,000엔대 고득점 식사처.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.61 (리뷰 159) — 킨카쿠지/기타노텐만구 지역 상위권",
+        "url": "https://tabelog.com/kyoto/A2601/A260501/26026908/"
+      }
+    ],
+    "tips": "목요일 휴무. 점심 L.O. 13:45로 이름. 카드·전자화폐 불가, PayPay 가능. 영어 메뉴 있음.",
+    "address_ja": "京都府京都市北区平野宮西町62",
+    "address_building": null,
+    "station": "란덴 기타노하쿠바이초역 약 800m (인근 버스정류장 도보 1분)",
+    "lat": 35.034348,
+    "lng": 135.731644,
+    "geo": "gsi:京都府京都市北区平野宮西町６２番地",
+    "price_level": 2,
+    "price_note": "점심 1,000~2,000엔 / 저녁 3,000~4,000엔",
+    "hours": "11:30-14:00(L.O.13:45), 17:00-21:00(L.O.20:45)",
+    "closed": "목요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」, 온라인 예약 버튼 없음. 전화 075-286-8286.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260501/26026908/",
+    "tabelog_score": 3.61,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260501/26026908/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-062",
+    "name_ko": "이나리 후타바",
+    "name_ja": "いなりふたば",
+    "name_en": "Inari Futaba",
+    "region": "kyoto",
+    "area": "후시미",
+    "category": "화과자·디저트",
+    "signature": "마메다이후쿠(콩 찹쌀떡)·오하기·미타라시 당고",
+    "why": "후시미이나리 신사 참배길 근처 화과자점. 타베로그 3.65, 화과자·간미도코로 WEST 백명점 2023·2026 선정 — 이나리 참배 전후 간식으로 최적.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.65 (리뷰 418)",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26007559/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 화과자·간미도코로 WEST 백명점 2023·2026 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26007559/"
+      }
+    ],
+    "tips": "테이크아웃 전용(좌석 없음). 현금만. 수·목 휴무라 일정 확인 필수. 인기 상품은 오후에 품절되기 쉬움.",
+    "address_ja": "京都府京都市伏見区深草稲荷仲之町55",
+    "address_building": null,
+    "station": "게이한 후시미이나리역 약 150m (JR 이나리역에서도 도보권)",
+    "lat": 34.968427,
+    "lng": 135.77082,
+    "geo": "osm:いなり ふたば (本町通, 伏見区)",
+    "price_level": 1,
+    "price_note": "~1,000엔",
+    "hours": "09:00-18:00",
+    "closed": "수·목요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」(전화로 포장 取り置き 예약, 바쁠 땐 전화를 못 받을 수 있음). 온라인 예약 없음. 전화 075-641-3612.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26007559/",
+    "tabelog_score": 3.65,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 화과자·간미도코로 WEST 2023·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "테이크아웃",
+      "현금만"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260601/26007559/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-063",
+    "name_ko": "후시미 사카구라코지 (사케 골목)",
+    "name_ja": "伏水酒蔵小路",
+    "name_en": "Fushimi Sakagura Kouji",
+    "region": "kyoto",
+    "area": "후시미",
+    "category": "이자카야·다치노미",
+    "signature": "후시미 17~18개 양조장 사케 기키자케(비교 시음) 세트 + 골목 내 8개 가게 안주",
+    "why": "사케 산지 후시미의 양조장 술을 한자리에서 비교 시음하는 사케 골목(2016년 오픈). 타베로그 3.57·리뷰 447건, 후시미 사카구라 산책의 마무리 코스.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.57 (리뷰 447)",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26027659/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후시미 양조장 17~18곳 술을 마실 수 있는 주조 카운터 + 라멘·일식 등 8개 점포 입점",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26027659/"
+      }
+    ],
+    "tips": "화요일은 사케바(酒蔵)만 영업하고 8개 음식점은 쉼. 혼잡 시 2시간 제한·1인 1드링크 필수. 연락 없이 30분 늦으면 자동 취소+1인 1,000엔 위약금.",
+    "address_ja": "京都府京都市伏見区納屋町115",
+    "address_building": null,
+    "station": "게이한 후시미모모야마역 도보 약 7분 (긴테츠 모모야마고료마에역 도보 7분)",
+    "lat": 34.932301,
+    "lng": 135.760132,
+    "geo": "gsi:京都府京都市伏見区納屋町１１５番地",
+    "price_level": 2,
+    "price_note": "1,000~3,000엔 (리뷰 기준 4,000~6,000엔)",
+    "hours": "11:00-22:00",
+    "closed": "화요일은 사케바만 영업",
+    "reservation": "가능",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/ja/fushimi-sakagura-kouji/reserve"
+      },
+      {
+        "app": "기타:AutoReserve",
+        "url": "https://autoreserve.com/en/restaurants/93qqAVAB4JKD1Djd9sg5"
+      }
+    ],
+    "booking_note": "TableCheck에서 사케 카운터석(1~4명)·가든 테이블석 예약 가능(노쇼 방지용 카드 정보 입력, 결제는 현장). 기키자케 세트 일부는 예약 없이 현장 주문.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26027659/",
+    "tabelog_score": 3.57,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "관광객인기",
+      "혼밥가능"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260601/26027659/",
+      "https://www.tablecheck.com/ja/fushimi-sakagura-kouji/reserve",
+      "https://www.walkerplus.com/article/161299/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-064",
+    "name_ko": "데우치 소바·스시 이마후쿠",
+    "name_ja": "手打ち蕎麦・鮨 いまふく",
+    "name_en": "Teuchi Soba Sushi Imafuku",
+    "region": "kyoto",
+    "area": "후시미",
+    "category": "우동·소바",
+    "signature": "수타 소바 + 점심 초밥 세트, 아나구마(오소리) 국물 소바",
+    "why": "후카쿠사의 수타 소바·스시집. 타베로그 3.64, 소바 WEST 백명점 2024·2025 선정. 점심은 2,000~3,000엔대로 즐길 수 있음.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.64 (리뷰 121)",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26024211/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 소바 WEST 백명점 2024·2025 선정",
+        "url": "https://tabelog.com/kyoto/A2601/A260601/26024211/"
+      }
+    ],
+    "tips": "월·화 휴무. 점심만 단품 가능, 금·토·일 저녁은 코스만(2~3만엔대). 5명 이상은 예약 필수. 카드·IC·QR 결제 가능.",
+    "address_ja": "京都府京都市伏見区深草町通町26",
+    "address_building": null,
+    "station": "JR 이나리역·게이한 후지노모리역 도보 약 15분",
+    "lat": 34.960583,
+    "lng": 135.768478,
+    "geo": "gsi:京都府京都市伏見区深草町通町２６番地",
+    "price_level": 2,
+    "price_note": "점심 2,000~3,000엔 / 저녁 코스 20,000엔~",
+    "hours": "11:30-14:00(L.O.13:30) / 금·토·일 17:00-20:30(L.O.20:00)",
+    "closed": "월·화요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "점심 예약은 전화(수~일 10:00~11:15 접수). 타베로그 온라인 예약 없음. 전화 075-643-1958.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260601/26024211/",
+    "tabelog_score": 3.64,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 소바 WEST 2024·2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260601/26024211/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-065",
+    "name_ko": "사오리 몽블랑 (와구리센몬 사오리)",
+    "name_ja": "和栗専門 紗織",
+    "name_en": "Waguri Senmon Saori",
+    "region": "kyoto",
+    "area": "가와라마치·기야마치",
+    "category": "화과자·디저트",
+    "signature": "눈앞에서 비단실처럼 짜주는 와구리(일본 밤) 몽블랑",
+    "why": "와구리 몽블랑 전문점으로 풍자 '또간집' 교토편(EP.78)에 소개됐다. 타베로그 3.59에 스위츠 WEST 百名店 2026 선정.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "풍자 '또간집' EP.78 교토편에서 디저트 가게로 소개, 비단실 몽블랑(약 2,200엔~)",
+        "url": "https://www.youtube.com/watch?v=bUNWPvwzvpQ"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스위츠 WEST 百名店 2026 선정",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260201/26033014/"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59 (리뷰 889건)",
+        "url": "https://tabelog.com/kyoto/A2601/A260201/26033014/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "또간집(풍자, 스튜디오 수제): 교토편 디저트 가게. 실처럼 짜낸 와구리 몽블랑(약 2,200엔~).",
+        "url": "https://www.youtube.com/watch?v=bUNWPvwzvpQ"
+      }
+    ],
+    "tips": "매일 9:00부터 정리권 배포(테이크아웃은 11:00~). 1인 1디저트. 9명 이상 단체는 전화 예약.",
+    "address_ja": "京都府京都市下京区木屋町通松原上る二丁目和泉屋町170-1",
+    "address_building": null,
+    "station": "교토카와라마치역 도보 5분 / 기온시조역 도보 10분",
+    "lat": 35.000366,
+    "lng": 135.769257,
+    "geo": "gsi:京都府京都市下京区和泉屋町１７０番地",
+    "price_level": 2,
+    "price_note": "2,000~3,000엔",
+    "hours": "10:00-18:00 (L.O. 17:00)",
+    "closed": "부정기",
+    "reservation": "가능",
+    "booking_type": null,
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約可」(9명 이상은 전화만, 좌석 1시간·15분 지각 시 취소)이나 온라인 예약 페이지는 확인 못 함. 당일은 9:00 배포 정리권으로 입장.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26033014/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스위츠 WEST 2026"
+    ],
+    "youtube": [
+      "풍자 또간집 EP.78 교토편 소개 (2025-06)",
+      "또간집(풍자, 스튜디오 수제) — [EN/JP] 일본 전역 맛부심 1위 교토에서 찾은 궁극의 맛집 | 또간집 EP.78"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "백명점",
+      "줄서는집",
+      "관광객인기",
+      "한국인인기"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260201/26033014/",
+      "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kyoto-066",
+    "name_ko": "멘야 유코",
+    "name_ja": "麺屋 優光",
+    "name_en": "Menya Yuko",
+    "region": "kyoto",
+    "area": "시조·카라스마",
+    "category": "라멘",
+    "signature": "하치쿠 라멘(해산물 베이스 육수, 자가제면)",
+    "why": "풍자 '또간집' 교토편(EP.78, 2025)에서 소개된 라멘집. 타베로그 3.68에 라멘 WEST 百名店 2023·2024·2025 3년 연속 선정.",
+    "reasons": [
+      {
+        "type": "유튜브",
+        "detail": "풍자 '또간집' EP.78 교토편에서 소개, 하치쿠 라멘(880엔)",
+        "url": "https://www.youtube.com/watch?v=bUNWPvwzvpQ"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 라멘 WEST 百名店 2023·2024·2025 선정",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260202/26029638/"
+      },
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.68 (리뷰 1,618건)",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26029638/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "또간집(풍자, 스튜디오 수제): 교토편 소개 가게. 자가제면·해산물 베이스 하치쿠 라멘(880엔). 나무위키 회차 목록에는 이 회차의 가게로 멘야 유코가 기재(검색 요약 기준).",
+        "url": "https://www.youtube.com/watch?v=bUNWPvwzvpQ"
+      }
+    ],
+    "tips": "예약 불가, 현금만(리뷰 기준). 목요일 휴무. 웨이팅 있음.",
+    "address_ja": "京都府京都市中京区場之町588",
+    "address_building": null,
+    "station": "가라스마오이케역 6번 출구 도보 1분",
+    "lat": 35.009243,
+    "lng": 135.759399,
+    "geo": "gsi:京都府京都市中京区場之町５８８番地",
+    "price_level": 1,
+    "price_note": "1,000~2,000엔",
+    "hours": "11:00-15:00, 17:30-22:00",
+    "closed": "목요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 「予約不可」. 현장 줄서기.",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26029638/",
+    "tabelog_score": 3.68,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 라멘 WEST 2023·2024·2025"
+    ],
+    "youtube": [
+      "풍자 또간집 EP.78 교토편 소개 (2025-06)",
+      "또간집(풍자, 스튜디오 수제) — [EN/JP] 일본 전역 맛부심 1위 교토에서 찾은 궁극의 맛집 | 또간집 EP.78"
+    ],
+    "tags": [
+      "유튜브맛집",
+      "백명점",
+      "줄서는집",
+      "현금만",
+      "혼밥가능",
+      "한국인인기"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260202/26029638/",
+      "https://hajungood.com/%EB%98%90%EA%B0%84%EC%A7%91-%EA%B5%90%ED%86%A0%ED%8E%B8-%ED%92%8D%EC%9E%90%EA%B0%80-%EC%82%AC%EB%9E%91%ED%95%9C-%EC%9D%BC%EB%B3%B8-%EA%B5%90%ED%86%A0-%ED%95%B5%EC%8B%AC-%EB%A7%9B%EC%A7%91-4/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "kobe-001",
     "name_ko": "프로인드리브 이쿠타점(본점)",
     "name_ja": "フロインドリーブ 生田店",
@@ -9428,6 +11122,810 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "kobe-030",
+    "name_ko": "토리이치즈",
+    "name_ja": "鶏一途",
+    "name_en": "Tori Ichizu",
+    "region": "kobe",
+    "area": "나다·롯코",
+    "category": "야키토리·닭요리",
+    "signature": "오미 지도리 비장탄 꼬치(오마카세), 닭회",
+    "why": "JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Bronze를 2017~2022년 6년 연속 받았고, 야키토리 백명점에 2018~2026년 계속 선정됐다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.84(리뷰 482)",
+        "url": "https://tabelog.com/hyogo/A2801/A280106/28008517/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "Tabelog Award Bronze 2017~2022 6년 연속, 야키토리 백명점 2018~2026",
+        "url": "https://tabelog.com/hyogo/A2801/A280106/28008517/"
+      }
+    ],
+    "tips": "현금만. 목요일 휴무에 월 1회 부정기 휴무. 5명 이상은 예약·입장 불가. 예약은 1개월 전부터 받고, 전날 17시 이후·당일 점심은 전화로만. 점심은 월·수·토만 영업.",
+    "address_ja": "兵庫県神戸市東灘区住吉本町1-3-13",
+    "address_building": "2F",
+    "station": "JR스미요시역 북쪽 도보 약 2분",
+    "lat": 34.720436,
+    "lng": 135.260773,
+    "geo": "gsi:兵庫県神戸市東灘区住吉本町一丁目３番１３号",
+    "price_level": 3,
+    "price_note": "디너 8,000~9,999엔 / 런치 4,000~4,999엔 (타베로그)",
+    "hours": "디너 17:00-23:00 (L.O.22:00, 목 휴무) / 런치 월·수·토 12:00-14:00 (L.O.13:00)",
+    "closed": "목요일 + 월 1회 부정기",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/hyogo/A2801/A280106/28008517/"
+      }
+    ],
+    "booking_note": "타베로그 네트예약 가능(가게가 전화 예약도 받아 온라인에 내놓는 좌석·시간이 제한됨, 화면에 ×여도 전화하면 빈자리 있을 수 있음). 전날 17시 이후·당일 점심은 전화만. 1개월 전부터 예약 가능.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28008517/",
+    "tabelog_score": 3.84,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "Tabelog Award 2017 Bronze",
+      "Tabelog Award 2018 Bronze",
+      "Tabelog Award 2019 Bronze",
+      "Tabelog Award 2020 Bronze",
+      "Tabelog Award 2021 Bronze",
+      "Tabelog Award 2022 Bronze",
+      "타베로그 백명점 야키토리 2018·2019·2021·2022",
+      "타베로그 백명점 야키토리 WEST 2023·2024·2025·2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280106/28008517/",
+      "https://tabelog.com/kr/hyogo/A2801/A280106/28008517/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-031",
+    "name_ko": "마쓰야 사케텐",
+    "name_ja": "松屋酒店",
+    "name_en": "Matsuya Saketen",
+    "region": "kobe",
+    "area": "나다·롯코",
+    "category": "이자카야·다치노미",
+    "signature": "니혼슈(사케)와 생선 요리 — 카운터·좌식·스탠딩석",
+    "why": "나다고고(灘五郷) 중 우오자키고 양조장 지대의 술집 겸 다치노미. 사케와 생선에 공을 들이는 집으로 타베로그 3.59를 받아 히가시나다 다치노미 중 최상위권이다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59(리뷰 54), 스미요시·미카게 지역 다치노미 중 최고점",
+        "url": "https://tabelog.com/hyogo/A2801/A280106/28025768/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "나다고고 우오자키고 양조장 지대(한신 우오자키역 근처)의 사케 중심 술집",
+        "url": "https://tabelog.com/hyogo/A2801/A280106/28025768/"
+      }
+    ],
+    "tips": "현금만(카드·전자결제 불가). 일·공휴일 휴무. 저녁 영업이 기본이고 점심은 예약제 개인실만. 우오자키·스미요시 일대 양조장 견학 뒤 들르기 좋다.",
+    "address_ja": "兵庫県神戸市東灘区魚崎南町8-1-17",
+    "address_building": null,
+    "station": "한신 우오자키역 도보 약 5분",
+    "lat": 34.712502,
+    "lng": 135.272949,
+    "geo": "gsi:兵庫県神戸市東灘区魚崎南町八丁目１番１７号",
+    "price_level": 3,
+    "price_note": "6,000~7,999엔 (타베로그 리뷰 집계)",
+    "hours": "월~토 17:00-22:00 (L.O.21:30), 점심은 예약제 개인실만",
+    "closed": "일요일·공휴일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約可'이지만 네트예약은 없음 — 전화(078-441-4820).",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28025768/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280106/28025768/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-032",
+    "name_ko": "만게쓰",
+    "name_ja": "満月",
+    "name_en": "Mangetsu",
+    "region": "kobe",
+    "area": "모토마치",
+    "category": "야키니쿠·호르몬",
+    "signature": "생 우설·갈비, 상로스·상하라미, 벌집양(하치노스)",
+    "why": "니시모토마치의 야키니쿠 명가. 야키니쿠 백명점에 2019년부터 2026년까지 매년 선정됐고 타베로그 3.70(리뷰 592).",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.70(리뷰 592)",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28000918/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 야키니쿠 백명점 2019, WEST 2020~2026 매년 선정",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28000918/"
+      }
+    ],
+    "tips": "전화 예약은 14~16시 또는 22시 이후에만 받는다. 현금만(카드·전자결제 불가). 월·화 휴무. 호리고타츠석 있음.",
+    "address_ja": "兵庫県神戸市中央区下山手通8-7-3",
+    "address_building": null,
+    "station": "고베고속 니시모토마치역 도보 약 2분(135m) / JR모토마치역 도보 약 10분",
+    "lat": 34.685238,
+    "lng": 135.17926,
+    "geo": "gsi:兵庫県神戸市中央区下山手通八丁目７番３号",
+    "price_level": 4,
+    "price_note": "10,000~14,999엔 (타베로그 리뷰 집계)",
+    "hours": "수~일 17:00-23:00 (L.O.22:00)",
+    "closed": "월·화요일",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約可'이지만 네트예약 없음 — 전화(078-361-3292)는 14~16시·22시 이후만.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28000918/",
+    "tabelog_score": 3.7,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 야키니쿠 2019",
+      "타베로그 백명점 야키니쿠 WEST 2020~2025",
+      "타베로그 백명점 야키니쿠 WEST 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280102/28000918/",
+      "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-033",
+    "name_ko": "고베 프레지르 본점",
+    "name_ja": "神戸プレジール 本店",
+    "name_en": "Kobe Plaisir Honten",
+    "region": "kobe",
+    "area": "산노미야",
+    "category": "와규·스테이크",
+    "signature": "런치 고베 비프(라운드) 철판구이 코스 9,570엔",
+    "why": "고베 비프 생산 단체인 JA전농효고가 직접 운영하는 철판구이·스테이크집. 타베로그 3.63에 스테이크 백명점 4회 선정이고, 런치는 고베 비프 철판구이 코스를 1만 엔 이하로 먹을 수 있다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.63(리뷰 554)",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28008218/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스테이크·철판구이 WEST 백명점 2024·2025 외 2021·2022",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28008218/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "JA전농효고 직영. 런치 고베 비프 라운드 철판구이 코스 9,570엔으로 1만 엔 이하 고베 비프",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28008218/"
+      }
+    ],
+    "tips": "런치 고베 비프 라운드 코스 9,570엔(세금 포함). 서비스료 10%는 디너에만 붙는다. 월요일 휴무(월요일이 공휴일이면 영업하고 화요일 휴무). 주말은 예약 권장.",
+    "address_ja": "兵庫県神戸市中央区下山手通2-11-5",
+    "address_building": "ホテル・ザ・ビー神戸 1F",
+    "station": "산노미야역 도보 약 10분",
+    "lat": 34.69318,
+    "lng": 135.190216,
+    "geo": "gsi:兵庫県神戸市中央区下山手通二丁目１１番５号",
+    "price_level": 3,
+    "price_note": "런치 9,570엔~ / 디너 1만~1만5천 엔대 (타베로그)",
+    "hours": "런치 11:30-15:00 (L.O.14:00) / 디너 17:00-22:00 (L.O.21:00, 일요일 21:30 마감)",
+    "closed": "월요일(공휴일이면 다음 날)",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28008218/"
+      }
+    ],
+    "booking_note": "타베로그 코스(런치 고베 비프 코스 등)에 '予約' 버튼이 있어 온라인 예약 가능. 전화 078-571-0141.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28008218/",
+    "tabelog_score": 3.63,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스테이크 2021",
+      "타베로그 백명점 스테이크·철판구이 2022",
+      "타베로그 백명점 스테이크·철판구이 WEST 2024",
+      "타베로그 백명점 스테이크·철판구이 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "가성비",
+      "고급"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280101/28008218/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-034",
+    "name_ko": "고베규동 히로시게",
+    "name_ja": "神戸牛丼 広重",
+    "name_en": "Kobe Gyu-don Hiroshige",
+    "region": "kobe",
+    "area": "산노미야",
+    "category": "와규·스테이크",
+    "signature": "고베 비프 규동(곱빼기 1,700엔, 사진 기준)",
+    "why": "고베 비프·다지마규 증명서를 걸어 둔 카운터 9석 규동집. 고베 비프를 덮밥 한 그릇으로 가볍게 먹을 수 있어 타베로그 3.68(리뷰 855)을 받았다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.68(리뷰 855)",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28033392/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "타베로그 사진·리뷰: '神戸ビーフ牛丼', 다지마규·고베 비프 증명서 게시, '고베규를 덮밥으로 호화롭게 맛볼 수 있는 가게'",
+        "url": "https://tabelog.com/kr/hyogo/A2801/A280101/28033392/"
+      }
+    ],
+    "tips": "예약 불가, 카운터 9석, 품절되면 종료. 현금만(카드·전자결제 불가). 수요일 휴무. 테이크아웃 가능.",
+    "address_ja": "兵庫県神戸市中央区中山手通1-22-21",
+    "address_building": "前川ビル1F",
+    "station": "JR산노미야역 서쪽 출구 도보 약 8분",
+    "lat": 34.697773,
+    "lng": 135.192184,
+    "geo": "gsi:兵庫県神戸市中央区中山手通一丁目２２番２１号",
+    "price_level": 2,
+    "price_note": "규동 1,700엔(곱빼기, 사진 기준) / 리뷰 집계 3,000~3,999엔",
+    "hours": "11:00-15:00 / 18:00-23:00 (품절 시 종료)",
+    "closed": "수요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約不可' — 방문 후 대기.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28033392/",
+    "tabelog_score": 3.68,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "가성비",
+      "현금만",
+      "혼밥가능",
+      "테이크아웃",
+      "현지인맛집"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280101/28033392/",
+      "https://tabelog.com/kr/hyogo/A2801/A280101/28033392/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-035",
+    "name_ko": "스미야키 시오호르몬 '아' 고베사카바",
+    "name_ja": "炭焼塩ホルモン『あ』神戸酒場",
+    "name_en": "Sumiyaki Shio Horumon 'A' Kobe Sakaba",
+    "region": "kobe",
+    "area": "산노미야",
+    "category": "야키니쿠·호르몬",
+    "signature": "숯불 소금 호르몬, 특선 다지마겐(但馬玄) 소고기, 소금 츠쿠네",
+    "why": "산노미야역 4분 거리의 숯불 소금 호르몬 전문 야키니쿠. 타베로그 3.84이고 야키니쿠 WEST 백명점 2025·2026에 선정됐다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.84(리뷰 277)",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28035865/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 야키니쿠 WEST 백명점 2025(첫 선정)·2026",
+        "url": "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
+      }
+    ],
+    "tips": "11:30부터 23:30(일·공휴일 22:30)까지 쉬지 않고 영업해 시간 맞추기 쉽다. 당일 빈자리는 전화로 문의. 재료가 떨어지면 일찍 닫을 수 있다. 카드·QR결제 가능.",
+    "address_ja": "兵庫県神戸市中央区下山手通1-3-12",
+    "address_building": "ゼウスタウンビル 1F",
+    "station": "산노미야역 도보 약 4분",
+    "lat": 34.693985,
+    "lng": 135.191467,
+    "geo": "gsi:兵庫県神戸市中央区下山手通一丁目３番１２号",
+    "price_level": 4,
+    "price_note": "8,000~15,000엔 (타베로그)",
+    "hours": "월~토 11:30-23:30 / 일·공휴일 11:30-22:30",
+    "closed": "무휴",
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約可'이지만 네트예약 없음 — 전화(078-321-2911). 당일 자리도 전화로 문의.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28035865/",
+    "tabelog_score": 3.84,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 야키니쿠 WEST 2025",
+      "타베로그 백명점 야키니쿠 WEST 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "심야영업"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280101/28035865/",
+      "https://award.tabelog.com/hyakumeiten/yakiniku_west/2025"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-036",
+    "name_ko": "스테이크랜드 고베점",
+    "name_ja": "ステーキランド 神戸店",
+    "name_en": "Steakland Kobe",
+    "region": "kobe",
+    "area": "산노미야",
+    "category": "와규·스테이크",
+    "signature": "고베 비프 스테이크 런치 150g 3,500엔 / 고베 비프 텐더 런치 150g 4,880엔",
+    "why": "한국인 여행자에게 '고베규 가성비 런치'로 가장 잘 알려진 철판 스테이크집. 런치에 고베 비프 150g 세트를 3,500엔에 먹을 수 있다. 타베로그 3.53.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.53(리뷰 694). 고베 비프 런치 150g 3,500엔(타베로그 런치 메뉴)",
+        "url": "https://tabelog.com/en/hyogo/A2801/A280101/28000604/dtlmenu/lunch/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "한국 여행 앱 Polle 한국인 리뷰: '가성비 맛집', 코스처럼 즐기는 런치와 불쇼 퍼포먼스 호평",
+        "url": "https://polle.com/place/1CcBj9/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%9E%9C%EB%93%9C"
+      },
+      {
+        "type": "유튜브",
+        "detail": "오사카관광 킴사이 '지금 당장 고베규 먹으러 고베 스테이크랜드 가세요!' 추천 영상",
+        "url": "https://www.youtube.com/watch?v=8DbrOjtffCI"
+      },
+      {
+        "type": "유튜브",
+        "detail": "일본 사는 코구마 '가성비 갑 고베규!! 고베규를 싸고 맛있게! 스테이크 랜드!'",
+        "url": "https://www.youtube.com/watch?v=R_DN4NG4MYw"
+      },
+      {
+        "type": "유튜브",
+        "detail": "오사카관광 킴사이입니다.: 오사카 거주 한국인 유튜버가 '지금 당장 가라'며 가성비 고베규 철판 스테이크집으로 추천. 산노미야역 도보 5분 안내.",
+        "url": "https://www.youtube.com/watch?v=8DbrOjtffCI"
+      },
+      {
+        "type": "유튜브",
+        "detail": "일본 사는 코구마: 일본 거주 한국인 유튜버가 '고베규를 싸고 맛있게 먹는 가성비 갑' 집으로 소개.",
+        "url": "https://www.youtube.com/watch?v=R_DN4NG4MYw"
+      }
+    ],
+    "tips": "예약 불가라 점심 피크엔 줄을 선다. 11시 오픈 직후 추천. 런치는 11:00-14:00이고 샐러드·구운 채소·밥·국·커피 포함. 바로 옆 '스테이크랜드 고베관'(타베로그 3.49)은 다른 점포. 카드·PayPay 가능.",
+    "address_ja": "兵庫県神戸市中央区北長狭通1-8-2",
+    "address_building": "宮迫ビル 1F・2F",
+    "station": "한큐 고베산노미야역 서쪽 출구 도보 1분 / JR산노미야역 도보 3분",
+    "lat": 34.692951,
+    "lng": 135.192154,
+    "geo": "gsi:兵庫県神戸市中央区北長狭通一丁目８番２号",
+    "price_level": 2,
+    "price_note": "런치 1,380~4,880엔 (고베 비프 런치 3,500엔~)",
+    "hours": "11:00-21:30 (L.O.20:30), 런치 11:00-14:00",
+    "closed": "무휴",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約不可' — 줄 서서 입장.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000604/",
+    "tabelog_score": 3.53,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [
+      "오사카관광 킴사이입니다. '지금 당장 고베규 먹으러 고베 스테이크랜드 가세요!'",
+      "일본 사는 코구마 '가성비 갑 고베규!!'",
+      "오사카관광 킴사이입니다. — 지금 당장 고베규 먹으러 고베 스테이크랜드 가세요! (KOBE STEAKLAND/ステーキランド 神戸店)",
+      "일본 사는 코구마 — 가성비 갑 고베규!! | 일본의 한우로 불리우는 고베규를 싸고 맛있게! 스테이크 랜드!"
+    ],
+    "tags": [
+      "한국인인기",
+      "관광객인기",
+      "가성비",
+      "유튜브맛집"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280101/28000604/",
+      "https://tabelog.com/en/hyogo/A2801/A280101/28000604/dtlmenu/lunch/",
+      "https://polle.com/place/1CcBj9/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%9E%9C%EB%93%9C"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-037",
+    "name_ko": "기세쓰잇핀료리 후지와라",
+    "name_ja": "季節一品料理 藤原",
+    "name_en": "Kisetsu Ippin Ryori Fujiwara",
+    "region": "kobe",
+    "area": "산노미야",
+    "category": "이자카야·다치노미",
+    "signature": "제철 생선·일품요리(청어 조림, 반딧불오징어, 죽순 기노메 무침, 감자샐러드 등)",
+    "why": "산노미야 니노미야초의 카운터 10석 이자카야. 생선 중심 제철 요리로 이자카야 백명점 2022, WEST 2025·2026에 선정됐다. 타베로그 3.60.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.60(리뷰 195)",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28005803/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 이자카야 백명점 2022, 이자카야 WEST 2025·2026",
+        "url": "https://tabelog.com/hyogo/A2801/A280101/28005803/"
+      }
+    ],
+    "tips": "16시·18시 2부제, 카운터 10석뿐이라 전화 예약은 사실상 필수. 현금만. 일·월 휴무, 화요일은 16-18시만 영업.",
+    "address_ja": "兵庫県神戸市中央区二宮町1-6-5",
+    "address_building": null,
+    "station": "산노미야역 도보 약 10분",
+    "lat": 34.699146,
+    "lng": 135.198334,
+    "geo": "gsi:兵庫県神戸市中央区二宮町一丁目６番５号",
+    "price_level": 2,
+    "price_note": "3,000~4,999엔 (타베로그)",
+    "hours": "화 16:00-18:00 / 수~토 16:00-20:00 (16시·18시 2부제)",
+    "closed": "일·월요일",
+    "reservation": "권장",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約可'(16시·18시 두 타임)이지만 네트예약 없음 — 전화(078-242-3282).",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28005803/",
+    "tabelog_score": 3.6,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 이자카야 2022",
+      "타베로그 백명점 이자카야 WEST 2025",
+      "타베로그 백명점 이자카야 WEST 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280101/28005803/",
+      "https://award.tabelog.com/hyakumeiten/izakaya_west/2025"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-038",
+    "name_ko": "미츠모리 혼포",
+    "name_ja": "三津森本舗",
+    "name_en": "Mitsumori Honpo",
+    "region": "kobe",
+    "area": "아리마온센",
+    "category": "화과자·디저트",
+    "signature": "탄산 센베이(炭酸せんべい) — 아리마 천연 탄산천으로 한 장씩 구운 얇고 바삭한 전병",
+    "why": "1907년(메이지 40년) 창업한 아리마 명물 '탄산 센베이'의 원조 가게. 첨가물 없이 아리마 탄산천으로 한 장씩 굽는다. 타베로그 3.52.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.52(리뷰 197)",
+        "url": "https://tabelog.com/hyogo/A2801/A280112/28027412/"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "1907년 창업, 아리마 천연 탄산천으로 굽는 탄산 센베이의 원조 가게(타베로그 가게 소개)",
+        "url": "https://tabelog.com/hyogo/A2801/A280112/28027412/"
+      }
+    ],
+    "tips": "온천 거리 대표 기념품. 갓 구운 센베이를 맛볼 수 있다. 전자머니 결제 가능, 카드 불가(타베로그).",
+    "address_ja": "兵庫県神戸市北区有馬町809",
+    "address_building": null,
+    "station": "아리마온센역 도보 약 5~10분(330m)",
+    "lat": 34.796642,
+    "lng": 135.248276,
+    "geo": "gsi:兵庫県神戸市北区有馬町８０９番地",
+    "price_level": 1,
+    "price_note": null,
+    "hours": "9:00-17:00",
+    "closed": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約不可' — 판매점이라 방문해서 구매.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28027412/",
+    "tabelog_score": 3.52,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "원조",
+      "테이크아웃",
+      "관광객인기"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280112/28027412/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-039",
+    "name_ko": "아리마 젤라테리아 스타지오네",
+    "name_ja": "アリマ ジェラテリア スタジオーネ",
+    "name_en": "arima gelateria Stagione",
+    "region": "kobe",
+    "area": "아리마온센",
+    "category": "화과자·디저트",
+    "signature": "매일 10종 이상 바뀌는 제철 젤라토",
+    "why": "아리마온센 버스터미널 옆 언덕의 젤라토 가게. 타베로그 3.61(리뷰 949)이고 아이스크림·젤라토 백명점 2023·2026에 선정된 온천 거리 대표 디저트.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.61(리뷰 949)",
+        "url": "https://tabelog.com/hyogo/A2801/A280112/28044218/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 아이스크림·젤라토 백명점 2023·2026",
+        "url": "https://tabelog.com/hyogo/A2801/A280112/28044218/"
+      }
+    ],
+    "tips": "현금만(카드·전자결제 불가). 화·수 휴무. 온천 거리 산책 중 먹기 좋은 테이크아웃 디저트.",
+    "address_ja": "兵庫県神戸市北区有馬町1163",
+    "address_building": null,
+    "station": "아리마온센역 도보 약 8분 (아리마온센 버스터미널 옆 언덕길)",
+    "lat": 34.789696,
+    "lng": 135.255295,
+    "geo": "gsi:兵庫県神戸市北区有馬町",
+    "price_level": 1,
+    "price_note": "~999엔",
+    "hours": "10:00-17:00",
+    "closed": "화·수요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約不可' — 방문해서 바로 주문.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28044218/",
+    "tabelog_score": 3.61,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 아이스크림·젤라토 2023",
+      "타베로그 백명점 아이스크림·젤라토 2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "테이크아웃",
+      "관광객인기",
+      "현금만"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280112/28044218/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-040",
+    "name_ko": "쿠츠로기야",
+    "name_ja": "くつろぎ家",
+    "name_en": "Kutsurogiya",
+    "region": "kobe",
+    "area": "아리마온센",
+    "category": "기타",
+    "signature": "가마메시 정식 '잇푸쿠 코스'(가마메시+전채+온천 달걀+츠케모노+국), 도미·연어·산나물·문어 가마메시",
+    "why": "아리마 온천 거리의 오래된 민가를 고친 가마메시(솥밥) 전문점. 아와지섬 직송 해산물로 주문 후 솥밥을 지어 주며, 타베로그 3.54(리뷰 436)로 온천 거리 식사집 중 상위권.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.54(리뷰 436), 아리마 온천 거리 식사집 중 상위",
+        "url": "https://tabelog.com/hyogo/A2801/A280112/28001997/"
+      }
+    ],
+    "tips": "예약 불가, 품절되면 영업 종료. 카드·전자결제 불가. 화·수 휴무에 부정기 휴무도 있다. 솥밥이라 나오는 데 시간이 걸리니 온천 전후로 여유 있게 간다.",
+    "address_ja": "兵庫県神戸市北区有馬町839-2",
+    "address_building": null,
+    "station": "고베전철 아리마온센역 도보 약 5분(322m)",
+    "lat": 34.796741,
+    "lng": 135.247253,
+    "geo": "gsi:兵庫県神戸市北区有馬町８３９番地",
+    "price_level": 2,
+    "price_note": "1,850~2,900엔 (잇푸쿠 코스~만푸쿠 코스)",
+    "hours": "점심 11:00~ / 저녁 17:00~ (품절 시 종료)",
+    "closed": "화·수요일 + 부정기",
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "타베로그 '予約不可' — 예약 없이 방문.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280112/28001997/",
+    "tabelog_score": 3.54,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "현금만"
+    ],
+    "legend_level": 1,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280112/28001997/",
+      "https://tabelog.com/kr/hyogo/A2801/A280112/28001997/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-041",
+    "name_ko": "스테이크하우스 오리엔탈",
+    "name_ja": "ステーキハウス オリエンタル（神戸メリケンパークオリエンタルホテル）",
+    "name_en": "Steak House Oriental",
+    "region": "kobe",
+    "area": "하버랜드·메리켄",
+    "category": "와규·스테이크",
+    "signature": "고베항 전망 철판 스테이크 런치(국산우 5,800엔 / 와규 8,000엔 / 고베 비프 19,800엔)",
+    "why": "메리켄파크 오리엔탈호텔 14층에서 고베항을 내려다보며 먹는 철판 스테이크. 타베로그 3.59이고 스테이크·철판구이 WEST 백명점 2025에 선정됐다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59(리뷰 124)",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28008755/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스테이크·철판구이 WEST 백명점 2025",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28008755/"
+      }
+    ],
+    "tips": "런치 국산우 스테이크 5,800엔이 가장 부담이 적다(세금 포함, 서비스료 10% 별도). 창가 전망이 핵심. 취소료: 2일 전 30%, 전날 50%, 당일 80~100%.",
+    "address_ja": "兵庫県神戸市中央区波止場町5-6",
+    "address_building": "神戸メリケンパークオリエンタルホテル 14F",
+    "station": "미나토모토마치역 2번 출구 도보 약 8분 / 모토마치역 도보 약 15분",
+    "lat": 34.681499,
+    "lng": 135.188263,
+    "geo": "gsi:兵庫県神戸市中央区波止場町５番",
+    "price_level": 4,
+    "price_note": "런치 5,800~19,800엔(고베 비프 19,800엔), 서비스료 10% 별도",
+    "hours": "런치 11:30-15:00 (L.O.14:30) / 디너 17:00-21:30 (L.O.20:30)",
+    "closed": "무휴",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28008755/"
+      }
+    ],
+    "booking_note": "타베로그 런치 세트에 '予約' 버튼이 있어 온라인 예약 가능(세트 30종 등록). 전화 예약도 가능.",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28008755/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스테이크·철판구이 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "고급"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280102/28008755/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-042",
+    "name_ko": "철판구이 고코로",
+    "name_ja": "鉄板焼 心",
+    "name_en": "Teppanyaki Kokoro",
+    "region": "kobe",
+    "area": "하버랜드·메리켄",
+    "category": "와규·스테이크",
+    "signature": "효고 식재 철판구이 런치 코스, 고베규 프리미엄 런치·고베규 디너 코스",
+    "why": "하버랜드 호텔 라 스위트 고베 2층에 있는 바다 전망 철판구이집. 타베로그 3.64이고 스테이크·철판구이 WEST 백명점 2024·2025에 선정됐다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.64(리뷰 156)",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28009951/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 스테이크·철판구이 WEST 백명점 2024·2025, 스테이크 백명점 2021",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28009951/"
+      }
+    ],
+    "tips": "타베로그 코스 표기 기준 런치 약 9,400엔부터, 고베규가 들어간 런치는 약 19,400엔. 서비스료 10%. 드레스코드 있음(런치 스마트캐주얼, 디너엔 반바지·샌들·티셔츠 불가). 하버랜드·메리켄파크 산책과 묶기 좋다.",
+    "address_ja": "兵庫県神戸市中央区波止場町7-2",
+    "address_building": "ホテル ラ・スイート神戸ハーバーランド 2F",
+    "station": "미나토모토마치역(가이간선) 도보 약 4분 / JR고베역 도보 약 10분",
+    "lat": 34.683014,
+    "lng": 135.185196,
+    "geo": "gsi:兵庫県神戸市中央区波止場町７番",
+    "price_level": 4,
+    "price_note": "런치 약 9,400~19,400엔 / 디너 약 15,700~31,500엔 (타베로그 코스 표기)",
+    "hours": "런치 11:30-15:00 (L.O.14:00) / 디너 17:30-22:30 (L.O.21:00)",
+    "closed": "무휴",
+    "reservation": "권장",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28009951/"
+      }
+    ],
+    "booking_note": "타베로그 코스 페이지의 '予約' 버튼으로 런치·디너 코스 온라인 예약 가능(웹 예약 한정 코스도 있음). 3명 이상·개인실은 전화(050-3138-3055).",
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28009951/",
+    "tabelog_score": 3.64,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스테이크 2021",
+      "타베로그 백명점 스테이크·철판구이 WEST 2024",
+      "타베로그 백명점 스테이크·철판구이 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "고급"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/hyogo/A2801/A280102/28009951/",
+      "https://tabelog.com/en/hyogo/A2801/A280102/28009951/party/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "nara-001",
     "name_ko": "야키토리 모치즈키",
     "name_ja": "焼鳥 望月",
@@ -9439,9 +11937,9 @@
     "why": "JR나라역 근처의 카운터 전용 코스제 야키토리. 스승에게 배운 '近火の強火'를 고수하며 타베로그 야키토리 WEST 백명점 2025 선정, 미쉐린 가이드 나라에도 게재.",
     "reasons": [
       {
-        "type": "수상·백명점",
-        "detail": "타베로그 백명점 야키토리 WEST 2025",
-        "url": "https://tabelog.com/tw/nara/A2901/"
+        "type": "타베로그",
+        "detail": "타베로그 3.70(리뷰 185), 야키토리 WEST 백명점 2024·2025·2026 3년 연속",
+        "url": "https://tabelog.com/nara/A2901/A290101/29008456/"
       },
       {
         "type": "미쉐린",
@@ -9461,15 +11959,22 @@
     "hours": "17:30-22:30 (L.O. 21:30, 드링크 L.O. 22:00)",
     "closed": "부정기 (예약 없는 날 휴무)",
     "reservation": "필수",
-    "booking_type": null,
-    "booking_apps": [],
-    "booking_note": "구루나비에 '전화 예약 불가' 명시 — 온라인 예약 경로(서비스명)는 미확인. 예약 없는 날은 휴무, 15분 지각 시 자동 취소.",
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/nara/A2901/A290101/29008456/"
+      }
+    ],
+    "booking_note": "완전 예약제, 전화 예약은 받지 않음. 타베로그 네트예약은 2명까지만 가능(3명 이상은 다른 예약 사이트 이용하라고 안내, 서비스명 미확인). 예약 없는 날은 휴무, 15분 지각 시 자동 취소.",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29008456/",
+    "tabelog_score": 3.7,
     "google_rating": null,
     "google_reviews": null,
     "awards": [
-      "타베로그 백명점 야키토리 WEST 2025"
+      "타베로그 백명점 야키토리 WEST 2024",
+      "타베로그 백명점 야키토리 WEST 2025",
+      "타베로그 백명점 야키토리 WEST 2026"
     ],
     "youtube": [],
     "tags": [
@@ -9480,7 +11985,8 @@
     "sources": [
       "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/yakitori-mochizuki",
       "https://r.gnavi.co.jp/b8w6pndj0000/",
-      "https://tabelog.com/tw/nara/A2901/"
+      "https://tabelog.com/tw/nara/A2901/",
+      "https://tabelog.com/en/nara/A2901/A290101/29008456/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -9496,6 +12002,11 @@
     "signature": "쓰쓰미 네기마(닭껍질로 감싼 파·허벅지살 꼬치), 토리파이탄 야키오니기리 차즈케",
     "why": "나라 지토리(토종닭)에 집중하는 야키토리집으로 미쉐린 가이드 나라 2025 빕구르망에 신규 선정. 20종 넘는 닭꼬치와 마무리 차즈케가 인기.",
     "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.41(리뷰 48). 3.5 미만이지만 미쉐린 가이드 나라 2025 빕구르망 선정이라 유지",
+        "url": "https://tabelog.com/nara/A2903/A290302/29012942/"
+      },
       {
         "type": "미쉐린",
         "detail": "미쉐린 가이드 나라 2025 빕구르망 신규 선정",
@@ -9526,9 +12037,9 @@
         "url": "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/tori-yamaguchi"
       }
     ],
-    "booking_note": "미쉐린 가이드 페이지에 온라인 예약 가능 표기(연결된 예약 서비스명은 미확인).",
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "미쉐린 가이드 페이지에 온라인 예약 가능 표기(연결된 예약 서비스명은 미확인). 타베로그는 予約可(전화 0744-28-6776)이고 네트예약은 없음.",
+    "tabelog_url": "https://tabelog.com/nara/A2903/A290302/29012942/",
+    "tabelog_score": 3.41,
     "google_rating": null,
     "google_reviews": null,
     "awards": [
@@ -9542,7 +12053,8 @@
     "legend_level": 1,
     "sources": [
       "https://serai.jp/gourmet/1249440",
-      "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/tori-yamaguchi"
+      "https://guide.michelin.com/jp/ja/nara-region/nara/restaurant/tori-yamaguchi",
+      "https://tabelog.com/en/nara/A2903/A290302/29012942/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -9572,6 +12084,11 @@
         "type": "언론·가이드",
         "detail": "LIVE JAPAN 등 관광 가이드가 고속 떡치기로 만드는 나라 대표 쑥떡집으로 소개",
         "url": "https://livejapan.com/ja/in-kansai/in-pref-nara/in-nara_ikoma_tenri/article-a2000330/"
+      },
+      {
+        "type": "유튜브",
+        "detail": "Great Big Story: '일본에서 가장 빠른 떡메치기 장인' 나카타니 미쓰오 씨를 다룬 영상. 공개 약 1주일 만에 80만 회 이상 재생됐다는 보도가 나오며 해외에서 바이럴.",
+        "url": "https://www.youtube.com/watch?v=tmSrULDVRPc"
       }
     ],
     "tips": "떡치기 퍼포먼스는 상시가 아니라 수시로 하므로 운이 좋아야 볼 수 있음. 1개 200엔대부터, 현금만. 갓 만든 걸 바로 먹는 게 핵심.",
@@ -9598,7 +12115,9 @@
       "타베로그 백명점 화과자·감미 WEST 2026",
       "타베로그 백명점 스위츠 WEST 2018·2019·2020·2022"
     ],
-    "youtube": [],
+    "youtube": [
+      "Great Big Story — Pounding Mochi With the Fastest Mochi Maker in Japan"
+    ],
     "tags": [
       "관광객인기",
       "한국인인기",
@@ -9606,7 +12125,8 @@
       "테이크아웃",
       "현금만",
       "백명점",
-      "가성비"
+      "가성비",
+      "유튜브맛집"
     ],
     "legend_level": 3,
     "sources": [
@@ -9681,7 +12201,7 @@
     "name_en": "akordu",
     "region": "nara",
     "area": "나라공원·긴테쓰나라",
-    "category": "기타",
+    "category": "프렌치·이노베이티브",
     "signature": "나라 식재료로 구성한 이노베이티브 코스",
     "why": "미쉐린 가이드 나라에서 2022년부터 5년 연속 2스타를 받은 나라 미식의 정점. 타베로그 4.28에 Tabelog Award를 2020년부터 7년 연속 수상.",
     "reasons": [
@@ -9760,6 +12280,11 @@
     "why": "가스가타이샤 경내(만요식물원 정문 옆)에 있는 신사 직영 찻집. 만엽집에서 영감을 받은 월별 죽은 나라 '차죽(茶粥)' 문화를 가장 운치 있게 맛볼 수 있는 한 그릇.",
     "reasons": [
       {
+        "type": "타베로그",
+        "detail": "타베로그 3.53(리뷰 270)",
+        "url": "https://tabelog.com/nara/A2901/A290101/29000715/"
+      },
+      {
         "type": "언론·가이드",
         "detail": "루루부: 만엽집에서 영감을 받은 월별 제철 나물 '만요가유'(1,200엔)를 내는 가스가타이샤 경내 찻집으로 소개",
         "url": "https://rurubu.jp/andmore/spot/80031311"
@@ -9781,12 +12306,12 @@
     "price_note": "만요가유 1,200엔",
     "hours": "10:00-16:00 (자료에 따라 10:30 오픈)",
     "closed": "1~3월·6~9월·12월 월요일 (4·5·10·11월 무휴, 공식 기준)",
-    "reservation": null,
-    "booking_type": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
     "booking_apps": [],
-    "booking_note": null,
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "타베로그 '予約不可' — 예약 없이 방문. QR결제 가능, 카드 불가(타베로그).",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000715/",
+    "tabelog_score": 3.53,
     "google_rating": null,
     "google_reviews": null,
     "awards": [],
@@ -9798,7 +12323,8 @@
     "legend_level": 2,
     "sources": [
       "https://kasugataisha.or.jp/?p=5389",
-      "https://rurubu.jp/andmore/spot/80031311"
+      "https://rurubu.jp/andmore/spot/80031311",
+      "https://tabelog.com/en/nara/A2901/A290101/29000715/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -9810,10 +12336,15 @@
     "name_en": "Nara Hotel Main Dining Room Mikasa",
     "region": "nara",
     "area": "나라공원·긴테쓰나라",
-    "category": "기타",
+    "category": "프렌치·이노베이티브",
     "signature": "차가유(茶がゆ) 조식 정식 — 호지차가 아닌 녹차로 끓이는 나라호텔 전통, 프렌치 디너 코스",
     "why": "1909년 개업한 '간사이의 영빈관' 나라호텔의 메인 다이닝. 녹차로 끓인 차죽 아침 정식은 나라 차죽 문화를 클래식 호텔에서 경험하는 상징적인 한 끼.",
     "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.58(리뷰 364), 프렌치 WEST 백명점 2021",
+        "url": "https://tabelog.com/nara/A2901/A290101/29000026/"
+      },
       {
         "type": "언론·가이드",
         "detail": "co-trip 나라 조식 특집: 녹차로 끓이는 '茶がゆ 정식'을 나라호텔의 전통으로 소개, 비숙박객도 평일 예약 시 이용 가능",
@@ -9843,23 +12374,27 @@
         "url": "https://restaurant.ikyu.com/106078/"
       }
     ],
-    "booking_note": "TableCheck·잇큐에서 디너 코스 예약 가능. 당일 무단 취소·변경 100%.",
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "TableCheck·잇큐에서 디너 코스 예약 가능. 당일 무단 취소·변경 100%. 타베로그 자체는 전화예약(0742-26-3300)만 있고 네트예약 없음. 서비스료 15%(2024-10부터, 타베로그).",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000026/",
+    "tabelog_score": 3.58,
     "google_rating": null,
     "google_reviews": null,
-    "awards": [],
+    "awards": [
+      "타베로그 백명점 프렌치 WEST 2021"
+    ],
     "youtube": [],
     "tags": [
       "노포",
       "고급",
-      "아침식사"
+      "아침식사",
+      "백명점"
     ],
     "legend_level": 2,
     "sources": [
       "https://www.tablecheck.com/ja/narahotel-mikasa",
       "https://restaurant.ikyu.com/106078/",
-      "https://co-trip.jp/article/684293"
+      "https://co-trip.jp/article/684293",
+      "https://tabelog.com/en/nara/A2901/A290101/29000026/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -9876,9 +12411,9 @@
     "why": "나라 브랜드 소 '야마토규'를 스키야키와 규마부시로 내는 곳. 타베로그 스키야키·샤부샤부 백명점 2024·2026 선정, 2025년 7월 2호점 '하나레'까지 낼 만큼 인기.",
     "reasons": [
       {
-        "type": "수상·백명점",
-        "detail": "타베로그 백명점 스키야키·샤부샤부 2024·2026",
-        "url": "https://r.gnavi.co.jp/k929500/"
+        "type": "타베로그",
+        "detail": "타베로그 3.60(리뷰 720), 스키야키·샤부샤부 백명점 2024·2026",
+        "url": "https://tabelog.com/nara/A2901/A290101/29012172/"
       },
       {
         "type": "현지평판",
@@ -9901,13 +12436,17 @@
     "booking_type": "앱예약",
     "booking_apps": [
       {
+        "app": "타베로그",
+        "url": "https://tabelog.com/nara/A2901/A290101/29012172/"
+      },
+      {
         "app": "구루나비",
         "url": "https://r.gnavi.co.jp/k929500/"
       }
     ],
-    "booking_note": "구루나비 '空席確認・予約する'로 온라인 예약 가능. 당일 무단취소 시 코스 100%, 좌석만 1인 4,000엔.",
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "타베로그 코스 '予約' 버튼과 구루나비 '空席確認・予約する'로 온라인 예약 가능. 당일 무단취소 시 코스 100%, 좌석만 1인 4,000엔.",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012172/",
+    "tabelog_score": 3.6,
     "google_rating": null,
     "google_reviews": null,
     "awards": [
@@ -9922,7 +12461,8 @@
     "sources": [
       "https://r.gnavi.co.jp/k929500/",
       "https://www.navitime.co.jp/category/0305028/29/",
-      "https://r.gnavi.co.jp/k929509/"
+      "https://r.gnavi.co.jp/k929509/",
+      "https://tabelog.com/en/nara/A2901/A290101/29012172/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -10051,19 +12591,14 @@
     "why": "1891년 요정 '기쿠스이로(菊水楼)'에서 시작된 에도풍 장어집으로, 지금도 기쿠스이로 건물 안에 있음. 타베로그 3.66, 장어 백명점 2026 선정.",
     "reasons": [
       {
+        "type": "타베로그",
+        "detail": "타베로그 3.66(리뷰 432), 장어 백명점 2026",
+        "url": "https://tabelog.com/nara/A2901/A290101/29010047/"
+      },
+      {
         "type": "노포·원조",
         "detail": "1891년(메이지 24년) 요정 '기쿠스이로(菊水楼)'에서 시작된 에도풍 장어집",
         "url": "https://r.gnavi.co.jp/k255809/"
-      },
-      {
-        "type": "수상·백명점",
-        "detail": "타베로그 백명점 장어 2026",
-        "url": "https://tabelog.com/tw/nara/rstLst/"
-      },
-      {
-        "type": "타베로그",
-        "detail": "타베로그 3.66 (icotto 인용)",
-        "url": "https://icotto.jp/restaurants/37362"
       }
     ],
     "tips": "점심 11:00-14:45, 저녁 17:00-19:00이 '최종 입점' 시간이라 일찍 닫는 편. 나라호텔·아라이케 연못 근처라 나라공원 산책과 연계하기 좋음.",
@@ -10078,10 +12613,15 @@
     "hours": "11:00-14:45, 17:00-19:00 (모두 최종 입점)",
     "closed": "화요일",
     "reservation": "가능",
-    "booking_type": "전화예약만",
-    "booking_apps": [],
-    "booking_note": "구루나비에 온라인 예약 버튼 없음, 전화(050-5493-1385) 예약. 코스 예약은 전날·당일 취소 시 100%. 장어 소진 시 조기 마감.",
-    "tabelog_url": null,
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "타베로그",
+        "url": "https://tabelog.com/nara/A2901/A290101/29010047/"
+      }
+    ],
+    "booking_note": "타베로그 가게 페이지에 코스별 '予約' 버튼(네트예약) 있음. 전화 예약도 가능. 예약 시각 15분 경과 후 연락 없으면 취소, 좌석 이용 1시간 30분 제한. 장어 소진 시 조기 마감.",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29010047/",
     "tabelog_score": 3.66,
     "google_rating": null,
     "google_reviews": null,
@@ -10096,7 +12636,7 @@
     "legend_level": 2,
     "sources": [
       "https://icotto.jp/restaurants/37362",
-      "https://tabelog.com/tw/nara/rstLst/"
+      "https://tabelog.com/en/nara/A2901/A290101/29010047/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -10153,56 +12693,6 @@
     "sources": [
       "https://tabelog.com/nara/A2901/A290101/29001343/",
       "https://gigazine.net/news/20171213-reverse-kitsune-udon"
-    ],
-    "verified_open": true,
-    "checked_at": "2026-11-21"
-  },
-  {
-    "id": "nara-013",
-    "name_ko": "모리 나라즈케점",
-    "name_ja": "森奈良漬店",
-    "name_en": "Mori Narazuke",
-    "region": "nara",
-    "area": "나라공원·긴테쓰나라",
-    "category": "기타",
-    "signature": "나라즈케(奈良漬, 술지게미에 장기 숙성한 채소 절임)",
-    "why": "1869년 창업, 5대째 전통 제법을 지켜 온 나라즈케 노포. 도다이지·나라공원 산책 동선에 있어 나라 대표 절임 음식을 사 가기 좋음.",
-    "reasons": [
-      {
-        "type": "노포·원조",
-        "detail": "1869년 창업, 5대째 전통 제법을 지켜 온 나라즈케 노포",
-        "url": "https://www.gfp1.maff.go.jp/user/10150/about"
-      }
-    ],
-    "tips": "식당이 아니라 판매점. 시식 후 구매 가능. 카드·전자결제 가능하다는 정보 있음. 술지게미 향이 강하니 처음이면 소포장 추천.",
-    "address_ja": "奈良県奈良市春日野町23",
-    "address_building": null,
-    "station": "도다이지·나라공원 인근 (긴테쓰나라역에서 도보권)",
-    "lat": 34.684177,
-    "lng": 135.839111,
-    "geo": "gsi:奈良県奈良市春日野町２３番地",
-    "price_level": 1,
-    "price_note": null,
-    "hours": "9:00-18:00",
-    "closed": null,
-    "reservation": null,
-    "booking_type": "현장방문",
-    "booking_apps": [],
-    "booking_note": "판매점이라 예약 개념 없음.",
-    "tabelog_url": null,
-    "tabelog_score": null,
-    "google_rating": null,
-    "google_reviews": null,
-    "awards": [],
-    "youtube": [],
-    "tags": [
-      "노포",
-      "테이크아웃"
-    ],
-    "legend_level": 1,
-    "sources": [
-      "https://www.gfp1.maff.go.jp/user/10150/about",
-      "https://autoreserve.com/en/restaurants/f5t7SYL6iEPgFzJFDne4"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -10727,6 +13217,11 @@
     "why": "갈분(구즈)의 본고장 요시노산에서 메뉴가 구즈키리와 구즈모치 딱 두 가지뿐인 전문점. 주문 후 바로 만들어 '10분 안에 먹어야 하는' 투명하고 탱탱한 구즈키리가 명물.",
     "reasons": [
       {
+        "type": "타베로그",
+        "detail": "타베로그 3.55(리뷰 203)",
+        "url": "https://tabelog.com/nara/A2905/A290501/29008812/"
+      },
+      {
         "type": "언론·가이드",
         "detail": "루루부: 메뉴가 요시노 혼쿠즈키리·구즈모치 두 가지뿐, 주문 후 만드는 갈분 전문점",
         "url": "https://rurubu.jp/andmore/spot/80095507"
@@ -10746,9 +13241,9 @@
     "reservation": "권장",
     "booking_type": "현장방문",
     "booking_apps": [],
-    "booking_note": "도착 후 가게에서 30분 단위 시간 예약을 잡는 방식(전화·앱 예약 정보 없음).",
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "타베로그 '予約不可'. 도착 후 가게에서 30분 단위 시간 예약을 잡는 방식(전화·앱 예약 없음).",
+    "tabelog_url": "https://tabelog.com/nara/A2905/A290501/29008812/",
+    "tabelog_score": 3.55,
     "google_rating": null,
     "google_reviews": null,
     "awards": [],
@@ -10759,7 +13254,8 @@
     "legend_level": 2,
     "sources": [
       "https://rurubu.jp/andmore/spot/80095507",
-      "https://4travel.jp/dm_shisetsu/11520020"
+      "https://4travel.jp/dm_shisetsu/11520020",
+      "https://tabelog.com/en/nara/A2905/A290501/29008812/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -10775,6 +13271,11 @@
     "signature": "가키노하즈시(감잎 초밥, 고등어·연어) + 국 세트",
     "why": "긴푸센지 자오도 계단 아래, 다이쇼 시대 창업으로 전해지는 요시노산의 감잎 초밥 노포. 수제 방식을 지키며 창가 자리에서 나카센본 벚꽃 풍경을 보며 먹을 수 있음.",
     "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.48(리뷰 218). 3.5에 조금 못 미치지만 다이쇼 시대 창업 감잎 초밥 노포라 유지",
+        "url": "https://tabelog.com/nara/A2905/A290501/29001686/"
+      },
       {
         "type": "노포·원조",
         "detail": "다이쇼 시대 창업으로 소개되는 요시노산 가키노하즈시 노포(자료에 따라 약 80년)",
@@ -10797,12 +13298,12 @@
     "price_note": "가키노하즈시+국 1,500엔, 포장 1,200엔~",
     "hours": "9:00-17:00",
     "closed": "수요일 (4·11월 무휴)",
-    "reservation": null,
-    "booking_type": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
     "booking_apps": [],
-    "booking_note": null,
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "타베로그 '予約不可' — 예약 없이 방문, 포장도 가능. 카드(AMEX)·전자머니·QR결제 가능(타베로그).",
+    "tabelog_url": "https://tabelog.com/nara/A2905/A290501/29001686/",
+    "tabelog_score": 3.48,
     "google_rating": null,
     "google_reviews": null,
     "awards": [],
@@ -10814,62 +13315,139 @@
     "legend_level": 1,
     "sources": [
       "https://rurubu.jp/andmore/spot/80031812",
-      "https://tabi-mag.jp/na0301/"
+      "https://tabi-mag.jp/na0301/",
+      "https://tabelog.com/en/nara/A2905/A290501/29001686/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
   },
   {
     "id": "nara-024",
-    "name_ko": "히라소 호류지점",
-    "name_ja": "平宗 法隆寺店",
-    "name_en": "Hiraso Horyuji",
+    "name_ko": "토이 인쇼쿠텐",
+    "name_ja": "toi印食店",
+    "name_en": "Toi Inshokuten",
     "region": "nara",
-    "area": "이카루가",
-    "category": "스시·해산물",
-    "signature": "가키노하즈시+미와 소면 세트(나라 런치), 여름 한정 감 빙수(柿氷)",
-    "why": "1861년 창업한 감잎 초밥 노포 히라소의 호류지 문전 점포. 세계유산 호류지 관람 전후에 나라 향토음식을 먹기에 가장 무난한 선택.",
+    "area": "나라공원·긴테쓰나라",
+    "category": "카레",
+    "signature": "남인도식 밀스(카레 4종 + 오늘의 반찬 플레이트), 스파이스 카레",
+    "why": "긴테쓰나라역 근처, 나라 지검 옆 작은 인도 카레집. 타베로그 3.75에 아시아·에스닉 WEST 백명점 2023·2024·2026에 선정됐고, 줄이 긴 현지인 맛집이다.",
     "reasons": [
       {
-        "type": "노포·원조",
-        "detail": "1861년 창업 가키노하즈시 노포 히라소의 호류지 문전 점포",
-        "url": "https://www.mapple.net/article/122028/"
+        "type": "타베로그",
+        "detail": "타베로그 3.75(리뷰 383)",
+        "url": "https://tabelog.com/nara/A2901/A290101/29012452/"
       },
       {
-        "type": "언론·가이드",
-        "detail": "마플: 호류지 맛집 기사에서 가키노하즈시+미와 소면 세트, 여름 한정 감 빙수를 추천",
-        "url": "https://www.mapple.net/article/122028/"
+        "type": "수상·백명점",
+        "detail": "타베로그 아시아·에스닉 WEST 백명점 2023·2024·2026",
+        "url": "https://tabelog.com/nara/A2901/A290101/29012452/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "타베로그 리뷰: 토요일 11시에 도착해도 이미 대기 15번째일 만큼 줄이 김",
+        "url": "https://tabelog.com/kr/nara/A2901/A290101/29012452/"
       }
     ],
-    "tips": "판매점 안쪽에 식사 공간이 있음. 여름엔 나라산 후유가키 시럽을 뿌린 감 빙수(1,200엔)가 인기.",
-    "address_ja": "奈良県生駒郡斑鳩町法隆寺1-8-40",
+    "tips": "예약 불가. 오전 10:30부터 가게 앞 대기 명단에 이름·전화번호를 적는 방식이라 오픈 전에 가는 것을 추천. 카드 불가, PayPay 가능. 일·월·화 휴무, 저녁 영업은 금·토만.",
+    "address_ja": "奈良県奈良市花芝町30-3",
     "address_building": null,
-    "station": "호류지 남대문 앞 참도",
-    "lat": 34.610332,
-    "lng": 135.735214,
-    "geo": "gsi:奈良県斑鳩町法隆寺一丁目８番４０号",
+    "station": "긴테쓰나라역 약 212m (도보 약 3분)",
+    "lat": 34.686321,
+    "lng": 135.829056,
+    "geo": "gsi:奈良県奈良市花芝町３０番地",
     "price_level": 2,
-    "price_note": "가키노하즈시+미와 소면 세트 2,000엔",
-    "hours": "11:00-16:00 (L.O.)",
-    "closed": null,
-    "reservation": null,
-    "booking_type": null,
+    "price_note": "2,000~2,999엔 (타베로그 리뷰 집계)",
+    "hours": "수~토 11:30-14:30 / 금·토 17:30-20:00",
+    "closed": "일·월·화요일",
+    "reservation": "불가",
+    "booking_type": "현장방문",
     "booking_apps": [],
-    "booking_note": null,
-    "tabelog_url": null,
-    "tabelog_score": null,
+    "booking_note": "타베로그 '予約不可'. 10:30부터 가게 앞 종이 대기 명단에 이름·전화번호를 적고 순서대로 입장(앱 원격줄서기 아님).",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29012452/",
+    "tabelog_score": 3.75,
     "google_rating": null,
     "google_reviews": null,
-    "awards": [],
+    "awards": [
+      "타베로그 백명점 아시아·에스닉 WEST 2023",
+      "타베로그 백명점 아시아·에스닉 WEST 2024",
+      "타베로그 백명점 아시아·에스닉 WEST 2026"
+    ],
     "youtube": [],
     "tags": [
-      "노포",
-      "테이크아웃",
-      "관광객인기"
+      "백명점",
+      "현지인맛집",
+      "줄서는집",
+      "가성비"
     ],
-    "legend_level": 1,
+    "legend_level": 2,
     "sources": [
-      "https://www.mapple.net/article/122028/"
+      "https://tabelog.com/en/nara/A2901/A290101/29012452/",
+      "https://tabelog.com/kr/nara/A2901/A290101/29012452/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "nara-025",
+    "name_ko": "겐(玄)",
+    "name_ja": "玄",
+    "name_en": "Gen",
+    "region": "nara",
+    "area": "나라마치",
+    "category": "우동·소바",
+    "signature": "세이로 소바·이나카 소바(각 1,400엔), 소바가키 / 저녁은 소바 코스 '소바 유젠'(18,150엔)",
+    "why": "나라마치 동쪽 후쿠치인초의 수타 소바 명가. 타베로그 4.02로 나라시 상위권이고, 소바 백명점에 2017년부터 7번 선정됐다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 4.02(리뷰 590), 나라시 평점 순위 상위 5위권",
+        "url": "https://tabelog.com/nara/A2901/A290101/29000052/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "타베로그 소바 백명점 2017·2018·2019·2021·2022, 소바 WEST 2024·2025",
+        "url": "https://tabelog.com/nara/A2901/A290101/29000052/"
+      }
+    ],
+    "tips": "점심도 사실상 완전 예약제(하루 40식 한정)이고 워크인은 '매우 어렵다'고 명시. 저녁은 18시 일제 시작 코스만. 현금만(카드·전자결제 불가). 일·월 휴무.",
+    "address_ja": "奈良県奈良市福智院町23-2",
+    "address_building": null,
+    "station": "긴테쓰나라역 도보 약 15분",
+    "lat": 34.676834,
+    "lng": 135.834274,
+    "geo": "gsi:奈良県奈良市福智院町２３番地",
+    "price_level": 2,
+    "price_note": "점심 소바 1,400~1,700엔 / 저녁 코스 18,150엔(서비스료 포함)",
+    "hours": "점심 화~토 11:30-13:30 (L.O.13:00) / 저녁 화~금 18:00 일제 시작",
+    "closed": "일·월요일",
+    "reservation": "필수",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "타베로그: 완전 예약제, 네트예약 없음 — 전화(0742-27-6868)로만 예약. 점심은 빈자리가 있으면 워크인 가능하나 매우 어려움.",
+    "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000052/",
+    "tabelog_score": 4.02,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 소바 2017",
+      "타베로그 백명점 소바 2018",
+      "타베로그 백명점 소바 2019",
+      "타베로그 백명점 소바 2021",
+      "타베로그 백명점 소바 2022",
+      "타베로그 백명점 소바 WEST 2024",
+      "타베로그 백명점 소바 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현지인맛집",
+      "예약필수",
+      "현금만"
+    ],
+    "legend_level": 2,
+    "sources": [
+      "https://tabelog.com/en/nara/A2901/A290101/29000052/",
+      "https://tabelog.com/en/nara/A2901/A290101/29000052/dtlmenu/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"

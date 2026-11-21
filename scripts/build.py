@@ -65,6 +65,7 @@ CATEGORIES = OrderedDict([
     ("카레", ("🍛", "#b08900")),
     ("경양식·오므라이스", ("🍳", "#f4a261")),
     ("일식·카이세키", ("🍱", "#2a9d8f")),
+    ("프렌치·이노베이티브", ("🍷", "#7b2cbf")),
     ("장어", ("🐟", "#264653")),
     ("야키토리·닭요리", ("🍗", "#bb3e03")),
     ("이자카야·다치노미", ("🍶", "#5e548e")),
@@ -265,6 +266,15 @@ def candidates(addr: str) -> list[str]:
         alt = clean_address(pat.sub(r"\1", nfkc(addr)))
         if alt not in out:
             out.append(alt)
+    # 교토식: 区 + (마지막 町名) + 번지 만 남겨서 재시도  例) 錦小路堺町角菊屋町534-1 → 中京区菊屋町534-1
+    a = re.sub(r"\s+", "", nfkc(addr))
+    m = re.match(r"^(.+?区)(\D*?)(\d+(?:[-ー‐−]\d+)*)", a)
+    if m:
+        town = re.split(r"上る|下る|上ル|下ル|西入ル|東入ル|西入る|東入る|西入|東入|入ル|入る|角|通|側|丁目", m.group(2))[-1]
+        if town and town != m.group(2):
+            alt = clean_address(m.group(1) + town + m.group(3))
+            if alt not in out:
+                out.append(alt)
     # 이체자(異体字) 변형도 시도: 例) 斉藤町 → 斎藤町
     for c in list(out):
         v = c.translate(ITAIJI)
