@@ -102,7 +102,7 @@ FIELD_ORDER = [
     "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
     "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "wait",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
-    "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon",
+    "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon",
     "sources", "verified_open", "checked_at",
 ]
 REQUIRED = ["name_ko", "name_ja", "region", "area", "category", "why", "address_ja", "legend_level"]

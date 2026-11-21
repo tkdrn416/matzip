@@ -79,6 +79,8 @@
   // ------------------------------------------------------------------ popup
   function badgesHtml(r, limit) {
     const b = [];
+    if (r.google_status === "CLOSED_TEMPORARILY") b.push(`<span class="badge st-warn">⚠️ 임시 휴업(구글)</span>`);
+    else if (r.google_status === "CLOSED_PERMANENTLY") b.push(`<span class="badge st-warn">⚠️ 폐업(구글)</span>`);
     const st = statusBadge(r);
     if (st) b.push(st);
     const wb = waitBadge(r);
@@ -222,7 +224,8 @@
       if (((r.links && r.links.booking) || []).length) return ""; // 아래 '지금 예약하기' 버튼이 같은 내용
       return `<div class="ob yes">📱 온라인 예약 가능${apps ? " · " + esc(apps) : ""}</div>`;
     }
-    const gnote = r.google_reservable === true ? "구글맵에 「예약」 표시 있음 → 구글맵에서 확인" : r.google_reservable === false ? "구글맵 예약 없음" : "구글맵 예약은 미확인";
+    // 구글의 reservable 은 '예약 받음'(전화 포함) 정보 — 온라인 예약을 뜻하지 않음
+    const gnote = r.google_reservable === true ? "구글 정보: 예약 받음(전화 포함일 수 있음)" : r.google_reservable === false ? "구글 정보: 예약 안 받음" : "구글 예약 정보 없음";
     if (r.booking_type === "현장방문") return `<div class="ob no">🚶 예약 없이 방문 (줄 서기)<small>${esc(chk)}에 온라인 예약 없음 · ${gnote}</small></div>`;
     if (r.booking_type) return `<div class="ob no">${BOOK[r.booking_type] ? BOOK[r.booking_type].emoji : ""} ${esc(r.booking_type)} — 온라인 예약 없음<small>확인: ${esc(chk)} · ${gnote}</small></div>`;
     return `<div class="ob unk">❔ 온라인 예약 여부 미확인</div>`;
@@ -291,6 +294,7 @@
     // 예약·이동 버튼을 맨 위에: 고르고 바로 행동할 수 있게
     return `${onlineHtml(r)}
       ${r.notice ? `<div class="notice">⚠️ ${esc(r.notice)}</div>` : ""}
+      ${r.google_status && r.google_status !== "OPERATIONAL" ? `<div class="notice">⚠️ 구글 지도에 「${r.google_status === "CLOSED_TEMPORARILY" ? "임시 휴업" : r.google_status === "CLOSED_PERMANENTLY" ? "폐업" : esc(r.google_status)}」 표시 (${esc(r.google_checked_at || "")} 기준) — 방문 전 확인</div>` : ""}
       ${linkBtns(r)}
       <div class="badges dbadges">${badgesHtml(r)}</div>
       <div class="why">${esc(r.why)}</div>

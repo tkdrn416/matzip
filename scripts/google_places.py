@@ -88,19 +88,34 @@ def dist_m(a_lat, a_lng, b_lat, b_lng) -> float:
     return math.hypot(dx, dy)
 
 
+def _kana(x: str) -> str:
+    """가타카나→히라가나, 기호·공백 제거 (ハジメ/はじめ, 稲荷ふたば/いなりふたば 비교용)."""
+    x = unicodedata.normalize("NFKC", x or "").lower()
+    x = "".join(chr(ord(c) - 0x60) if "ァ" <= c <= "ヶ" else c for c in x)
+    return __import__("re").sub(r"[\s()（）・'’\-_.%&｜|]", "", x)
+
+
 def same_place(r: dict, p: dict) -> tuple[bool, str]:
-    """엉뚱한 가게를 붙이지 않도록: 좌표 300m 이내 + 상호 일부 일치."""
+    """엉뚱한 가게를 붙이지 않도록: (상호 일치 & 300m 이내) 또는 (상호 강하게 일치 & 1.5km 이내, 우리 좌표가 대략적일 때)
+    또는 (같은 건물 수준 80m 이내)."""
     loc = p.get("location") or {}
+    d = None
     if isinstance(r.get("lat"), (int, float)) and loc:
         d = dist_m(r["lat"], r["lng"], loc.get("latitude", 0), loc.get("longitude", 0))
-        if d > 300:
-            return False, f"거리 {d:.0f}m"
-    norm = lambda x: unicodedata.normalize("NFKC", x or "").replace(" ", "").lower()
-    a, b = norm(r["name_ja"]), norm((p.get("displayName") or {}).get("text"))
-    core = [t for t in __import__("re").split(r"[\s()（）・]", unicodedata.normalize("NFKC", r["name_ja"])) if len(t) >= 2 and t not in GENERIC]
-    if not (a in b or b in a or any(norm(t) in b for t in core)):
-        return False, f"상호 불일치({b})"
-    return True, ""
+    a, b = _kana(r["name_ja"]), _kana((p.get("displayName") or {}).get("text"))
+    en = _kana(r.get("name_en") or "")
+    core = [_kana(t) for t in __import__("re").split(r"[\s()（）・]", unicodedata.normalize("NFKC", r["name_ja"])) if len(t) >= 2 and t not in GENERIC]
+    strong = bool(a and b) and (a in b or b in a or (en and len(en) >= 4 and en in b))
+    weak = strong or any(t and t in b for t in core)
+    if d is None:
+        return (weak, "" if weak else f"상호 불일치({b})")
+    if d <= 80:
+        return True, ""  # 같은 건물 수준
+    if weak and d <= 300:
+        return True, ""
+    if strong and d <= 1500:
+        return True, f"좌표 보정({d:.0f}m)"
+    return False, (f"거리 {d:.0f}m" if weak else f"상호 불일치({b}, {d:.0f}m)")
 
 
 def save(items: list) -> None:
@@ -144,6 +159,8 @@ def main() -> int:
             print(f"❔ {r['id']} {r['name_ko']}: 구글에서 못 찾음")
             continue
         ok, why = same_place(r, p)
+        if ok and why:
+            print(f"   ↪ {r['id']} {r['name_ko']}: {why}")
         if not ok:
             print(f"❔ {r['id']} {r['name_ko']}: 다른 가게로 보여 건너뜀 ({why})")
             continue
@@ -158,6 +175,12 @@ def main() -> int:
         r["google_maps_uri"] = p.get("googleMapsUri")
         r["google_reservable"] = p.get("reservable")
         r["google_checked_at"] = today
+        r["google_status"] = status
+        loc = p.get("location") or {}
+        if loc.get("latitude"):
+            # 구글 좌표가 주소 지오코딩보다 정확 → 지도 핀 위치로 사용
+            r["lat"], r["lng"] = round(loc["latitude"], 6), round(loc["longitude"], 6)
+            r["geo"] = f"google:{name}"
         reasons = [x for x in r.get("reasons") or [] if x.get("type") != "구글"]
         if rating and count and rating >= 4.2 and count >= 300:
             reasons.append({"type": "구글", "detail": f"구글 지도 {rating} / 리뷰 {count:,}개 ({today} 기준)", "url": p.get("googleMapsUri")})
