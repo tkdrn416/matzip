@@ -30,7 +30,10 @@
           <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
         </div>
         <div class="row">
+          <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 영업 중</button>
           <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
+          <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
+          <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
           <button class="chip toggle" id="hideVisited" aria-pressed="false">✓ 방문한 곳 숨기기</button>
           <button class="chip" id="locate">📍 내 위치순</button>
           <button class="chip" id="reset">초기화</button>
@@ -58,6 +61,13 @@
       <div id="map" aria-label="맛집 지도"></div>
     </main>
   </div>
+
+  <dialog id="dlg" class="dlg">
+    <h3 id="dlgTitle"></h3>
+    <div id="dlgExtra"></div>
+    <textarea id="dlgText" rows="9" readonly></textarea>
+    <div class="dlgbtns"><button id="dlgCopy" class="cta">복사</button><button id="dlgClose">닫기</button></div>
+  </dialog>
 
   <script src="assets/vendor/leaflet/leaflet.js"></script>
   <script src="assets/vendor/leaflet/leaflet.markercluster.js"></script>

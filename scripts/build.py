@@ -98,8 +98,8 @@ BOOKING_APPS = {
 
 FIELD_ORDER = [
     "id", "name_ko", "name_ja", "name_en", "region", "area", "category", "signature", "why", "reasons", "tips",
-    "address_ja", "address_building", "station", "lat", "lng", "geo",
-    "price_level", "price_note", "hours", "closed", "reservation",
+    "address_ja", "address_building", "station", "phone", "lat", "lng", "geo",
+    "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
     "booking_type", "booking_apps", "booking_note",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
     "google_checked_at", "awards", "youtube", "tags", "legend_level",
@@ -107,6 +107,9 @@ FIELD_ORDER = [
 ]
 REQUIRED = ["name_ko", "name_ja", "region", "area", "category", "why", "address_ja", "legend_level"]
 
+WEEKDAYS = ["mon", "tue", "wed", "thu", "fri", "sat", "sun"]
+# 예약 링크 우선순위 (한국인 기준으로 쓰기 쉬운 순)
+BOOKING_PRIORITY = ["TableCheck", "타베로그", "OMAKASE", "구글예약", "공식사이트", "핫페퍼", "잇큐", "포켓컨시어지", "구루나비", "byFood"]
 PRICE_LABEL = {1: "~1,500엔", 2: "1,500~4,000엔", 3: "4,000~10,000엔", 4: "10,000엔+"}
 LEVEL_LABEL = {3: "필수 레전드", 2: "강력 추천", 1: "추천"}
 
@@ -179,6 +182,19 @@ def validate(items: list[dict]) -> list[str]:
         score = r.get("tabelog_score")
         if score is not None and not (isinstance(score, (int, float)) and 3.0 <= score <= 5.0):
             errors.append(f"{tag}: tabelog_score 범위 이상 → {score}")
+        hw = r.get("hours_week")
+        if hw is not None:
+            if not isinstance(hw, dict) or any(k not in WEEKDAYS for k in hw):
+                errors.append(f"{tag}: hours_week 키는 {WEEKDAYS}")
+            else:
+                for k, v in hw.items():
+                    if v is None:
+                        continue
+                    if not isinstance(v, list) or any(
+                        not (isinstance(iv, list) and len(iv) == 2 and all(isinstance(t, str) and re.match(r"^\d{1,2}:\d{2}$", t) for t in iv))
+                        for iv in v
+                    ):
+                        errors.append(f"{tag}: hours_week.{k} 형식 이상 → {v}")
         for rs in r.get("reasons") or []:
             if not isinstance(rs, dict) or rs.get("type") not in REASON_TYPES or not rs.get("detail"):
                 errors.append(f"{tag}: reasons 항목 이상 → {rs}")
@@ -397,6 +413,18 @@ def geocode(items: list[dict], offline: bool) -> list[str]:
 
 
 # ---------------------------------------------------------------- links
+def localize_booking_url(u: str | None) -> str | None:
+    """예약 링크를 한국어 페이지로: 타베로그 → /kr/, TableCheck → /ko/"""
+    if not u:
+        return None
+    if re.match(r"^https://tabelog\.com/(?!kr/|en/)", u):
+        return u.replace("https://tabelog.com/", "https://tabelog.com/kr/", 1)
+    m = re.match(r"^https://(?:www\.)?tablecheck\.com/(?:(?:ja|en|ko|zh-CN|zh-TW)/)?(.*)$", u)
+    if m:
+        return "https://www.tablecheck.com/ko/" + m.group(1)
+    return u
+
+
 def links(r: dict) -> dict:
     reg = REGIONS[r["region"]]
     q = f"{r['name_ja']} {nfkc(r['address_ja'])}"
@@ -409,7 +437,14 @@ def links(r: dict) -> dict:
         else f"https://tabelog.com/{reg['tabelog']}/rstLst/?vs=1&sk=" + urllib.parse.quote(r["name_ja"])
     )
     yt = "https://www.youtube.com/results?search_query=" + urllib.parse.quote(f"{r['name_ko']} {reg['ko']} 맛집")
-    return {"google_maps": gm, "directions": nav, "tabelog": tb, "tabelog_is_search": not r.get("tabelog_url"), "youtube": yt}
+    booking = []
+    for b in r.get("booking_apps") or []:
+        u = localize_booking_url(b.get("url"))
+        if u:
+            booking.append({"app": b["app"].replace("기타:", ""), "url": u})
+    booking.sort(key=lambda b: BOOKING_PRIORITY.index(b["app"]) if b["app"] in BOOKING_PRIORITY else 99)
+    return {
+        "booking": booking,"google_maps": gm, "directions": nav, "tabelog": tb, "tabelog_is_search": not r.get("tabelog_url"), "youtube": yt}
 
 
 def online_label(r: dict) -> str:
@@ -453,7 +488,7 @@ CSV_COLS = [
     "online_booking", "booking_type", "booking_apps", "booking_urls", "booking_note", "reasons",
     "tabelog_score", "google_rating", "google_reviews",
     "price_level", "price_note", "hours", "closed", "reservation", "awards", "youtube",
-    "tags", "why", "tips", "address_ja", "address_building", "station", "lat", "lng",
+    "tags", "why", "tips", "address_ja", "address_building", "station", "phone", "lat", "lng",
     "google_maps", "tabelog", "youtube_search", "sources",
 ]
 
@@ -476,6 +511,7 @@ def row_for_csv(r: dict) -> dict:
         "youtube": " | ".join(r.get("youtube") or []), "tags": " ".join("#" + t for t in r.get("tags") or []),
         "why": r["why"], "tips": r.get("tips") or "", "address_ja": r["address_ja"],
         "address_building": r.get("address_building") or "", "station": r.get("station") or "",
+        "phone": r.get("phone") or "",
         "lat": r.get("lat") or "", "lng": r.get("lng") or "",
         "google_maps": lk["google_maps"], "tabelog": lk["tabelog"], "youtube_search": lk["youtube"],
         "sources": " ".join(r.get("sources") or []),
@@ -584,7 +620,7 @@ def write_mymaps(items: list[dict]) -> None:
                 "예약방식": r.get("booking_type") or "미확인",
                 "예약앱": ", ".join(b["app"] for b in r.get("booking_apps") or []),
                 "예약링크": " ".join(b["url"] for b in r.get("booking_apps") or [] if b.get("url")),
-                "주소": r["address_ja"], "타베로그": links(r)["tabelog"],
+                "주소": r["address_ja"], "전화": r.get("phone") or "", "타베로그": links(r)["tabelog"],
             }
             for r in rs
         ]
@@ -615,7 +651,7 @@ def write_list_md(items: list[dict], generated: str) -> None:
             g = f"{r['google_rating']}" + (f" ({r['google_reviews']:,})" if r.get("google_reviews") else "") if r.get("google_rating") else ""
             lines.append(
                 f"| {'★' * r['legend_level']} | [{r['name_ko']}](#{r['id']}) | {CATEGORIES[r['category']][0]} {r['category']} | {r['area']} "
-                f"| {ob} | {r.get('tabelog_score') or ''} | {g} |"
+                f"| {ob} | {format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else ''} | {g} |"
             )
         lines.append("")
         areas = OrderedDict()
@@ -638,7 +674,7 @@ def write_list_md(items: list[dict], generated: str) -> None:
                     lines.append("")
                 ob = online_label(r)
                 if ob == "가능":
-                    apps = ", ".join(f"[{b['app']}]({b['url']})" if b.get("url") else b["app"] for b in r.get("booking_apps") or [])
+                    apps = ", ".join(f"[{b['app']}]({b['url']})" for b in lk["booking"]) or ", ".join(b["app"] for b in r.get("booking_apps") or [])
                     lines.append(f"- **온라인 예약: ✅ 가능** {('· ' + apps) if apps else ''}")
                 elif ob == "불가":
                     lines.append(f"- **온라인 예약: 🚫 불가** · {BOOKING_TYPES[r['booking_type']]} {r['booking_type']}")
@@ -646,6 +682,10 @@ def write_list_md(items: list[dict], generated: str) -> None:
                     lines.append("- **온라인 예약: ❔ 미확인**")
                 if r.get("booking_note"):
                     lines.append(f"- 예약 팁: {r['booking_note']}")
+                if r.get("phone"):
+                    lines.append(f"- 📞 [{r['phone']}](tel:{r['phone'].replace('-', '')})")
+                if r.get("notice"):
+                    lines.append(f"- ⚠️ 공지: {r['notice']}")
                 if r.get("signature"):
                     lines.append(f"- 대표 메뉴: {r['signature']}")
                 price = r.get("price_note") or PRICE_LABEL.get(r.get("price_level"), "")
@@ -662,6 +702,45 @@ def write_list_md(items: list[dict], generated: str) -> None:
                 lines.append("")
     (ROOT / "docs").mkdir(exist_ok=True)
     (ROOT / "docs" / "LIST.md").write_text("\n".join(lines), encoding="utf-8")
+
+def write_cheatsheet(items: list[dict], generated: str) -> None:
+    """거점(세부 지역)별 치트시트: 현지에서 '여기 근처 뭐 먹지?' 할 때 보는 표."""
+    yen = {1: "¥", 2: "¥¥", 3: "¥¥¥", 4: "¥¥¥¥"}
+    lines = [
+        "# 📍 거점별 맛집 치트시트",
+        "",
+        f"> 자동 생성 ({generated}) · 지금 있는 동네를 찾아서 타베로그 점수 높은 순으로 고르세요.",
+        "> ✅ 온라인 예약 가능 · ☎️ 전화예약만 · 🎫 원격줄서기 · 🚶 현장방문(예약 불가) · 가격은 1인 기준 ¥ ~1,500엔 / ¥¥ ~4,000엔 / ¥¥¥ ~10,000엔 / ¥¥¥¥ 10,000엔+",
+        "> 가게 이름을 누르면 상세(선정 이유·영업시간·팁)가 있는 [목록](LIST.md)으로 이동합니다.",
+        "",
+    ]
+    toc = []
+    body = []
+    for reg, meta in REGIONS.items():
+        rs = [r for r in items if r["region"] == reg]
+        if not rs:
+            continue
+        areas = OrderedDict()
+        for r in sorted(rs, key=lambda x: x["area"]):
+            areas.setdefault(r["area"], []).append(r)
+        areas = OrderedDict(sorted(areas.items(), key=lambda kv: -len(kv[1])))
+        toc.append(f"**{meta['ko']}**: " + " · ".join(f"[{a}](#{meta['ko']}--{a.replace('·', '')})" for a in areas))
+        body += [f"## {meta['ko']}", ""]
+        for area, ars in areas.items():
+            body += [f'<a id="{meta["ko"]}--{area.replace("·", "")}"></a>', "", f"### {meta['ko']} · {area} ({len(ars)}곳)", ""]
+            body += ["| 가게 | 종류 | 타베로그 | 가격 | 예약 | 한 줄 |", "|---|---|---:|---|---|---|"]
+            for r in sorted(ars, key=lambda x: (-(x.get("tabelog_score") or 0), -x["legend_level"])):
+                bt = r.get("booking_type")
+                book = "✅ 온라인" if bt == "앱예약" else (f"{BOOKING_TYPES[bt]} {bt.replace('예약만', '만')}" if bt else "❔")
+                one = (r.get("signature") or "").split("(")[0].replace("|", "/")[:28]
+                body.append(
+                    f"| [{r['name_ko']}](LIST.md#{r['id']}) {'★' * r['legend_level']} | {CATEGORIES[r['category']][0]} {r['category']} "
+                    f"| **{(format(r['tabelog_score'], '.2f') if r.get('tabelog_score') else '-')}** | {yen.get(r.get('price_level'), '')} | {book} | {one} |"
+                )
+            body.append("")
+    lines += toc + [""] + body
+    (ROOT / "docs" / "CHEATSHEET.md").write_text("\n".join(lines), encoding="utf-8")
+
 
 def write_readme_stats(items: list[dict], generated: str) -> None:
     readme = ROOT / "README.md"
@@ -729,6 +808,7 @@ def main() -> int:
     write_geojson(items)
     write_mymaps(items)
     write_list_md(items, generated)
+    write_cheatsheet(items, generated)
     write_readme_stats(items, generated)
 
     by_reg = Counter(REGIONS[r["region"]]["ko"] for r in items)

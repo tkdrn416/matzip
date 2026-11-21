@@ -144,3 +144,38 @@ a { color: #1d70b8; }
   .list { overflow: visible; flex: none; }
   .foot { padding-bottom: calc(12px + env(safe-area-inset-bottom)); }
 }
+
+/* ---- 예약·이동 행동 버튼 */
+.pp .act { margin: 8px 0 4px; display: flex; flex-direction: column; gap: 6px; }
+.cta { display: block; text-align: center; text-decoration: none; padding: 10px 8px; border-radius: 10px; font-weight: 700; font-size: 14px; border: 1px solid transparent; cursor: pointer; }
+.cta.book { background: #137333; color: #fff !important; }
+.cta.tel { background: #1a73e8; color: #fff !important; }
+.cta.conc { background: #fff; color: var(--ink); border-color: var(--line); }
+.pp .btns.two { grid-template-columns: 1fr 1fr; margin-top: 0; }
+.pp .btns .cta { padding: 10px 6px; font-size: 13px; }
+.pp .alt { font-size: 12px; color: var(--muted); }
+.pp .alt a { color: #1a73e8; }
+.pp .alt.walk { background: #f6f3ec; border-radius: 8px; padding: 6px 8px; color: #5c564c; }
+.pp .btns button.share { grid-column: 1 / -1; }
+.pp .notice { background: #fff4e5; color: #8a4b00; border-radius: 8px; padding: 6px 8px; font-size: 12px; margin: 4px 0; }
+.badge.st-open { background: #e6f4ea; color: #137333; font-weight: 700; }
+.badge.st-soon { background: #fff4e5; color: #b25b00; font-weight: 700; }
+.badge.st-later, .badge.st-closed, .badge.st-off { background: #f1f3f4; color: #5f6368; }
+/* ---- 대화상자 */
+.dlg { border: none; border-radius: 14px; padding: 16px; width: min(92vw, 440px); box-shadow: 0 10px 40px #0004; }
+.dlg::backdrop { background: #0006; }
+.dlg h3 { margin: 0 0 8px; font-size: 16px; }
+.dlg textarea { width: 100%; font: 15px/1.5 "Hiragino Sans", "Noto Sans JP", "Apple SD Gothic Neo", sans-serif; border: 1px solid var(--line); border-radius: 8px; padding: 8px; resize: vertical; }
+.dlgbtns { display: flex; gap: 8px; margin-top: 8px; }
+.dlgbtns button { flex: 1; padding: 10px; border-radius: 10px; border: 1px solid var(--line); background: #fff; font-weight: 600; cursor: pointer; }
+.dlgbtns .cta { background: #1f1d1a; color: #fff; }
+.cform { display: grid; grid-template-columns: 1fr 1fr; gap: 6px 8px; margin-bottom: 6px; }
+.cform label { display: flex; flex-direction: column; font-size: 12px; color: var(--muted); gap: 2px; }
+.cform input { font-size: 16px; padding: 6px 8px; border: 1px solid var(--line); border-radius: 8px; width: 100%; min-width: 0; }
+.cform label { min-width: 0; }
+.cnote { font-size: 12px; color: var(--muted); margin: 0 0 6px; }
+.cta.nav { background: #1a73e8; color: #fff !important; }
+.pp .btns.quick { margin-top: 6px; }
+.pp .btns.quick > a:only-child { grid-column: 1 / -1; }
+.pp .btns a.cta.nav, .pp .btns a.cta.tel { background: #1a73e8; color: #fff; border-color: #1a73e8; }
+.pp .btns a.cta.book { background: #137333; color: #fff; border-color: #137333; }
