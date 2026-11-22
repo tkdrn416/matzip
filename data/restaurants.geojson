@@ -37566,8 +37566,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.500519,
-          34.697235
+          135.500532,
+          34.697162
         ]
       },
       "properties": {
@@ -37597,7 +37597,7 @@
         "address_building": null,
         "station": "오에바시역에서 약 320m (우메다에서 도보 8분)",
         "phone": "+81-6-6345-3155",
-        "geo": "gsi:大阪府大阪市北区曾根崎新地一丁目７番２６号",
+        "geo": "google:びんびや",
         "price_level": 3,
         "price_note": "저녁 6,000~7,999엔 (타베로그, 후기 집계 8,000~9,999엔)",
         "hours": "17:00-23:00",
@@ -37659,8 +37659,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27013283/",
         "tabelog_score": 3.7,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 157,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -37684,9 +37684,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=13021905378635623432",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B3%E3%82%93%E3%81%B3%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-7-26",
+          "google_maps": "https://maps.google.com/?cid=13021905378635623432",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B3%E3%82%93%E3%81%B3%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-7-26",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27013283/",
           "tabelog_is_search": false,
@@ -37699,8 +37703,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.497681,
-          34.697929
+          135.497644,
+          34.697927
         ]
       },
       "properties": {
@@ -37725,7 +37729,7 @@
         "address_building": "ジェイ・プライド梅田永楽ビル 5F",
         "station": "기타신치역 11-23번 출구 도보 1분",
         "phone": "+81-6-6341-5228",
-        "geo": "gsi:大阪府大阪市北区曾根崎新地一丁目５番２５号",
+        "geo": "google:馳走や純平鱧料理",
         "price_level": 3,
         "price_note": "저녁 8,000~9,999엔 (타베로그)",
         "hours": "17:30-23:00 (L.O. 22:00)",
@@ -37805,8 +37809,8 @@
         "smoking_note": "가열식 담배 전용 흡연 구역 있음. 일반 담배는 가게 문 앞 공간에서",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27014760/",
         "tabelog_score": 3.62,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 106,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026"
         ],
@@ -37826,9 +37830,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=2987926125364364015",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%A6%B3%E8%B5%B0%E3%82%84%E7%B4%94%E5%B9%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-25",
+          "google_maps": "https://maps.google.com/?cid=2987926125364364015",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A6%B3%E8%B5%B0%E3%82%84%E7%B4%94%E5%B9%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-25",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27014760/",
           "tabelog_is_search": false,
@@ -38029,8 +38037,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501831,
-          34.696175
+          135.501864,
+          34.696142
         ]
       },
       "properties": {
@@ -38060,7 +38068,7 @@
         "address_building": null,
         "station": "오에바시역 도보 4분 / 기타신치역 도보 7분",
         "phone": "+81-6-6364-3573",
-        "geo": "gsi:大阪府大阪市北区西天満二丁目７番２２号",
+        "geo": "google:酒肆(しゅし) 門",
         "price_level": 4,
         "price_note": "저녁 8,000~9,999엔 (타베로그, 후기 집계 15,000~19,999엔) · 코스 11,000/13,200/15,000엔",
         "hours": "월~금 17:00-23:00 (L.O. 22:30), 토 17:00-22:00 (L.O. 21:30)",
@@ -38148,8 +38156,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27130325/",
         "tabelog_score": 3.65,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 113,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -38172,6 +38180,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5077004126322099384",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -38179,7 +38191,7 @@
               "url": "https://tabelog.com/kr/osaka/A2701/A270102/27130325/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%85%92%E8%82%86%20%E9%96%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%802-7-22",
+          "google_maps": "https://maps.google.com/?cid=5077004126322099384",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E8%82%86%20%E9%96%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%802-7-22",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270102/27130325/",
           "tabelog_is_search": false,
@@ -38520,8 +38532,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.496262,
-          34.638176
+          135.496329,
+          34.63815
         ]
       },
       "properties": {
@@ -38546,7 +38558,7 @@
         "address_building": "天下茶屋駅前ビル 1F",
         "station": "덴가차야역 서쪽 출구 도보 1분",
         "phone": "+81-6-6659-0222",
-        "geo": "gsi:大阪府大阪市西成区花園南二丁目７番３０号",
+        "geo": "google:おでん まる米",
         "price_level": 3,
         "price_note": "저녁 4,000~4,999엔 · 점심 2,000~2,999엔 (타베로그, 후기 집계 저녁 3,000~3,999엔)",
         "hours": "12:00-21:00 (L.O. 20:30)",
@@ -38633,8 +38645,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270406/27123254/",
         "tabelog_score": 3.66,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.1,
+        "google_reviews": 503,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -38656,9 +38668,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=6281425491966983406",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E3%81%A7%E3%82%93%20%E3%81%BE%E3%82%8B%E7%B1%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E8%8A%B1%E5%9C%92%E5%8D%972-7-30",
+          "google_maps": "https://maps.google.com/?cid=6281425491966983406",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%A7%E3%82%93%20%E3%81%BE%E3%82%8B%E7%B1%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E8%8A%B1%E5%9C%92%E5%8D%972-7-30",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270406/27123254/",
           "tabelog_is_search": false,
@@ -38671,8 +38687,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.505524,
-          34.66222
+          135.505556,
+          34.662192
         ]
       },
       "properties": {
@@ -38695,6 +38711,11 @@
             "type": "현지평판",
             "detail": "타베로그 후기 2026-01 '쫄깃한 굵은 면에 케첩 맛과 재료가 잘 어우러지고 달걀 프라이가 반갑다', 2026-05·2025-09·2025-05 나폴리탄 주문 후기, 2026-03 '옆 사람의 나폴리탄이 맛있어 보였다'",
             "url": "https://tabelog.com/kr/osaka/A2701/A270202/27125241/dtlrvwlst/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 357개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=13521872176684739280"
           }
         ],
         "tips": "2층이 주 좌석인 작은 가게라 주말엔 금방 찬다(일요일 아침 9시 반에 8명 대기한 후기도 있음). 카드(Master)·전자화폐·PayPay 가능.",
@@ -38702,7 +38723,7 @@
         "address_building": "福島ビル",
         "station": "난바역 약 380m (닛폰바시역·난카이 난바역도 도보권)",
         "phone": "+81-6-6641-5555",
-        "geo": "gsi:大阪府大阪市浪速区日本橋三丁目７番２０号",
+        "geo": "google:喫茶 松竹",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 나폴리탄 1,200엔(샐러드 포함, 2026년 1월 후기)",
         "hours": "08:00-20:00 (L.O. 19:30)",
@@ -38789,8 +38810,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27125241/",
         "tabelog_score": 3.47,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 357,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -38799,16 +38820,22 @@
         "legend_level": 1,
         "editor_level": 1,
         "icon": false,
-        "evidence": [],
+        "evidence": [
+          "구글 4.2"
+        ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270202/27125241/",
           "https://tabelog.com/kr/osaka/A2701/A270202/27125241/dtlrvwlst/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=13521872176684739280",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%20%E6%9D%BE%E7%AB%B9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B3-7-20",
+          "google_maps": "https://maps.google.com/?cid=13521872176684739280",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%20%E6%9D%BE%E7%AB%B9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B3-7-20",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27125241/",
           "tabelog_is_search": false,
@@ -38821,8 +38848,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.500671,
-          34.662125
+          135.500709,
+          34.662169
         ]
       },
       "properties": {
@@ -38857,7 +38884,7 @@
         "address_building": null,
         "station": "난카이 난바역 도보 약 5분(남쪽)",
         "phone": "+81-6-7221-3680",
-        "geo": "gsi:大阪府大阪市浪速区難波中二丁目８番９２号",
+        "geo": "google:立ち飲みテッケン",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그) · 생맥주 500엔(후기)",
         "hours": "평일 17:00-23:00 / 토·일·공휴일 12:00-23:00 (L.O. 22:30)",
@@ -38950,8 +38977,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27132839/",
         "tabelog_score": 3.58,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 117,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -38975,9 +39002,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5933211336560870122",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E3%81%A1%E9%A3%B2%E3%81%BF%20%E3%83%86%E3%83%83%E3%82%B1%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E9%9B%A3%E6%B3%A2%E4%B8%AD2-8-92",
+          "google_maps": "https://maps.google.com/?cid=5933211336560870122",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AB%8B%E3%81%A1%E9%A3%B2%E3%81%BF%20%E3%83%86%E3%83%83%E3%82%B1%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E9%9B%A3%E6%B3%A2%E4%B8%AD2-8-92",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27132839/",
           "tabelog_is_search": false,
@@ -38990,8 +39021,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501404,
-          34.664261
+          135.500586,
+          34.665273
         ]
       },
       "properties": {
@@ -39031,7 +39062,7 @@
         "address_building": "NAMBAなんなん 1号",
         "station": "난바역 3번 출구 도보 1분 (지하상가 직결)",
         "phone": "+81-6-6633-0051",
-        "geo": "gsi:大阪府大阪市中央区難波五丁目",
+        "geo": "google:喫茶ビクトリヤ",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그 후기 집계) · 함바그 나폴리탄 1,380엔(2026년 4월 소개 기준)",
         "hours": "09:00-22:00 (L.O. 21:00)",
@@ -39126,8 +39157,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27011050/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 3.6,
+        "google_reviews": 419,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -39147,9 +39178,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=13062483927373185484",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A25%E4%B8%81%E7%9B%AE",
+          "google_maps": "https://maps.google.com/?cid=13062483927373185484",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E3%83%93%E3%82%AF%E3%83%88%E3%83%AA%E3%83%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A25%E4%B8%81%E7%9B%AE",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27011050/",
           "tabelog_is_search": false,
@@ -39162,8 +39197,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501984,
-          34.667488
+          135.501942,
+          34.667484
         ]
       },
       "properties": {
@@ -39198,7 +39233,7 @@
         "address_building": null,
         "station": "난바역 도보 3분 · 닛폰바시역 도보 5분",
         "phone": "+81-6-4708-3668",
-        "geo": "gsi:大阪府大阪市中央区難波一丁目５番７号",
+        "geo": "google:葉花",
         "price_level": 3,
         "price_note": "4,000~4,999엔 (타베로그) · 후기 기준 3,000~3,999엔",
         "hours": "평일 16:00-23:15 / 토 15:00-23:15 / 일·공휴일 15:00-22:15",
@@ -39262,8 +39297,8 @@
         "smoking_note": "좌석은 금연, 별도 흡연실 있음",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27133979/",
         "tabelog_score": 3.63,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.5,
+        "google_reviews": 247,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -39286,9 +39321,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=6330679544025015193",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E8%91%89%E8%8A%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-5-7",
+          "google_maps": "https://maps.google.com/?cid=6330679544025015193",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%91%89%E8%8A%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-5-7",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27133979/",
           "tabelog_is_search": false,
@@ -39467,8 +39506,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504974,
-          34.666336
+          135.50494,
+          34.666332
         ]
       },
       "properties": {
@@ -39496,6 +39535,11 @@
             "type": "현지평판",
             "detail": "2026년 후기 '공휴일 오픈 40분 전부터 줄, 오픈 시 약 40명', '줄 서서라도 먹을 만한 재료와 만족도'",
             "url": "https://tabelog.com/kr/osaka/A2701/A270202/27130878/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 547개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=7988117311787284847"
           }
         ],
         "tips": "간판에 가게 이름이 없어 지나치기 쉬우니 주소로 찾아갈 것. 카드·전자화폐·QR 결제가 모두 안 돼 현금만 받는다. 매일 15시에 열므로 오픈 30~40분 전에 줄을 서는 게 확실하다.",
@@ -39503,7 +39547,7 @@
         "address_building": null,
         "station": "긴테쓰닛폰바시역 도보 2분(123m)",
         "phone": null,
-        "geo": "gsi:大阪府大阪市中央区千日前二丁目４番１２号",
+        "geo": "google:ダテダチ",
         "price_level": 2,
         "price_note": "3,000~3,999엔 (타베로그)",
         "hours": "15:00-22:30",
@@ -39573,8 +39617,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27130878/",
         "tabelog_score": 3.62,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 547,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -39593,7 +39637,8 @@
         "icon": false,
         "evidence": [
           "타베로그 3.62",
-          "백명점"
+          "백명점",
+          "구글 4.2"
         ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270202/27130878/",
@@ -39601,9 +39646,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=7988117311787284847",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%80%E3%83%86%E3%83%80%E3%83%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-4-12",
+          "google_maps": "https://maps.google.com/?cid=7988117311787284847",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%80%E3%83%86%E3%83%80%E3%83%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-4-12",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27130878/",
           "tabelog_is_search": false,
@@ -39616,8 +39665,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.503983,
-          34.664459
+          135.503998,
+          34.664321
         ]
       },
       "properties": {
@@ -39645,6 +39694,11 @@
             "type": "노포·원조",
             "detail": "2012년 오픈, 가게 소개에 '우라난바 다치노미 붐의 시초'로 소개됨. 2026년 후기에도 '난바 다치노미 중 전설적인 가게'라는 평",
             "url": "https://tabelog.com/kr/osaka/A2701/A270202/27070641/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 489개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=12743576623859092201"
           }
         ],
         "tips": "카드·전자화폐가 안 되니 현금을 준비하고, 수요일은 쉰다. 공개된 전화번호가 없어 문의는 어렵고 그냥 찾아가면 된다. 서서 마시는 곳이라 손님 회전이 빨라 만석이어도 금방 자리가 난다.",
@@ -39652,7 +39706,7 @@
         "address_building": null,
         "station": "난카이 난바역 도보 4분",
         "phone": null,
-        "geo": "gsi:大阪府大阪市中央区難波千日前９番１号",
+        "geo": "google:魚屋 ひでぞう 立ち呑み店",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그) · 아카보시 중병 605엔(후기)",
         "hours": "17:00-24:00",
@@ -39717,8 +39771,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27070641/",
         "tabelog_score": 3.54,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 489,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -39735,6 +39789,7 @@
         "icon": false,
         "evidence": [
           "백명점",
+          "구글 4.2",
           "노포·원조"
         ],
         "sources": [
@@ -39744,9 +39799,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=12743576623859092201",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%AD%9A%E5%B1%8B%E3%81%B2%E3%81%A7%E3%81%9E%E3%81%86%20%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D9-1",
+          "google_maps": "https://maps.google.com/?cid=12743576623859092201",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AD%9A%E5%B1%8B%E3%81%B2%E3%81%A7%E3%81%9E%E3%81%86%20%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D9-1",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27070641/",
           "tabelog_is_search": false,
@@ -39759,8 +39818,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.504578,
-          34.665955
+          135.504676,
+          34.665875
         ]
       },
       "properties": {
@@ -39795,7 +39854,7 @@
         "address_building": "久富千日プラザ 2F",
         "station": "닛폰바시역 도보 5분 · 긴테쓰닛폰바시역 172m",
         "phone": "+81-6-6585-7925",
-        "geo": "gsi:大阪府大阪市中央区千日前二丁目３番２４号",
+        "geo": "google:スタンドアイダ",
         "price_level": 2,
         "price_note": "3,000~3,999엔 (타베로그)",
         "hours": "17:00-24:00",
@@ -39862,8 +39921,8 @@
         "smoking_note": "타베로그 표기 '흡연 가능'(좌석 흡연 가능)",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27115885/",
         "tabelog_score": 3.58,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.5,
+        "google_reviews": 158,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -39886,9 +39945,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=16000012661484791949",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%82%E3%81%84%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-3-24",
+          "google_maps": "https://maps.google.com/?cid=16000012661484791949",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%81%82%E3%81%84%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-3-24",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27115885/",
           "tabelog_is_search": false,
@@ -39901,8 +39964,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.502792,
-          34.66378
+          135.50281,
+          34.66384
         ]
       },
       "properties": {
@@ -39930,6 +39993,11 @@
             "type": "현지평판",
             "detail": "2026년 후기에서 '항상 붐벼서 이른 시간에 갔다', '혼자 가기 딱 좋은 우라난바의 다치노미'라는 평가와 함께 3종 모둠 500엔·회 1인분 600엔의 가성비가 반복해서 언급됨",
             "url": "https://tabelog.com/kr/osaka/A2701/A270202/27017138/dtlrvwlst/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 488개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=8051683705784064992"
           }
         ],
         "tips": "2026년 10월부터 3인 이상 일행은 들어갈 수 없어 둘이 가기 좋다. 소프트드링크가 없고 카드·전자화폐도 안 되니 현금을 챙길 것. 늦게 가면 인기 안주가 품절되므로 오픈 직후가 낫다.",
@@ -39937,7 +40005,7 @@
         "address_building": null,
         "station": "난카이 난바역 도보 3분 · 지하철 난바역 도보 5분",
         "phone": "+81-6-6632-7830",
-        "geo": "gsi:大阪府大阪市中央区難波千日前１５番１９号",
+        "geo": "google:丑寅(うしとら)",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 후기 기준 2,000~2,999엔",
         "hours": "평일 16:00-23:00 / 토·일 15:00-23:00 / 공휴일 15:00-22:00",
@@ -40008,8 +40076,8 @@
         "smoking_note": "타베로그 표기 '흡연 가능'(좌석 흡연 가능). 비흡연자는 연기를 감안할 것",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27017138/",
         "tabelog_score": 3.6,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 488,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -40027,7 +40095,8 @@
         "icon": false,
         "evidence": [
           "타베로그 3.60",
-          "백명점"
+          "백명점",
+          "구글 4.2"
         ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270202/27017138/",
@@ -40036,9 +40105,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=8051683705784064992",
+        "google_reservable": false,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E4%B8%91%E5%AF%85%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D15-19",
+          "google_maps": "https://maps.google.com/?cid=8051683705784064992",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%91%E5%AF%85%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D15-19",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27017138/",
           "tabelog_is_search": false,
@@ -40051,8 +40124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.501343,
-          34.669712
+          135.50138,
+          34.669756
         ]
       },
       "properties": {
@@ -40092,7 +40165,7 @@
         "address_building": null,
         "station": "신사이바시역 도보 3분 · 난바역 도보 5분",
         "phone": "+81-6-6211-1028",
-        "geo": "gsi:大阪府大阪市中央区心斎橋筋二丁目３番２１号",
+        "geo": "google:Restaurant Shinsaibashi Mitsuya Main Store",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 원조 카니코로 스파게티 1,023엔(2026년 4월 소개 기준)",
         "hours": "11:00-22:00 (L.O. 21:00)",
@@ -40122,7 +40195,12 @@
               "22:00"
             ]
           ],
-          "fri": null,
+          "fri": [
+            [
+              "11:00",
+              "22:00"
+            ]
+          ],
           "sat": [
             [
               "11:00",
@@ -40136,7 +40214,7 @@
             ]
           ]
         },
-        "hours_note": "타베로그엔 금요일만 14:00-17:00로 적혀 있으나 오사카메트로 소개(2026년 4월)는 매일 11:00-22:00(L.O. 21:00) — 금요일엔 방문 전 확인",
+        "hours_note": "타베로그엔 금요일만 14:00-17:00로 적혀 있으나 오사카메트로 소개(2026년 4월)는 매일 11:00-22:00(L.O. 21:00) — 금요일엔 방문 전 확인 / 금요일 영업시간은 구글 지도 기준(2026-11-22)",
         "notice": null,
         "reservation": "불가",
         "booking_type": "현장방문",
@@ -40159,7 +40237,9 @@
           "thu": [
             "21:00"
           ],
-          "fri": null,
+          "fri": [
+            "21:00"
+          ],
           "sat": [
             "21:00"
           ],
@@ -40179,8 +40259,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001480/",
         "tabelog_score": 3.48,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 3.8,
+        "google_reviews": 783,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -40201,9 +40281,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5172058886481495177",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%BF%83%E6%96%8E%E6%A9%8B%20%E3%83%9F%E3%83%84%E3%83%A4%20%E5%BF%83%E6%96%8E%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B2-3-21",
+          "google_maps": "https://maps.google.com/?cid=5172058886481495177",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BF%83%E6%96%8E%E6%A9%8B%20%E3%83%9F%E3%83%84%E3%83%A4%20%E5%BF%83%E6%96%8E%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B2-3-21",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270202/27001480/",
           "tabelog_is_search": false,
@@ -40216,8 +40300,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.512772,
-          34.646053
+          135.511936,
+          34.645849
         ]
       },
       "properties": {
@@ -40257,7 +40341,7 @@
         "address_building": "ヴィアあべのウォーク 130",
         "station": "텐노지역 지하 직결 · 덴노지에키마에역 약 90m",
         "phone": "+81-6-6649-3566",
-        "geo": "gsi:大阪府大阪市阿倍野区阿倍野筋一丁目６番１号",
+        "geo": "google:グリル マルヨシ",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그) · 후기 집계 1,000~1,999엔 · 나폴리풍 스파게티 1,600엔",
         "hours": "11:00-15:00, 17:00-22:00 (토·일·공휴일 11:00-15:30, 16:30-22:00)",
@@ -40380,8 +40464,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27056274/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4,
+        "google_reviews": 633,
         "awards": [
           "타베로그 백명점 양식 2022"
         ],
@@ -40406,6 +40490,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3545541098389636740",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -40413,7 +40501,7 @@
               "url": "https://tabelog.com/kr/osaka/A2701/A270203/27056274/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B0%E3%83%AA%E3%83%AB%20%E3%83%9E%E3%83%AB%E3%83%A8%E3%82%B7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B1-6-1",
+          "google_maps": "https://maps.google.com/?cid=3545541098389636740",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B0%E3%83%AA%E3%83%AB%20%E3%83%9E%E3%83%AB%E3%83%A8%E3%82%B7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B1-6-1",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270203/27056274/",
           "tabelog_is_search": false,
@@ -40426,8 +40514,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.511826,
-          34.643017
+          135.511699,
+          34.642708
         ]
       },
       "properties": {
@@ -40462,7 +40550,7 @@
         "address_building": "あべのベルタ B2F",
         "station": "아베노역 7번 출구 직결 (약 70m)",
         "phone": "+81-6-6585-7687",
-        "geo": "gsi:大阪府大阪市阿倍野区阿倍野筋三丁目１０番１号",
+        "geo": "google:みかん",
         "price_level": 2,
         "price_note": "저녁 3,000~3,999엔 · 낮 ~999엔 (타베로그) · 나폴리탄 보통 800엔(2025년 기사 기준)",
         "hours": "월~금 10:00-23:00 / 토·공휴일 17:00-23:00",
@@ -40521,8 +40609,8 @@
         "smoking_note": "좌석은 금연, 가게 안에 흡연 공간 있음(타베로그 표기)",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270203/27133984/",
         "tabelog_score": 3.4,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 44,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -40542,9 +40630,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=6318119466622749534",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%E3%81%BF%E3%81%8B%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B3-10-1",
+          "google_maps": "https://maps.google.com/?cid=6318119466622749534",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E3%81%BF%E3%81%8B%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B3-10-1",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270203/27133984/",
           "tabelog_is_search": false,
@@ -40557,8 +40649,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.525726,
-          34.676514
+          135.525758,
+          34.676547
         ]
       },
       "properties": {
@@ -40588,7 +40680,7 @@
         "address_building": null,
         "station": "다마쓰쿠리역(지하철)에서 약 470m, JR 다마쓰쿠리역 도보 10분",
         "phone": "+81-6-6768-0515",
-        "geo": "gsi:大阪府大阪市中央区上町一丁目３番９号",
+        "geo": "google:居酒屋 ながほり",
         "price_level": 4,
         "price_note": "저녁 10,000~14,999엔 (타베로그)",
         "hours": "월·화·목·금 17:00-22:00, 토 13:00-22:00",
@@ -40650,8 +40742,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270204/27000581/",
         "tabelog_score": 3.76,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 245,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -40676,6 +40768,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3219181343543481327",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -40683,7 +40779,7 @@
               "url": "https://tabelog.com/kr/osaka/A2701/A270204/27000581/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8C%E3%81%BB%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8A%E7%94%BA1-3-9",
+          "google_maps": "https://maps.google.com/?cid=3219181343543481327",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%8C%E3%81%BB%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8A%E7%94%BA1-3-9",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270204/27000581/",
           "tabelog_is_search": false,
@@ -40696,8 +40792,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.515701,
-          34.682671
+          135.515735,
+          34.682665
         ]
       },
       "properties": {
@@ -40732,7 +40828,7 @@
         "address_building": "ビルディングセキ 1F",
         "station": "다니마치욘초메역 3번 출구 도보 3분",
         "phone": null,
-        "geo": "gsi:大阪府大阪市中央区鎗屋町一丁目２番２号",
+        "geo": "google:鎗屋町喫茶室 街の灯り",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 나폴리탄 커피·홍차 세트 1,500엔(2026년 4월 소개 기준)",
         "hours": "월~목 08:00-20:00, 금 09:30-21:30, 토·일 11:00-18:00",
@@ -40802,8 +40898,8 @@
         "smoking_note": "좌석 흡연 가능(타베로그 표기). 후기에도 '실내 흡연이 가능한 가게'라는 언급이 있음",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27104330/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 3.8,
+        "google_reviews": 242,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -40825,9 +40921,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=16039276115208780219",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%8E%97%E5%B1%8B%E7%94%BA%20%E5%96%AB%E8%8C%B6%E5%AE%A4%20%E8%A1%97%E3%81%AE%E7%81%AF%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8E%97%E5%B1%8B%E7%94%BA1-2-2",
+          "google_maps": "https://maps.google.com/?cid=16039276115208780219",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8E%97%E5%B1%8B%E7%94%BA%20%E5%96%AB%E8%8C%B6%E5%AE%A4%20%E8%A1%97%E3%81%AE%E7%81%AF%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8E%97%E5%B1%8B%E7%94%BA1-2-2",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270104/27104330/",
           "tabelog_is_search": false,
@@ -40998,8 +41098,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.499634,
-          34.71225
+          135.499885,
+          34.711943
         ]
       },
       "properties": {
@@ -41024,7 +41124,7 @@
         "address_building": "藤井ビル 1F",
         "station": "나카쓰역(미도스지선) 2번 출구 도보 5분",
         "phone": "+81-90-8122-8378",
-        "geo": "gsi:大阪府大阪市北区豊崎五丁目２番",
+        "geo": "google:炭達磨",
         "price_level": 3,
         "price_note": "저녁 8,000~9,999엔 (타베로그)",
         "hours": "18:00-23:00 (요리 L.O. 21:30, 음료 L.O. 22:00)",
@@ -41112,8 +41212,8 @@
         "smoking_note": "좌석 흡연 가능 가게(미성년자 동반·어린이 입장 불가)",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27090826/",
         "tabelog_score": 3.64,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.1,
+        "google_reviews": 116,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -41135,6 +41235,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=341623959691692532",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -41142,7 +41246,7 @@
               "url": "https://tabelog.com/kr/osaka/A2701/A270101/27090826/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%82%AD%E9%81%94%E7%A3%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E5-2-26",
+          "google_maps": "https://maps.google.com/?cid=341623959691692532",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E9%81%94%E7%A3%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E5-2-26",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27090826/",
           "tabelog_is_search": false,
@@ -41155,8 +41259,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.500504,
-          34.700764
+          135.500576,
+          34.700761
         ]
       },
       "properties": {
@@ -41191,7 +41295,7 @@
         "address_building": "曾根崎センタービル B1F",
         "station": "히가시우메다역 도보 약 2분 · JR 오사카역 도보 7분",
         "phone": "+81-6-6315-6570",
-        "geo": "gsi:大阪府大阪市北区曾根崎二丁目１０番１５号",
+        "geo": "google:スタンド タイガーリリー",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그)",
         "hours": "15:00-23:00 (L.O. 요리 22:15·음료 22:30)",
@@ -41284,8 +41388,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27107119/",
         "tabelog_score": 3.58,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 227,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -41309,9 +41413,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=9614155292228035165",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%AA%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E2-10-15",
+          "google_maps": "https://maps.google.com/?cid=9614155292228035165",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E3%82%BF%E3%82%A4%E3%82%AC%E3%83%BC%E3%83%AA%E3%83%AA%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E2-10-15",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27107119/",
           "tabelog_is_search": false,
@@ -41324,8 +41432,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.49704,
-          34.698494
+          135.49664,
+          34.698661
         ]
       },
       "properties": {
@@ -41360,7 +41468,7 @@
         "address_building": "大阪駅前第一ビル B2F",
         "station": "기타신치역 도보 1분(34m)",
         "phone": null,
-        "geo": "gsi:大阪府大阪市北区梅田一丁目３番１号",
+        "geo": "google:幸せ立ち呑み 夢ごりら",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 후기 기준 2,000~4,999엔",
         "hours": "월·수·금 14:00-23:00 / 화·목 16:00-23:00 / 토·공휴일 14:00-21:00",
@@ -41426,8 +41534,8 @@
         "smoking_note": "타베로그 표기 '분리 흡연 구역'. 2026-10 후기에 '흡연 가능'이라는 언급이 있어 연기에 노출될 수 있다",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27123985/",
         "tabelog_score": 3.61,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 236,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -41454,9 +41562,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=1311654871573112263",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%B9%B8%E3%81%9B%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%20%E5%A4%A2%E3%81%94%E3%82%8A%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B01-3-1",
+          "google_maps": "https://maps.google.com/?cid=1311654871573112263",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B9%B8%E3%81%9B%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%20%E5%A4%A2%E3%81%94%E3%82%8A%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B01-3-1",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27123985/",
           "tabelog_is_search": false,
@@ -41605,8 +41717,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.522003,
-          34.664398
+          135.522017,
+          34.664443
         ]
       },
       "properties": {
@@ -41641,7 +41753,7 @@
         "address_building": "銭屋本舗本館 1F",
         "station": "긴테쓰 오사카우에혼마치역 도보 5분 · 다니마치큐초메역 8번 출구 도보 8~10분",
         "phone": "+81-6-6770-5770",
-        "geo": "gsi:大阪府大阪市天王寺区石ケ辻町１４番６号",
+        "geo": "google:錢屋カフヱー",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그) · 후기 집계 1,000~1,999엔 · 나폴리탄 1,200엔(2026년 4월 소개 기준)",
         "hours": "11:30-20:30 (L.O. 20:00), 월요일 휴무",
@@ -41725,8 +41837,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27088921/",
         "tabelog_score": 3.48,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.1,
+        "google_reviews": 199,
         "awards": [],
         "youtube": [],
         "tags": [],
@@ -41744,9 +41856,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=2785640709229177818",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%8C%A2%E5%B1%8B%E3%82%AB%E3%83%95%E3%83%B1%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E7%9F%B3%E3%83%B6%E8%BE%BB%E7%94%BA14-6",
+          "google_maps": "https://maps.google.com/?cid=2785640709229177818",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8C%A2%E5%B1%8B%E3%82%AB%E3%83%95%E3%83%B1%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E7%9F%B3%E3%83%B6%E8%BE%BB%E7%94%BA14-6",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270205/27088921/",
           "tabelog_is_search": false,
@@ -41759,8 +41875,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.482483,
-          34.682186
+          135.48254,
+          34.682199
         ]
       },
       "properties": {
@@ -41783,6 +41899,11 @@
             "type": "언론·가이드",
             "detail": "오사카메트로 '오사카마니아' 나폴리탄 마니아 스폿(2026년 4월 기준 정보): 굵은 2.1mm 면, 케첩 산미에 우스터소스·버터의 풍미, 양파·피망이 살아 있는 정통 나폴리탄. 샐러드·수프 포함 1,150엔",
             "url": "https://osakamania.jp/shop/napolitan_05/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.7 / 리뷰 312개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=17677705500315608450"
           }
         ],
         "tips": "16석뿐인 작은 가게라 주말엔 가게 앞에 줄이 선다. 카드·전자화폐·QR 결제 가능. 영어 메뉴판이 있다.",
@@ -41790,7 +41911,7 @@
         "address_building": null,
         "station": "아와자역 10번 출구 도보 6분",
         "phone": "+81-6-6556-6226",
-        "geo": "gsi:大阪府大阪市西区川口一丁目４番１９号",
+        "geo": "google:喫茶 水鯨",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 나폴리탄 1,150엔(샐러드·수프 포함, 2026년 4월 소개 기준)",
         "hours": "09:00-17:00 (L.O. 16:00), 월·화 휴무",
@@ -41869,8 +41990,8 @@
         "smoking_note": "흡연은 가게 안쪽 우드 데크에서만",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270105/27125197/",
         "tabelog_score": 3.56,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.7,
+        "google_reviews": 312,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -41881,6 +42002,7 @@
         "editor_level": 1,
         "icon": false,
         "evidence": [
+          "구글 4.7",
           "언론·가이드"
         ],
         "sources": [
@@ -41890,9 +42012,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=17677705500315608450",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%20%E6%B0%B4%E9%AF%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%B7%9D%E5%8F%A31-4-19",
+          "google_maps": "https://maps.google.com/?cid=17677705500315608450",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%20%E6%B0%B4%E9%AF%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E5%B7%9D%E5%8F%A31-4-19",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270105/27125197/",
           "tabelog_is_search": false,
@@ -41905,8 +42031,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.511795,
-          34.694592
+          135.511799,
+          34.694608
         ]
       },
       "properties": {
@@ -41939,6 +42065,11 @@
             "type": "언론·가이드",
             "detail": "넷토라보 리서치 '오사카부 인기 나폴리탄 랭킹'(2023년 6월, 구글 리뷰 기준) 2위 — '쫄깃한 굵은 면', 미니 나폴리탄 세트도 있다고 소개",
             "url": "https://nlab.itmedia.co.jp/research/articles/1607775/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 765개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=1086229928787486003"
           }
         ],
         "tips": "모닝 7:00~11:30, 런치 11:30~15:00, 카페 타임 14:30~18:00로 시간대가 나뉜다(식사 L.O. 17:00). 주말은 아침 8시 이후부터 줄이 생기고, 클래식 푸딩은 일찍 품절되는 일이 잦다.",
@@ -41946,7 +42077,7 @@
         "address_building": null,
         "station": "오사카텐만구역 약 320m · 미나미모리마치역 4번 출구 도보 5분",
         "phone": "+81-6-6355-1117",
-        "geo": "gsi:大阪府大阪市北区天神橋一丁目１２番１９号",
+        "geo": "google:CAFÉ TOKIONA",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그 후기 집계)",
         "hours": "07:00-18:00 (수요일 휴무)",
@@ -42033,8 +42164,8 @@
         "smoking_note": "타베로그에 금연·흡연 정보가 없음",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27065349/",
         "tabelog_score": 3.62,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 765,
         "awards": [
           "타베로그 백명점 카페 WEST 2025"
         ],
@@ -42049,6 +42180,7 @@
         "evidence": [
           "타베로그 3.62",
           "백명점",
+          "구글 4.2",
           "언론·가이드"
         ],
         "sources": [
@@ -42059,9 +42191,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=1086229928787486003",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%88%E3%82%AD%E3%82%AA%E3%83%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B1-12-19",
+          "google_maps": "https://maps.google.com/?cid=1086229928787486003",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%95%E3%82%A7%E3%83%88%E3%82%AD%E3%82%AA%E3%83%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B1-12-19",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270103/27065349/",
           "tabelog_is_search": false,
@@ -42074,8 +42210,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.511368,
-          34.706436
+          135.511403,
+          34.706417
         ]
       },
       "properties": {
@@ -42115,7 +42251,7 @@
         "address_building": null,
         "station": "JR 덴마역 도보 2분 (약 140m)",
         "phone": "+81-6-6351-2436",
-        "geo": "gsi:大阪府大阪市北区天神橋四丁目１１番１３号",
+        "geo": "google:モーデン",
         "price_level": 1,
         "price_note": "~999엔 · 1,000~1,999엔 (타베로그 후기 집계)",
         "hours": "08:00-16:00 (화요일 휴무)",
@@ -42180,8 +42316,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27029446/",
         "tabelog_score": 3.4,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 3.9,
+        "google_reviews": 164,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -42201,9 +42337,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=12243001173305405869",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%A2%E3%83%BC%E3%83%87%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-11-13",
+          "google_maps": "https://maps.google.com/?cid=12243001173305405869",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A2%E3%83%BC%E3%83%87%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-11-13",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270103/27029446/",
           "tabelog_is_search": false,
@@ -42216,8 +42356,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.512024,
-          34.705944
+          135.511814,
+          34.705907
         ]
       },
       "properties": {
@@ -42245,6 +42385,11 @@
             "type": "현지평판",
             "detail": "타베로그 정리글 '大阪ディープゾーン、呑兵衛御用達の下町の店'에서 '첫 집으로 딱 맞는 명점(初手にふさわしい名店)'으로 소개, 2026-09 후기 '안주 60엔부터의 압도적인 가성비, 아침 술에도 최적'",
             "url": "https://tabelog.com/matome/29009/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 876개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=11517419779007139927"
           }
         ],
         "tips": "카드는 안 되지만 교통계 전자화폐와 PayPay는 된다. 13~15시엔 쉬고 일요일·공휴일은 휴무. 넓은 ㄷ자 카운터에 서서 마시는 곳으로, 가게 안 휴대전화 통화는 금지다. 토요일엔 10시 오픈 직후 금세 거의 만석이 된다.",
@@ -42252,7 +42397,7 @@
         "address_building": null,
         "station": "JR 텐마역 도보 1분",
         "phone": "+81-6-6351-9514",
-        "geo": "gsi:大阪府大阪市北区天神橋四丁目１２番２２号",
+        "geo": "google:酒の奥田",
         "price_level": 1,
         "price_note": "1,000~1,999엔 (타베로그) · 생맥주 380엔, 안주 60엔~",
         "hours": "10:00-13:00, 15:00-21:00",
@@ -42338,8 +42483,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27004204/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 876,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -42352,6 +42497,7 @@
         "editor_level": 1,
         "icon": false,
         "evidence": [
+          "구글 4.2",
           "노포·원조"
         ],
         "sources": [
@@ -42360,9 +42506,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=11517419779007139927",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%85%92%E3%81%AE%E5%A5%A5%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-12-22",
+          "google_maps": "https://maps.google.com/?cid=11517419779007139927",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E3%81%AE%E5%A5%A5%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-12-22",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270103/27004204/",
           "tabelog_is_search": false,
@@ -42375,8 +42525,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.510986,
-          34.707962
+          135.511042,
+          34.707966
         ]
       },
       "properties": {
@@ -42401,7 +42551,7 @@
         "address_building": null,
         "station": "JR 텐마역 도보 3분 / 덴진바시스지로쿠초메역에서 약 200m",
         "phone": "+81-6-4400-5696",
-        "geo": "gsi:大阪府大阪市北区天神橋五丁目８番６号",
+        "geo": "google:食堂黒うさぎ",
         "price_level": 3,
         "price_note": "4,000~4,999엔 (타베로그, 후기 집계 3,000~3,999엔)",
         "hours": "15:00-24:00",
@@ -42498,8 +42648,8 @@
         "smoking_note": "흡연은 가게 밖에서",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27136227/",
         "tabelog_score": 3.68,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 167,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -42521,6 +42671,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=4384210846868647214",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -42532,7 +42686,7 @@
               "url": "https://yoyaku-kurousagi.com/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%A0%82%20%E9%BB%92%E3%81%86%E3%81%95%E3%81%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-8-6",
+          "google_maps": "https://maps.google.com/?cid=4384210846868647214",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A3%9F%E5%A0%82%20%E9%BB%92%E3%81%86%E3%81%95%E3%81%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-8-6",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270103/27136227/",
           "tabelog_is_search": false,
@@ -42708,8 +42862,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.511002,
-          34.707253
+          135.511048,
+          34.707234
         ]
       },
       "properties": {
@@ -42739,7 +42893,7 @@
         "address_building": "天五共栄ビル 1F",
         "station": "덴마역 도보 약 3분(238m)",
         "phone": "+81-90-8531-8933",
-        "geo": "gsi:大阪府大阪市北区天神橋五丁目７番１２号",
+        "geo": "google:立ち呑み処 魚しょう 天満店",
         "price_level": 2,
         "price_note": "2,000~2,999엔 (타베로그) · 후기 기준 3,000~3,999엔",
         "hours": "평일 17:00-24:00 / 토 16:00-24:00",
@@ -42801,8 +42955,8 @@
         "smoking_note": "타베로그 표기 '흡연 가능'(좌석 흡연 가능)",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27106713/",
         "tabelog_score": 3.57,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 208,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -42825,9 +42979,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5692788974190995942",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%E5%87%A6%20%E9%AD%9A%E3%81%97%E3%82%87%E3%81%86%20%E5%A4%A9%E6%BA%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-7-12",
+          "google_maps": "https://maps.google.com/?cid=5692788974190995942",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%E5%87%A6%20%E9%AD%9A%E3%81%97%E3%82%87%E3%81%86%20%E5%A4%A9%E6%BA%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-7-12",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270103/27106713/",
           "tabelog_is_search": false,
@@ -42840,8 +42998,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.487411,
-          34.696316
+          135.487401,
+          34.696337
         ]
       },
       "properties": {
@@ -42869,6 +43027,11 @@
             "type": "현지평판",
             "detail": "2026년 후기에서 '다치노미의 상식을 뒤엎는 요리와 술', 안주 4종 모둠 추천",
             "url": "https://tabelog.com/kr/osaka/A2701/A270108/27092474/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.3 / 리뷰 549개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=741836037109329817"
           }
         ],
         "tips": "카드·전자화폐·QR 결제가 모두 안 돼 현금만 받는다. 매일 15시에 열어 이른 저녁에 들르기 좋다. 실내는 완전 금연이고 흡연 공간은 바깥에 있다.",
@@ -42876,7 +43039,7 @@
         "address_building": null,
         "station": "한신 후쿠시마역 도보 1분 · JR 후쿠시마역 도보 2분",
         "phone": null,
-        "geo": "gsi:大阪府大阪市福島区福島五丁目６番８号",
+        "geo": "google:立ち呑み ジャックとマチルダ",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 후기 기준 1,000~3,999엔",
         "hours": "15:00-23:00 (L.O. 요리 22:00·음료 22:30)",
@@ -42966,8 +43129,8 @@
         "smoking_note": "실내 완전 금연, 야외에 간이 흡연 공간 있음",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270108/27092474/",
         "tabelog_score": 3.56,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 549,
         "awards": [
           "타베로그 다치노미 백명점 2025"
         ],
@@ -42983,7 +43146,8 @@
         "editor_level": 1,
         "icon": false,
         "evidence": [
-          "백명점"
+          "백명점",
+          "구글 4.3"
         ],
         "sources": [
           "https://tabelog.com/kr/osaka/A2701/A270108/27092474/",
@@ -42991,9 +43155,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=741836037109329817",
+        "google_reservable": false,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%20%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%81%A8%E3%83%9E%E3%83%81%E3%83%AB%E3%83%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-6-8",
+          "google_maps": "https://maps.google.com/?cid=741836037109329817",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AB%8B%E3%81%A1%E5%91%91%E3%81%BF%20%E3%82%B8%E3%83%A3%E3%83%83%E3%82%AF%E3%81%A8%E3%83%9E%E3%83%81%E3%83%AB%E3%83%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-6-8",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270108/27092474/",
           "tabelog_is_search": false,
@@ -65956,8 +66124,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.765549,
-          35.009357
+          135.765617,
+          35.009736
         ]
       },
       "properties": {
@@ -65982,7 +66150,7 @@
         "address_building": null,
         "station": "지하철 교토시야쿠쇼마에역 도보 약 5분",
         "phone": "+81-75-366-4882",
-        "geo": "gsi:京都府京都市中京区下白山町２９３番地",
+        "geo": "google:呑小路 やま岸",
         "price_level": 4,
         "price_note": "저녁 8,000~9,999엔(가게 기준) · 후기 집계 10,000~14,999엔, 코스 8,800엔 (타베로그)",
         "hours": "16:00-23:30",
@@ -66067,8 +66235,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26037932/",
         "tabelog_score": 3.73,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4,
+        "google_reviews": 123,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -66090,6 +66258,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=8707354722844618297",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -66097,7 +66269,7 @@
               "url": "https://tabelog.com/kr/kyoto/A2601/A260202/26037932/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%91%91%E5%B0%8F%E8%B7%AF%20%E3%82%84%E3%81%BE%E5%B2%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8B%E7%99%BD%E5%B1%B1%E7%94%BA293-3",
+          "google_maps": "https://maps.google.com/?cid=8707354722844618297",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%91%91%E5%B0%8F%E8%B7%AF%20%E3%82%84%E3%81%BE%E5%B2%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8B%E7%99%BD%E5%B1%B1%E7%94%BA293-3",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260202/26037932/",
           "tabelog_is_search": false,
@@ -66265,8 +66437,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.766129,
-          35.002373
+          135.766039,
+          35.002306
         ]
       },
       "properties": {
@@ -66291,7 +66463,7 @@
         "address_building": null,
         "station": "한큐 교토가와라마치역에서 약 280m",
         "phone": "+81-75-708-7237",
-        "geo": "gsi:京都府京都市下京区足袋屋町３１７番地",
+        "geo": "google:酒処 てらやま",
         "price_level": 4,
         "price_note": "6,000~7,999엔(가게 기준) · 후기 집계 10,000~14,999엔 (타베로그)",
         "hours": "13:00-21:00",
@@ -66345,8 +66517,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26032384/",
         "tabelog_score": 3.7,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.1,
+        "google_reviews": 245,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -66368,9 +66540,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=15081841896794390273",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%85%92%E5%87%A6%20%E3%81%A6%E3%82%89%E3%82%84%E3%81%BE%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%B6%BE%E5%B0%8F%E8%B7%AF%E9%80%9A%E8%B6%B3%E8%A2%8B%E5%B1%8B%E7%94%BA317-11",
+          "google_maps": "https://maps.google.com/?cid=15081841896794390273",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E5%87%A6%20%E3%81%A6%E3%82%89%E3%82%84%E3%81%BE%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%B6%BE%E5%B0%8F%E8%B7%AF%E9%80%9A%E8%B6%B3%E8%A2%8B%E5%B1%8B%E7%94%BA317-11",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26032384/",
           "tabelog_is_search": false,
@@ -66383,8 +66559,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.770081,
-          35.002541
+          135.770342,
+          35.00263
         ]
       },
       "properties": {
@@ -66409,7 +66585,7 @@
         "address_building": null,
         "station": "게이한 기온시조역에서 약 180m (한큐 교토가와라마치역 도보 5~7분)",
         "phone": null,
-        "geo": "gsi:京都府京都市下京区船頭町２３０番地",
+        "geo": "google:オテル・ドゥ・オガワ",
         "price_level": 4,
         "price_note": "저녁 10,000~14,999엔(가게 기준) · 후기 집계 8,000~9,999엔 (타베로그)",
         "hours": "14:00-22:00 (L.O. 21:00)",
@@ -66495,8 +66671,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26041273/",
         "tabelog_score": 3.76,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4,
+        "google_reviews": 76,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -66520,9 +66696,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=11566995803222078760",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%AA%E3%83%86%E3%83%AB%E3%83%89%E3%82%A5%E3%82%AA%E3%82%AC%E3%83%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%82%8B%E8%88%B9%E9%A0%AD%E7%94%BA230",
+          "google_maps": "https://maps.google.com/?cid=11566995803222078760",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%83%86%E3%83%AB%E3%83%89%E3%82%A5%E3%82%AA%E3%82%AC%E3%83%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%82%8B%E8%88%B9%E9%A0%AD%E7%94%BA230",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26041273/",
           "tabelog_is_search": false,
@@ -66673,8 +66853,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.773666,
-          35.013569
+          135.773554,
+          35.013546
         ]
       },
       "properties": {
@@ -66692,6 +66872,11 @@
             "type": "타베로그",
             "detail": "타베로그 3.58 (리뷰 236건), 이자카야 WEST 百名店 2026",
             "url": "https://tabelog.com/kyoto/A2601/A260202/26006085/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.4 / 리뷰 397개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=9781286712845891912"
           }
         ],
         "tips": "현금만 받는다. 이용 시간은 2시간제. 모둠 회는 예약할 때 미리 부탁해 두면 좋다.",
@@ -66699,7 +66884,7 @@
         "address_building": null,
         "station": "게이한 산조역에서 약 480m (게이한 진구마루타마치역 도보 약 10분)",
         "phone": "+81-75-752-1531",
-        "geo": "gsi:京都府京都市左京区難波町２１０番地",
+        "geo": "google:よこちょう",
         "price_level": 3,
         "price_note": "6,000~7,999엔 (가게 기준·후기 집계 동일, 타베로그)",
         "hours": "17:00-22:00",
@@ -66758,8 +66943,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26006085/",
         "tabelog_score": 3.58,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 397,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026"
         ],
@@ -66772,16 +66957,21 @@
         "editor_level": 1,
         "icon": false,
         "evidence": [
-          "백명점"
+          "백명점",
+          "구글 4.4"
         ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260202/26006085/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=9781286712845891912",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%82%88%E3%81%93%E3%81%A1%E3%82%87%E3%81%86%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%BA%8C%E6%9D%A1%E9%80%9A%E5%B7%9D%E7%AB%AF%E6%9D%B1%E5%85%A5%E3%83%AB%E9%9B%A3%E6%B3%A2%E7%94%BA210",
+          "google_maps": "https://maps.google.com/?cid=9781286712845891912",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%88%E3%81%93%E3%81%A1%E3%82%87%E3%81%86%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%BA%8C%E6%9D%A1%E9%80%9A%E5%B7%9D%E7%AB%AF%E6%9D%B1%E5%85%A5%E3%83%AB%E9%9B%A3%E6%B3%A2%E7%94%BA210",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260202/26006085/",
           "tabelog_is_search": false,
@@ -66954,8 +67144,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.771454,
-          34.986176
+          135.771535,
+          34.986357
         ]
       },
       "properties": {
@@ -66973,6 +67163,11 @@
             "type": "타베로그",
             "detail": "타베로그 3.67 (리뷰 604건), 오코노미야키 百名店 2025 (2018~2025 6회 선정)",
             "url": "https://tabelog.com/kyoto/A2601/A260304/26001618/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.3 / 리뷰 733개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=17313994089237639032"
           }
         ],
         "tips": "현금만 받는다. 소스가 두 종류라 취향대로 고를 수 있고, 오뎅·사케·소주도 있어 가볍게 한잔하기 좋다.",
@@ -66980,7 +67175,7 @@
         "address_building": null,
         "station": "게이한 시치조역 도보 약 7분 (JR 교토역 도보 약 15분)",
         "phone": "+81-75-551-2026",
-        "geo": "gsi:京都府京都市東山区上池田町５４６番地",
+        "geo": "google:お好み焼き吉野",
         "price_level": 2,
         "price_note": "1,000~1,999엔(가게 기준) · 후기 집계 3,000~3,999엔 / 1,000~1,999엔 (타베로그)",
         "hours": "11:00-21:00 (L.O. 20:30)",
@@ -67046,8 +67241,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260304/26001618/",
         "tabelog_score": 3.67,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 733,
         "awards": [
           "타베로그 백명점 오코노미야키 2025 (2018~2025 6회 선정)"
         ],
@@ -67062,16 +67257,21 @@
         "icon": false,
         "evidence": [
           "타베로그 3.67",
-          "백명점"
+          "백명점",
+          "구글 4.3"
         ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260304/26001618/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=17313994089237639032",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E5%90%89%E9%87%8E%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E3%82%8A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E4%B8%8A%E6%B1%A0%E7%94%B0%E7%94%BA546",
+          "google_maps": "https://maps.google.com/?cid=17313994089237639032",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E5%90%89%E9%87%8E%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E3%82%8A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E4%B8%8A%E6%B1%A0%E7%94%B0%E7%94%BA546",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260304/26001618/",
           "tabelog_is_search": false,
@@ -67084,8 +67284,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.772919,
-          35.004131
+          135.773006,
+          35.004145
         ]
       },
       "properties": {
@@ -67110,7 +67310,7 @@
         "address_building": "1F",
         "station": "게이한 기온시조역 도보 약 2분 (약 120m)",
         "phone": "+81-75-533-7665",
-        "geo": "gsi:京都府京都市東山区廿一軒町２３２番地",
+        "geo": "google:祇園 ろはん",
         "price_level": 4,
         "price_note": "10,000~14,999엔 (가게 기준·후기 집계 동일, 타베로그)",
         "hours": "17:00-22:30",
@@ -67169,8 +67369,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26021262/",
         "tabelog_score": 3.76,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 191,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -67193,9 +67393,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=8014132849273907560",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%A5%87%E5%9C%92%E3%82%8D%E3%81%AF%E3%82%93%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%BB%BF%E4%B8%80%E8%BB%92%E7%94%BA232",
+          "google_maps": "https://maps.google.com/?cid=8014132849273907560",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%87%E5%9C%92%E3%82%8D%E3%81%AF%E3%82%93%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%BB%BF%E4%B8%80%E8%BB%92%E7%94%BA232",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260301/26021262/",
           "tabelog_is_search": false,
@@ -67370,8 +67574,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.770996,
-          34.995956
+          135.771103,
+          34.995717
         ]
       },
       "properties": {
@@ -67396,7 +67600,7 @@
         "address_building": null,
         "station": "게이한 기요미즈고조역 도보 약 4분",
         "phone": "+81-90-6734-8956",
-        "geo": "gsi:京都府京都市東山区音羽町３２５番地",
+        "geo": "google:沐 moku",
         "price_level": 4,
         "price_note": "저녁 8,000~9,999엔(가게 기준) · 후기 집계 10,000~14,999엔 (타베로그)",
         "hours": "15:00-22:00 (L.O. 21:30)",
@@ -67483,8 +67687,8 @@
         "smoking_note": "가게 밖 흡연 공간 있음",
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26040523/",
         "tabelog_score": 3.67,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.6,
+        "google_reviews": 56,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026"
         ],
@@ -67505,9 +67709,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5293254881038964258",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E6%B2%90%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E9%9F%B3%E7%BE%BD%E7%94%BA325",
+          "google_maps": "https://maps.google.com/?cid=5293254881038964258",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B2%90%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E9%9F%B3%E7%BE%BD%E7%94%BA325",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26040523/",
           "tabelog_is_search": false,
@@ -67520,8 +67728,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.771667,
-          34.995926
+          135.771812,
+          34.995979
         ]
       },
       "properties": {
@@ -67546,7 +67754,7 @@
         "address_building": null,
         "station": "게이한 기요미즈고조역 도보 약 6분",
         "phone": "+81-75-531-1664",
-        "geo": "gsi:京都府京都市東山区山崎町３７６番地",
+        "geo": "google:櫻バー",
         "price_level": 2,
         "price_note": "후기 집계 3,000~3,999엔 (타베로그)",
         "hours": "16:00-22:00",
@@ -67605,8 +67813,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26006086/",
         "tabelog_score": 3.63,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.6,
+        "google_reviews": 286,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026"
         ],
@@ -67628,9 +67836,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3698873354631278180",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E6%AB%BB%E3%83%90%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E4%BA%94%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%B1%B1%E5%B4%8E%E7%94%BA376",
+          "google_maps": "https://maps.google.com/?cid=3698873354631278180",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%AB%BB%E3%83%90%E3%83%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E4%BA%94%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%B1%B1%E5%B4%8E%E7%94%BA376",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26006086/",
           "tabelog_is_search": false,
@@ -67643,8 +67855,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.776398,
-          34.997093
+          135.777931,
+          35.006646
         ]
       },
       "properties": {
@@ -67669,7 +67881,7 @@
         "address_building": null,
         "station": "지하철 히가시야마역에서 약 340m",
         "phone": "+81-75-748-1739",
-        "geo": "gsi:京都府京都市東山区",
+        "geo": "google:ひいらぎ亭",
         "price_level": 3,
         "price_note": "저녁 8,000~9,999엔 (가게 기준·후기 집계 동일), 오토시 1,000엔 별도 (타베로그)",
         "hours": "17:30-23:00 (L.O. 22:00)",
@@ -67754,8 +67966,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26031016/",
         "tabelog_score": 3.68,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 129,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -67778,9 +67990,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=11790201431363454259",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%B2%E3%81%84%E3%82%89%E3%81%8E%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%9F%A5%E6%81%A9%E9%99%A2%E5%89%8D%E7%9F%B3%E6%A9%8B%E7%94%BA306-6",
+          "google_maps": "https://maps.google.com/?cid=11790201431363454259",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B2%E3%81%84%E3%82%89%E3%81%8E%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%9F%A5%E6%81%A9%E9%99%A2%E5%89%8D%E7%9F%B3%E6%A9%8B%E7%94%BA306-6",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26031016/",
           "tabelog_is_search": false,
@@ -67793,8 +68009,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.748077,
-          35.020199
+          135.748128,
+          35.020078
         ]
       },
       "properties": {
@@ -67812,6 +68028,11 @@
             "type": "타베로그",
             "detail": "타베로그 3.76 (리뷰 527건), 돈카츠 百名店 2026 (2022·2024 포함 3회 선정)",
             "url": "https://tabelog.com/kyoto/A2601/A260203/26030601/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.3 / 리뷰 513개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=5614739330656938348"
           }
         ],
         "tips": "12석뿐이라 예약하고 가는 편이 안전하다. 카드와 PayPay 결제 가능. 직접 만든 돈카츠 소스와 무즙 폰즈로 맛을 바꿔 가며 먹어 보자.",
@@ -67819,7 +68040,7 @@
         "address_building": "1F",
         "station": "지하철 니조조마에역에서 약 920m (지하철·JR 니조역 도보 약 20분)",
         "phone": "+81-75-802-1313",
-        "geo": "gsi:京都府京都市上京区浮田町６００番地",
+        "geo": "google:空蝉亭",
         "price_level": 3,
         "price_note": "점심·저녁 3,000~3,999엔(가게 기준) · 후기 집계 5,000~5,999엔 / 6,000~7,999엔 (타베로그)",
         "hours": "11:30-15:00, 17:00-20:00 (토·일 저녁은 21:00까지)",
@@ -67941,8 +68162,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26030601/",
         "tabelog_score": 3.76,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 513,
         "awards": [
           "타베로그 백명점 돈카츠 2026",
           "타베로그 백명점 돈카츠 2024",
@@ -67957,16 +68178,21 @@
         "icon": false,
         "evidence": [
           "타베로그 3.76",
-          "백명점"
+          "백명점",
+          "구글 4.3"
         ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260203/26030601/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5614739330656938348",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E7%A9%BA%E8%9D%89%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%8B%E7%AB%8B%E5%A3%B2%E9%80%9A%E5%A4%A7%E5%AE%AE%E8%A5%BF%E5%85%A5%E6%B5%AE%E7%94%B0%E7%94%BA600",
+          "google_maps": "https://maps.google.com/?cid=5614739330656938348",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%E8%9D%89%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E4%B8%8B%E7%AB%8B%E5%A3%B2%E9%80%9A%E5%A4%A7%E5%AE%AE%E8%A5%BF%E5%85%A5%E6%B5%AE%E7%94%B0%E7%94%BA600",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260203/26030601/",
           "tabelog_is_search": false,
@@ -67979,8 +68205,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.736099,
-          34.994846
+          135.736094,
+          34.994633
         ]
       },
       "properties": {
@@ -68005,7 +68231,7 @@
         "address_building": null,
         "station": "JR 단바구치역 도보 약 10분 (고조 니시오지 교차로에서 도보 약 5분)",
         "phone": "+81-75-312-3181",
-        "geo": "gsi:京都府京都市下京区西七条赤社町３２番地",
+        "geo": "google:なか栄",
         "price_level": 2,
         "price_note": "4,000~4,999엔(가게 기준) · 후기 집계 저녁 3,000~3,999엔, 점심 ~999엔 (타베로그)",
         "hours": "11:30-14:00, 18:00-23:00",
@@ -68118,8 +68344,8 @@
         "smoking_note": "타베로그 표기 '흡연 가능'(시간대 구분 표시 없음). 법 개정 이후 바뀌었을 수 있으니 방문 전 확인 권장",
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26010910/",
         "tabelog_score": 3.45,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 49,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -68141,9 +68367,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=8204346492541130960",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%81%AA%E3%81%8B%E6%A0%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%B8%83%E6%9D%A1%E8%B5%A4%E7%A4%BE%E7%94%BA32",
+          "google_maps": "https://maps.google.com/?cid=8204346492541130960",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%8B%E6%A0%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%B8%83%E6%9D%A1%E8%B5%A4%E7%A4%BE%E7%94%BA32",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260203/26010910/",
           "tabelog_is_search": false,
@@ -68156,8 +68386,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.761749,
-          35.00275
+          135.761852,
+          35.002584
         ]
       },
       "properties": {
@@ -68182,7 +68412,7 @@
         "address_building": null,
         "station": "한큐 가라스마역·지하철 시조역에서 약 190m",
         "phone": "+81-75-352-5252",
-        "geo": "gsi:京都府京都市下京区神明町２４１番地",
+        "geo": "google:楽庵",
         "price_level": 4,
         "price_note": "후기 집계 10,000~14,999엔 (타베로그)",
         "hours": "17:30-22:00 (L.O. 21:30)",
@@ -68265,8 +68495,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26000829/",
         "tabelog_score": 3.67,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.6,
+        "google_reviews": 83,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2024",
@@ -68288,9 +68518,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=11420048742519586874",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E6%A5%BD%E5%BA%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA241-1",
+          "google_maps": "https://maps.google.com/?cid=11420048742519586874",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A5%BD%E5%BA%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA241-1",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260301/26000829/",
           "tabelog_is_search": false,
@@ -68468,8 +68702,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.746414,
-          35.005909
+          135.746351,
+          35.005906
         ]
       },
       "properties": {
@@ -68494,7 +68728,7 @@
         "address_building": "2F",
         "station": "시조오미야역에서 약 340m",
         "phone": "+81-75-432-7384",
-        "geo": "gsi:京都府京都市中京区壬生坊城町４７番地",
+        "geo": "google:ニエフ",
         "price_level": 3,
         "price_note": "저녁 4,000~4,999엔(가게 기준) · 후기 집계 5,000~5,999엔 (타베로그)",
         "hours": "17:00-23:00",
@@ -68548,8 +68782,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260203/26040022/",
         "tabelog_score": 3.59,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 56,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026"
         ],
@@ -68568,9 +68802,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3499207347594609255",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%83%8B%E3%82%A8%E3%83%95%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E5%9D%8A%E5%9F%8E%E7%94%BA47",
+          "google_maps": "https://maps.google.com/?cid=3499207347594609255",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%83%8B%E3%82%A8%E3%83%95%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E5%9D%8A%E5%9F%8E%E7%94%BA47",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260203/26040022/",
           "tabelog_is_search": false,
@@ -68583,8 +68821,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.76416,
-          35.000626
+          135.76407,
+          35.000182
         ]
       },
       "properties": {
@@ -68602,6 +68840,11 @@
             "type": "타베로그",
             "detail": "타베로그 3.69 (리뷰 411건), 이자카야 WEST 百名店 2025·2026",
             "url": "https://tabelog.com/kyoto/A2601/A260201/26036774/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.4 / 리뷰 308개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=6695976775612441781"
           }
         ],
         "tips": "원드링크제라 음료를 시키지 않으면 자릿세 500엔이 붙는다. 카드(은련 포함)·PayPay 결제 가능.",
@@ -68609,7 +68852,7 @@
         "address_building": null,
         "station": "지하철 시조역 5번 출구 도보 약 6분 (한큐 교토가와라마치역 11번 출구 도보 10분)",
         "phone": "+81-75-344-8810",
-        "geo": "gsi:京都府京都市下京区万里小路町１８７番地",
+        "geo": "google:伖(かねぐら)",
         "price_level": 3,
         "price_note": "저녁 5,000~5,999엔 (가게 기준·후기 집계 동일), 음료 무제한 포함 코스 6,500·7,500엔 (타베로그)",
         "hours": "16:00-23:00",
@@ -68694,8 +68937,8 @@
         "smoking_note": "흡연은 가게 밖에서",
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260201/26036774/",
         "tabelog_score": 3.69,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.4,
+        "google_reviews": 308,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025"
@@ -68710,13 +68953,18 @@
         "icon": false,
         "evidence": [
           "타베로그 3.69",
-          "백명점"
+          "백명점",
+          "구글 4.4"
         ],
         "sources": [
           "https://tabelog.com/kr/kyoto/A2601/A260201/26036774/"
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=6695976775612441781",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -68724,7 +68972,7 @@
               "url": "https://tabelog.com/kr/kyoto/A2601/A260201/26036774/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=KANEGURA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9F%B3%E9%A6%AC%E5%A0%B4%E9%80%9A%E4%BB%8F%E5%85%89%E5%AF%BA%E4%B8%8B%E3%83%AB%E4%B8%87%E9%87%8C%E5%B0%8F%E8%B7%AF%E7%94%BA187",
+          "google_maps": "https://maps.google.com/?cid=6695976775612441781",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=KANEGURA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9F%B3%E9%A6%AC%E5%A0%B4%E9%80%9A%E4%BB%8F%E5%85%89%E5%AF%BA%E4%B8%8B%E3%83%AB%E4%B8%87%E9%87%8C%E5%B0%8F%E8%B7%AF%E7%94%BA187",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260201/26036774/",
           "tabelog_is_search": false,
@@ -75831,6 +76079,8 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_reservable": null,
+        "google_status": null,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=160485502234496222",
@@ -78567,8 +78817,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.190308,
-          34.692112
+          135.190323,
+          34.692083
         ]
       },
       "properties": {
@@ -78593,7 +78843,7 @@
         "address_building": "TSK三宮ビル 4F",
         "station": "고베산노미야역에서 약 260m (산노미야역 도보 7~8분)",
         "phone": "+81-78-333-7751",
-        "geo": "gsi:兵庫県神戸市中央区北長狭通二丁目４番７号",
+        "geo": "google:播州地酒ひの",
         "price_level": 3,
         "price_note": "저녁 6,000~7,999엔 (타베로그)",
         "hours": "18:00-22:00",
@@ -78660,8 +78910,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28023316/",
         "tabelog_score": 3.64,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.5,
+        "google_reviews": 124,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -78684,6 +78934,10 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=9710507024913821301",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -78691,7 +78945,7 @@
               "url": "https://tabelog.com/kr/hyogo/A2801/A280101/28023316/"
             }
           ],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E6%92%AD%E5%B7%9E%E5%9C%B0%E9%85%92%20%E3%81%B2%E3%81%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A2-4-7",
+          "google_maps": "https://maps.google.com/?cid=9710507024913821301",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%92%AD%E5%B7%9E%E5%9C%B0%E9%85%92%20%E3%81%B2%E3%81%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A2-4-7",
           "tabelog": "https://tabelog.com/kr/hyogo/A2801/A280101/28023316/",
           "tabelog_is_search": false,
@@ -78704,8 +78958,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.307175,
-          34.729458
+          135.307251,
+          34.729417
         ]
       },
       "properties": {
@@ -78730,7 +78984,7 @@
         "address_building": "ベルアミー芦屋 1F",
         "station": "아시야역에서 약 380m",
         "phone": "+81-80-1604-8597",
-        "geo": "gsi:兵庫県芦屋市茶屋之町１１番５号",
+        "geo": "google:きふね",
         "price_level": 3,
         "price_note": "저녁 6,000~7,999엔 (타베로그, 후기 집계 5,000~5,999엔)",
         "hours": "18:00-01:00",
@@ -78794,8 +79048,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/hyogo/A2803/A280302/28058371/",
         "tabelog_score": 3.7,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 64,
         "awards": [
           "타베로그 백명점 이자카야 WEST 2026",
           "타베로그 백명점 이자카야 WEST 2025",
@@ -78818,9 +79072,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3215606200232925754",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E9%A3%9F%E5%A0%82%20%E3%81%8D%E3%81%B5%E3%81%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E8%8C%B6%E5%B1%8B%E4%B9%8B%E7%94%BA11-5",
+          "google_maps": "https://maps.google.com/?cid=3215606200232925754",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A3%9F%E5%A0%82%20%E3%81%8D%E3%81%B5%E3%81%AD%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E8%8C%B6%E5%B1%8B%E4%B9%8B%E7%94%BA11-5",
           "tabelog": "https://tabelog.com/kr/hyogo/A2803/A280302/28058371/",
           "tabelog_is_search": false,
