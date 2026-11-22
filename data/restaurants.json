@@ -601,6 +601,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "smoking_note": "가게 밖 흡연 공간만 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27077650/",
@@ -720,6 +723,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27002139/",
     "tabelog_score": 3.66,
@@ -829,6 +835,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27016897/",
     "tabelog_score": 3.63,
@@ -1336,6 +1345,19 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed",
+      "nth": [
+        [
+          1,
+          "sat"
+        ],
+        [
+          3,
+          "sat"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "점심 피크(12시 반 전후)에 2~3명 대기, 10분 정도. 개점 무렵·13시 이후는 대기 없음",
@@ -1484,6 +1506,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 2,
       "estimate": "개점(11:30) 때부터 20~30명 줄. 점심 피크 30~45분, 옆 미술관 대형 전시 기간엔 1시간 가까이",
@@ -1607,6 +1632,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 3,
       "estimate": "12시 전후 점심 피크 1시간 안팎(90분 사례도), 개점 때 줄 약 50명(대부분 관광객). 14시 이후 5~20분",
@@ -1779,6 +1807,9 @@
       ],
       "sat": [],
       "sun": []
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27000015/",
@@ -2024,6 +2055,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 3,
       "estimate": "정리권 줄: 10:15 배부 때 7~13명. 10시 전후에 받으면 11시대 입장, 늦을수록 12~13시대 시간 지정(13:44 사례). 지정 시간에 돌아오면 5~10분 내 착석",
@@ -2871,6 +2905,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 3,
       "estimate": "14시 오픈 때 줄 40~50명. 한 사람 응대에 3~4분 걸려 개점 무렵 줄 서면 2시간 안팎, 토요일은 3시간. 오픈 1~2시간 전 도착해도 체류 2~3시간",
@@ -3485,6 +3522,14 @@
         "20:45"
       ]
     },
+    "closed_rule": {
+      "nth": [
+        [
+          4,
+          "tue"
+        ]
+      ]
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001289/",
     "tabelog_score": 3.58,
@@ -4041,6 +4086,10 @@
         "21:30"
       ]
     },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "smoking": "금연",
     "smoking_note": "2025.4.1부터 전석 금연(건물 내 금연)",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001305/",
@@ -4209,7 +4258,7 @@
     "region": "osaka",
     "area": "도톤보리·난바",
     "category": "카페·킷사텐",
-    "signature": "핫케이크, 커피(쇼와 레트로 인테리어)",
+    "signature": "핫케이크, 나폴리탄(ナポリタン), 커피(쇼와 레트로 인테리어)",
     "why": "도톤보리 한복판에서 쇼와 시대 분위기를 그대로 간직한 순킷사. 타베로그 3.64(리뷰 1,900건), 킷사텐 백명점 2021·2022·2026 선정.",
     "reasons": [
       {
@@ -4667,7 +4716,7 @@
     "lat": 34.668541,
     "lng": 135.500647,
     "geo": "google:はり重 道頓堀本店",
-    "price_level": 3,
+    "price_level": 4,
     "price_note": "점심 6,000~8,000엔 / 저녁 10,000~15,000엔",
     "hours": "11:30-15:30 (LO 14:30), 17:00-21:00 (LO 20:00)",
     "closed": "화(공휴일·공휴일 전날·12월은 영업)",
@@ -4777,6 +4826,9 @@
         "14:30",
         "20:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "smoking": "분연",
     "smoking_note": "좌석 금연, 별도 흡연 구역 있음",
@@ -5172,6 +5224,9 @@
         "19:00"
       ]
     },
+    "closed_rule": {
+      "hol": "open"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27001538/",
     "tabelog_score": 3.7,
@@ -5484,6 +5539,9 @@
       "sun": [
         "16:45"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "wait": {
       "level": 1,
@@ -5918,6 +5976,14 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "nth": [
+        [
+          1,
+          "sun"
+        ]
+      ]
+    },
     "wait": {
       "level": 2,
       "estimate": "평일엔 대기 1~3명에 5~10분, 주말 점심(일 12:30 8명 대기)엔 1시간 걸린 사례",
@@ -6460,6 +6526,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 0,
       "estimate": "점심 피크에 1층이 만석이어도 2층으로 바로 안내돼 대기 거의 없음(합석 있음)",
@@ -6591,6 +6660,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27000411/",
     "tabelog_score": 4.23,
@@ -6899,7 +6971,7 @@
     "lat": 34.677527,
     "lng": 135.503521,
     "geo": "google:とんかつ康四郎",
-    "price_level": 3,
+    "price_level": 4,
     "price_note": "점심 3,000~5,000엔 / 저녁 8,000~15,000엔",
     "hours": "11:00-13:30 (3부제), 18:30-21:30",
     "closed": "일·월(공휴일 포함)",
@@ -6970,6 +7042,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27134224/",
     "tabelog_score": 3.72,
@@ -7438,6 +7513,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 2,
       "estimate": "점심 피크 30분 안팎(12시대 도착→먹기 시작까지 약 35분), 몇 명 대기면 10분. 14시 이후·19시대는 줄 없는 날 많음",
@@ -7797,6 +7875,10 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": {
       "level": 2,
       "estimate": "저녁 피크 5팀 대기에 10~30분, 일요일 오후 줄 상당. 개점 전 20명 이상 줄",
@@ -8244,6 +8326,14 @@
       "sun": [
         "13:45",
         "20:30"
+      ]
+    },
+    "closed_rule": {
+      "nth": [
+        [
+          2,
+          "tue"
+        ]
       ]
     },
     "smoking": "금연",
@@ -8889,6 +8979,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27002290/",
     "tabelog_score": 3.66,
@@ -9279,6 +9372,18 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "nth": [
+        [
+          2,
+          "wed"
+        ],
+        [
+          4,
+          "wed"
+        ]
+      ]
+    },
     "wait": {
       "level": 3,
       "estimate": "평일 점심 20~45분, 토요일 10시대 1시간, 일요일 13:30 40명 줄에 2시간",
@@ -9590,6 +9695,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27000267/",
     "tabelog_score": 3.62,
@@ -9972,6 +10080,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 2,
       "estimate": "토요일·점심 20~30분, 길면 1시간(11:30 도착 사례). 평일 11시 전후는 대기 없음",
@@ -10257,6 +10368,9 @@
       "sun": [
         "23:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "closed"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002291/",
@@ -10717,6 +10831,15 @@
         "13:30"
       ]
     },
+    "closed_rule": {
+      "hol": "open",
+      "nth": [
+        [
+          1,
+          "tue"
+        ]
+      ]
+    },
     "smoking": "금연",
     "smoking_note": "가게 밖에 흡연 장소 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27040987/",
@@ -10856,6 +10979,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270103/27002221/",
     "tabelog_score": 3.55,
@@ -11009,6 +11135,10 @@
         "13:30",
         null
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "smoking": "금연",
     "smoking_note": "작은 정원에 흡연 공간 있음(실내 금연)",
@@ -11679,6 +11809,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "open"
+    },
     "smoking": "흡연가능",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270201/27083055/",
     "tabelog_score": 3.45,
@@ -12267,6 +12400,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 3,
       "estimate": "평일에도 오픈(17:00) 1시간 전부터 줄. 12석×2회전이라 1회전(약 12명)에 못 들면 오픈 후 한참 더 대기 — 15:30 도착 8번째로 2시간 가까이 기다린 사례",
@@ -12876,6 +13012,10 @@
         "14:30",
         "20:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27104034/",
@@ -13534,6 +13674,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 1,
       "estimate": "평일 점심 피크엔 식권기 앞 4~5명·만석으로 잠깐 대기(10분 안팎), 점심 지나면 대체로 바로 착석",
@@ -13880,7 +14023,7 @@
     "region": "osaka",
     "area": "신세카이·덴노지",
     "category": "카페·킷사텐",
-    "signature": "원조 믹스주스(ミックスジュース)",
+    "signature": "원조 믹스주스(ミックスジュース), 구운 나폴리탄(焼きナポリタン)·나폴리탄 핫도그",
     "why": "1948년 창업, 오사카 명물 믹스주스의 발상지로 알려진 신세카이 킷사텐(공식사이트). 타베로그 3.63, 킷사텐 백명점 2021.",
     "reasons": [
       {
@@ -14323,6 +14466,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "smoking_note": "가게 밖에 흡연 공간 있음",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27011721/",
@@ -14609,6 +14755,9 @@
         "21:00"
       ],
       "sun": []
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27000479/",
@@ -15406,6 +15555,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/osaka/A2701/A270106/27000011/",
     "tabelog_score": 3.5,
@@ -16002,6 +16154,10 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": {
       "level": null,
       "estimate": "사실상 예약제처럼 운영 — 17시 오픈 후 18시까지 만석, 당일 전화로는 '이미 만석'이라 거절된 후기 다수. 예약 없이 가면 입장 어려움",
@@ -16429,6 +16585,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -17084,6 +17243,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -17540,6 +17702,23 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed",
+      "nth": [
+        [
+          1,
+          "sat"
+        ],
+        [
+          3,
+          "sat"
+        ],
+        [
+          5,
+          "sat"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "12시 전엔 대기 거의 없음, 점심 피크·휴일 점심엔 만석",
@@ -17778,6 +17957,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -17894,6 +18076,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -18404,6 +18589,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "분연",
     "smoking_note": "별도 흡연 구역 있음",
@@ -18523,6 +18711,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "흡연가능",
     "smoking_note": "좌석 흡연 가능, 날에 따라 금연인 경우도 있음",
@@ -18643,6 +18834,9 @@
       "타베로그"
     ],
     "phone_booking": null,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -20518,6 +20712,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -21412,6 +21609,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": "건물 내 전용 흡연실 있음",
@@ -21530,6 +21730,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -22193,6 +22396,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 2,
       "estimate": "점심 피크(12~13시) 4~8팀 줄, 15~20분",
@@ -22770,6 +22976,14 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "tue"
+        ]
+      ]
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -23798,6 +24012,9 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 3,
       "estimate": "오픈 2시간 전부터 줄. 10시 정리권 배부 때 이미 15~30명 이상 대기하고, 늦게 받으면 입장 시간이 12시 이후로 밀린다",
@@ -25078,6 +25295,9 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 3,
       "estimate": "주말엔 7시 반~8시에 이미 4~15명 줄, 8:30 명단 기입 후 점심 호출까지 3~4시간",
@@ -26056,6 +26276,14 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "mon"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "평일 13시 이후·저녁은 대체로 바로 입장, 점심 피크와 비 오는 날에도 붐빌 때가 있음",
@@ -27522,6 +27750,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -27807,6 +28038,9 @@
         "22:00"
       ],
       "sun": []
+    },
+    "closed_rule": {
+      "hol": "closed"
     },
     "wait": null,
     "smoking": "금연",
@@ -28216,6 +28450,16 @@
         "21:00"
       ]
     },
+    "closed_rule": {
+      "hol": "open",
+      "after": true,
+      "nth": [
+        [
+          3,
+          "tue"
+        ]
+      ]
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -28392,6 +28636,10 @@
         "13:30",
         "20:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "wait": null,
     "smoking": "금연",
@@ -28638,6 +28886,9 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -28753,6 +29004,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -29627,6 +29881,9 @@
         "23:00"
       ]
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -29742,6 +29999,9 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 2,
       "estimate": "평일 점심 10~15명 줄(15분 안팎), 붐빌 땐 20명 가까이",
@@ -30690,6 +30950,14 @@
       "sun": [
         null,
         "19:00"
+      ]
+    },
+    "closed_rule": {
+      "nth": [
+        [
+          4,
+          "wed"
+        ]
       ]
     },
     "wait": {
@@ -32389,6 +32657,9 @@
       "타베로그"
     ],
     "phone_booking": null,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -32664,6 +32935,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -32698,6 +32972,322 @@
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270205/27136410/",
       "https://tabelog.com/kr/osaka/A2701/A270205/27136410/party/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-237",
+    "name_ko": "로마스파 정열의 나폴리탄",
+    "name_ja": "ロマスパ　情熱のナポリタン",
+    "name_en": "Romaspa Jonetsu no Napolitan",
+    "region": "osaka",
+    "area": "기타하마·요도야바시·혼마치",
+    "category": "기타",
+    "signature": "정열의 나폴리탄(情熱のナポリタン) 900엔 + 달걀 프라이 토핑, 매혹의 미트소스",
+    "why": "타베로그 3.49(리뷰 218건). 가게 이름부터 '정열의 나폴리탄'인 나폴리탄 간판 스파게티집으로, 기타하마역 바로 앞 빌딩 지하에서 평일 점심에만 문을 연다. 진한 케첩 소스의 쇼와풍 나폴리탄에 반숙 달걀 프라이를 얹어 먹는 게 정석이라 점심시간엔 직장인 줄이 선다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.49 (리뷰 218건)",
+        "url": "https://tabelog.com/osaka/A2701/A270102/27054884/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "타베로그 후기 대부분이 간판 메뉴 '정열의 나폴리탄'(900엔)과 달걀 프라이 토핑을 꼽고, '나폴리탄이 생각날 때마다 간다', '쇼와를 느낄 수 있는 나폴리탄' 같은 단골 후기가 2026년에도 이어짐",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270102/27054884/dtlrvwlst/"
+      }
+    ],
+    "tips": "입구에서 식권을 먼저 사고 카운터에 앉는다. 달걀 프라이 토핑(50엔)을 올려 노른자를 섞어 먹는 사람이 많고, 곱빼기는 +180엔. 카드·전자결제가 안 되니 현금을 챙길 것.",
+    "address_ja": "大阪府大阪市中央区北浜2-2-22",
+    "address_building": "北浜中央ビル B2F",
+    "station": "기타하마역 도보 1분 · 나니와바시역 도보 4분 · 요도야바시역 도보 8분",
+    "phone": "+81-6-6226-0012",
+    "lat": 34.691769,
+    "lng": 135.50621,
+    "geo": "gsi:大阪府大阪市中央区北浜二丁目２番２２号",
+    "price_level": 1,
+    "price_note": "~999엔 (타베로그) · 정열의 나폴리탄 900엔(후기)",
+    "hours": "11:00-15:00 (평일만)",
+    "closed": "토요일·일요일·공휴일",
+    "hours_week": {
+      "mon": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "15:00"
+        ]
+      ],
+      "sat": [],
+      "sun": []
+    },
+    "hours_note": "면이 다 떨어지면 영업 종료",
+    "notice": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약을 받지 않는다. 카운터 13석뿐이라 일행이 나란히 앉기 어려울 수 있다",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
+    "wait": {
+      "level": 1,
+      "estimate": "평일 12시대엔 줄이 생기지만 회전이 빨라 입장부터 착석까지 10분 안팎",
+      "best_time": "11시 오픈 직후나 14시 이후 늦은 점심엔 대기 없이 들어간 후기가 많다",
+      "queue_system": "입구에서 식권을 산 뒤 순서대로 카운터석 안내",
+      "sellout": "면이 다 떨어지면 영업 종료",
+      "basis": "타베로그 후기 2026-01 '입장부터 착석까지 10분', 2026-05·2026-01 '점심시간 긴 줄', 2026-08 '늦은 점심엔 대기 없음' 외",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270102/27054884/dtlrvwlst/"
+    },
+    "smoking": "금연",
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27054884/",
+    "tabelog_score": 3.49,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "현지인맛집",
+      "줄서는집",
+      "현금만",
+      "혼밥가능",
+      "가성비"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "evidence": [],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270102/27054884/",
+      "https://tabelog.com/kr/osaka/A2701/A270102/27054884/dtlrvwlst/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-238",
+    "name_ko": "마즈라 킷사텐",
+    "name_ja": "マヅラ喫茶店",
+    "name_en": "Mazura Kissaten",
+    "region": "osaka",
+    "area": "우메다·오사카역",
+    "category": "카페·킷사텐",
+    "signature": "순킷사 나폴리탄(純喫茶のナポリタン), 함바그 샌드, 케이크 세트",
+    "why": "타베로그 3.59(리뷰 1,045건). 1947년 무렵 우메다에서 창업해 1970년 오사카역앞 제1빌딩으로 옮기면서 '우주선'을 모티브로 꾸민 레트로 퓨처 킷사텐. 190석 규모의 쇼와 공간에서 옛날식 케첩 나폴리탄을 저렴하게 먹을 수 있다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.59 (리뷰 1,045건)",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27004819/"
+      },
+      {
+        "type": "언론·가이드",
+        "detail": "타임아웃 오사카 '오사카 순킷사 6선'이 식사 메뉴로 '순킷사의 나폴리탄(純喫茶のナポリタン)'을 소개",
+        "url": "https://www.timeout.jp/osaka/ja/restaurants/6-junkissa-in-osaka"
+      },
+      {
+        "type": "노포·원조",
+        "detail": "1947년 무렵 창업, 1970년 현재 자리로 이전(우주선 모티브 인테리어)",
+        "url": null
+      },
+      {
+        "type": "현지평판",
+        "detail": "2026년 11월 타베로그 후기 '나폴리탄은 추억의 맛이라 맛있었다'",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270101/27004819/dtlrvwlst/"
+      }
+    ],
+    "tips": "식사 메뉴에 음료를 붙이는 드링크 세트가 있다(타임아웃 기사 기준 +200엔). 카드·전자결제가 안 되니 현금을 챙길 것.",
+    "address_ja": "大阪府大阪市北区梅田1-3-1",
+    "address_building": "大阪駅前第1ビル B1F",
+    "station": "기타신치역 바로 · 니시우메다역 도보 5분 · JR 오사카역 도보 7분",
+    "phone": "+81-6-6345-3400",
+    "lat": 34.698494,
+    "lng": 135.49704,
+    "geo": "gsi:大阪府大阪市北区梅田一丁目３番１号",
+    "price_level": 1,
+    "price_note": "~999엔 (타베로그, 후기 집계는 1,000~1,999엔도 있음)",
+    "hours": "09:00-23:00 (월~토)",
+    "closed": "일요일·공휴일",
+    "hours_week": {
+      "mon": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "tue": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "wed": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "thu": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "fri": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "09:00",
+          "23:00"
+        ]
+      ],
+      "sun": []
+    },
+    "hours_note": "연말연시 휴무",
+    "notice": null,
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": null,
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
+    "wait": null,
+    "smoking": "분연",
+    "smoking_note": "타베로그 표기 '분리 흡연 구역'. 비흡연자는 방문 전 좌석 확인 권장",
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27004819/",
+    "tabelog_score": 3.59,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "노포",
+      "현금만",
+      "아침식사",
+      "가성비"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "evidence": [
+      "노포·원조",
+      "언론·가이드"
+    ],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270101/27004819/",
+      "https://tabelog.com/en/osaka/A2701/A270101/27004819/",
+      "https://www.timeout.jp/osaka/ja/restaurants/6-junkissa-in-osaka"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-239",
+    "name_ko": "오사카 나폴리탄",
+    "name_ja": "大阪ナポリタン",
+    "name_en": "Osaka Napolitan",
+    "region": "osaka",
+    "area": "우메다·오사카역",
+    "category": "기타",
+    "signature": "철판에 담겨 나오는 오사카 나폴리탄(大阪ナポリタン) — 빨간 비엔나소시지·달걀 프라이 토핑",
+    "why": "타베로그 3.41(리뷰 139건). 한신백화점 우메다 본점 지하 '스낵 파크' 안의 나폴리탄 전문 코너로, 뜨거운 철판에 담긴 오사카 나폴리탄이 주문하자마자 나온다. 서서 먹는 스탠딩 코너라 우메다에서 1,000엔 안쪽으로 빠르게 나폴리탄 한 접시 하기 좋다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.41 (리뷰 139건), 상호 그대로 나폴리탄 전문",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27134181/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "후기 다수가 '철판에 나오는 뜨끈뜨끈한 나폴리탄'을 간판 메뉴로 꼽고, '정기적으로 먹고 싶어진다'며 여러 번 찾는 단골 후기도 있음(2025~2026)",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270101/27134181/dtlrvwlst/"
+      }
+    ],
+    "tips": "서서 먹는 푸드코트형 코너라 회전이 빠르다. 철판이 아주 뜨거우니 조심하고, 곱빼기·야채 추가(+180엔) 같은 옵션이 있다.",
+    "address_ja": "大阪府大阪市北区梅田1-13-13",
+    "address_building": "阪神百貨店梅田本店 B1F (스낵 파크)",
+    "station": "한신 오사카우메다역에서 약 60m (한신백화점 지하)",
+    "phone": "+81-6-6345-1201",
+    "lat": 34.700691,
+    "lng": 135.497528,
+    "geo": "gsi:大阪府大阪市北区梅田一丁目１３番１３号",
+    "price_level": 1,
+    "price_note": "~999엔 (타베로그) · 나폴리탄 곱빼기 830엔(2025년 후기)",
+    "hours": null,
+    "closed": null,
+    "hours_week": null,
+    "hours_note": "타베로그에 영업시간이 없어 한신백화점 영업시간을 확인하고 갈 것",
+    "notice": null,
+    "reservation": "불가",
+    "booking_type": "현장방문",
+    "booking_apps": [],
+    "booking_note": "예약 불가. 백화점 지하 스낵 파크의 스탠딩 코너",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": false,
+    "wait": {
+      "level": 1,
+      "estimate": "붐비는 시간엔 잠깐 줄을 서지만 음식이 바로 나와 회전이 빠르다",
+      "basis": "타베로그 후기 2025-03 '줄을 서서 기다림', 2026-03 '사람이 많았지만 먹을 자리는 있었다', 2025-03 '주문하자마자 바로 나옴'",
+      "source": "https://tabelog.com/kr/osaka/A2701/A270101/27134181/dtlrvwlst/"
+    },
+    "smoking": null,
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27134181/",
+    "tabelog_score": 3.41,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [
+      "혼밥가능",
+      "가성비"
+    ],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "evidence": [],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270101/27134181/",
+      "https://tabelog.com/kr/osaka/A2701/A270101/27134181/dtlrvwlst/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -32809,6 +33399,9 @@
         "22:30"
       ],
       "sun": []
+    },
+    "closed_rule": {
+      "hol": "closed"
     },
     "wait": {
       "level": 3,
@@ -33754,7 +34347,7 @@
     "lat": 35.015416,
     "lng": 135.765745,
     "geo": "google:肉専科 はふう 本店",
-    "price_level": 3,
+    "price_level": 4,
     "price_note": "점심 3,000~4,000엔 / 저녁 10,000~15,000엔",
     "hours": "11:30-14:00 (L.O. 13:30), 17:30-22:00 (L.O. 21:30)",
     "closed": "수요일, 부정기",
@@ -34241,6 +34834,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 1,
       "estimate": "오픈(17:00) 전 1~2명 줄 정도. 카운터만이라 만석이면 잠깐 대기",
@@ -34542,6 +35138,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 1,
       "estimate": "좌석이 적어 개점 전 줄이 생기는 정도, 개점 시 맞춰 가면 바로 입장. 긴 대기 언급은 없음",
@@ -34686,6 +35285,10 @@
       "sun": [
         "17:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "wait": {
       "level": 1,
@@ -35461,6 +36064,19 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "nth": [
+        [
+          1,
+          "thu"
+        ],
+        [
+          3,
+          "thu"
+        ]
+      ]
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260301/26001870/",
     "tabelog_score": 3.75,
@@ -35573,6 +36189,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 1,
       "estimate": "휴일 점심에도 조금만 기다리면 입장, 개점 시 맞춰 가면 대기 없음. 단 손님이 몰려 밥이 떨어지면 '1시간 후 안내'라는 말을 들은 사례",
@@ -35691,6 +36310,16 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true,
+      "nth": [
+        [
+          4,
+          "wed"
+        ]
+      ]
+    },
     "wait": {
       "level": 2,
       "estimate": "예약 없이 가면 점심 피크엔 긴 줄 — 공휴일 13시 반 이후 30분 대기, 평일 점심은 거의 대기 없는 날도. 가게 안내상 워크인은 20~30분 대기 가능",
@@ -36452,6 +37081,20 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true,
+      "nth": [
+        [
+          1,
+          "mon"
+        ],
+        [
+          3,
+          "mon"
+        ]
+      ]
+    },
     "wait": {
       "level": 3,
       "estimate": "오픈 전부터 줄, 1회전을 놓치면 30분 이상. 11:30에 줄 서서 13:20에 먹기 시작한 사례도. 비수기 평일엔 1팀·10분인 날도",
@@ -37178,7 +37821,7 @@
     "region": "kyoto",
     "area": "시조·카라스마",
     "category": "카페·킷사텐",
-    "signature": "아라비아의 진주(설탕·밀크 넣은 블렌드 커피), 교토의 아침식사 세트",
+    "signature": "아라비아의 진주(설탕·밀크 넣은 블렌드 커피), 교토의 아침식사 세트, 나폴리탄식 케첩 스파게티 '이탈리안(イタリアン)'",
     "why": "1940년 창업, 교토 킷사텐 문화를 상징하는 노포 카페. 아침 7시부터 문을 여는 '교토의 아침' 명소.",
     "reasons": [
       {
@@ -37457,6 +38100,9 @@
         "14:30",
         "20:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "closed"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26000921/",
@@ -38529,6 +39175,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 3,
       "estimate": "주말 낮 12시 약 40명 줄로 1시간, 착석 후에도 굽는 데 20분 정도. 15시경도 20명 줄이지만 회전 빠름. 평일(월) 13:48 4명·5분 사례",
@@ -38974,7 +39623,7 @@
     "lat": 34.98576,
     "lng": 135.759437,
     "geo": "google:天婦羅処 京林泉（ホテルグランヴィア京都）",
-    "price_level": 3,
+    "price_level": 4,
     "price_note": "점심 4,000~5,000엔 / 저녁 9,000~15,000엔",
     "hours": "11:30-15:00(L.O.14:00), 17:00-22:00(L.O.21:00)",
     "closed": "월요일(공휴일이면 영업, 공휴일 다음 화요일 휴무)",
@@ -39080,6 +39729,10 @@
         "14:00",
         "20:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260101/26000484/",
@@ -40329,6 +40982,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 2,
       "estimate": "평일 오전·12시 정각엔 대기 없는 날도 있음, 점심(12~13시)·토요일엔 3~4팀 대기(분 단위 언급 후기는 없음)",
@@ -40487,6 +41143,9 @@
         "13:00",
         "19:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/kyoto/A2601/A260403/26012281/",
@@ -42409,6 +43068,9 @@
         "13:45",
         "20:45"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "wait": null,
     "smoking": "금연",
@@ -44723,6 +45385,9 @@
       "타베로그"
     ],
     "phone_booking": false,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": {
       "level": 1,
       "estimate": "점심 피크엔 가게 앞 2~5팀 대기, 잠시 기다리면 들어간다는 후기",
@@ -45111,6 +45776,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -47022,6 +47690,10 @@
         "21:00"
       ]
     },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -47451,6 +48123,9 @@
         "15:30",
         "18:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "wait": null,
     "smoking": "금연",
@@ -48070,6 +48745,9 @@
         "12:00",
         "18:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "wait": null,
     "smoking": "금연",
@@ -49139,6 +49817,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -49997,6 +50678,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -50678,6 +51362,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -51471,6 +52158,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "closed"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -52832,6 +53522,134 @@
     "checked_at": "2026-11-21"
   },
   {
+    "id": "kyoto-145",
+    "name_ko": "킷사 마드라그",
+    "name_ja": "喫茶 マドラグ",
+    "name_en": "Kissa Madrague",
+    "region": "kyoto",
+    "area": "시조·카라스마",
+    "category": "카페·킷사텐",
+    "signature": "철판 나폴리탄(鉄板ナポリタン), 코로나의 달걀 샌드위치(コロナの玉子サンド), 모닝 A세트",
+    "why": "타베로그 3.71(리뷰 1,127건), 킷사텐 百名店 3회(2021·2022·2026). 2011년 옛 킷사 '세븐' 자리를 이어받아 문을 연 레트로 킷사텐으로, 두툼한 달걀 샌드위치와 함께 철판 나폴리탄이 이름난 곳. 일본 언론은 개업 2년째부터 손님이 몰린 계기로 이 집 나폴리탄을 꼽았다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.71 (리뷰 1,127건), 킷사텐 百名店 2026·2022·2021",
+        "url": "https://tabelog.com/kyoto/A2601/A260202/26019438/"
+      },
+      {
+        "type": "언론·가이드",
+        "detail": "닛칸 겐다이: 2011년 개업 후 첫해는 한산했지만 2년째부터 나폴리탄(990엔)으로 인기를 얻었다고 소개(점주 부인의 고향 미에현 스타일)",
+        "url": "https://www.nikkan-gendai.com/articles/view/life/339672"
+      },
+      {
+        "type": "언론·가이드",
+        "detail": "타베로그 매거진 '교토의 멋진 킷사텐 20선'에서 '철판 나폴리탄'을 대표 메뉴로 소개",
+        "url": "https://tabelog.com/matome/12553/"
+      }
+    ],
+    "tips": "인기가 많아 전화 예약을 하고 가라는 후기가 많다. 만석이면 달걀 샌드위치를 테이크아웃하는 방법도 있다. 카드·전자결제가 안 되니 현금을 챙길 것.",
+    "address_ja": "京都府京都市中京区上松屋町706-5",
+    "address_building": null,
+    "station": "지하철 가라스마오이케역 도보 9분",
+    "phone": "+81-75-744-0067",
+    "lat": 35.012791,
+    "lng": 135.755692,
+    "geo": "gsi:京都府京都市中京区上松屋町７０６番地",
+    "price_level": 2,
+    "price_note": "1,000~1,999엔 (타베로그) · 모닝 A세트 1,800엔(후기)",
+    "hours": "08:00-18:00",
+    "closed": null,
+    "hours_week": {
+      "mon": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "tue": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "wed": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "thu": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "fri": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "sat": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ],
+      "sun": [
+        [
+          "08:00",
+          "18:00"
+        ]
+      ]
+    },
+    "hours_note": "타베로그에 정기휴일 표기 없음",
+    "notice": null,
+    "reservation": "권장",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "모닝은 8:00·9:30 시작 타임, 점심은 12시부터 예약 가능하며 1시간 교대제(타베로그)",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": true,
+    "wait": null,
+    "smoking": "금연",
+    "smoking_note": "가게 앞 의자에서만 흡연 가능",
+    "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26019438/",
+    "tabelog_score": 3.71,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 킷사텐 2026",
+      "타베로그 백명점 킷사텐 2022",
+      "타베로그 백명점 킷사텐 2021"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "현금만",
+      "아침식사",
+      "테이크아웃"
+    ],
+    "legend_level": 2,
+    "editor_level": 2,
+    "icon": false,
+    "evidence": [
+      "타베로그 3.71",
+      "백명점",
+      "언론·가이드"
+    ],
+    "sources": [
+      "https://tabelog.com/kr/kyoto/A2601/A260202/26019438/",
+      "https://tabelog.com/kr/kyoto/A2601/A260202/26019438/dtlrvwlst/",
+      "https://www.nikkan-gendai.com/articles/view/life/339672"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
     "id": "kobe-001",
     "name_ko": "프로인드리브 이쿠타점(본점)",
     "name_ja": "フロインドリーブ 生田店",
@@ -52917,6 +53735,10 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28000106/",
     "tabelog_score": 3.66,
@@ -53637,6 +54459,10 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": {
       "level": 2,
       "estimate": "평일 5~20분(10팀 줄이라도 회전 빠름), 주말·공휴일 15~40분, 붐비는 주말엔 1시간",
@@ -53818,6 +54644,10 @@
         "19:00"
       ]
     },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": {
       "level": 2,
       "estimate": "점심 개점(11:30) 전부터 수십 명 줄·대기 약 40분, 평일 13시 이후엔 대기 없는 날도",
@@ -53965,6 +54795,9 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": {
       "level": 3,
       "estimate": "주말·휴일 점심 30분~1시간, 평일 12시·토 13:30·저녁 17~18시엔 바로~몇 분",
@@ -54730,6 +55563,19 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "open",
+      "nth": [
+        [
+          1,
+          "tue"
+        ],
+        [
+          3,
+          "tue"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "대부분 바로 입장(만석이어도 회전), 공휴일·연휴 낮엔 2팀 정도 대기",
@@ -55509,6 +56355,14 @@
         "25:30"
       ]
     },
+    "closed_rule": {
+      "nth": [
+        [
+          1,
+          "tue"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "대부분 대기 없음~몇 분, 평일 13~14시·일요일 19시대엔 선객 3~6명",
@@ -55827,6 +56681,10 @@
         "14:30",
         "21:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28002105/",
@@ -56629,6 +57487,22 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "nth": [
+        [
+          1,
+          "wed"
+        ],
+        [
+          3,
+          "wed"
+        ],
+        [
+          5,
+          "wed"
+        ]
+      ]
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2804/A280401/28031883/",
     "tabelog_score": 3.74,
@@ -56877,6 +57751,19 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "hol": "closed",
+      "nth": [
+        [
+          1,
+          "wed"
+        ],
+        [
+          3,
+          "wed"
+        ]
+      ]
+    },
     "smoking": "금연",
     "smoking_note": "테이크아웃 전용",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280105/28001078/",
@@ -57181,6 +58068,9 @@
         "21:30"
       ],
       "sun": []
+    },
+    "closed_rule": {
+      "hol": "closed"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280106/28025768/",
@@ -57488,6 +58378,10 @@
         "14:00",
         "21:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/hyogo/A2801/A280101/28008218/",
@@ -59094,6 +59988,14 @@
         "20:30"
       ]
     },
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "tue"
+        ]
+      ]
+    },
     "wait": {
       "level": 1,
       "estimate": "평일·주말 점심 피크 만석이라 밖에서 잠깐 대기(10~15분 안팎), 회전 빠름",
@@ -59239,6 +60141,10 @@
       "sun": [
         "16:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "wait": {
       "level": 2,
@@ -59405,6 +60311,9 @@
         "13:00",
         "21:00"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "wait": null,
     "smoking": "금연",
@@ -60034,6 +60943,9 @@
         null
       ]
     },
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -60581,6 +61493,9 @@
       ],
       "sun": []
     },
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -60950,6 +61865,10 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "open",
+      "after": true
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -61184,6 +62103,9 @@
       "타베로그"
     ],
     "phone_booking": true,
+    "closed_rule": {
+      "hol": "open"
+    },
     "wait": null,
     "smoking": "금연",
     "smoking_note": null,
@@ -61212,6 +62134,138 @@
     ],
     "sources": [
       "https://tabelog.com/kr/hyogo/A2803/A280301/28069327/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "kobe-060",
+    "name_ko": "바 앤 비스트로 64",
+    "name_ja": "Bar＆Bistro 64",
+    "name_en": "Bar & Bistro 64",
+    "region": "kobe",
+    "area": "모토마치",
+    "category": "기타",
+    "signature": "64 명물 나폴리탄(名物ナポリタン) — 굵고 쫄깃한 면에 달콤한 토마토 소스, 단바 닭가슴살 커틀릿",
+    "why": "타베로그 3.49(리뷰 837건). 구거류지 다이마루 근처의 테라스 있는 비스트로로, 가게가 직접 '64 명물'로 내세우는 나폴리탄이 간판 메뉴. 굵은 면에 달콤한 토마토 소스를 버무린 옛날식 나폴리탄을 세련된 분위기에서 맥주·와인과 즐길 수 있다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 3.49 (리뷰 837건)",
+        "url": "https://tabelog.com/hyogo/A2801/A280102/28012994/"
+      },
+      {
+        "type": "현지평판",
+        "detail": "가게 소개 첫머리가 '64 명물 나폴리탄!'이고, 2026년 10월 후기 여러 건이 점심에 나폴리탄을 먹었다고 언급",
+        "url": "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/dtlrvwlst/"
+      }
+    ],
+    "tips": "주말 점심은 만석이 잦아 며칠 전에 예약하고 가는 후기가 많다. 테라스석도 있고, 점심은 2시간(주말·공휴일 100분) 이용 제한이 있다.",
+    "address_ja": "兵庫県神戸市中央区浪花町64",
+    "address_building": null,
+    "station": "구거류지·다이마루마에역 1번 출구 도보 2분 · JR·한신 모토마치역 도보 5분 · 산노미야역 도보 6분",
+    "phone": "+81-50-3066-9685",
+    "lat": 34.688602,
+    "lng": 135.192825,
+    "geo": "gsi:兵庫県神戸市中央区浪花町６４番地",
+    "price_level": 3,
+    "price_note": "저녁 4,000~4,999엔 · 점심 1,000~1,999엔 (타베로그)",
+    "hours": "11:00-23:00 (L.O. 22:00)",
+    "closed": "연중무휴",
+    "hours_week": {
+      "mon": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "tue": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "wed": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "thu": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "fri": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ],
+      "sun": [
+        [
+          "11:00",
+          "23:00"
+        ]
+      ]
+    },
+    "hours_note": "연말연시 등 휴업할 수 있음",
+    "notice": null,
+    "reservation": "가능",
+    "booking_type": "전화예약만",
+    "booking_apps": [],
+    "booking_note": "식사 예약만 받는다. 점심은 2시간(주말·공휴일 100분) 제한",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": true,
+    "lo_week": {
+      "mon": [
+        "22:00"
+      ],
+      "tue": [
+        "22:00"
+      ],
+      "wed": [
+        "22:00"
+      ],
+      "thu": [
+        "22:00"
+      ],
+      "fri": [
+        "22:00"
+      ],
+      "sat": [
+        "22:00"
+      ],
+      "sun": [
+        "22:00"
+      ]
+    },
+    "wait": null,
+    "smoking": "금연",
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28012994/",
+    "tabelog_score": 3.49,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [],
+    "youtube": [],
+    "tags": [],
+    "legend_level": 1,
+    "editor_level": 1,
+    "icon": false,
+    "evidence": [],
+    "sources": [
+      "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/",
+      "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/dtlrvwlst/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -61477,6 +62531,14 @@
       ],
       "sun": [
         "23:00"
+      ]
+    },
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "tue"
+        ]
       ]
     },
     "smoking": "금연",
@@ -61916,6 +62978,9 @@
         "13:00",
         "18:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open"
     },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29010346/",
@@ -62570,6 +63635,14 @@
     "booking_checked": [
       "타베로그"
     ],
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "wed"
+        ]
+      ]
+    },
     "wait": {
       "level": 2,
       "estimate": "평일·일요일 점심엔 대기 없는 날 많음, 공휴일 11:30 1팀, 오후 16시 이후 5팀·약 30분(여름엔 줄)",
@@ -63558,6 +64631,9 @@
       "타베로그",
       "핫페퍼"
     ],
+    "closed_rule": {
+      "hol": "open"
+    },
     "smoking": "금연",
     "tabelog_url": "https://tabelog.com/nara/A2901/A290101/29000753/",
     "tabelog_score": 3.32,
@@ -63694,6 +64770,10 @@
       "sun": [
         "18:30"
       ]
+    },
+    "closed_rule": {
+      "hol": "open",
+      "after": true
     },
     "wait": {
       "level": 2,
@@ -64098,6 +65178,18 @@
       ],
       "sun": [
         "16:30"
+      ]
+    },
+    "closed_rule": {
+      "nth": [
+        [
+          2,
+          "thu"
+        ],
+        [
+          4,
+          "thu"
+        ]
       ]
     },
     "wait": {
@@ -64828,6 +65920,14 @@
       "sun": [
         "14:00",
         "21:00"
+      ]
+    },
+    "closed_rule": {
+      "nth": [
+        [
+          3,
+          "sun"
+        ]
       ]
     },
     "wait": {

@@ -551,3 +551,32 @@ dialog.trip { width: min(96vw, 520px); max-height: 88vh; overflow-y: auto; paddi
 .t-meal { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; width: 100%; margin-top: 6px; }
 .t-meal button { border: 1px solid var(--line); background: var(--chip); color: var(--ink); border-radius: 999px; padding: 7px 12px; font: inherit; font-size: 14px; cursor: pointer; min-height: 36px; }
 .t-meal button[aria-pressed="true"] { background: var(--on); border-color: var(--on); color: #fff; font-weight: 700; }
+/* ---- 동선 2차 개선 ---- */
+.t-tabs { flex-wrap: wrap; overflow: visible; }
+.t-ic { border: none; background: none; font-size: 16px; width: 40px; height: 40px; cursor: pointer; margin-left: auto; }
+.t-stops .nm { flex: 1; min-width: 0; font-size: 15px; color: var(--ink); overflow-wrap: anywhere; }
+.t-stops li > button { flex: none; width: 44px; height: 44px; border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 10px; cursor: pointer; font-size: 15px; }
+.t-stops li > button.del { color: #b3261e; }
+.t-undo { display: flex; align-items: center; gap: 10px; margin: 6px 0; padding: 8px 10px; background: #fff4e5; color: #6b3b00; border-radius: 10px; font-size: 14px; }
+.t-undo button { border: none; background: #6b3b00; color: #fff; border-radius: 999px; padding: 6px 12px; font: inherit; font-weight: 700; cursor: pointer; }
+.t-meal b { font-size: 14px; margin-right: 2px; }
+.t-meal button:disabled, .t-time input:disabled { opacity: .4; }
+.t-time { display: inline-flex; align-items: center; gap: 4px; font-size: 14px; }
+.t-time input { font-size: 16px; padding: 4px 6px; border: 1px solid var(--line); border-radius: 8px; background: var(--card); color: var(--ink); }
+.t-legs { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 10px; font-size: 14px; }
+.t-legs a { border: 1px solid #c6dafc; background: #f3f7ff; color: #174ea6; border-radius: 999px; padding: 7px 11px; text-decoration: none; font-weight: 700; min-height: 36px; display: inline-flex; align-items: center; }
+.ctx-h { font-weight: 800; font-size: 13px; color: var(--muted); margin: 2px 0 4px; }
+.ctx-days { display: flex; flex-wrap: wrap; gap: 4px; margin-bottom: 6px; }
+.ctx-days button { border: 1px solid #c6dafc !important; background: #f3f7ff !important; color: #174ea6 !important; border-radius: 999px !important; padding: 6px 10px !important; width: auto !important; }
+.ctx-days button.on { background: #1a73e8 !important; color: #fff !important; }
+.dist small { display: block; font-size: 10.5px; font-weight: 600; color: var(--muted); }
+.grp-act { margin-left: auto; border: 1px solid #c6dafc; background: #f3f7ff; color: #174ea6; border-radius: 999px; padding: 5px 10px; font: inherit; font-size: 13px; font-weight: 700; cursor: pointer; flex: none; }
+.list .grp { flex-wrap: wrap; }
+.tripdays { margin-top: 6px; }
+.tripdays .chip[aria-pressed="false"] { background: #e8f0fe; border-color: #c6dafc; color: #174ea6; }
+.tripdays::before { content: "🧳"; align-self: center; margin-right: 2px; }
+@media (prefers-color-scheme: dark) {
+  .t-undo { background: #3a2a14; color: #ffd9a8; } .t-undo button { background: #ffd9a8; color: #3a2a14; }
+  .t-legs a, .grp-act { background: #18233a; border-color: #2c4a7a; color: #9ec1ff; }
+  .tripdays .chip[aria-pressed="false"] { background: #1b2a44; border-color: #2c4a7a; color: #9ec1ff; }
+}

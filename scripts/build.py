@@ -107,7 +107,7 @@ FIELD_ORDER = [
     "id", "name_ko", "name_ja", "name_en", "region", "area", "category", "signature", "why", "reasons", "tips",
     "address_ja", "address_building", "station", "phone", "lat", "lng", "geo",
     "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
-    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "lo_week", "wait", "smoking", "smoking_note",
+    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "lo_week", "closed_rule", "wait", "smoking", "smoking_note",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
     "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon", "evidence",
     "sources", "verified_open", "checked_at",
@@ -200,6 +200,35 @@ def lo_week(r: dict) -> dict | None:
                 row.append(None)
         out[day] = row
     return out if any_lo else None
+
+
+KO_WD = {"월": "mon", "화": "tue", "수": "wed", "목": "thu", "금": "fri", "토": "sat", "일": "sun"}
+NTH = {"첫째": 1, "첫": 1, "둘째": 2, "두번째": 2, "셋째": 3, "세번째": 3, "넷째": 4, "네번째": 4, "다섯째": 5}
+
+
+def closed_rule(r: dict) -> dict | None:
+    """휴무 문구 → 규칙: hol(공휴일 영업/휴무), after(공휴일이면 다음 날 휴무), nth(매월 n째 주 요일 휴무)."""
+    t = " ".join(x for x in (r.get("closed"), r.get("hours_note")) if x)
+    if not t:
+        return None
+    rule = {}
+    if re.search(r"공휴일이면\s*(다음\s*날|다음날|화|수|목)|공휴일\s*다음\s*\S*\s*휴무|공휴일인 경우 다음", t):
+        rule["hol"], rule["after"] = "open", True
+    elif re.search(r"공휴일(이면|은|에는|인 경우|에도)?\s*영업|공휴일[^)）]*영업\)|祝日営業", t) and not re.search(r"영업하는 경우|경우 있음", t):
+        rule["hol"] = "open"
+    else:
+        bare = re.sub(r"[(（][^)）]*[)）]", "", r.get("closed") or "")
+        if re.search(r"공휴일|祝", bare) or re.search(r"공휴일(도|포함)\s*휴무|공휴일 포함", t):
+            rule["hol"] = "closed"
+    nth = []
+    for m in re.finditer(r"((?:(?:첫째|둘째|셋째|넷째|다섯째|첫|두번째|세번째|네번째)\s*[·,、]?\s*)+)(?:주\s*)?([월화수목금토일])(?:요일)?", t):
+        for w in re.findall(r"첫째|둘째|셋째|넷째|다섯째|두번째|세번째|네번째|첫", m.group(1)):
+            pair = [NTH[w], KO_WD[m.group(2)]]
+            if pair not in nth:
+                nth.append(pair)
+    if nth:
+        rule["nth"] = nth
+    return rule or None
 
 
 def legend_rule(r: dict) -> int:
@@ -974,6 +1003,18 @@ def main() -> int:
             r["editor_level"] = r.get("legend_level")  # 조사 단계에서 매긴 등급(참고용)
         r["legend_level"] = legend_rule(r)
         r["evidence"] = evidence(r)
+        # 가격대 보정: 저녁 가격이 1만 엔 이상에서 시작하거나(8천~1.5만 엔 이상처럼) 1만 엔을 크게 넘으면 ¥¥¥¥
+        pn = r.get("price_note") or ""
+        seg = re.search(r"(?:저녁|디너)[^0-9]{0,8}(\d{1,3}(?:,\d{3})+|\d{4,6})\s*[~〜-]\s*(\d{1,3}(?:,\d{3})+|\d{4,6})", pn)
+        if r.get("price_level") == 3 and seg:
+            lo_p, hi_p = (int(x.replace(",", "")) for x in seg.groups())
+            if lo_p >= 10000 or (lo_p >= 8000 and hi_p >= 15000):
+                r["price_level"] = 4
+        cr = closed_rule(r)
+        if cr:
+            r["closed_rule"] = cr
+        else:
+            r.pop("closed_rule", None)
         lw = lo_week(r)
         if lw:
             r["lo_week"] = lw
