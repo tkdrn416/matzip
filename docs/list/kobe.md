@@ -64,7 +64,7 @@
 - ★ **3.49** [사카바야시(고베 슈신칸)](#kobe-005) · 🍱 일식·카이세키 · 나다·롯코 · ✅ 가능 · 구글 4.3 (588)
 - ★ **3.49** [원조 교자엔](#kobe-008) · 🥟 중화·교자 · 난킨마치 · 🚫 🚶 현장방문 · 구글 4 (729)
 - ★ **3.49** [혼케 기무라야](#kobe-026) · 🐙 타코야키 · 아카시 · 🚫 🚶 현장방문 · 구글 4.1 (1,773)
-- ★ **3.49** [바 앤 비스트로 64](#kobe-060) · 📍 기타 · 모토마치 · 🚫 ☎️ 전화예약만
+- ★ **3.49** [바 앤 비스트로 64](#kobe-060) · 📍 기타 · 모토마치 · 🚫 ☎️ 전화예약만 · 구글 3.9 (675)
 - ★ **3.45** [모리야 본점](#kobe-015) · 🐂 와규·스테이크 · 산노미야 · ✅ 가능 · 구글 4.6 (1,933)
 
 ### 기타노
@@ -650,7 +650,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-23:00 (L.O. 22:00) / 휴무 연중무휴
 - 💡 주말 점심은 만석이 잦아 며칠 전에 예약하고 가는 후기가 많다. 테라스석도 있고, 점심은 2시간(주말·공휴일 100분) 이용 제한이 있다.
 - 🚃 구거류지·다이마루마에역 1번 출구 도보 2분 · JR·한신 모토마치역 도보 5분 · 산노미야역 도보 6분
-- [구글 지도](https://www.google.com/maps/search/?api=1&query=Bar%EF%BC%86Bistro%2064%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA64) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Bar%EF%BC%86Bistro%2064%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA64) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28012994/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B0%94%20%EC%95%A4%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%2064%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17403256735260194012) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Bar%EF%BC%86Bistro%2064%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA64) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28012994/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B0%94%20%EC%95%A4%20%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%2064%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 산노미야
 

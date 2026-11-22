@@ -37195,8 +37195,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.50621,
-          34.691769
+          135.506366,
+          34.691574
         ]
       },
       "properties": {
@@ -37226,7 +37226,7 @@
         "address_building": "北浜中央ビル B2F",
         "station": "기타하마역 도보 1분 · 나니와바시역 도보 4분 · 요도야바시역 도보 8분",
         "phone": "+81-6-6226-0012",
-        "geo": "gsi:大阪府大阪市中央区北浜二丁目２番２２号",
+        "geo": "google:ロマスパ 情熱のナポリタン",
         "price_level": 1,
         "price_note": "~999엔 (타베로그) · 정열의 나폴리탄 900엔(후기)",
         "hours": "11:00-15:00 (평일만)",
@@ -37291,8 +37291,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270102/27054884/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.3,
+        "google_reviews": 255,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -37312,9 +37312,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5987312480126808673",
+        "google_reservable": false,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%AD%E3%83%9E%E3%82%B9%E3%83%91%E3%80%80%E6%83%85%E7%86%B1%E3%81%AE%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C2-2-22",
+          "google_maps": "https://maps.google.com/?cid=5987312480126808673",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%AD%E3%83%9E%E3%82%B9%E3%83%91%E3%80%80%E6%83%85%E7%86%B1%E3%81%AE%E3%83%8A%E3%83%9D%E3%83%AA%E3%82%BF%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C2-2-22",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270102/27054884/",
           "tabelog_is_search": false,
@@ -37327,8 +37331,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.49704,
-          34.698494
+          135.496477,
+          34.699001
         ]
       },
       "properties": {
@@ -37368,7 +37372,7 @@
         "address_building": "大阪駅前第1ビル B1F",
         "station": "기타신치역 바로 · 니시우메다역 도보 5분 · JR 오사카역 도보 7분",
         "phone": "+81-6-6345-3400",
-        "geo": "gsi:大阪府大阪市北区梅田一丁目３番１号",
+        "geo": "google:マヅラ喫茶店",
         "price_level": 1,
         "price_note": "~999엔 (타베로그, 후기 집계는 1,000~1,999엔도 있음)",
         "hours": "09:00-23:00 (월~토)",
@@ -37430,8 +37434,8 @@
         "smoking_note": "타베로그 표기 '분리 흡연 구역'. 비흡연자는 방문 전 좌석 확인 권장",
         "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27004819/",
         "tabelog_score": 3.59,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.1,
+        "google_reviews": 1456,
         "awards": [],
         "youtube": [],
         "tags": [
@@ -37454,9 +37458,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=3246961325607093818",
+        "google_reservable": null,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E3%83%9E%E3%83%85%E3%83%A9%E5%96%AB%E8%8C%B6%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B01-3-1",
+          "google_maps": "https://maps.google.com/?cid=3246961325607093818",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9E%E3%83%85%E3%83%A9%E5%96%AB%E8%8C%B6%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B01-3-1",
           "tabelog": "https://tabelog.com/kr/osaka/A2701/A270101/27004819/",
           "tabelog_is_search": false,
@@ -60355,8 +60363,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.755692,
-          35.012791
+          135.755625,
+          35.012297
         ]
       },
       "properties": {
@@ -60384,6 +60392,11 @@
             "type": "언론·가이드",
             "detail": "타베로그 매거진 '교토의 멋진 킷사텐 20선'에서 '철판 나폴리탄'을 대표 메뉴로 소개",
             "url": "https://tabelog.com/matome/12553/"
+          },
+          {
+            "type": "구글",
+            "detail": "구글 지도 4.2 / 리뷰 1,018개 (2026-11-22 기준)",
+            "url": "https://maps.google.com/?cid=5652686409188030875"
           }
         ],
         "tips": "인기가 많아 전화 예약을 하고 가라는 후기가 많다. 만석이면 달걀 샌드위치를 테이크아웃하는 방법도 있다. 카드·전자결제가 안 되니 현금을 챙길 것.",
@@ -60391,7 +60404,7 @@
         "address_building": null,
         "station": "지하철 가라스마오이케역 도보 9분",
         "phone": "+81-75-744-0067",
-        "geo": "gsi:京都府京都市中京区上松屋町７０６番地",
+        "geo": "google:喫茶 マドラグ",
         "price_level": 2,
         "price_note": "1,000~1,999엔 (타베로그) · 모닝 A세트 1,800엔(후기)",
         "hours": "08:00-18:00",
@@ -60455,8 +60468,8 @@
         "smoking_note": "가게 앞 의자에서만 흡연 가능",
         "tabelog_url": "https://tabelog.com/kyoto/A2601/A260202/26019438/",
         "tabelog_score": 3.71,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 4.2,
+        "google_reviews": 1018,
         "awards": [
           "타베로그 백명점 킷사텐 2026",
           "타베로그 백명점 킷사텐 2022",
@@ -60475,6 +60488,7 @@
         "evidence": [
           "타베로그 3.71",
           "백명점",
+          "구글 4.2",
           "언론·가이드"
         ],
         "sources": [
@@ -60484,9 +60498,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=5652686409188030875",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=%E5%96%AB%E8%8C%B6%20%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8A%E6%9D%BE%E5%B1%8B%E7%94%BA706-5",
+          "google_maps": "https://maps.google.com/?cid=5652686409188030875",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%20%E3%83%9E%E3%83%89%E3%83%A9%E3%82%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8A%E6%9D%BE%E5%B1%8B%E7%94%BA706-5",
           "tabelog": "https://tabelog.com/kr/kyoto/A2601/A260202/26019438/",
           "tabelog_is_search": false,
@@ -67457,6 +67475,8 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_reservable": null,
+        "google_status": null,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=160485502234496222",
@@ -70041,8 +70061,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          135.192825,
-          34.688602
+          135.19285,
+          34.688862
         ]
       },
       "properties": {
@@ -70072,7 +70092,7 @@
         "address_building": null,
         "station": "구거류지·다이마루마에역 1번 출구 도보 2분 · JR·한신 모토마치역 도보 5분 · 산노미야역 도보 6분",
         "phone": "+81-50-3066-9685",
-        "geo": "gsi:兵庫県神戸市中央区浪花町６４番地",
+        "geo": "google:Bar＆Bistro 64",
         "price_level": 3,
         "price_note": "저녁 4,000~4,999엔 · 점심 1,000~1,999엔 (타베로그)",
         "hours": "11:00-23:00 (L.O. 22:00)",
@@ -70159,8 +70179,8 @@
         "smoking_note": null,
         "tabelog_url": "https://tabelog.com/hyogo/A2801/A280102/28012994/",
         "tabelog_score": 3.49,
-        "google_rating": null,
-        "google_reviews": null,
+        "google_rating": 3.9,
+        "google_reviews": 675,
         "awards": [],
         "youtube": [],
         "tags": [],
@@ -70174,9 +70194,13 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
+        "google_maps_uri": "https://maps.google.com/?cid=17403256735260194012",
+        "google_reservable": true,
+        "google_checked_at": "2026-11-22",
+        "google_status": "OPERATIONAL",
         "links": {
           "booking": [],
-          "google_maps": "https://www.google.com/maps/search/?api=1&query=Bar%EF%BC%86Bistro%2064%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA64",
+          "google_maps": "https://maps.google.com/?cid=17403256735260194012",
           "directions": "https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Bar%EF%BC%86Bistro%2064%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA64",
           "tabelog": "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/",
           "tabelog_is_search": false,
