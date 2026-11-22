@@ -709,6 +709,7 @@
     $("openNow").setAttribute("aria-pressed", String(state.openNow));
     $("easyWait").setAttribute("aria-pressed", String(state.easyWait));
     $("noSmoke").setAttribute("aria-pressed", String(state.noSmoke));
+    if ($("cheap")) $("cheap").setAttribute("aria-pressed", String(isCheap()));
     $("strong").setAttribute("aria-pressed", String(state.strong));
     $("favRoute").hidden = !fav.size;
     $("favShare").hidden = !fav.size;
@@ -1021,6 +1022,9 @@
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
   $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });
+  // 💴 1만 엔 이하(가격 ¥~¥¥¥) — 추천순 상위가 고급 코스로 쏠리는 걸 한 번에 거르기
+  function isCheap() { return state.prices.size === 3 && [1, 2, 3].every((x) => state.prices.has(x)); }
+  if ($("cheap")) $("cheap").addEventListener("click", () => { const on = isCheap(); state.prices.clear(); if (!on) [1, 2, 3].forEach((x) => state.prices.add(x)); update(); });
   $("strong").addEventListener("click", () => { state.strong = !state.strong; update(); });
   const refreshPins = () => { if (NOMAP) return; markers.forEach((m, id) => m.setIcon(pinIcon(R.find((r) => r.id === id)))); };
   setInterval(() => { if (state.openNow) update(); else renderList(current); refreshPins(); }, 5 * 60 * 1000); // 영업 상태 5분마다 갱신
