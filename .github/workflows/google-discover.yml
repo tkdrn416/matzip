@@ -1,0 +1,51 @@
+name: 구글 레전드 후보 찾기 (Google Places)
+
+# 동네 × 음식 종류로 구글 지도를 검색해 평점 높고 리뷰 많은 곳을 모으고,
+# DB에 없는 후보를 data/google_candidates.json 에 저장해 커밋합니다. (DB 자체는 바꾸지 않음)
+
+on:
+  workflow_dispatch:
+    inputs:
+      max_requests:
+        description: "검색 요청 상한 (요금 관리용)"
+        type: number
+        default: 170
+
+permissions:
+  contents: write
+
+concurrency:
+  group: google-places
+  cancel-in-progress: false
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    timeout-minutes: 20
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: 구글 검색
+        env:
+          GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
+          MAX_REQ: ${{ inputs.max_requests }}
+        run: |
+          set -o pipefail
+          python3 scripts/google_discover.py --max-requests "${MAX_REQ:-170}" | tee google_discover.log
+      - name: 후보 커밋
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/google_candidates.json
+          if git diff --cached --quiet; then echo "변경 없음"; exit 0; fi
+          git commit -m "구글 레전드 후보 갱신 (Google Places)"
+          git push
+      - name: 로그 보관
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: google-discover-log
+          path: google_discover.log
+          if-no-files-found: ignore
