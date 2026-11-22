@@ -1,4 +1,5 @@
 :root {
+  color-scheme: light dark;
   --bg: #fbf8f3; --card: #fff; --ink: #1f1d1a; --muted: #6b665e; --line: #e7e1d7; --chip: #f1ece4; --blue: #1a73e8;
   --paper: #f6f1e7; --street: #e6dfd2; --river: #bcd8ec; --st: #ffffff;
   font-family: -apple-system, BlinkMacSystemFont, "Apple SD Gothic Neo", "Pretendard", "Noto Sans KR", "Hiragino Sans", "Noto Sans JP", "Segoe UI", sans-serif;

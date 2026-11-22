@@ -1929,7 +1929,8 @@
   if (nearM) {
     history.replaceState(null, "", location.pathname + location.search);
     let nm = "고른 곳"; try { nm = decodeURIComponent(nearM[3] || "") || nm; } catch (e) { /* */ }
-    setTimeout(() => setRefPoint(L.latLng(+nearM[1], +nearM[2]), nm.slice(0, 30)), 350);
+    // 예전에 걸어 둔 필터(지금 영업 등)가 남아 있으면 숙소 근처가 덜 보이므로 풀고 시작
+    setTimeout(() => { if (activeFilters().length) clearFilters(); setRefPoint(L.latLng(+nearM[1], +nearM[2]), nm.slice(0, 30)); }, 350);
   }
   // 필터 기억 (12시간): 폰이 백그라운드 탭을 새로 고쳐도 그대로. 없으면 오늘 날짜의 동선 일차를 자동 선택
   if (!loadFilters()) {

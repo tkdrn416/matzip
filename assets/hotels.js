@@ -91,12 +91,28 @@
     view.lat = Math.max(s - mlat, Math.min(n + mlat, view.lat));
     view.lng = Math.max(w - mlng, Math.min(e + mlng, view.lng));
   }
-  // 글자 폭 대략(한글 1em, 영문·숫자 0.6em)
-  const tw = (s, fs) => [...String(s)].reduce((a, ch) => a + (/[ㄱ-힣぀-ヿ一-鿿]/.test(ch) ? fs * 1.0 : /[★₩]/.test(ch) ? fs * 0.9 : fs * 0.6), 0);
+  // 글자 크기 재기: 폰 글꼴·글자 크기 설정이 달라도 실제로 그려지는 폭·높이로 겹침을 판단
+  const NS = "http://www.w3.org/2000/svg";
+  const measBox = document.createElement("div");
+  measBox.className = "smap"; measBox.setAttribute("aria-hidden", "true");
+  measBox.style.cssText = "position:absolute;left:-9999px;top:0;width:400px;height:40px;min-height:0;border:0;visibility:hidden;pointer-events:none";
+  const measSvg = document.createElementNS(NS, "svg"), measG = document.createElementNS(NS, "g"), measT = document.createElementNS(NS, "text");
+  measSvg.setAttribute("width", "400"); measSvg.setAttribute("height", "40");
+  measG.appendChild(measT); measSvg.appendChild(measG); measBox.appendChild(measSvg); document.body.appendChild(measBox);
+  const mcache = new Map();
+  function tm(str, gcls, tcls) {
+    const k = gcls + "|" + tcls + "|" + str;
+    if (mcache.has(k)) return mcache.get(k);
+    measG.setAttribute("class", gcls || ""); measT.setAttribute("class", tcls || ""); measT.textContent = str;
+    let r = { w: str.length * 11, h: 14 };
+    try { const bb = measT.getBBox(); r = { w: Math.ceil(measT.getComputedTextLength() || bb.width), h: Math.ceil(bb.height) || 14 }; } catch (e) { /* */ }
+    mcache.set(k, r); return r;
+  }
   function render() {
     const w = W(), h = Hh();
     const boxes = [];
-    const free = (b) => b.x >= 2 && b.y >= 2 && b.x + b.w <= w - 2 && b.y + b.h <= h - 2 && !boxes.some((o) => b.x < o.x + o.w && b.x + b.w > o.x && b.y < o.y + o.h && b.y + b.h > o.y);
+    const P = 2; // 글자끼리 붙지 않게 여백
+    const free = (b) => b.x >= 2 && b.y >= 2 && b.x + b.w <= w - 2 && b.y + b.h <= h - 2 && !boxes.some((o) => b.x < o.x + o.w + P && b.x + b.w + P > o.x && b.y < o.y + o.h + P && b.y + b.h + P > o.y);
     const take = (b) => { boxes.push(b); return b; };
     const pts = (arr) => arr.map(([la, ln]) => px(la, ln).map((v) => v.toFixed(1)).join(",")).join(" ");
     const zr = view.z / fitZ;
@@ -153,13 +169,14 @@
     const placeChip = (hh) => {
       const [x, y] = px(hh.lat, hh.lng), on = hh.id === sel;
       const t1 = on ? `${hh.short || hh.n}` : "", t2 = `${priceTxt(hh)} ★${hh.rating ?? "-"}`;
-      const fs = 11.5, bw = Math.max(tw(t2, fs), on ? tw(t1, 12.5) : 0) + 12, bh = on ? 34 : 19;
+      const m2 = tm(t2, "chip", ""), m1 = on ? tm(t1, "chip on", "t1") : { w: 0, h: 0 };
+      const bw = Math.max(m2.w, m1.w) + 12, bh = on ? m1.h + m2.h + 8 : Math.max(19, m2.h + 5);
       const cands = [[x + 14, y - bh / 2], [x - 14 - bw, y - bh / 2], [x - bw / 2, y - 16 - bh], [x - bw / 2, y + 16]];
       for (const [bx, by] of cands) {
         const b = { x: bx, y: by, w: bw, h: bh };
         if (!free(b) && !on) continue;
         take(b);
-        chips += `<g class="chip${on ? " on" : ""}" data-id="${hh.id}"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="6"/>${on ? `<text x="${(bx + 6).toFixed(1)}" y="${(by + 14).toFixed(1)}" class="t1">${esc(t1)}</text>` : ""}<text x="${(bx + 6).toFixed(1)}" y="${(by + bh - 5.5).toFixed(1)}">${esc(t2)}</text></g>`;
+        chips += `<g class="chip${on ? " on" : ""}" data-id="${hh.id}"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="6"/>${on ? `<text x="${(bx + 6).toFixed(1)}" y="${(by + 3 + m1.h * 0.8).toFixed(1)}" class="t1">${esc(t1)}</text>` : ""}<text x="${(bx + 6).toFixed(1)}" y="${(by + bh - 3 - m2.h * 0.22).toFixed(1)}">${esc(t2)}</text></g>`;
         break;
       }
     };
@@ -171,7 +188,7 @@
       const cx = w / 2, cy = h / 2, dx = x - cx, dy = y - cy;
       const t = Math.min((w / 2 - 8) / Math.abs(dx || 1e-6), (h / 2 - 8) / Math.abs(dy || 1e-6));
       const ex = cx + dx * t, ey = cy + dy * t, ang = Math.atan2(dy, dx);
-      const txt = `${f.n} · ${f.note}`, bw = tw(txt, 10.5) + 20, bh = 18;
+      const txt = `${f.n} · ${f.note}`, mf = tm(txt, "far", "f1"), bw = mf.w + 22, bh = Math.max(18, mf.h + 4);
       const side = Math.abs(ex - 8) < 1 ? "L" : Math.abs(ex - (w - 8)) < 1 ? "R" : Math.abs(ey - 8) < 1 ? "T" : "B";
       let bx = side === "L" ? 4 : side === "R" ? w - bw - 4 : ex - bw / 2, by = side === "T" ? 4 : side === "B" ? h - bh - 4 : ey - bh / 2;
       bx = Math.max(4, Math.min(w - bw - 4, bx)); by = Math.max(4, Math.min(h - bh - 4, by));
@@ -186,25 +203,25 @@
       if (!ok) return;
       take(ok); bx = ok.x; by = ok.y;
       const ax = side === "R" ? bx + bw - 9 : side === "L" ? bx + 9 : bx + 9, ay = by + bh / 2;
-      far += `<g class="far"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="9"/><path d="M-4,-4 L4,0 L-4,4 Z" transform="translate(${ax.toFixed(1)},${ay.toFixed(1)}) rotate(${((ang * 180) / Math.PI).toFixed(0)})"/><text x="${(side === "R" ? bx + 6 : bx + 17).toFixed(1)}" y="${(by + 12.6).toFixed(1)}" class="f1">${esc(txt)}</text></g>`;
+      far += `<g class="far"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="9"/><path d="M-4,-4 L4,0 L-4,4 Z" transform="translate(${ax.toFixed(1)},${ay.toFixed(1)}) rotate(${((ang * 180) / Math.PI).toFixed(0)})"/><text x="${(side === "R" ? bx + 6 : bx + 17).toFixed(1)}" y="${(by + bh / 2 + mf.h * 0.3).toFixed(1)}" class="f1">${esc(txt)}</text></g>`;
     });
     // 주요 역 이름 → 가격 칩 → 명소 → 작은 역 → 권역 이름 순으로 자리 잡기
     const stLabel = (st, x, y) => {
-      const fs = st.m ? 11.5 : 10.5, t0 = tw(st.n, fs);
-      for (const [bx, by] of [[x + 7, y - 6], [x - 7 - t0, y - 6], [x - t0 / 2, y + 7], [x - t0 / 2, y - 19]]) {
-        const b = { x: bx, y: by, w: t0, h: 13 };
+      const ms = tm(st.n, "", "st-t" + (st.m ? " main" : "")), t0 = ms.w, th = ms.h;
+      for (const [bx, by] of [[x + 7, y - th / 2], [x - 7 - t0, y - th / 2], [x - t0 / 2, y + 7], [x - t0 / 2, y - 7 - th]]) {
+        const b = { x: bx, y: by, w: t0, h: th };
         if (!free(b)) continue;
-        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + 10).toFixed(1)}" class="st-t${st.m ? " main" : ""}">${esc(st.n)}</text>`;
+        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="st-t${st.m ? " main" : ""}">${esc(st.n)}</text>`;
         return;
       }
     };
     stationsDrawn.filter(([st]) => st.m).forEach(([st, x, y]) => stLabel(st, x, y));
     clusters.forEach((cl) => {
-      const fs = 11.5, bw = tw(cl.label, fs) + 12, bh = 19;
+      const mc = tm(cl.label, "chip cl", ""), bw = mc.w + 12, bh = Math.max(19, mc.h + 5);
       for (const [bx, by] of [[cl.x + 18, cl.y - bh / 2], [cl.x - 18 - bw, cl.y - bh / 2], [cl.x - bw / 2, cl.y - 20 - bh], [cl.x - bw / 2, cl.y + 20]]) {
         const b = { x: bx, y: by, w: bw, h: bh };
         if (!free(b)) continue;
-        take(b); chips += `<g class="chip cl" data-cl="${cl.mem.map((o) => o.id).join(",")}"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="6"/><text x="${(bx + 6).toFixed(1)}" y="${(by + bh - 5.5).toFixed(1)}">${esc(cl.label)}</text></g>`;
+        take(b); chips += `<g class="chip cl" data-cl="${cl.mem.map((o) => o.id).join(",")}"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="6"/><text x="${(bx + 6).toFixed(1)}" y="${(by + bh - 3 - mc.h * 0.22).toFixed(1)}">${esc(cl.label)}</text></g>`;
         break;
       }
     });
@@ -212,23 +229,23 @@
     C.landmarks.forEach((m) => {
       const [x, y] = px(m.lat, m.lng);
       if (x < -20 || y < -20 || x > w + 20 || y > h + 20) return;
-      const fs = 11.5, ew = 16;
+      const me = tm(m.e, "", "lm-e"), ew = Math.max(16, me.w);
       lm += `<text x="${x.toFixed(1)}" y="${y.toFixed(1)}" class="lm-e" dy="0.35em">${m.e}</text>`;
-      take({ x: x - 8, y: y - 8, w: 16, h: 16 });
-      const tw0 = tw(m.n, fs);
-      for (const [bx, by] of [[x + ew / 2 + 1, y - 7], [x - ew / 2 - 1 - tw0, y - 7], [x - tw0 / 2, y + 9], [x - tw0 / 2, y - 23]]) {
-        const b = { x: bx, y: by, w: tw0, h: 14 };
+      take({ x: x - ew / 2, y: y - ew / 2, w: ew, h: ew });
+      const ml = tm(m.n, "", "lm-t"), tw0 = ml.w, th = ml.h;
+      for (const [bx, by] of [[x + ew / 2 + 2, y - th / 2], [x - ew / 2 - 2 - tw0, y - th / 2], [x - tw0 / 2, y + ew / 2 + 1], [x - tw0 / 2, y - ew / 2 - 1 - th]]) {
+        const b = { x: bx, y: by, w: tw0, h: th };
         if (!free(b)) continue;
-        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + 11).toFixed(1)}" class="lm-t">${esc(m.n)}</text>`;
+        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="lm-t">${esc(m.n)}</text>`;
         break;
       }
     });
     if (zr >= 1.6) stationsDrawn.filter(([st]) => !st.m).forEach(([st, x, y]) => stLabel(st, x, y));
     C.zones.forEach((zn) => {
       if (!zn.n) return;
-      const [x, y] = px(zn.lat, zn.lng), r = mpx(zn.r) * (zn.sy || 1), t0 = tw(zn.n, 12);
-      const b = { x: x - t0 / 2, y: y - r - 2, w: t0, h: 14 };
-      if (free(b)) { take(b); lbl += `<text x="${x.toFixed(1)}" y="${(y - r + 10).toFixed(1)}" class="zone-t" text-anchor="middle" style="fill:${areaOf(zn.k).c}">${esc(zn.n)}</text>`; }
+      const [x, y] = px(zn.lat, zn.lng), r = mpx(zn.r) * (zn.sy || 1), mz = tm(zn.n, "", "zone-t"), t0 = mz.w;
+      const b = { x: x - t0 / 2, y: y - r - 2, w: t0, h: mz.h };
+      if (free(b)) { take(b); lbl += `<text x="${x.toFixed(1)}" y="${(y - r - 2 + mz.h * 0.78).toFixed(1)}" class="zone-t" text-anchor="middle" style="fill:${areaOf(zn.k).c}">${esc(zn.n)}</text>`; }
     });
     // 축척
     const m500 = mpx(500), sc = m500 > 140 ? [250, mpx(250)] : m500 < 40 ? [1000, mpx(1000)] : [500, m500];
