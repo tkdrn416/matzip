@@ -44,22 +44,28 @@
           <button class="chip more" id="moreFilters">필터 ▾</button>
         </div>
         <div class="chips scroll tripdays" id="tripDays" role="group" aria-label="동선 일차" hidden></div>
-        <div class="secondary">
-          <div class="chips scroll" id="catChips" role="group" aria-label="카테고리"></div>
-          <div class="chips" id="bookChips" role="group" aria-label="예약 방식"></div>
-          <div class="row">
-            <div class="chips" id="levelChips" role="group" aria-label="등급"></div>
-            <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
+        <div class="secondary" id="fsheet" role="dialog" aria-label="필터">
+          <div class="fs-h"><b>필터</b><button type="button" class="xbtn" id="fsClose" aria-label="닫기">✕</button></div>
+          <div class="fs-body">
+            <div class="fs-g"><span class="fs-l">음식 종류</span><div class="chips scroll" id="catChips" role="group" aria-label="카테고리"></div></div>
+            <div class="fs-g"><span class="fs-l">예약 방식</span><div class="chips" id="bookChips" role="group" aria-label="예약 방식"></div></div>
+            <div class="fs-g"><span class="fs-l">등급 · 가격</span><div class="row">
+              <div class="chips" id="levelChips" role="group" aria-label="등급"></div>
+              <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
+            </div></div>
+            <div class="fs-g"><span class="fs-l">기타</span><div class="row">
+              <button class="chip toggle" id="strong" aria-pressed="false">근거 3개+ (신뢰도 높은 곳)</button>
+              <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
+              <button class="chip toggle" id="hideVisited" aria-pressed="false">👣 가 본 곳 숨기기</button>
+            </div></div>
+            <div class="fs-g fs-fav"><div class="row">
+              <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
+              <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
+            </div></div>
           </div>
-          <div class="row">
-            <button class="chip toggle" id="strong" aria-pressed="false">근거 3개+ (신뢰도 높은 곳)</button>
-            <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
-            <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
-            <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
-            <button class="chip toggle" id="hideVisited" aria-pressed="false">✓ 방문한 곳 숨기기</button>
-            <button class="chip" id="reset">초기화</button>
-          </div>
+          <div class="fs-f"><button class="chip" id="reset">모두 초기화</button><button type="button" class="cta book" id="fsApply">결과 보기</button></div>
         </div>
+        <div class="fs-back" id="fsBack" hidden></div>
       </div>
 
       <div class="countbar">
@@ -104,6 +110,7 @@
         <li><b>가게를 누르면</b> 예약(또는 전화) · 🧭 길찾기 버튼이 바로 나와요</li>
       </ol>
     </div>
+    <details class="legend"><summary>기호·배지 설명 전체 보기</summary>
     <dl>
       <dt>지도 핀</dt><dd>색·그림 = 음식 종류. 핀 옆 <b style="color:#1e8e3e">●</b> 지금 영업 중, <b style="color:#9aa0a6">●</b> 영업 전·휴무. 많이 확대하면 이름과 타베로그 점수가 보여요.</dd>
       <dt>숫자 원(묶음)</dt><dd>큰 숫자 = 가게 수, 아래 작은 숫자 = 그 안에서 <b>가장 높은 타베로그 점수</b>. 누르면 확대돼요.</dd>
@@ -118,7 +125,7 @@
       <dt>🧳 내 동선</dt><dd>숙소와 일차별로 갈 곳(관광지)을 저장 → "동선 근처 맛집 보기"를 누르면 그 길 근처(걸어서 10분 안팎) 맛집만, 경유지 순서대로 보여요. 날짜를 넣으면 그날 쉬는 가게는 빠져요. "일행에게 동선 보내기"로 링크 공유.</dd>
       <dt>지도 길게 누르기</dt><dd>"동선에 추가" · "숙소로 저장" · "여기서 가까운 순".</dd>
       <dt>오프라인</dt><dd>한 번 본 동네의 지도와 전체 목록은 로밍이 끊겨도 보여요(홈 화면에 추가 권장).</dd>
-    </dl>
+    </dl></details>
     <div class="dlgbtns"><button id="helpClose" class="cta">닫기</button></div>
   </dialog>
   <script src="assets/vendor/leaflet/leaflet.js"></script>

@@ -635,7 +635,12 @@
       <div class="why">${esc(r.why)}</div>
       ${reasonsHtml(r)}
       ${r.tips ? `<div class="tips">💡 ${esc(r.tips)}</div>` : ""}
-      <dl>${rows.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>
+      ${(() => { // 자주 보는 정보만 펼쳐 두고 나머지는 '자세한 정보'로
+        const MAIN = new Set(["대표메뉴", "가격", "영업", "휴무", "예약", "예약팁", "웨이팅", "한산한 때", "흡연"]);
+        const dl = (xs) => `<dl>${xs.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
+        const main = rows.filter(([k]) => MAIN.has(k)), rest = rows.filter(([k]) => !MAIN.has(k));
+        return dl(main) + (rest.length ? `<details class="moreinfo"><summary>자세한 정보 (${rest.map(([k]) => k).slice(0, 4).join("·")}${rest.length > 4 ? " 등" : ""})</summary>${dl(rest)}</details>` : "");
+      })()}
       ${nearHtml(r)}
       ${NOMAP ? "" : `<button class="mapjump" data-act="mapview" data-id="${r.id}">🗺 이 지도에서 위치 보기</button>`}
       <div class="addr">${esc(r.address_ja)} ${esc(r.address_building || "")}</div>`;
@@ -1159,7 +1164,7 @@
   $("count").addEventListener("click", (e) => {
     if (!e.target.closest('[data-act="favonly"]')) return;
     state.favOnly = !state.favOnly;
-    if (state.favOnly) { document.body.classList.add("fopen"); if (typeof syncMore === "function") syncMore(); toast("찜한 곳만 보여요 — '🗺 찜한 곳 구글맵 경로'·'📤 찜 목록 공유'는 필터 더보기 안에"); }
+    if (state.favOnly) toast("찜한 곳만 보여요 — 필터 ▾ 안에 '찜한 곳 구글맵 경로'·'찜 목록 공유'");
     update(true);
   });
   $("list").addEventListener("click", (e) => {
@@ -1335,9 +1340,19 @@
   const moreBtn = $("moreFilters");
   function syncMore() {
     const n = state.cats.size + state.books.size + (isCheap() ? 1 : state.prices.size) + (state.level ? 1 : 0) + (state.openNow ? 1 : 0) + (state.easyWait ? 1 : 0) + (state.noSmoke ? 1 : 0) + (state.strong ? 1 : 0) + (state.favOnly ? 1 : 0) + (state.hideVisited ? 1 : 0);
-    moreBtn.textContent = (document.body.classList.contains("fopen") ? "필터 ▴" : "필터 ▾") + (n ? ` ${n}` : "");
+    moreBtn.textContent = "필터 ▾" + (n ? ` ${n}` : "");
+    if ($("fsApply")) $("fsApply").textContent = `${current.length}곳 보기`;
   }
-  moreBtn.addEventListener("click", () => { document.body.classList.toggle("fopen"); syncMore(); });
+  // 필터 시트 (폰: 아래에서 올라오는 시트, PC: 왼쪽 패널 안에 그대로)
+  function openSheet(on) {
+    document.body.classList.toggle("fopen", on);
+    if ($("fsBack")) $("fsBack").hidden = !on;
+    syncMore();
+  }
+  moreBtn.addEventListener("click", () => openSheet(!document.body.classList.contains("fopen")));
+  if ($("fsClose")) $("fsClose").addEventListener("click", () => openSheet(false));
+  if ($("fsApply")) $("fsApply").addEventListener("click", () => openSheet(false));
+  if ($("fsBack")) $("fsBack").addEventListener("click", () => openSheet(false));
   const _renderChips = renderChips;
   renderChips = function () { _renderChips(); syncMore(); };
 
@@ -1376,7 +1391,7 @@
       d.querySelector(".fctl-t").addEventListener("click", () => {
         if (USE_CARD && curMode() !== "split") setViewMode("split");
         $("panel").scrollTop = 0;
-        document.body.classList.add("fopen"); if (typeof syncMore === "function") syncMore();
+        if (typeof openSheet === "function") openSheet(true);
       });
       d.querySelector(".fctl-x").addEventListener("click", clearFilters);
       return d;
