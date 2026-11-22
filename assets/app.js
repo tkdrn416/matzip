@@ -643,9 +643,42 @@
     return b;
   }
 
+  const allChip = (b) => { b.classList.add("all"); return b; }; // '전체' 칩: 눌려 있어도 필터가 아니므로 파란색 대신 테두리만
+
+  // 지금 걸려 있는 필터 목록 (지도 위 표시·필터 더보기 개수용)
+  function activeFilters() {
+    const f = [];
+    if (state.region !== "all") f.push(D.regions[state.region].ko);
+    state.areas.forEach((a) => f.push(a));
+    state.cats.forEach((c) => f.push(c));
+    if (state.level) f.push(state.level === 3 ? "★★★" : "★★ 이상");
+    if (state.prices.size) f.push(isCheap() ? "1만엔 이하" : [...state.prices].sort().map((x) => YEN[x]).join("·"));
+    state.books.forEach((b) => f.push(b));
+    if (state.openNow) f.push("영업 중");
+    if (state.strong) f.push("근거 탄탄");
+    if (state.noSmoke) f.push("금연·분연");
+    if (state.easyWait) f.push("한적");
+    if (state.favOnly) f.push("찜만");
+    if (state.hideVisited) f.push("방문 숨김");
+    if (state.q) f.push(`"${state.q}"`);
+    return f;
+  }
+  function clearFilters() {
+    Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false });
+    state.cats.clear(); state.prices.clear(); state.books.clear(); state.areas.clear(); $("q").value = "";
+    update(true);
+  }
+  function syncFilterCtl() {
+    const box = document.querySelector(".fctl");
+    if (!box) return;
+    const f = activeFilters();
+    box.hidden = !f.length;
+    if (f.length) box.querySelector(".fctl-t").innerHTML = `<b>필터 ${f.length}개</b> · ${current.length}곳 <span>${esc(f.join(", "))}</span>`;
+  }
+
   let renderChips = function () {
     const rc = $("regionChips"); rc.innerHTML = "";
-    rc.append(chip("전체", state.region === "all", () => { state.region = "all"; state.areas.clear(); update(true); }, R.length));
+    rc.append(allChip(chip("전체", state.region === "all", () => { state.region = "all"; state.areas.clear(); update(true); }, R.length)));
     Object.entries(D.regions).forEach(([k, v]) => {
       const n = R.filter((r) => r.region === k).length;
       if (n) rc.append(chip(v.ko, state.region === k, () => { state.region = k; state.areas.clear(); update(true); }, n));
@@ -656,7 +689,7 @@
     if (state.region !== "all") {
       const areaCount = {};
       R.filter((r) => r.region === state.region).forEach((r) => { areaCount[r.area] = (areaCount[r.area] || 0) + 1; });
-      ac.append(chip("📍 전체 지역", !state.areas.size, () => { state.areas.clear(); update(true); }));
+      ac.append(allChip(chip("📍 전체 지역", !state.areas.size, () => { state.areas.clear(); update(true); })));
       const ents = Object.entries(areaCount).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
       const singles = ents.length > 12 ? ents.filter(([, n]) => n === 1).map(([a]) => a) : [];
       ents.filter(([a]) => !singles.includes(a)).forEach(([a, n]) =>
@@ -674,7 +707,7 @@
 
     const cc = $("catChips"); cc.innerHTML = "";
     const base = R.filter((r) => (state.region === "all" || r.region === state.region) && (!state.areas.size || state.areas.has(r.area)));
-    cc.append(chip("전체 종류", !state.cats.size, () => { state.cats.clear(); update(); }));
+    cc.append(allChip(chip("전체 종류", !state.cats.size, () => { state.cats.clear(); update(); })));
     D.categories.forEach((c) => {
       const n = base.filter((r) => r.category === c.name).length;
       if (!n) return;
@@ -685,7 +718,7 @@
     });
 
     const bc = $("bookChips"); bc.innerHTML = "";
-    bc.append(chip("예약 전체", !state.books.size, () => { state.books.clear(); update(); }));
+    bc.append(allChip(chip("예약 전체", !state.books.size, () => { state.books.clear(); update(); })));
     [...(D.bookingTypes || []), { name: "미확인", emoji: "❔" }].forEach((b) => {
       const n = base.filter((r) => (r.booking_type || "미확인") === b.name).length;
       if (!n) return;
@@ -697,7 +730,7 @@
 
     const lc = $("levelChips"); lc.innerHTML = "";
     [[0, "모든 등급"], [3, "★★★ 3.8+·수상"], [2, "★★ 이상"]].forEach(([v, label]) =>
-      lc.append(chip(label, state.level === v, () => { state.level = v; update(); })));
+      lc.append((v ? (x) => x : allChip)(chip(label, state.level === v, () => { state.level = v; update(); }))));
 
     const pc = $("priceChips"); pc.innerHTML = "";
     [1, 2, 3, 4].forEach((p) => pc.append(chip(YEN[p], state.prices.has(p), () => {
@@ -762,6 +795,7 @@
     cluster.clearLayers();
     cluster.addLayers(current.map((r) => markers.get(r.id)));
     declutter();
+    syncFilterCtl();
     if (fit && current.length && !NOMAP) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.08), { maxZoom: 15, animate: animate !== false });
   }
 
@@ -1137,6 +1171,24 @@
     },
   });
   if (!NOMAP) new AreaCtl().addTo(map);
+  // 지도 위 '필터 N개 적용 중' 표시 — 지도만 크게 볼 때도 필터가 걸린 걸 알 수 있게. 누르면 필터 화면, ✕ 는 모두 해제
+  const FilterCtl = L.Control.extend({
+    options: { position: "topleft" },
+    onAdd() {
+      const d = L.DomUtil.create("div", "fctl");
+      d.hidden = true;
+      d.innerHTML = '<button type="button" class="fctl-t"></button><button type="button" class="fctl-x" aria-label="필터 모두 해제">✕ 해제</button>';
+      L.DomEvent.disableClickPropagation(d);
+      d.querySelector(".fctl-t").addEventListener("click", () => {
+        if (USE_CARD && curMode() !== "split") setViewMode("split");
+        $("panel").scrollTop = 0;
+        document.body.classList.add("fopen"); if (typeof syncMore === "function") syncMore();
+      });
+      d.querySelector(".fctl-x").addEventListener("click", clearFilters);
+      return d;
+    },
+  });
+  if (!NOMAP) { new FilterCtl().addTo(map); syncFilterCtl(); }
   let inViewTimer;
   map.on("moveend", () => { if (state.inView) { clearTimeout(inViewTimer); inViewTimer = setTimeout(() => renderList(current), 150); } });
 

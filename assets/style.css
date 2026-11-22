@@ -446,3 +446,24 @@ button, .chip, .cta, a { touch-action: manipulation; }
 .help dt { font-weight: 800; margin-top: 10px; }
 .help dt:first-child { margin-top: 0; }
 .help dd { margin: 2px 0 0; color: var(--ink); }
+/* ---- 필터 켜짐/꺼짐 구분: 켜진 필터는 파란색 + ✓ , '전체' 칩은 테두리만 ---- */
+:root { --on: #1a73e8; }
+.chip[aria-pressed="true"] { background: var(--on); border-color: var(--on); color: #fff; font-weight: 700; }
+.chip[aria-pressed="true"]::before { content: "✓"; margin-right: 4px; font-weight: 800; }
+.chip[aria-pressed="true"] .n { opacity: .85; }
+.chip.all[aria-pressed="true"] { background: var(--card); color: var(--ink); border: 1.5px solid var(--ink); font-weight: 700; }
+.chip.all[aria-pressed="true"]::before { content: none; }
+.chip.all[aria-pressed="false"] { color: var(--muted); }
+@media (prefers-color-scheme: dark) {
+  :root { --on: #2f7cf6; }
+  .chip[aria-pressed="true"] { color: #fff; }
+  .chip.all[aria-pressed="true"] { background: transparent; color: var(--ink); border-color: var(--ink); }
+}
+/* 지도 위 필터 표시 */
+.fctl { display: flex; align-items: stretch; max-width: min(78vw, 360px); border-radius: 999px; overflow: hidden; box-shadow: 0 2px 8px #0003; margin-top: 8px !important; }
+.fctl[hidden] { display: none; }
+.fctl button { border: none; font: inherit; cursor: pointer; }
+.fctl-t { background: var(--on); color: #fff; padding: 7px 10px 7px 12px; font-size: 13px; text-align: left; white-space: nowrap; overflow: hidden; text-overflow: ellipsis; min-width: 0; flex: 1; }
+.fctl-t span { font-weight: 400; opacity: .9; }
+.fctl-x { background: #fff; color: #1a3d7a; font-size: 13px; font-weight: 700; padding: 7px 12px; white-space: nowrap; border-left: 1px solid #ffffff55 !important; }
+@media (prefers-color-scheme: dark) { .fctl-x { background: #1e1b17; color: #9ec1ff; } }

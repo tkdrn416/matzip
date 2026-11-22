@@ -5284,50 +5284,6 @@
         "price_note": "22,000엔~ (코스)",
         "hours": "월~토 17:45 오픈(18:00 일제 시작) / 일 11:45·17:45 오픈(12:00·18:00 시작)",
         "closed": "부정기",
-        "hours_note": "월~토 17:45 오픈·18:00 일제히 시작, 일요일 2부제(11:45 오픈·12:00 시작 / 17:45 오픈·18:00 시작). 종료시각 미표기. 부정기 휴무 / 월·화·수·목·금·토·일요일 영업시간은 구글 지도 기준(2026-11-22)",
-        "reservation": "필수",
-        "booking_type": "앱예약",
-        "booking_apps": [
-          {
-            "app": "타베로그",
-            "url": "https://tabelog.com/osaka/A2701/A270202/27123561/"
-          }
-        ],
-        "booking_note": "타베로그 네트예약 가능(코스 예약 버튼). 전화 06-6786-8178.",
-        "booking_checked": [
-          "타베로그"
-        ],
-        "smoking": "금연",
-        "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27123561/",
-        "tabelog_score": 3.72,
-        "google_rating": 4.9,
-        "google_reviews": 89,
-        "google_maps_uri": "https://maps.google.com/?cid=704591701996288838",
-        "google_reservable": true,
-        "google_status": "OPERATIONAL",
-        "google_checked_at": "2026-11-21",
-        "awards": [
-          "타베로그 백명점 덴푸라 2025"
-        ],
-        "youtube": [],
-        "tags": [
-          "고급",
-          "예약필수",
-          "백명점"
-        ],
-        "legend_level": 2,
-        "editor_level": 1,
-        "icon": false,
-        "evidence": [
-          "타베로그 3.72",
-          "백명점"
-        ],
-        "sources": [
-          "https://tabelog.com/en/osaka/A2701/A270202/27123561/",
-          "https://award.tabelog.com/hyakumeiten/tempura"
-        ],
-        "verified_open": true,
-        "checked_at": "2026-11-21",
         "hours_week": {
           "mon": [
             [
@@ -5376,6 +5332,50 @@
             ]
           ]
         },
+        "hours_note": "월~토 17:45 오픈·18:00 일제히 시작, 일요일 2부제(11:45 오픈·12:00 시작 / 17:45 오픈·18:00 시작). 종료시각 미표기. 부정기 휴무 / 월·화·수·목·금·토·일요일 영업시간은 구글 지도 기준(2026-11-22)",
+        "reservation": "필수",
+        "booking_type": "앱예약",
+        "booking_apps": [
+          {
+            "app": "타베로그",
+            "url": "https://tabelog.com/osaka/A2701/A270202/27123561/"
+          }
+        ],
+        "booking_note": "타베로그 네트예약 가능(코스 예약 버튼). 전화 06-6786-8178.",
+        "booking_checked": [
+          "타베로그"
+        ],
+        "smoking": "금연",
+        "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27123561/",
+        "tabelog_score": 3.72,
+        "google_rating": 4.9,
+        "google_reviews": 89,
+        "google_maps_uri": "https://maps.google.com/?cid=704591701996288838",
+        "google_reservable": true,
+        "google_status": "OPERATIONAL",
+        "google_checked_at": "2026-11-21",
+        "awards": [
+          "타베로그 백명점 덴푸라 2025"
+        ],
+        "youtube": [],
+        "tags": [
+          "고급",
+          "예약필수",
+          "백명점"
+        ],
+        "legend_level": 2,
+        "editor_level": 1,
+        "icon": false,
+        "evidence": [
+          "타베로그 3.72",
+          "백명점"
+        ],
+        "sources": [
+          "https://tabelog.com/en/osaka/A2701/A270202/27123561/",
+          "https://award.tabelog.com/hyakumeiten/tempura"
+        ],
+        "verified_open": true,
+        "checked_at": "2026-11-21",
         "links": {
           "booking": [
             {
@@ -34652,6 +34652,10 @@
         "tabelog_score": 4.15,
         "google_rating": 4.9,
         "google_reviews": 35,
+        "google_maps_uri": "https://maps.google.com/?cid=15706979426963374603",
+        "google_reservable": true,
+        "google_status": "OPERATIONAL",
+        "google_checked_at": "2026-11-22",
         "awards": [
           "타베로그 백명점 야키토리 WEST 2026",
           "타베로그 백명점 야키토리 WEST 2025"
@@ -34674,10 +34678,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "google_maps_uri": "https://maps.google.com/?cid=15706979426963374603",
-        "google_reservable": true,
-        "google_checked_at": "2026-11-22",
-        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -34800,6 +34800,10 @@
         "tabelog_score": 4.28,
         "google_rating": 4.8,
         "google_reviews": 53,
+        "google_maps_uri": "https://maps.google.com/?cid=2332808340527279990",
+        "google_reservable": true,
+        "google_status": "OPERATIONAL",
+        "google_checked_at": "2026-11-22",
         "awards": [
           "Tabelog Award 2026 Bronze",
           "타베로그 백명점 스시 WEST 2025"
@@ -34822,10 +34826,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "google_maps_uri": "https://maps.google.com/?cid=2332808340527279990",
-        "google_reservable": true,
-        "google_checked_at": "2026-11-22",
-        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -34948,6 +34948,10 @@
         "tabelog_score": 4.06,
         "google_rating": 4.4,
         "google_reviews": 89,
+        "google_maps_uri": "https://maps.google.com/?cid=16752384855777546505",
+        "google_reservable": true,
+        "google_status": "OPERATIONAL",
+        "google_checked_at": "2026-11-22",
         "awards": [
           "타베로그 백명점 스페인 요리 2026",
           "타베로그 백명점 스페인 요리 2024",
@@ -34974,10 +34978,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "google_maps_uri": "https://maps.google.com/?cid=16752384855777546505",
-        "google_reservable": true,
-        "google_checked_at": "2026-11-22",
-        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -45585,6 +45585,9 @@
         "tabelog_score": 3.95,
         "google_rating": 4.8,
         "google_reviews": 150,
+        "google_reservable": true,
+        "google_status": "OPERATIONAL",
+        "google_checked_at": "2026-11-22",
         "awards": [
           "Tabelog Award 2026 Bronze",
           "Tabelog Award 2025 Bronze",
@@ -45612,9 +45615,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "google_reservable": true,
-        "google_checked_at": "2026-11-22",
-        "google_status": "OPERATIONAL",
         "links": {
           "booking": [
             {
@@ -63008,6 +63008,8 @@
         "google_rating": null,
         "google_reviews": null,
         "google_maps_uri": "https://maps.google.com/?cid=160485502234496222",
+        "google_reservable": null,
+        "google_status": null,
         "google_checked_at": "2026-11-22",
         "awards": [
           "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
@@ -63034,8 +63036,6 @@
         ],
         "verified_open": true,
         "checked_at": "2026-11-21",
-        "google_reservable": null,
-        "google_status": null,
         "links": {
           "booking": [],
           "google_maps": "https://maps.google.com/?cid=160485502234496222",
