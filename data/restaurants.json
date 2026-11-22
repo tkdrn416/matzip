@@ -4258,7 +4258,7 @@
     "region": "osaka",
     "area": "도톤보리·난바",
     "category": "카페·킷사텐",
-    "signature": "핫케이크, 나폴리탄(ナポリタン), 커피(쇼와 레트로 인테리어)",
+    "signature": "핫케이크, 푸딩, 커피(쇼와 레트로 인테리어)",
     "why": "도톤보리 한복판에서 쇼와 시대 분위기를 그대로 간직한 순킷사. 타베로그 3.64(리뷰 1,900건), 킷사텐 백명점 2021·2022·2026 선정.",
     "reasons": [
       {
@@ -4372,7 +4372,16 @@
       "https://award.tabelog.com/hyakumeiten/kissaten"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 2/40 언급 — 최근 후기 40개 중 2개만 나폴리탄 언급(1개는 '스파게티'로만 표기), 핫케이크·푸딩·파르페 위주; 사진 20장 캡션 중 나폴리탄 0",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27005758/dtlrvwlst/"
+      }
+    ]
   },
   {
     "id": "osaka-033",
@@ -14023,7 +14032,7 @@
     "region": "osaka",
     "area": "신세카이·덴노지",
     "category": "카페·킷사텐",
-    "signature": "원조 믹스주스(ミックスジュース), 구운 나폴리탄(焼きナポリタン)·나폴리탄 핫도그",
+    "signature": "원조 믹스주스(ミックスジュース)",
     "why": "1948년 창업, 오사카 명물 믹스주스의 발상지로 알려진 신세카이 킷사텐(공식사이트). 타베로그 3.63, 킷사텐 백명점 2021.",
     "reasons": [
       {
@@ -14138,7 +14147,16 @@
       "http://www.sennariya-coffee.jp/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 3/40 언급 — 최근 후기 40개 중 3개만 나폴리탄 언급, 약 25건이 믹스주스 이야기; 焼きナポリタン은 레트로 양식 메뉴 중 하나(팝업 보도자료)",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270206/27017860/dtlrvwlst/B539371893/"
+      }
+    ]
   },
   {
     "id": "osaka-103",
@@ -33094,7 +33112,16 @@
       "https://tabelog.com/kr/osaka/A2701/A270102/27054884/dtlrvwlst/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "A",
+        "evidence": "최근 타베로그 후기 31/40 언급 — 최근 후기 40개 중 31개가 '정열의 나폴리탄'(달걀 프라이 토핑) 언급, 사진 캡션도 나폴리탄 일색",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270102/27054884/dtlrvwlst/B529325395/"
+      }
+    ]
   },
   {
     "id": "osaka-238",
@@ -33104,7 +33131,7 @@
     "region": "osaka",
     "area": "우메다·오사카역",
     "category": "카페·킷사텐",
-    "signature": "순킷사 나폴리탄(純喫茶のナポリタン), 함바그 샌드, 케이크 세트",
+    "signature": "치즈케이크, 커피, 함바그 샌드 — '우주선' 레트로 퓨처 인테리어",
     "why": "타베로그 3.59(리뷰 1,045건). 1947년 무렵 우메다에서 창업해 1970년 오사카역앞 제1빌딩으로 옮기면서 '우주선'을 모티브로 꾸민 레트로 퓨처 킷사텐. 190석 규모의 쇼와 공간에서 옛날식 케첩 나폴리탄을 저렴하게 먹을 수 있다.",
     "reasons": [
       {
@@ -33223,7 +33250,16 @@
       "https://www.timeout.jp/osaka/ja/restaurants/6-junkissa-in-osaka"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 2/40 언급 — 최근 후기 40개 중 2개만 나폴리탄 언급, 치즈케이크·커피·함바그 샌드가 주류; 사진 캡션 나폴리탄 0",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270101/27004819/dtlrvwlst/B532726401/"
+      }
+    ]
   },
   {
     "id": "osaka-239",
@@ -33297,7 +33333,16 @@
       "https://tabelog.com/kr/osaka/A2701/A270101/27134181/dtlrvwlst/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "A",
+        "evidence": "최근 타베로그 후기 26/40 언급 — 최근 후기 40개 중 26개가 나폴리탄 언급(철판·앙카케 나폴리탄), 사진 캡션 '오사카 나폴리탄 600엔' 등 다수",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270101/27134181/dtlrvwlst/B504059052/"
+      }
+    ]
   },
   {
     "id": "osaka-240",
@@ -34299,151 +34344,6 @@
     "checked_at": "2026-11-21"
   },
   {
-    "id": "osaka-247",
-    "name_ko": "킷사 쇼치쿠",
-    "name_ja": "喫茶 松竹",
-    "name_en": "Kissa Shochiku",
-    "region": "osaka",
-    "area": "닛폰바시·구로몬",
-    "category": "카페·킷사텐",
-    "signature": "나폴리탄(ナポリタン) 1,200엔 — 쫄깃한 굵은 면, 달걀 프라이, 샐러드 포함 / 두툼한 핫케이크, 푸딩",
-    "why": "쫄깃한 굵은 면에 케첩 맛을 듬뿍 입히고 달걀 프라이를 올린 나폴리탄(샐러드 포함 1,200엔)을 내는 쇼와 레트로풍 킷사텐으로, 2025~2026년 후기에 나폴리탄 주문이 꾸준하다. 타베로그 3.47(리뷰 121건). 아침 8시부터 두툼한 핫케이크 모닝으로도 인기다.",
-    "reasons": [
-      {
-        "type": "타베로그",
-        "detail": "타베로그 3.47 (리뷰 121건). 사진 설명에 나폴리탄 1,200엔(샐러드 포함)",
-        "url": "https://tabelog.com/osaka/A2701/A270202/27125241/"
-      },
-      {
-        "type": "현지평판",
-        "detail": "타베로그 후기 2026-01 '쫄깃한 굵은 면에 케첩 맛과 재료가 잘 어우러지고 달걀 프라이가 반갑다', 2026-05·2025-09·2025-05 나폴리탄 주문 후기, 2026-03 '옆 사람의 나폴리탄이 맛있어 보였다'",
-        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27125241/dtlrvwlst/"
-      },
-      {
-        "type": "구글",
-        "detail": "구글 지도 4.2 / 리뷰 357개 (2026-11-22 기준)",
-        "url": "https://maps.google.com/?cid=13521872176684739280"
-      }
-    ],
-    "tips": "2층이 주 좌석인 작은 가게라 주말엔 금방 찬다(일요일 아침 9시 반에 8명 대기한 후기도 있음). 카드(Master)·전자화폐·PayPay 가능.",
-    "address_ja": "大阪府大阪市浪速区日本橋3-7-20",
-    "address_building": "福島ビル",
-    "station": "난바역 약 380m (닛폰바시역·난카이 난바역도 도보권)",
-    "phone": "+81-6-6641-5555",
-    "lat": 34.662192,
-    "lng": 135.505556,
-    "geo": "google:喫茶 松竹",
-    "price_level": 2,
-    "price_note": "1,000~1,999엔 (타베로그) · 나폴리탄 1,200엔(샐러드 포함, 2026년 1월 후기)",
-    "hours": "08:00-20:00 (L.O. 19:30)",
-    "closed": null,
-    "hours_week": {
-      "mon": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "tue": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "wed": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "thu": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "fri": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "sat": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "sun": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ]
-    },
-    "hours_note": "L.O. 19:30 · 타베로그에 정기휴일 표기 없음",
-    "notice": null,
-    "reservation": "가능",
-    "booking_type": "전화예약만",
-    "booking_apps": [],
-    "booking_note": "좌석 예약은 전화로만 받는다",
-    "booking_checked": [
-      "타베로그"
-    ],
-    "phone_booking": true,
-    "lo_week": {
-      "mon": [
-        "19:30"
-      ],
-      "tue": [
-        "19:30"
-      ],
-      "wed": [
-        "19:30"
-      ],
-      "thu": [
-        "19:30"
-      ],
-      "fri": [
-        "19:30"
-      ],
-      "sat": [
-        "19:30"
-      ],
-      "sun": [
-        "19:30"
-      ]
-    },
-    "wait": null,
-    "smoking": "금연",
-    "smoking_note": null,
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270202/27125241/",
-    "tabelog_score": 3.47,
-    "google_rating": 4.2,
-    "google_reviews": 357,
-    "google_maps_uri": "https://maps.google.com/?cid=13521872176684739280",
-    "google_reservable": true,
-    "google_status": "OPERATIONAL",
-    "google_checked_at": "2026-11-22",
-    "awards": [],
-    "youtube": [],
-    "tags": [
-      "아침식사"
-    ],
-    "legend_level": 1,
-    "editor_level": 1,
-    "icon": false,
-    "evidence": [
-      "구글 4.2"
-    ],
-    "sources": [
-      "https://tabelog.com/kr/osaka/A2701/A270202/27125241/",
-      "https://tabelog.com/kr/osaka/A2701/A270202/27125241/dtlrvwlst/"
-    ],
-    "verified_open": true,
-    "checked_at": "2026-11-21"
-  },
-  {
     "id": "osaka-248",
     "name_ko": "다치노미 텟켄",
     "name_ja": "立ち飲み テッケン",
@@ -34573,7 +34473,6 @@
     "google_rating": 4.4,
     "google_reviews": 117,
     "google_maps_uri": "https://maps.google.com/?cid=5933211336560870122",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -34737,7 +34636,6 @@
     "google_rating": 3.6,
     "google_reviews": 419,
     "google_maps_uri": "https://maps.google.com/?cid=13062483927373185484",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [],
@@ -34758,7 +34656,16 @@
       "https://osakamania.jp/shop/napolitan_03/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "B",
+        "evidence": "최근 타베로그 후기 8/40 언급 — 최근 후기 40개 중 8개 나폴리탄 언급('명물 함바그 나폴리탄', 2페이지에선 최다 메뉴), 가게 소개도 '명물 나폴리탄'; 사진 캡션엔 요리명 없음",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27011050/dtlrvwlst/B531368560/"
+      }
+    ]
   },
   {
     "id": "osaka-250",
@@ -35149,7 +35056,6 @@
     "google_rating": 4.2,
     "google_reviews": 547,
     "google_maps_uri": "https://maps.google.com/?cid=7988117311787284847",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -35287,7 +35193,6 @@
     "google_rating": 4.2,
     "google_reviews": 489,
     "google_maps_uri": "https://maps.google.com/?cid=12743576623859092201",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -35421,7 +35326,6 @@
     "google_rating": 4.5,
     "google_reviews": 158,
     "google_maps_uri": "https://maps.google.com/?cid=16000012661484791949",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -35727,7 +35631,6 @@
     "google_rating": 3.8,
     "google_reviews": 783,
     "google_maps_uri": "https://maps.google.com/?cid=5172058886481495177",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [],
@@ -35749,7 +35652,16 @@
       "https://osakamania.jp/shop/napolitan_01/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄(철판 스파게티)",
+        "ja": "ナポリタン",
+        "grade": "B",
+        "evidence": "최근 타베로그 후기 8/40 언급 — 최근 후기 40개 중 '나폴리탄' 명칭은 2개뿐이고 '철판 스파게티/스파게티' 포함 시 8개; 미쓰야 라이스와 함께 2대 메뉴, 사진 '철판 스파게티' 캡션 있음",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270202/27001480/dtlrvwlst/B515980020/"
+      }
+    ]
   },
   {
     "id": "osaka-257",
@@ -35916,7 +35828,6 @@
     "google_rating": 4,
     "google_reviews": 633,
     "google_maps_uri": "https://maps.google.com/?cid=3545541098389636740",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -35942,7 +35853,16 @@
       "https://tabelog.com/matome/23717/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリ風スパゲッティ",
+        "grade": "C",
+        "evidence": "메뉴에 '나폴리풍 스파게티'(1,600엔, 2026-06 메뉴)가 있음 — 최근 후기에서 많이 언급되진 않음",
+        "url": "https://tabelog.com/osaka/A2701/A270203/27056274/"
+      }
+    ]
   },
   {
     "id": "osaka-258",
@@ -36061,7 +35981,16 @@
       "https://tabelog.com/matome/23717/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "B",
+        "evidence": "최근 타베로그 후기 14/40 언급 — 최근 후기 40개 중 14개 나폴리탄 언급으로 최다 메뉴(단골 1명이 4건), 점심=나폴리탄·밤=모츠나베; 공식 사진엔 나폴리탄 없음",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270203/27133984/dtlrvwlst/B520764448/"
+      }
+    ]
   },
   {
     "id": "osaka-259",
@@ -36181,138 +36110,6 @@
     ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270204/27000581/"
-    ],
-    "verified_open": true,
-    "checked_at": "2026-11-21"
-  },
-  {
-    "id": "osaka-260",
-    "name_ko": "야리야마치 킷사시츠 마치노아카리",
-    "name_ja": "鎗屋町 喫茶室 街の灯り",
-    "name_en": "Yariyamachi Kissashitsu Machi no Akari",
-    "region": "osaka",
-    "area": "오사카성·다니마치",
-    "category": "카페·킷사텐",
-    "signature": "가게 추천 나폴리탄(ナポリタン) — 구운 소시지·달걀 프라이, 커피 또는 홍차 세트 1,500엔 / 명물 핫도그, 푸딩",
-    "why": "가게가 첫손에 꼽는 나폴리탄은 소박한 케첩 맛에 구운 소시지와 달걀 프라이를 올린 옛날식으로, 오사카메트로 나폴리탄 특집과 VOKKA '오사카 나폴리탄 명점 10선'(1위)에 올랐다. 타베로그 3.49(리뷰 203건). 다니마치4초메 오피스가의 레트로 순킷사지만 좌석에서 담배를 피울 수 있다.",
-    "reasons": [
-      {
-        "type": "타베로그",
-        "detail": "타베로그 3.49 (리뷰 203건)",
-        "url": "https://tabelog.com/osaka/A2701/A270104/27104330/"
-      },
-      {
-        "type": "언론·가이드",
-        "detail": "오사카메트로 '오사카마니아' 나폴리탄 마니아 스폿(2026년 4월 기준 정보): '가게 추천 나폴리탄', 소박한 케첩 맛에 구운 소시지와 달걀 프라이, 커피·홍차 세트 1,500엔",
-        "url": "https://osakamania.jp/shop/napolitan_13/"
-      },
-      {
-        "type": "언론·가이드",
-        "detail": "VOKKA '오사카의 정말 맛있는 나폴리탄 명점 10선'(2025-09 갱신) 1위 — 진한 케첩 맛과 채소 감칠맛에 순한 치즈",
-        "url": "https://vokka.jp/15468/"
-      }
-    ],
-    "tips": "카드·전자결제가 안 되니 현금을 챙길 것. 실내 흡연이 가능한 가게라 담배 냄새가 싫다면 피하는 게 낫다. 영업시간이 날마다 달라질 수 있어 공식 인스타그램을 확인하고 가자.",
-    "address_ja": "大阪府大阪市中央区鎗屋町1-2-2",
-    "address_building": "ビルディングセキ 1F",
-    "station": "다니마치욘초메역 3번 출구 도보 3분",
-    "phone": null,
-    "lat": 34.682665,
-    "lng": 135.515735,
-    "geo": "google:鎗屋町喫茶室 街の灯り",
-    "price_level": 2,
-    "price_note": "1,000~1,999엔 (타베로그) · 나폴리탄 커피·홍차 세트 1,500엔(2026년 4월 소개 기준)",
-    "hours": "월~목 08:00-20:00, 금 09:30-21:30, 토·일 11:00-18:00",
-    "closed": "부정기 휴무",
-    "hours_week": {
-      "mon": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "tue": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "wed": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "thu": [
-        [
-          "08:00",
-          "20:00"
-        ]
-      ],
-      "fri": [
-        [
-          "09:30",
-          "21:30"
-        ]
-      ],
-      "sat": [
-        [
-          "11:00",
-          "18:00"
-        ]
-      ],
-      "sun": [
-        [
-          "11:00",
-          "18:00"
-        ]
-      ]
-    },
-    "hours_note": "공휴일 10:00-18:00 · 영업시간·휴무가 날마다 달라질 수 있어 인스타그램 확인 권장(오사카메트로 소개)",
-    "notice": null,
-    "reservation": "불가",
-    "booking_type": "현장방문",
-    "booking_apps": [],
-    "booking_note": null,
-    "booking_checked": [
-      "타베로그"
-    ],
-    "phone_booking": false,
-    "wait": {
-      "level": 0,
-      "estimate": "대기 거의 없음",
-      "best_time": "토요일 점심에도 바로 들어간 후기가 많다",
-      "basis": "타베로그 후기 2026-09 '토요일 점심 바로 입장', 2026-05 '토요일 13시 줄 없이 입장', 2026-07 '대기 없음'",
-      "source": "https://tabelog.com/kr/osaka/A2701/A270104/27104330/dtlrvwlst/"
-    },
-    "smoking": "흡연가능",
-    "smoking_note": "좌석 흡연 가능(타베로그 표기). 후기에도 '실내 흡연이 가능한 가게'라는 언급이 있음",
-    "tabelog_url": "https://tabelog.com/osaka/A2701/A270104/27104330/",
-    "tabelog_score": 3.49,
-    "google_rating": 3.8,
-    "google_reviews": 242,
-    "google_maps_uri": "https://maps.google.com/?cid=16039276115208780219",
-    "google_reservable": null,
-    "google_status": "OPERATIONAL",
-    "google_checked_at": "2026-11-22",
-    "awards": [],
-    "youtube": [],
-    "tags": [
-      "현금만",
-      "혼밥가능",
-      "아침식사"
-    ],
-    "legend_level": 1,
-    "editor_level": 1,
-    "icon": false,
-    "evidence": [
-      "언론·가이드"
-    ],
-    "sources": [
-      "https://tabelog.com/kr/osaka/A2701/A270104/27104330/",
-      "https://tabelog.com/kr/osaka/A2701/A270104/27104330/dtlrvwlst/",
-      "https://osakamania.jp/shop/napolitan_13/",
-      "https://vokka.jp/15468/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -36729,7 +36526,6 @@
     "google_rating": 4.3,
     "google_reviews": 227,
     "google_maps_uri": "https://maps.google.com/?cid=9614155292228035165",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -36859,7 +36655,6 @@
     "google_rating": 4.2,
     "google_reviews": 236,
     "google_maps_uri": "https://maps.google.com/?cid=1311654871573112263",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -37149,7 +36944,16 @@
       "https://osakamania.jp/shop/napolitan_06/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "B",
+        "evidence": "최근 타베로그 후기 5/40 언급 — 최근 후기 40개 중 5개 나폴리탄 언급(7번째 방문 단골 포함), 푸딩·가토쇼콜라·오므라이스와 비슷한 비중, 사진 '나폴리탄' 1장; B와 C의 경계",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270205/27088921/dtlrvwlst/B533970893/"
+      }
+    ]
   },
   {
     "id": "osaka-267",
@@ -37159,8 +36963,8 @@
     "region": "osaka",
     "area": "우츠보·니시구",
     "category": "카페·킷사텐",
-    "signature": "나폴리탄(ナポリタン) — 2.1mm 굵은 면, 샐러드·수프 포함 1,150엔 / 옛날식 오므라이스, 블랙 카레",
-    "why": "2.1mm 굵은 면에 케첩의 산미와 우스터소스·버터의 감칠맛을 더한 나폴리탄을 샐러드·수프와 함께 1,150엔에 내며, 오사카메트로 나폴리탄 특집에 소개됐다. 타베로그 3.56(리뷰 229건). 지은 지 100년쯤 된 서양식 건물 '가와구치 아파트' 1층에 가나자와 노포 킷사텐의 가구를 물려받아 꾸민 레트로 순킷사다.",
+    "signature": "옛날식 오므라이스, 푸딩, 블랙 카레 (굵은 면 나폴리탄도 메뉴에 있음)",
+    "why": "타베로그 3.56(리뷰 229건)의 레트로 킷사텐. 최근 후기에선 옛날식 오므라이스와 푸딩 이야기가 가장 많고, 2.1mm 굵은 면 나폴리탄도 메뉴에 있다.",
     "reasons": [
       {
         "type": "타베로그",
@@ -37267,7 +37071,6 @@
     "google_rating": 4.7,
     "google_reviews": 312,
     "google_maps_uri": "https://maps.google.com/?cid=17677705500315608450",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [],
@@ -37289,7 +37092,16 @@
       "https://osakamania.jp/shop/napolitan_05/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 1/40 언급 — 최근 후기 40개 중 1개만 나폴리탄 언급, 오므라이스·자가제 푸딩·피자 토스트·크림소다가 주류; 사진 캡션 나폴리탄 0",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270105/27125197/dtlrvwlst/?PG=2"
+      }
+    ]
   },
   {
     "id": "osaka-268",
@@ -37299,8 +37111,8 @@
     "region": "osaka",
     "area": "텐마·텐진바시스지",
     "category": "카페·킷사텐",
-    "signature": "특제 굵은면 나폴리탄(特製 太麺ナポリタン) — 쫄깃한 굵은 면에 두툼한 스팸, 클래식 푸딩, 7단 핫케이크",
-    "why": "자가제 토마토소스를 두른 쫄깃한 굵은 면에 두툼하게 썬 스팸을 함께 볶은 '특제 굵은면 나폴리탄'을 가게가 자랑 메뉴로 내세우고, 오사카메트로의 나폴리탄 특집에도 실렸다. 타베로그 3.62(리뷰 637건)로 카페 백명점 WEST 2025에 뽑힌, 텐진바시스지 상점가 남쪽 끝의 앤티크풍 카페다.",
+    "signature": "클래식 푸딩, 7단 핫케이크, 케이크 (특제 굵은면 나폴리탄도 있음)",
+    "why": "카페 백명점 WEST 2025에 오른 텐마의 카페(타베로그 3.62). 최근 후기는 클래식 푸딩·케이크 이야기가 대부분이고, 가게가 자랑하는 특제 굵은면 나폴리탄도 있다.",
     "reasons": [
       {
         "type": "타베로그",
@@ -37425,7 +37237,6 @@
     "google_rating": 4.2,
     "google_reviews": 765,
     "google_maps_uri": "https://maps.google.com/?cid=1086229928787486003",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -37452,7 +37263,16 @@
       "https://nlab.itmedia.co.jp/research/articles/1607775/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 0/60 언급 — 최근 후기 60개 중 나폴리탄 언급 0개(스파게티 2건), 나폴리탄 사진은 가게 공식 사진 1장('人気のナポリタン')뿐; 푸딩·치즈케이크·모닝 위주",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270103/27065349/dtlphotolst/"
+      }
+    ]
   },
   {
     "id": "osaka-269",
@@ -37561,7 +37381,6 @@
     "google_rating": 3.9,
     "google_reviews": 164,
     "google_maps_uri": "https://maps.google.com/?cid=12243001173305405869",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [],
@@ -37582,7 +37401,16 @@
       "https://tabelog.com/matome/21611/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "A",
+        "evidence": "최근 타베로그 후기 13/40 언급 — 최근 후기 40개 중 13개가 '와라지 나폴리탄' 언급해 최다 메뉴('명물', TV 소개 언급), 후기 사진 캡션 'わらじナポリタン' 있음",
+        "url": "https://tabelog.com/kr/osaka/A2701/A270103/27029446/dtlrvwlst/B524358593/"
+      }
+    ]
   },
   {
     "id": "osaka-270",
@@ -38122,7 +37950,6 @@
     "google_rating": 4.2,
     "google_reviews": 208,
     "google_maps_uri": "https://maps.google.com/?cid=5692788974190995942",
-    "google_reservable": null,
     "google_status": "OPERATIONAL",
     "google_checked_at": "2026-11-22",
     "awards": [
@@ -42837,7 +42664,7 @@
     "region": "kyoto",
     "area": "시조·카라스마",
     "category": "카페·킷사텐",
-    "signature": "아라비아의 진주(설탕·밀크 넣은 블렌드 커피), 교토의 아침식사 세트, 나폴리탄식 케첩 스파게티 '이탈리안(イタリアン)'",
+    "signature": "아라비아의 진주(설탕·밀크 넣은 블렌드 커피), 교토의 아침식사 세트",
     "why": "1940년 창업, 교토 킷사텐 문화를 상징하는 노포 카페. 아침 7시부터 문을 여는 '교토의 아침' 명소.",
     "reasons": [
       {
@@ -42973,7 +42800,16 @@
       "https://tabelog.com/en/kyoto/A2601/A260202/26000412/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "イタリアン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 3/40 언급 — 최근 후기 40개 중 3개만 '이탈리안'/스파게티 언급, 커피·교토의 아침식사·샌드위치가 압도; 사진 캡션 나폴리탄 0",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260202/26000412/dtlrvwlst/B534195695/"
+      }
+    ]
   },
   {
     "id": "kyoto-034",
@@ -58545,7 +58381,7 @@
     "region": "kyoto",
     "area": "시조·카라스마",
     "category": "카페·킷사텐",
-    "signature": "철판 나폴리탄(鉄板ナポリタン), 코로나의 달걀 샌드위치(コロナの玉子サンド), 모닝 A세트",
+    "signature": "코로나의 달걀 샌드위치(コロナの玉子サンド), 모닝 A세트, 철판 나폴리탄",
     "why": "타베로그 3.71(리뷰 1,127건), 킷사텐 百名店 3회(2021·2022·2026). 2011년 옛 킷사 '세븐' 자리를 이어받아 문을 연 레트로 킷사텐으로, 두툼한 달걀 샌드위치와 함께 철판 나폴리탄이 이름난 곳. 일본 언론은 개업 2년째부터 손님이 몰린 계기로 이 집 나폴리탄을 꼽았다.",
     "reasons": [
       {
@@ -58673,7 +58509,16 @@
       "https://www.nikkan-gendai.com/articles/view/life/339672"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 2/60 언급 — 최근 후기 60개 중 나폴리탄 언급 2개(1~40번째 후기는 0개), 달걀 샌드위치·모닝 세트가 압도; 닛칸겐다이 기사에서만 인기 메뉴로 소개",
+        "url": "https://www.nikkan-gendai.com/articles/view/life/339672"
+      }
+    ]
   },
   {
     "id": "kyoto-146",
@@ -59065,7 +58910,7 @@
     "region": "kyoto",
     "area": "가와라마치·기야마치",
     "category": "이자카야·다치노미",
-    "signature": "가라아게(からあげ)·구지(옥돔) 가라아게, 나폴리탄, 송이버섯 튀김 등 제철 안주",
+    "signature": "가라아게(からあげ)·구지(옥돔) 가라아게, 송이버섯 튀김 등 제철 안주",
     "why": "타베로그 3.76, 이자카야 百名店 WEST 2년 연속(2025·2026). 예약도, 가게 앞 줄서기도 안 되는 카운터 8석이라 '운 좋게 빈자리가 있을 때만' 들어갈 수 있는 기야마치의 화제 이자카야.",
     "reasons": [
       {
@@ -59195,7 +59040,16 @@
       "https://tabelog.com/kr/kyoto/A2601/A260201/26041273/dtlrvwlst/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "C",
+        "evidence": "최근 타베로그 후기 1/40 언급 — 최근 후기 40개 중 1개만 나폴리탄 언급(주문 목록), 후기 사진 캡션 1장; 가라아게·하모 등 제철 안주 위주의 이자카야",
+        "url": "https://tabelog.com/kr/kyoto/A2601/A260201/26041273/dtlrvwlst/B535706964/"
+      }
+    ]
   },
   {
     "id": "kyoto-150",
@@ -67496,8 +67350,6 @@
     "google_rating": null,
     "google_reviews": null,
     "google_maps_uri": "https://maps.google.com/?cid=160485502234496222",
-    "google_reservable": null,
-    "google_status": null,
     "google_checked_at": "2026-11-22",
     "awards": [
       "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
@@ -69947,7 +69799,16 @@
       "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/dtlrvwlst/"
     ],
     "verified_open": true,
-    "checked_at": "2026-11-21"
+    "checked_at": "2026-11-21",
+    "dishes": [
+      {
+        "name": "나폴리탄",
+        "ja": "ナポリタン",
+        "grade": "B",
+        "evidence": "최근 타베로그 후기 8/40 언급 — 최근 후기 40개 중 8개 나폴리탄 언급, 제목에 '64명물 나폴리탄' 다수; 단바 닭 커틀릿·오믈렛과 함께 주력 메뉴",
+        "url": "https://tabelog.com/kr/hyogo/A2801/A280102/28012994/dtlrvwlst/B535657931/"
+      }
+    ]
   },
   {
     "id": "kobe-061",

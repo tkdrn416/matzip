@@ -705,7 +705,7 @@
   const izakayaLike = (r) => r.category === "이자카야·다치노미" || r.category === "쿠시카츠"
     || (r.category === "야키토리·닭요리" && (r.price_level || 9) <= 3) || DRINKY.test([r.signature, r.why, r.tips].join(" "));
   function textOf(r) {
-    return [izakayaLike(r) ? "이자카야 술집" : "", r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" "), r.smoking ? (noSmoke(r) ? "금연" : "흡연") : ""]
+    return [izakayaLike(r) ? "이자카야 술집" : "", (r.dishes || []).map((d) => d.name + " " + (d.ja || "")).join(" "), r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" "), r.smoking ? (noSmoke(r) ? "금연" : "흡연") : ""]
       .join(" ");
   }
   const TEXT = new Map(R.map((r) => [r.id, norm(textOf(r))]));
