@@ -107,7 +107,7 @@ FIELD_ORDER = [
     "id", "name_ko", "name_ja", "name_en", "region", "area", "category", "signature", "why", "reasons", "tips",
     "address_ja", "address_building", "station", "phone", "lat", "lng", "geo",
     "price_level", "price_note", "hours", "closed", "hours_week", "hours_note", "notice", "reservation",
-    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "wait", "smoking", "smoking_note",
+    "booking_type", "booking_apps", "booking_note", "booking_checked", "phone_booking", "lo_week", "wait", "smoking", "smoking_note",
     "tabelog_url", "tabelog_score", "google_rating", "google_reviews", "google_maps_uri", "google_reservable",
     "google_status", "google_checked_at", "awards", "youtube", "tags", "legend_level", "editor_level", "icon", "evidence",
     "sources", "verified_open", "checked_at",
@@ -151,6 +151,55 @@ def evidence(r: dict) -> list[str]:
     if "언론·가이드" in types:
         ev.append("언론·가이드")
     return ev
+
+
+LO_TOKEN = re.compile(r"(?:L\.?\s?O\.?|라스트\s?오더|주문\s?마감|최종\s?입[장점]|입[장점]\s?마감)", re.I)
+LO_TIMES = re.compile(r"^(?:\s*[:：]?\s*(?:요리|음식|푸드|식사|점심|저녁|런치|디너)?\s*(\d{1,2}:\d{2})(?!\s*[-~〜]\s*\d))((?:\s*[·/,、]\s*(?:요리|음식|푸드|식사|점심|저녁|런치|디너)?\s*\d{1,2}:\d{2}(?!\s*[-~〜]\s*\d))*)")
+
+
+def last_orders(r: dict) -> list[int]:
+    """영업시간 글에서 라스트오더(음식)·최종 입장 시각을 분으로 뽑음. 드링크 L.O. 는 제외."""
+    text = " / ".join(x for x in (r.get("hours"), r.get("hours_note")) if x)
+    out = set()
+    for m in LO_TOKEN.finditer(text):
+        if re.search(r"(드링크|음료|drink)\s*$", text[max(0, m.start() - 6):m.start()], re.I):
+            continue
+        t = LO_TIMES.match(text[m.end():])
+        if not t:
+            continue
+        for hm in [t.group(1)] + re.findall(r"\d{1,2}:\d{2}", t.group(2) or ""):
+            h, mi = map(int, hm.split(":"))
+            if 0 <= h <= 29 and 0 <= mi < 60:
+                out.add(h * 60 + mi)
+    # "입점 17:00-19:00" 처럼 입장 가능한 시간대가 적힌 경우 → 끝 시각을 최종 입장으로
+    for m in re.finditer(r"입[장점]\s*(?:가능\s*)?\(?\s*\d{1,2}:\d{2}\s*[-~〜]\s*(\d{1,2}):(\d{2})", text):
+        out.add(int(m.group(1)) * 60 + int(m.group(2)))
+    return sorted(out)
+
+
+def lo_week(r: dict) -> dict | None:
+    """요일별 영업 구간마다 라스트오더 시각 (구간 안에 들어가는 가장 이른 L.O.). 모르면 None."""
+    hw, los = r.get("hours_week"), last_orders(r)
+    if not hw or not los:
+        return None
+    tm = lambda x: int(x.split(":")[0]) * 60 + int(x.split(":")[1])
+    out, any_lo = {}, False
+    for day, ivs in hw.items():
+        if not ivs:
+            out[day] = ivs if ivs == [] else None
+            continue
+        row = []
+        for o, c in ivs:
+            om, cm = tm(o), tm(c)
+            cands = [t for t in los + [t + 1440 for t in los] if om <= t < cm and cm - t <= 240]
+            if cands:
+                lo = min(cands)
+                row.append(f"{lo // 60:02d}:{lo % 60:02d}")
+                any_lo = True
+            else:
+                row.append(None)
+        out[day] = row
+    return out if any_lo else None
 
 
 def legend_rule(r: dict) -> int:
@@ -925,6 +974,11 @@ def main() -> int:
             r["editor_level"] = r.get("legend_level")  # 조사 단계에서 매긴 등급(참고용)
         r["legend_level"] = legend_rule(r)
         r["evidence"] = evidence(r)
+        lw = lo_week(r)
+        if lw:
+            r["lo_week"] = lw
+        else:
+            r.pop("lo_week", None)
         if r.get("google_maps_uri"):  # 구글이 붙이는 추적 파라미터(g_mp) 제거 — 링크는 그대로 열림, 데이터 용량 절감
             r["google_maps_uri"] = re.sub(r"&g_mp=[^&]*", "", r["google_maps_uri"])
         for x in r.get("reasons") or []:

@@ -467,3 +467,31 @@ button, .chip, .cta, a { touch-action: manipulation; }
 .fctl-t span { font-weight: 400; opacity: .9; }
 .fctl-x { background: #fff; color: #1a3d7a; font-size: 13px; font-weight: 700; padding: 7px 12px; white-space: nowrap; border-left: 1px solid #ffffff55 !important; }
 @media (prefers-color-scheme: dark) { .fctl-x { background: #1e1b17; color: #9ec1ff; } }
+/* ---- UX 리뷰 반영 ---- */
+/* 빠른 필터: 폰에서 두 줄로(옆으로 숨는 칩 없게) */
+@media (max-width: 860px) {
+  .row.quick { flex-wrap: wrap; overflow: visible; row-gap: 6px; }
+  .row.quick .chip { padding: 6px 9px; min-height: 34px; font-size: 13px; }
+  /* 반반 화면의 작은 지도엔 꼭 필요한 버튼만 (레이어·설정은 지도 크게 볼 때) */
+  body:not(.mapbig) .leaflet-control-layers, body:not(.mapbig) .gearbtn { display: none; }
+}
+.countbar .count { flex: 1; min-width: 0; }
+.helpbtn2 { border: 1px solid var(--line); background: var(--card); color: var(--ink); border-radius: 999px; width: 34px; height: 34px; font-size: 15px; cursor: pointer; flex: none; padding: 0; }
+.favlink { border: none; background: #fde8ec; color: #b3123b; border-radius: 999px; padding: 3px 9px; font: inherit; font-weight: 700; cursor: pointer; }
+.favlink.on { background: #b3123b; color: #fff; }
+.pc-btns .cta.pc-fav { background: var(--card); color: #b3123b; border: 1px solid #f3b6c4; }
+.pc-btns .cta.pc-fav.on { background: #b3123b; color: #fff; border-color: #b3123b; }
+.pp .ob.walkin { background: var(--chip); color: var(--ink); }
+.cta.paid { background: #6b4fbb !important; color: #fff !important; }
+/* 가독성: 별 등급·도보 시간·묶음 점수 */
+.item .t .lv, .pc-t .lv { color: #9a6100; letter-spacing: 0; }
+.dist { font-size: 13px; font-weight: 700; color: var(--ink); }
+.mc-b i { font-size: 10.5px; }
+.iconbtn.vis { font-size: 15px; }
+.iconbtn.vis.on { font-size: 11px; font-weight: 800; }
+@media (prefers-color-scheme: dark) {
+  .item .t .lv, .pc-t .lv { color: #f2b705; }
+  .favlink { background: #3a1822; color: #ff9db3; }
+  .pc-btns .cta.pc-fav { background: transparent; color: #ff9db3; border-color: #6b2b3a; }
+}
+.helpbtn2, .gearbtn.qbtn { font-weight: 800; font-size: 18px; color: var(--ink); }

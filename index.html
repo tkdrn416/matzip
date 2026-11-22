@@ -36,13 +36,13 @@
         <div class="chips" id="regionChips" role="group" aria-label="지역"></div>
         <div class="chips scroll" id="areaChips" role="group" aria-label="세부 지역" hidden></div>
         <div class="row quick">
-          <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 영업 중</button>
-          <button class="chip toggle" id="strong" aria-pressed="false">✔ 근거 탄탄(3개+)</button>
-          <button class="chip toggle" id="cheap" aria-pressed="false">💴 1만엔 이하</button>
-          <button class="chip toggle" id="noSmoke" aria-pressed="false">🚭 금연·분연만</button>
-          <button class="chip toggle" id="easyWait" aria-pressed="false">🧘 한적·웨이팅 없음</button>
           <button class="chip" id="locate">📍 내 위치순</button>
-          <button class="chip more" id="moreFilters">필터 더보기 ▾</button>
+          <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 입장 가능</button>
+          <button class="chip toggle" id="noSmoke" aria-pressed="false">🚭 금연·분연</button>
+          <button class="chip toggle" id="easyWait" aria-pressed="false">🧘 웨이팅 없이</button>
+          <button class="chip toggle" id="cheap" aria-pressed="false">💴 ~1만엔</button>
+          <button class="chip toggle" id="strong" aria-pressed="false">근거 3개+</button>
+          <button class="chip more" id="moreFilters">필터 ▾</button>
         </div>
         <div class="secondary">
           <div class="chips scroll" id="catChips" role="group" aria-label="카테고리"></div>
@@ -63,6 +63,7 @@
 
       <div class="countbar">
         <div class="count" id="count"></div>
+        <button type="button" class="helpbtn2" id="helpBtn2" aria-label="보는 법">?</button>
         <select id="sort" class="sort" aria-label="정렬">
           <option value="level">추천순</option>
           <option value="tabelog">타베로그 점수순</option>
@@ -111,9 +112,11 @@
       <dt>숫자 원(묶음)</dt><dd>큰 숫자 = 가게 수, 아래 작은 숫자 = 그 안에서 <b>가장 높은 타베로그 점수</b>. 누르면 확대돼요.</dd>
       <dt>타베로그 점수</dt><dd>3.5 이상 상위권 · 3.8 이상 최상위 · 4.0 이상 일본 전국 톱클래스.</dd>
       <dt>★ 등급</dt><dd>★★★ 필수 레전드(3.80+·미쉐린 별·Award) · ★★ 강력 추천(3.60+·백명점·빕구르망) · ★ 추천. 🏯 = 점수보다 역사·명물로 가 볼 만한 곳.</dd>
-      <dt>✔ 신뢰도</dt><dd>서로 다른 근거 수(타베로그 3.6+, 백명점, Award, 미쉐린, 구글 4.2+, 유튜브, 노포, 언론). <b>✔3 이상이면 탄탄</b> — "✔ 근거 탄탄" 필터.</dd>
-      <dt>예약</dt><dd>📱 온라인 예약 · ☎️ 전화 예약만 · 🎫 원격 번호표 · 🚶 예약 불가(가서 줄 서기)</dd>
-      <dt>웨이팅</dt><dd>⏳ 최근 후기 기준 피크 시간 예상 대기 · 🧘 한적한 편. 실시간이 아니에요.</dd>
+      <dt>근거 N</dt><dd>서로 다른 근거 수(타베로그 3.6+, 백명점, Award, 미쉐린, 구글 4.2+, 유튜브, 노포, 언론). <b>3개 이상이면 탄탄</b> — "근거 3개+" 필터.</dd>
+      <dt>예약</dt><dd>📱 온라인 예약 · 💳 유료 예약 대행(수수료) · ☎️ 전화 예약만 · 🎫 원격 번호표 · 🚶 예약 없이 방문(가서 줄 서기)</dd>
+      <dt>♥ 찜 · 👣 가봄</dt><dd>목록·지도 카드에서 ♡ 로 찜 → 목록 위 "♥ 찜 N"을 누르면 찜한 곳만. 👣 = 가 본 곳 표시.</dd>
+      <dt>🟢 지금 입장 가능</dt><dd>영업 중이고 <b>라스트오더 전</b>이며 예약 필수가 아닌 곳. 라스트오더를 모르는 곳은 마감 1시간 전부터 "곧 마감"으로 보여요.</dd>
+      <dt>웨이팅</dt><dd>⏳ 최근 후기 기준 피크 시간 예상 대기 · 🧘 웨이팅 없이 = 후기상 15분 이하(후기가 없으면 예약 가능하고 줄서는 집이 아닌 곳, "추정"). 실시간이 아니에요.</dd>
       <dt>흡연</dt><dd>🚭 금연 · 🚪 분연(흡연실 따로) · 💨 가열식 담배만 · 🚬 좌석 흡연 가능</dd>
       <dt>지도 길게 누르기</dt><dd>"여기서 가까운 순" 또는 "숙소로 저장" → 숙소에서 가까운 순 정렬.</dd>
       <dt>오프라인</dt><dd>한 번 본 동네의 지도와 전체 목록은 로밍이 끊겨도 보여요(홈 화면에 추가 권장).</dd>
