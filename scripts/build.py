@@ -139,7 +139,7 @@ def evidence(r: dict) -> list[str]:
         ev.append("백명점")
     if "Award" in aw:
         ev.append("Tabelog Award")
-    if "미쉐린" in aw or "미쉐린" in types:
+    if "미쉐린" in aw or "미쉐린" in types or re.search(r"빕\s*구르망|Bib|ミシュラン", aw):
         ev.append("미쉐린")
     g, n = r.get("google_rating"), r.get("google_reviews") or 0
     if g and g >= 4.2 and n >= 300:

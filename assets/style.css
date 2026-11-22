@@ -614,3 +614,19 @@ details.moreinfo > summary::before, details.legend > summary::before { content: 
 details[open].moreinfo > summary::before, details[open].legend > summary::before { content: "▾ "; }
 @media (prefers-color-scheme: dark) { details.moreinfo > summary, details.legend > summary { color: #9ec1ff; } }
 .help details.legend dl { max-height: none; }
+/* ---- 3차 사용성 ---- */
+@media (max-width: 860px) { .app { grid-template-rows: 34dvh 1fr; } }
+.countbar { gap: 6px; }
+.sort.when { max-width: 34%; }
+.countbar .sort { min-width: 0; }
+.favbar { list-style: none; display: flex; flex-wrap: wrap; align-items: center; gap: 6px; background: #fde8ec; color: #8a1030; border-radius: 12px; padding: 8px 10px; margin: 2px 0 10px; }
+.favbar b { flex: 1; min-width: 120px; }
+.favbar button { border: 1px solid #f3b6c4; background: #fff; color: #8a1030; border-radius: 999px; padding: 7px 11px; font: inherit; font-size: 14px; font-weight: 700; cursor: pointer; }
+.unblock { display: flex; flex-wrap: wrap; gap: 6px; align-items: center; margin-top: 10px; }
+.unblock span { width: 100%; font-size: 13px; color: var(--muted); }
+.list .empty { padding-bottom: 90px; }
+.badge.bk-walk { background: #eef6ee; color: #256029; }
+@media (prefers-color-scheme: dark) { .favbar { background: #3a1822; color: #ffc2d0; } .favbar button { background: #1e1b17; color: #ffc2d0; border-color: #6b2b3a; } .badge.bk-walk { background: #17301c; color: #9fdcaa; } }
+.countbar .count { flex: none; white-space: nowrap; }
+.countbar .sort { flex: 1 1 0; }
+.countbar .sort.when { max-width: none; flex: 0.8 1 0; }

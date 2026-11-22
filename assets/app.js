@@ -25,10 +25,13 @@
   const fav = store.get(LS.fav);
   const vis = store.get(LS.vis);
 
-  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false, me: null, sort: "level", tripDay: null };
+  const state = { q: "", region: "all", cats: new Set(), level: 0, prices: new Set(), books: new Set(), areas: new Set(), favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false, me: null, sort: "level", tripDay: null, when: "" };
   const BOOK = Object.fromEntries((D.bookingTypes || []).map((b) => [b.name, b]));
   const BOOK_SHORT = { "앱예약": "온라인 예약", "전화예약만": "전화 예약만", "원격줄서기": "원격 번호표", "현장방문": "예약 없이 방문" };
   const resLabel = (r) => (r.reservation === "필수" ? " · 예약 필수" : "");
+  // 예약은 받지만 꼭 할 필요는 없는 곳 (예약 '가능'·정보 없음) → 그냥 가도 됨
+  const walkInOk = (r) => r.reservation !== "필수" && r.reservation !== "권장";
+  const bookShort = (r) => (r.booking_type === "전화예약만" && walkInOk(r) ? "예약 없이 OK · 전화 예약 가능" : paidOnly(r) ? "유료 대행" : BOOK_SHORT[r.booking_type] || r.booking_type);
   const REASON = Object.fromEntries((D.reasonTypes || []).map((t) => [t.name, t]));
   const fmtN = (n) => Number(n).toLocaleString("ko-KR");
 
@@ -312,7 +315,7 @@
     else if (qOf(r).s >= 3 && r.reservation !== "필수") b.push(`<span class="badge wt0" title="${esc(qOf(r).why.join(", "))}">🧘 한적한 편(추정)</span>`);
     const hasCta = r.booking_type === "앱예약" && ((r.links && r.links.booking) || []).length;
     if (r.booking_type && BOOK[r.booking_type] && !(hasCta && !limit)) {
-      b.push(`<span class="badge bk bk-${esc(r.booking_type)}">${BOOK[r.booking_type].emoji} ${esc(paidOnly(r) ? "유료 예약 대행" : BOOK_SHORT[r.booking_type] || r.booking_type)}${resLabel(r)}</span>`);
+      b.push(`<span class="badge bk bk-${esc(r.booking_type)}">${BOOK[r.booking_type].emoji} ${esc(bookShort(r))}${resLabel(r)}</span>`);
     }
     if (r.google_rating) b.push(`<span class="badge gg">⭐ 구글 ${esc(r.google_rating)}${r.google_reviews ? ` (${fmtN(r.google_reviews)})` : ""}</span>`);
     const aw = r.awards || [];
@@ -341,11 +344,11 @@
     if (r.smoking === "흡연가능") b.push(`<span class="badge smk">🚬 흡연 가능</span>`);
     else if (r.smoking === "가열식만") b.push(`<span class="badge smk2">💨 가열식만</span>`);
     if (r.google_status === "CLOSED_TEMPORARILY" || r.google_status === "CLOSED_PERMANENTLY") b.push(`<span class="badge st-warn">⚠️ ${r.google_status === "CLOSED_TEMPORARILY" ? "임시 휴업" : "폐업"}(구글)</span>`);
-    const st = statusBadge(r);
+    const st = statusBadge(r).replace(" · 휴무일 변동 있음", "");
     if (st) b.push(st);
     const wb = waitBadge(r);
     if (wb) b.push(wb);
-    if (r.booking_type && BOOK[r.booking_type]) b.push(`<span class="badge bk bk-${esc(r.booking_type)}">${BOOK[r.booking_type].emoji} ${esc(paidOnly(r) ? "유료 대행" : BOOK_SHORT[r.booking_type] || r.booking_type)}${resLabel(r)}</span>`);
+    if (r.booking_type && BOOK[r.booking_type]) b.push(`<span class="badge bk bk-${esc(r.booking_type)}${r.booking_type === "전화예약만" && walkInOk(r) ? " bk-walk" : ""}">${r.booking_type === "전화예약만" && walkInOk(r) ? "🚶" : BOOK[r.booking_type].emoji} ${esc(bookShort(r))}${resLabel(r)}</span>`);
     return b.slice(0, 3).join("");
   }
   const telHref = (p) => "tel:" + String(p).replace(/[^+\d]/g, "");
@@ -380,7 +383,9 @@
     }
     const phoneOk = r.phone && r.phone_booking !== false && (r.booking_type === "전화예약만" || r.booking_type === "앱예약");
     const onlineCta = bk.length && canBook;
-    if (phoneOk && !onlineCta) {
+    if (phoneOk && !onlineCta && r.booking_type === "전화예약만" && walkInOk(r)) {
+      out.push(`<div class="alt">예약하고 싶으면: <a href="${telHref(r.phone)}">📞 ${esc(telLocal(r.phone))}</a> · <button type="button" class="linkbtn" data-act="concierge" data-id="${r.id}">🏨 예약 부탁 문구</button></div>`);
+    } else if (phoneOk && !onlineCta) {
       // 전화 예약이 주 경로: 큰 전화 버튼 + 호텔에 보여줄 문구
       out.push(`<div class="btns two">
         <a class="cta tel" href="${telHref(r.phone)}">📞 전화 예약<small>${esc(telLocal(r.phone))}</small></a>
@@ -529,7 +534,7 @@
   };
   const quietLabel = (r) => { const q = qOf(r).s; return q >= 4 ? "아주 한적한 편" : q >= 2 ? "한적한 편" : q >= 0 ? "보통" : q >= -2 ? "붐비는 편" : "많이 붐빔"; };
   const statusBadge = (r) => {
-    const ps = state.tripDay ? planStatus(r) : null; // 동선의 날짜가 오늘이 아니면 그날 기준
+    const ps = planStatus(r); // 동선 날짜나 '언제?'를 골랐으면 그 시각 기준
     const st = ps || openStatus(r);
     if (!st) return "";
     const icon = ps ? (st.s === "open" ? "🗓" : st.s === "warn" ? "⚠️" : "⚪") : st.s === "warn" ? "⚠️" : st.s === "open" ? "🟢" : st.s === "soon" ? "🟠" : "⚪";
@@ -557,6 +562,7 @@
     // 구글의 reservable 은 '예약 받음'(전화 포함) 정보 — 온라인 예약을 뜻하지 않음
     const gnote = r.google_reservable === true ? "구글 정보: 예약 받음(전화 포함일 수 있음)" : r.google_reservable === false ? "구글 정보: 예약 안 받음" : "구글 예약 정보 없음";
     if (r.booking_type === "현장방문") return `<div class="ob walkin">🚶 예약 없이 방문 (줄 서기)<small>${esc(chk)}에 온라인 예약 없음 · ${gnote}</small></div>`;
+    if (r.booking_type === "전화예약만" && walkInOk(r)) return `<div class="ob walkin">🚶 예약 없이 가도 돼요 · ☎️ 전화 예약도 가능 (온라인 예약은 없음)</div>`;
     if (r.booking_type) return `<div class="ob no">${BOOK[r.booking_type] ? BOOK[r.booking_type].emoji : ""} ${esc(BOOK_SHORT[r.booking_type] || r.booking_type)} — 온라인 예약 없음<small>확인: ${esc(chk)} · ${gnote}</small></div>`;
     return `<div class="ob unk">❔ 온라인 예약 여부 미확인</div>`;
   }
@@ -577,8 +583,10 @@
     const lk = r.links;
     const isFav = fav.has(r.id), isVis = vis.has(r.id);
     // 큰 버튼은 '예약(또는 전화)'과 '길찾기'만, 나머지는 작은 아이콘 줄로
-    return `${bookBtns(r)}
-      <a class="cta nav navwide" href="${esc(dirUrl(r))}" target="_blank" rel="noopener">🧭 구글맵 길찾기${state.me && /walking/.test(dirUrl(r)) ? " (도보)" : ""}</a>
+    const navBtn = `<a class="cta nav navwide" href="${esc(dirUrl(r))}" target="_blank" rel="noopener">🧭 구글맵 길찾기${state.me && /walking/.test(dirUrl(r)) ? " (도보)" : ""}</a>`;
+    // 그냥 가면 되는 곳은 길찾기를 맨 위로
+    const walkFirst = r.booking_type === "현장방문" || (r.booking_type === "전화예약만" && walkInOk(r));
+    return `${walkFirst ? navBtn + bookBtns(r) : bookBtns(r) + navBtn}
       <div class="mini">
         <a href="${esc(lk.google_maps)}" target="_blank" rel="noopener"><span>📍</span>구글맵</a>
         <a href="${esc(lk.tabelog)}" target="_blank" rel="noopener"><span>🍽</span>타베로그</a>
@@ -694,9 +702,27 @@
   }
   const TEXT = new Map(R.map((r) => [r.id, norm(textOf(r))]));
 
+  // 🟢: 지금이면 '영업 중 + 주문 마감 전 + 예약 필수 아님', 다른 시각이면 '그 시각에 영업'
+  function openOk(r) {
+    const tt = targetTime();
+    if (tt && tt.time) return openAt(r, tt.date, toMin(tt.time)) === true;
+    if (tt) { const di = dayInfo(r, tt.date); return !!di && Array.isArray(di.ivs) && di.ivs.length > 0; }
+    return ["open", "soon"].includes((openStatus(r) || {}).s) && r.reservation !== "필수";
+  }
+  // 지금(또는 고른 시각)에 갈 수 있는 정도: 0 바로 가능 · 1 나중에/예약제 · 2 오늘(그때) 안 됨
+  function tierOf(r) {
+    const tt = targetTime();
+    if (tt) { const st = planStatus(r); return st && st.s === "open" ? 0 : st && st.s === "off" ? 2 : 1; }
+    const st = openStatus(r);
+    if (!st) return 1;
+    if (["off", "closed", "lo"].includes(st.s)) return 2;
+    return ["open", "soon"].includes(st.s) && walkInOk(r) ? 0 : 1;
+  }
+  const quality = (a, b) => b.legend_level - a.legend_level || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0);
   function filtered() {
     const terms = norm(state.q).split(/\s+/).filter(Boolean);
     tripClosedN = 0; tripMealN = 0;
+    tripRad = state.tripDay && dayById(state.tripDay) ? computeTripRad(dayById(state.tripDay)) : null;
     let out = R.filter((r) =>
       (state.region === "all" || r.region === state.region) &&
       (!state.areas.size || state.areas.has(r.area)) &&
@@ -705,7 +731,7 @@
       (!state.prices.size || state.prices.has(r.price_level)) &&
       (!state.books.size || state.books.has(r.booking_type || "미확인")) &&
       (!state.favOnly || fav.has(r.id)) &&
-      (!state.openNow || (["open", "soon"].includes((openStatus(r) || {}).s) && r.reservation !== "필수")) &&
+      (!state.openNow || openOk(r)) &&
       (!state.easyWait || easyWait(r)) &&
       (!state.noSmoke || noSmoke(r)) &&
       (!state.strong || (r.evidence || []).length >= 3) &&
@@ -724,9 +750,13 @@
     if (state.me) out.forEach((r) => { r._d = map.distance(state.me, [r.lat, r.lng]); });
     if (sorters[state.sort]) {
       out.sort(sorters[state.sort]);
-    } else if (state.me) {
-      out.forEach((r) => { r._d = map.distance(state.me, [r.lat, r.lng]); });
+    } else if (state.me && state.sort === "dist") {
       out.sort((a, b) => a._d - b._d);
+    } else if (state.me) {
+      // 근처 추천: 걸어서 약 15분(1.2km) 안은 '지금 갈 수 있는 곳 → 좋은 곳' 순, 그 밖은 가까운 순
+      const tier = new Map(out.map((r) => [r.id, tierOf(r)]));
+      const nearB = (r) => (r._d <= 1200 ? 0 : 1);
+      out.sort((a, b) => nearB(a) - nearB(b) || (nearB(a) === 0 ? tier.get(a.id) - tier.get(b.id) || quality(a, b) : a._d - b._d));
     } else if (state.tripDay) {
       // 동선 근처: 경유지 순서대로 묶고, 그 안에선 등급 → 근거 수 → 점수
       out.sort((a, b) => a._trip.i - b._trip.i || b.legend_level - a.legend_level
@@ -734,10 +764,8 @@
     } else {
       const order = Object.keys(D.regions);
       // 추천순: 오늘 아직 갈 수 있는 곳 먼저(오늘 휴무·영업 끝·주문 마감은 뒤로) → 지역 → 등급 → 근거 수 → 타베로그 점수
-      const doneToday = (r) => { const st = openStatus(r); return st && ["off", "closed", "lo"].includes(st.s) ? 1 : 0; };
-      const dt = new Map(out.map((r) => [r.id, doneToday(r)]));
-      out.sort((a, b) => dt.get(a.id) - dt.get(b.id) || order.indexOf(a.region) - order.indexOf(b.region) || b.legend_level - a.legend_level
-        || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0));
+      const tier = new Map(out.map((r) => [r.id, tierOf(r)]));
+      out.sort((a, b) => tier.get(a.id) - tier.get(b.id) || order.indexOf(a.region) - order.indexOf(b.region) || quality(a, b));
     }
     return out;
   }
@@ -761,8 +789,9 @@
     state.cats.forEach((c) => f.push(c));
     if (state.level) f.push(state.level === 3 ? "★★★" : "★★ 이상");
     if (state.prices.size) f.push(isCheap() ? "1만엔 이하" : [...state.prices].sort().map((x) => YEN[x]).join("·"));
-    state.books.forEach((b) => f.push(b));
-    if (state.openNow) f.push("입장 가능");
+    state.books.forEach((b) => f.push(BOOK_SHORT[b] || b));
+    if (state.when && !state.tripDay && WHEN[state.when]) f.push("🕐 " + WHEN[state.when][2]);
+    if (state.openNow) f.push(targetTime() ? targetTime().label + " 영업" : "지금 영업");
     if (state.strong) f.push("근거 3+");
     if (state.noSmoke) f.push("금연·분연");
     if (state.easyWait) f.push("웨이팅 없이");
@@ -771,6 +800,33 @@
     if (state.q) f.push(`"${state.q}"`);
     if (state.tripDay) { const d = dayById(state.tripDay); if (d) f.unshift(`🧳 ${dayLabel(d)} 동선${d.date && d.meal ? " · " + mealLabel(d.meal) : ""}`); }
     return f;
+  }
+  // 결과가 0일 때 하나씩 끌 수 있는 버튼
+  function unblockBtns() {
+    const B = [];
+    const add = (k, label) => B.push(`<button type="button" class="chip" data-unblock="${k}">✕ ${esc(label)}</button>`);
+    if (state.tripDay) add("tripDay", "동선");
+    if (state.openNow) add("openNow", "지금 영업");
+    if (state.easyWait) add("easyWait", "웨이팅 없이");
+    if (state.noSmoke) add("noSmoke", "금연석");
+    if (state.prices.size) add("prices", "가격");
+    if (state.cats.size) add("cats", "음식 종류");
+    if (state.books.size) add("books", "예약 방식");
+    if (state.areas.size) add("areas", "세부 지역");
+    if (state.region !== "all") add("region", D.regions[state.region].ko);
+    if (state.q) add("q", `"${state.q}"`);
+    if (state.favOnly) add("favOnly", "찜만");
+    if (state.strong) add("strong", "근거 3개+");
+    return B.join("") + '<button type="button" class="chip" data-unblock="all">모두 해제</button>';
+  }
+  function unblock(k) {
+    if (k === "all") return clearFilters();
+    if (["prices", "cats", "books", "areas"].includes(k)) state[k].clear();
+    else if (k === "region") { state.region = "all"; state.areas.clear(); }
+    else if (k === "q") { state.q = ""; $("q").value = ""; }
+    else if (k === "tripDay") state.tripDay = null;
+    else state[k] = false;
+    update();
   }
   function clearFilters() {
     Object.assign(state, { q: "", region: "all", level: 0, favOnly: false, hideVisited: false, openNow: false, easyWait: false, noSmoke: false, strong: false, tripDay: null });
@@ -867,6 +923,8 @@
       $("tripBtn").textContent = td ? `🧳 ${dayLabel(td)} 동선` : "🧳 내 동선";
     }
     if ($("cheap")) $("cheap").setAttribute("aria-pressed", String(isCheap()));
+    if ($("openNow")) { const tt = targetTime(); $("openNow").textContent = tt ? `🟢 ${tt.label} 영업` : "🟢 지금 영업"; }
+    if ($("when")) $("when").value = state.when || "";
     $("strong").setAttribute("aria-pressed", String(state.strong));
     $("favRoute").hidden = !fav.size;
     $("favShare").hidden = !fav.size;
@@ -882,16 +940,18 @@
   function renderList(rs) {
     const ol = $("list");
     if (state.inView && !listOnly()) { const b = map.getBounds(); rs = rs.filter((r) => b.contains([r.lat, r.lng])); }
-    $("count").innerHTML = esc(state.inView && !listOnly() ? `지도 화면 안 ${rs.length}곳` : `${rs.length}곳 표시 중`)
+    const nearN = state.me && !state.inView ? rs.filter((r) => r._d != null && r._d <= 1200).length : null;
+    $("count").innerHTML = esc(state.inView && !listOnly() ? `화면 안 ${rs.length}곳` : nearN != null ? `15분 안 ${nearN}곳` : `${rs.length}곳`)
       + (fav.size ? ` · <button type="button" class="favlink${state.favOnly ? " on" : ""}" data-act="favonly">♥ 찜 ${fav.size}${state.favOnly ? " ✓" : ""}</button>` : "")
       + (vis.size ? ` · 가봄 ${vis.size}` : "");
     if (!rs.length) {
       const q = state.q ? state.q + (state.region !== "all" ? " " + D.regions[state.region].ko : "") : "";
       ol.innerHTML = '<li class="empty">조건에 맞는 곳이 없어요.' + (state.q
         ? `<br>이 DB에 없는 가게일 수 있어요 (타베로그 기준 미달·폐점·소개제 등은 뺐어요).<br><a class="cta nav" style="display:inline-block;margin-top:10px" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}" target="_blank" rel="noopener">🔎 구글맵에서 "${esc(state.q)}" 찾기</a>`
-        : "<br>필터를 줄이거나 초기화해 보세요.") + "</li>";
+        : "") + (activeFilters().length ? `<div class="unblock"><span>이 조건을 빼 보세요:</span>${unblockBtns()}</div>` : "") + "</li>";
       return;
     }
+    const favHead = state.favOnly && fav.size ? `<li class="favbar"><b>♥ 찜한 곳 ${rs.length}곳</b><button type="button" data-favbar="route">🗺 경로</button><button type="button" data-favbar="share">📤 일행에게 보내기</button><button type="button" data-favbar="off">✕</button></li>` : "";
     const grp = tripGrouped(), gcount = {};
     if (grp) rs.forEach((r) => { gcount[r._trip.i] = (gcount[r._trip.i] || 0) + 1; });
     const gday = grp && dayById(state.tripDay);
@@ -901,15 +961,16 @@
     const raw = {};
     if (gday) R.forEach((r) => {
       let best = null;
-      gpts.forEach((p) => { const d = dm(r, p); if (d <= trip.radius && (!best || d < best.d)) best = { d, i: p.i }; });
+      gpts.forEach((p) => { const d = dm(r, p); if (d <= ((tripRad && tripRad.get(p.i)) || trip.radius) && (!best || d < best.d)) best = { d, i: p.i }; });
       if (best) raw[best.i] = (raw[best.i] || 0) + 1;
     });
     const rad = trip.radius < 1000 ? trip.radius + "m" : trip.radius / 1000 + "km";
-    const gHead = (pt) => `<li class="grp">${pt.hotel ? "🏨" : `<span class="stop-no">${pt.i + 1}</span>`} ${esc(pt.n)} 근처 <small>${gcount[pt.i] ? gcount[pt.i] + "곳"
+    const widened = (pt) => tripRad && tripRad.get(pt.i) > trip.radius;
+    const gHead = (pt) => `<li class="grp">${pt.hotel ? "🏨" : `<span class="stop-no">${pt.i + 1}</span>`} ${esc(pt.n)} 근처 <small>${gcount[pt.i] ? gcount[pt.i] + "곳" + (widened(pt) ? " · 가게가 적어 1.2km까지 넓혔어요" : "")
       : raw[pt.i] ? `${raw[pt.i]}곳 있지만 지금 조건(식사 시간·그날 휴무·필터)에 안 맞아요` : `${rad} 안엔 없어요`}</small>${gcount[pt.i] ? "" : `<button type="button" class="grp-act" data-act="tripdlg">${raw[pt.i] ? "조건 보기" : "반경 넓히기"}</button>`}</li>`;
     // 아직 안 나온 경유지(맛집 0곳 포함) 머리글을 순서대로
     const headsUntil = (i) => { let h = ""; while (gNext < gpts.length && gpts[gNext].i <= i) { h += gHead(gpts[gNext]); gNext++; } return h; };
-    ol.innerHTML = rs.map((r) => {
+    ol.innerHTML = favHead + rs.map((r) => {
       const c = CAT[r.category] || CAT["기타"];
       const head = grp ? headsUntil(r._trip.i) : "";
       return head + `<li class="item${vis.has(r.id) ? " visited" : ""}${state.open === r.id ? " open" : ""}" data-id="${r.id}">
@@ -937,7 +998,7 @@
     if (restoring) return;
     try {
       localStorage.setItem(FLT_LS, JSON.stringify({ t: Date.now(), region: state.region, areas: [...state.areas], cats: [...state.cats], prices: [...state.prices], books: [...state.books],
-        level: state.level, openNow: state.openNow, easyWait: state.easyWait, noSmoke: state.noSmoke, strong: state.strong, favOnly: state.favOnly, hideVisited: state.hideVisited, tripDay: state.tripDay, sort: state.sort }));
+        level: state.level, openNow: state.openNow, easyWait: state.easyWait, noSmoke: state.noSmoke, strong: state.strong, favOnly: state.favOnly, hideVisited: state.hideVisited, tripDay: state.tripDay, sort: state.sort, when: state.when }));
     } catch (e) { /* */ }
   }
   function loadFilters() {
@@ -946,7 +1007,7 @@
       const f = JSON.parse(localStorage.getItem(FLT_LS) || "null");
       if (!f || Date.now() - f.t > 12 * 3600e3) return false;
       Object.assign(state, { region: f.region || "all", level: f.level || 0, openNow: !!f.openNow, easyWait: !!f.easyWait, noSmoke: !!f.noSmoke, strong: !!f.strong, favOnly: !!f.favOnly, hideVisited: !!f.hideVisited,
-        tripDay: f.tripDay && dayById(f.tripDay) ? f.tripDay : null, sort: f.sort === "hotel" && !hotel ? "level" : f.sort || "level" });
+        when: WHEN[f.when] ? f.when : "", tripDay: f.tripDay && dayById(f.tripDay) ? f.tripDay : null, sort: f.sort === "hotel" && !hotel ? "level" : f.sort || "level" });
       [["areas", f.areas], ["cats", f.cats], ["prices", f.prices], ["books", f.books]].forEach(([k, v]) => { state[k].clear(); (v || []).forEach((x) => state[k].add(x)); });
       if ($("sort").querySelector(`option[value="${state.sort}"]`)) $("sort").value = state.sort; else state.sort = "level";
       return true;
@@ -1150,9 +1211,14 @@
     highlight(id);
   }
 
+  function favBar(a) {
+    if (a === "route") $("favRoute").click();
+    if (a === "share") $("favShare").click();
+    if (a === "off") { state.favOnly = false; update(); }
+  }
   function handleAct(btn) {
     const id = btn.dataset.id, act = btn.dataset.act, r = R.find((x) => x.id === id);
-    if (act === "fav") toggle(fav, LS.fav, id);
+    if (act === "fav") { toggle(fav, LS.fav, id); toast(fav.has(id) ? `찜했어요 (♥ 찜 ${fav.size}) — 목록 위 '♥ 찜'을 누르면 모아 보기` : "찜을 뺐어요"); }
     else if (act === "vis") toggle(vis, LS.vis, id);
     else if (act === "share") shareOrCopy(r.name_ko, shareText(r));
     else if (act === "concierge") openConcierge(r);
@@ -1168,6 +1234,10 @@
     update(true);
   });
   $("list").addEventListener("click", (e) => {
+    const ub = e.target.closest("[data-unblock]");
+    if (ub) { unblock(ub.dataset.unblock); return; }
+    const fb = e.target.closest("[data-favbar]");
+    if (fb) { favBar(fb.dataset.favbar); return; }
     const btn = e.target.closest("button[data-act]");
     if (btn) { e.stopPropagation(); handleAct(btn); return; }
     const go = e.target.closest("[data-goto]");
@@ -1179,6 +1249,7 @@
     if (state.open === id) { state.open = null; map.closePopup(); renderList(current); return; } // 접기
     state.open = id;
     renderList(current);
+    if (USE_CARD) setTimeout(() => { const el = document.querySelector(`.item[data-id="${id}"]`); if (el) el.scrollIntoView({ block: "start", behavior: "smooth" }); }, 60);
     if (USE_CARD && curMode() === "split") { showOnMap(id); return; } // 목록은 그대로 펼치고 지도에선 핀만 표시
     openPlace(id, true);
   });
@@ -1194,11 +1265,18 @@
     clearTimeout(qTimer);
     qTimer = setTimeout(() => {
       state.q = e.target.value.trim();
+      if (state.q && landmarkSearch(state.q)) return;
       update();
       if (!state.q || !current.length || NOMAP) return;
       const b = map.getBounds(); // 결과가 지도 화면에 없거나 결과가 적으면(80곳 이하) 결과로 이동
       if (current.length <= 80 || !current.some((r) => b.contains([r.lat, r.lng]))) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.1), { maxZoom: 16 });
     }, 250);
+  });
+  if ($("when")) $("when").addEventListener("change", (e) => {
+    state.when = e.target.value;
+    if (state.when && state.tripDay) { const d = dayById(state.tripDay); if (d && d.date && d.date !== jstNow().date) toast("동선 일차 날짜가 우선이에요 — 동선을 끄면 이 시각으로 봐요"); }
+    update();
+    if (state.when) toast(`${WHEN[state.when][2]} 기준으로 영업 여부를 보여 드려요 (🟢를 켜면 그때 여는 곳만)`);
   });
   $("sort").addEventListener("change", (e) => { state.sort = e.target.value; update(); $("list").scrollTop = 0; });
   $("favOnly").addEventListener("click", () => { state.favOnly = !state.favOnly; update(); });
@@ -1215,7 +1293,9 @@
   });
   $("favShare").addEventListener("click", () => {
     const list = R.filter((r) => fav.has(r.id));
-    shareOrCopy("찜한 맛집", list.map((r, i) => `${i + 1}. ${r.name_ko} (${r.name_ja}) · 타베로그 ${r.tabelog_score || "-"}\n   ${r.links.google_maps}`).join("\n"));
+    const link = "https://tkdrn416.github.io/matzip/#fav=" + list.map((r) => r.id).join(",");
+    shareOrCopy("찜한 맛집", `♥ 찜한 맛집 ${list.length}곳\n` + list.map((r, i) => `${i + 1}. ${r.name_ko} (${r.name_ja}) · 타베로그 ${r.tabelog_score ? Number(r.tabelog_score).toFixed(2) : "-"}\n   ${r.links.google_maps}`).join("\n")
+      + `\n\n이 링크를 열면 맛집 지도 앱에 찜 목록이 그대로 들어가요:\n${link}`);
   });
   $("dlgCopy").addEventListener("click", async () => {
     try { await navigator.clipboard.writeText($("dlgText").value); $("dlgCopy").textContent = "복사됨 ✓"; }
@@ -1298,7 +1378,7 @@
     // 목록 '가까운순'은 50m 이상 움직였을 때만 다시 정렬 (깜빡임 방지)
     if (!lastSorted || map.distance(lastSorted, ll) > 50) {
       lastSorted = ll;
-      $("sort").options[0].text = "가까운순 (내 위치)";
+      $("sort").options[0].text = "근처 추천순";
       if (state.sort === "level") update(); else renderList(current);
     }
   }
@@ -1306,7 +1386,7 @@
     if (watchId !== null) navigator.geolocation.clearWatch(watchId);
     watchId = null; follow = false; state.me = null; lastSorted = null;
     [meMarker, meCircle, refMarker].forEach((x) => x && map.removeLayer(x)); meMarker = meCircle = refMarker = null;
-    $("sort").options[0].text = "추천순 (오늘 여는 곳 먼저)"; setLocBtn("off"); update();
+    $("sort").options[0].text = "추천순"; setLocBtn("off"); update();
   }
   function toggleLocate(forceStart) {
     if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요"); return; }
@@ -1318,13 +1398,15 @@
     if (watchId !== null) return;
     follow = true; setLocBtn("follow");
     watchId = navigator.geolocation.watchPosition(onPos, (err) => {
-      toast("위치를 가져오지 못했어요 (설정에서 위치 권한 확인): " + err.message);
+      toast(err && err.code === 1 ? "위치 권한이 꺼져 있어요 — 폰 설정에서 브라우저 위치 허용을 켜 주세요" : err && err.code === 3 ? "위치 확인이 오래 걸려요 — 잠시 뒤 다시 눌러 주세요" : "현재 위치를 찾지 못했어요");
       stopLocate();
     }, { enableHighAccuracy: true, maximumAge: 10000, timeout: 15000 });
   }
 
   $("locate").addEventListener("click", () => {
     if (state.me && watchId !== null) { stopLocate(); return; }
+    if (state.me && refMarker) { stopLocate(); return; }
+    if (state.tripDay) { state.tripDay = null; toast("동선 필터를 끄고 내 위치 근처로 보여 드려요"); }
     state.sort = "level"; $("sort").value = "level";
     if (listOnly() && !NOMAP) setListBig(false);
     toggleLocate(true);
@@ -1429,6 +1511,18 @@
     } else if (opt) { if (state.sort === "hotel") { state.sort = "level"; $("sort").value = "level"; } opt.remove(); }
   }
   if (!NOMAP) drawHotel();
+  // 기준점(관광지·지도에서 고른 곳) 근처 추천
+  function setRefPoint(ll, label) {
+    if (watchId !== null) stopLocate();
+    if (refMarker) map.removeLayer(refMarker);
+    if (!NOMAP) refMarker = L.marker(ll, { icon: L.divIcon({ className: "", html: `<div class="ref-pin">📍</div><span class="stop-lbl">${esc(label)}</span>`, iconSize: [30, 30], iconAnchor: [15, 28] }), zIndexOffset: 1500 }).addTo(map);
+    state.me = ll; state.tripDay = null; state.sort = "level"; $("sort").value = "level"; $("sort").options[0].text = `${label} 근처 추천순`;
+    update();
+    const n = current.filter((r) => r._d <= 1200).length;
+    if (!NOMAP) map.setView(ll, 15);
+    if (USE_CARD && curMode() === "map") setViewMode("split");
+    toast(`📍 ${label} 근처: 걸어서 15분 안 ${n}곳 (좋은 곳 먼저) — 다시 누르면 📍 해제`);
+  }
   map.on("contextmenu", (e) => {
     L.popup({ closeButton: true, className: "ctxpop" }).setLatLng(e.latlng)
       .setContent(`<div class="ctx"><div class="ctx-h">📌 동선에 추가</div><div class="ctx-days">${trip.days.slice(0, 6).map((d) => `<button data-ctx="stop" data-day="${d.id}" class="${(state.tripDay || trip.sel) === d.id ? "on" : ""}">${esc(dayLabel(d))}</button>`).join("")}<button data-ctx="stop" data-day="new">＋ 새 일차</button></div><button data-ctx="hotel">🏨 여기를 숙소로 저장</button><button data-ctx="here">📍 여기 기준으로 가까운순</button></div>`)
@@ -1439,11 +1533,12 @@
     const t = e.target.closest("[data-ctx]");
     if (!t) return;
     const ll = map._ctxLatLng;
-    if (t.dataset.ctx === "here" && ll) {
+    if (t.dataset.ctx === "here" && ll) { setRefPoint(ll, "선택한 곳"); map.closePopup(); }
+    if (t.dataset.ctx === "here-old" && ll) {
       if (watchId !== null) stopLocate();
       if (refMarker) map.removeLayer(refMarker);
       refMarker = L.marker(ll, { icon: L.divIcon({ className: "", html: '<div class="ref-pin">📍</div>', iconSize: [30, 30], iconAnchor: [15, 28] }), zIndexOffset: 1500 }).addTo(map);
-      state.me = ll; state.sort = "level"; $("sort").value = "level"; $("sort").options[0].text = "가까운순 (선택한 곳)";
+      state.me = ll; state.sort = "level"; $("sort").value = "level"; $("sort").options[0].text = "근처 추천순";
       map.closePopup(); update(); if (curMode() === "map") setViewMode("split");
       toast("선택한 곳에서 가까운 순으로 정렬했어요");
     }
@@ -1501,24 +1596,40 @@
     const los = di.k ? (r.lo_week || {})[di.k] || [] : [];
     return di.ivs.some(([o, c], i) => { const end = los[i] ? toMin(los[i]) : toMin(c) - 30; return min >= toMin(o) && min < end; });
   }
-  // 계획한 날(오늘이 아닌 날)의 영업 표시
-  function planStatus(r) {
+  // 기준 시각: 동선 일차(날짜) > '언제?' 선택 > 지금(null)
+  const WHEN = { "today-l": [0, "12:30", "오늘 점심"], "today-d": [0, "19:00", "오늘 저녁"], "tmr-l": [1, "12:30", "내일 점심"], "tmr-d": [1, "19:00", "내일 저녁"] };
+  function targetTime() {
     const day = state.tripDay && dayById(state.tripDay);
-    if (!day || !day.date || day.date === jstNow().date) return null;
-    const di = dayInfo(r, day.date), md = fmtDate(day.date);
+    if (day && day.date && day.date !== jstNow().date) return { date: day.date, time: day.meal || "", label: fmtDate(day.date) + (day.meal ? " " + day.meal : "") };
+    const w = WHEN[state.when];
+    if (!w) return null;
+    const d = new Date(jstNow().date + "T00:00:00"); d.setDate(d.getDate() + w[0]);
+    return { date: ymd(d), time: w[1], label: w[2] };
+  }
+  // 계획한 날/시각의 영업 표시
+  function planStatus(r) {
+    const tt = targetTime();
+    if (!tt) return null;
+    const di = dayInfo(r, tt.date), md = tt.time ? tt.label : fmtDate(tt.date);
     if (!di || di.ivs === null || di.ivs === undefined) return { s: "warn", t: `${md} 영업시간 확인 필요` };
     if (!di.ivs.length) return { s: "off", t: `${md} 휴무${di.why ? " · " + di.why : ""}` };
-    if (day.meal) { const ok = openAt(r, day.date, toMin(day.meal)); return ok ? { s: "open", t: `${md} ${day.meal} 영업` } : { s: "off", t: `${md} ${day.meal}엔 영업 안 함` }; }
+    if (tt.time) { const ok = openAt(r, tt.date, toMin(tt.time)); return ok ? { s: "open", t: `${md} 영업` } : { s: "off", t: `${md}엔 영업 안 함` }; }
     return { s: "open", t: `${md} ${di.ivs.map(([o, c]) => `${o}–${fmtT(toMin(c))}`).join(", ")}${di.why ? " · " + di.why : ""}` };
   }
-  let tripClosedN = 0, tripMealN = 0;
+  let tripClosedN = 0, tripMealN = 0, tripRad = null;
+  // 경유지 근처에 가게가 5곳 미만이면 그 경유지만 1.2km(걸어서 약 15분)로 넓힘
+  function computeTripRad(day) {
+    const m = new Map();
+    tripPoints(day).forEach((p) => { const n = R.filter((r) => dm(r, p) <= trip.radius).length; m.set(p.i, n < 5 && trip.radius < 1200 ? 1200 : trip.radius); });
+    return m;
+  }
   function tripKeep(r) {
     const day = dayById(state.tripDay);
     if (!day) return true;
     let best = null;
     for (const p of tripPoints(day)) {
-      const d = dm(r, p);
-      if (d <= trip.radius && (!best || d < best.d)) best = { n: p.n, d, i: p.i, hotel: !!p.hotel };
+      const d = dm(r, p), rad = (tripRad && tripRad.get(p.i)) || trip.radius;
+      if (d <= rad && (!best || d < best.d)) best = { n: p.n, d, i: p.i, hotel: !!p.hotel };
     }
     r._trip = best;
     if (!best) return false;
@@ -1634,10 +1745,10 @@
         ${dayLegs(day).length ? `<div class="t-legs"><b>구간 길찾기</b>${dayLegs(day).map((l) => `<a href="${esc(l.url)}" target="_blank" rel="noopener">${l.walk ? "🚶" : "🚃"} ${esc(l.label)}</a>`).join("")}</div>` : ""}
         <div class="t-btns"><button type="button" data-t="day-del">이 일차 삭제</button></div>
       </section>` : '<p class="cnote t-sec">＋ 일차를 눌러 첫날을 만들어 보세요. 일차마다 갈 곳(관광지)을 넣어 두면 그 근처 맛집만 골라 볼 수 있어요.</p>'}
-      <section class="t-sec t-opt">
+      <details class="t-adv"><summary>반경·숙소 포함 설정 (지금 ${trip.radius < 1000 ? trip.radius + "m" : trip.radius / 1000 + "km"})</summary><section class="t-sec t-opt">
         <span>동선에서</span>${[500, 800, 1200].map((v) => `<button type="button" data-t="rad" data-v="${v}" aria-pressed="${trip.radius === v}">${v < 1000 ? v + "m" : v / 1000 + "km"}</button>`).join("")}<span class="cnote">(${Math.round(trip.radius / 80)}분 걷는 거리)</span>
         <label class="t-chk"><input type="checkbox" data-t="withhotel" ${trip.withHotel ? "checked" : ""}> 숙소 근처도 포함 <small>(그날 갈 곳에서 3km 안일 때만)</small></label>
-      </section>
+      </section></details>
       <div class="dlgbtns">${state.tripDay ? '<button type="button" data-t="off">동선 필터 끄기</button>' : ""}<button type="button" data-t="share">📤 일행에게 동선 보내기</button><button type="button" class="cta" data-t="close">닫기</button></div>`;
     if (tAdd === "search") setTimeout(() => { const q = $("tq"); if (q && !tRes.length) q.focus(); }, 30);
   }
@@ -1749,6 +1860,24 @@
   }
   if ($("tripBtn")) $("tripBtn").addEventListener("click", openTrip);
 
+  // 관광지 이름으로 검색하면 그 근처 맛집 (식당 이름에 안 걸릴 때만)
+  const LM_ALIAS = { 청수사: "기요미즈데라", 키요미즈: "기요미즈데라", 동대사: "도다이지", 대불: "도다이지", 춘일대사: "가스가", 이나리: "후시미 이나리", 복견도하: "후시미 이나리", 천본도리이: "후시미 이나리",
+    "오사카 성": "오사카성", 천수각: "오사카성", 글리코: "도톤보리", 통천각: "신세카이", 츠텐카쿠: "신세카이", 하루카스: "아베노 하루카스", 유니버설: "유니버설", usj: "유니버설", 해유관: "가이유칸",
+    대나무숲: "대나무숲", 치쿠린: "대나무숲", 도월교: "도게츠교", 금각: "금각사", 은각: "은각사", 니조: "니조성", 이진칸: "기타노 이진칸", 차이나타운: "난킨마치", 사슴: "나라공원", 고쇼: "교토 고쇼", 평등원: "뵤도인", 하나미코지: "하나미코지" };
+  function landmarkSearch(q) {
+    const LMs = window.MATZIP_LANDMARKS || [];
+    const nq = norm(q).replace(/\s+/g, "");
+    if (nq.length < 2) return false;
+    const textHits = R.filter((r) => TEXT.get(r.id).includes(norm(q))).length;
+    if (textHits >= 3) return false;
+    const key = Object.keys(LM_ALIAS).find((k) => nq.includes(norm(k).replace(/\s+/g, "")));
+    const want = key ? norm(LM_ALIAS[key]).replace(/\s+/g, "") : nq;
+    const lm = LMs.find((x) => norm(x.n).replace(/\s+/g, "").includes(want) || x.ja === q.trim() || (nq.length >= 3 && want.includes(norm(x.n).replace(/[\s()·]+/g, "").slice(0, 4))));
+    if (!lm) return false;
+    state.q = ""; $("q").value = "";
+    setRefPoint(L.latLng(lm.lat, lm.lng), lm.n);
+    return true;
+  }
   // ------------------------------------------------------------------ init
   $("sub").textContent = Object.entries(D.regions).map(([k, v]) => `${v.ko} ${R.filter((r) => r.region === k).length}`).join(" · ") + ` · 총 ${R.length}곳`;
   $("gen").textContent = `데이터 기준일 ${D.generated}`;
@@ -1764,6 +1893,17 @@
   let vT;
   map.on("moveend", () => { clearTimeout(vT); vT = setTimeout(() => { try { const c = map.getCenter(); localStorage.setItem(VIEW_LS, JSON.stringify({ lat: +c.lat.toFixed(5), lng: +c.lng.toFixed(5), z: map.getZoom(), t: Date.now() })); } catch (e) { /* */ } }, 500); });
   importTripFromHash();
+  (() => { // 일행이 보낸 찜 목록(#fav=id,id…) 불러오기
+    const m = location.hash.match(/^#fav=([\w,-]+)/);
+    if (!m) return;
+    const ids = m[1].split(",").filter((id) => R.some((r) => r.id === id));
+    history.replaceState(null, "", location.pathname + location.search);
+    if (!ids.length) return;
+    const before = fav.size;
+    ids.forEach((id) => fav.add(id)); store.set(LS.fav, fav);
+    state.favOnly = true;
+    setTimeout(() => toast(`일행이 보낸 찜 ${ids.length}곳을 내 찜에 넣었어요 (새로 ${fav.size - before}곳)`), 600);
+  })();
   // 필터 기억 (12시간): 폰이 백그라운드 탭을 새로 고쳐도 그대로. 없으면 오늘 날짜의 동선 일차를 자동 선택
   if (!loadFilters()) {
     const today = trip.days.find((d) => d.date === jstNow().date && d.stops.length);

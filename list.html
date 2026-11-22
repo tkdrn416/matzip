@@ -37,7 +37,7 @@
         <div class="row quick">
           <button class="chip toggle trip" id="tripBtn" aria-pressed="false">🧳 내 동선</button>
           <button class="chip" id="locate">📍 가까운순</button>
-          <button class="chip toggle" id="openNow" aria-pressed="false">🟢 입장 가능</button>
+          <button class="chip toggle" id="openNow" aria-pressed="false">🟢 지금 영업</button>
           <button class="chip toggle" id="noSmoke" aria-pressed="false">🚭 금연석</button>
           <button class="chip toggle" id="easyWait" aria-pressed="false">🧘 웨이팅 없이</button>
           <button class="chip toggle" id="cheap" aria-pressed="false">💴 ~1만엔</button>
@@ -71,9 +71,17 @@
       <div class="countbar">
         <div class="count" id="count"></div>
         <button type="button" class="helpbtn2" id="helpBtn2" aria-label="보는 법">?</button>
+        <select id="when" class="sort when" aria-label="언제">
+          <option value="">🕐 지금</option>
+          <option value="today-l">🕐 오늘 점심</option>
+          <option value="today-d">🕐 오늘 저녁</option>
+          <option value="tmr-l">🕐 내일 점심</option>
+          <option value="tmr-d">🕐 내일 저녁</option>
+        </select>
         <select id="sort" class="sort" aria-label="정렬">
-          <option value="level">추천순 (오늘 여는 곳 먼저)</option>
+          <option value="level">추천순</option>
           <option value="tabelog">타베로그 점수순</option>
+          <option value="dist">가까운순 (거리만)</option>
           <option value="quiet">한적한 순</option>
           <option value="grating">구글 평점순</option>
           <option value="google">구글 리뷰 많은순</option>
@@ -105,8 +113,8 @@
     <h3>❔ 보는 법</h3>
     <div class="qs"><b>이렇게 쓰세요</b>
       <ol>
-        <li><b>지금 근처에서 먹을 곳</b>: 📍 가까운순 → 🟢 입장 가능 (+ 🚭 금연석)</li>
-        <li><b>여행 계획</b>: 🧳 내 동선에 숙소·일차별 갈 곳 저장 → "동선 근처 맛집 보기"</li>
+        <li><b>지금 근처에서 먹을 곳</b>: 📍 가까운순 (걸어서 15분 안 좋은 곳 먼저) → 🟢 지금 영업. 관광지 이름(예: 청수사)으로 검색해도 그 근처가 나와요</li>
+        <li><b>내일 계획</b>: 목록 위 🕐 지금 → 내일 저녁 으로 바꾸면 그 시간 영업 여부가 보여요. 하루 일정은 🧳 내 동선</li>
         <li><b>가게를 누르면</b> 예약(또는 전화) · 🧭 길찾기 버튼이 바로 나와요</li>
       </ol>
     </div>
@@ -119,7 +127,7 @@
       <dt>근거 N</dt><dd>서로 다른 근거 수(타베로그 3.6+, 백명점, Award, 미쉐린, 구글 4.2+, 유튜브, 노포, 언론). <b>3개 이상이면 탄탄</b> — "근거 3개+" 필터.</dd>
       <dt>예약</dt><dd>📱 온라인 예약 · 💳 유료 예약 대행(수수료) · ☎️ 전화 예약만 · 🎫 원격 번호표 · 🚶 예약 없이 방문(가서 줄 서기)</dd>
       <dt>♥ 찜 · 👣 가봄</dt><dd>목록·지도 카드에서 ♡ 로 찜 → 목록 위 "♥ 찜 N"을 누르면 찜한 곳만. 👣 = 가 본 곳 표시.</dd>
-      <dt>🟢 입장 가능</dt><dd>영업 중이고 <b>라스트오더 전</b>이며 예약 필수가 아닌 곳. 라스트오더를 모르는 곳은 마감 1시간 전부터 "곧 마감"으로 보여요.</dd>
+      <dt>🟢 지금 영업</dt><dd>영업 중이고 <b>라스트오더 전</b>이며 예약 필수가 아닌 곳. 라스트오더를 모르는 곳은 마감 1시간 전부터 "곧 마감"으로 보여요.</dd>
       <dt>웨이팅</dt><dd>⏳ 최근 후기 기준 피크 시간 예상 대기 · 🧘 웨이팅 없이 = 후기상 15분 이하(후기가 없으면 예약 가능하고 줄서는 집이 아닌 곳, "추정"). 실시간이 아니에요.</dd>
       <dt>흡연</dt><dd>🚭 금연 · 🚪 분연(흡연실 따로) · 💨 가열식 담배만 · 🚬 좌석 흡연 가능. "🚭 금연석" 필터 = 금연·분연 가게만.</dd>
       <dt>🧳 내 동선</dt><dd>숙소와 일차별로 갈 곳(관광지)을 저장 → "동선 근처 맛집 보기"를 누르면 그 길 근처(걸어서 10분 안팎) 맛집만, 경유지 순서대로 보여요. 날짜를 넣으면 그날 쉬는 가게는 빠져요. "일행에게 동선 보내기"로 링크 공유.</dd>
