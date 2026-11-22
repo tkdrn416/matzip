@@ -28,7 +28,7 @@
       <header class="head">
         <h1>🍜 간사이 레전드 맛집</h1>
         <p class="sub" id="sub">오사카 · 교토 · 고베 · 나라</p>
-        <p class="modenote2"><a href="list.html">📋 목록 모드로 보기</a> · <button id="mapSettings" class="linkbtn" type="button">⚙️ 지도 설정</button> · <button id="helpBtn" class="linkbtn" type="button">❔ 보는 법</button></p>
+        <p class="modenote2"><button id="mapSettings" class="linkbtn" type="button">⚙️ 지도 설정</button> · <button id="helpBtn" class="linkbtn" type="button">❔ 보는 법</button></p>
       </header>
 
       <div class="filters">
@@ -42,7 +42,6 @@
           <button class="chip toggle" id="noSmoke" aria-pressed="false">🚭 금연석</button>
           <button class="chip toggle" id="easyWait" aria-pressed="false">🧘 웨이팅 없이</button>
           <button class="chip toggle" id="cheap" aria-pressed="false">💴 ~1만엔</button>
-          <button class="chip toggle" id="strong" aria-pressed="false">근거 3개+</button>
           <button class="chip more" id="moreFilters">필터 ▾</button>
         </div>
         <div class="chips scroll tripdays" id="tripDays" role="group" aria-label="동선 일차" hidden></div>
@@ -54,6 +53,7 @@
             <div class="chips" id="priceChips" role="group" aria-label="가격"></div>
           </div>
           <div class="row">
+            <button class="chip toggle" id="strong" aria-pressed="false">근거 3개+ (신뢰도 높은 곳)</button>
             <button class="chip toggle" id="favOnly" aria-pressed="false">♥ 찜만</button>
             <button class="chip" id="favRoute" hidden>🗺 찜한 곳 구글맵 경로</button>
             <button class="chip" id="favShare" hidden>📤 찜 목록 공유</button>
@@ -67,7 +67,7 @@
         <div class="count" id="count"></div>
         <button type="button" class="helpbtn2" id="helpBtn2" aria-label="보는 법">?</button>
         <select id="sort" class="sort" aria-label="정렬">
-          <option value="level">추천순</option>
+          <option value="level">추천순 (오늘 여는 곳 먼저)</option>
           <option value="tabelog">타베로그 점수순</option>
           <option value="quiet">한적한 순</option>
           <option value="grating">구글 평점순</option>
@@ -109,6 +109,13 @@
 
   <dialog id="helpDlg" class="dlg help">
     <h3>❔ 보는 법</h3>
+    <div class="qs"><b>이렇게 쓰세요</b>
+      <ol>
+        <li><b>지금 근처에서 먹을 곳</b>: 📍 가까운순 → 🟢 입장 가능 (+ 🚭 금연석)</li>
+        <li><b>여행 계획</b>: 🧳 내 동선에 숙소·일차별 갈 곳 저장 → "동선 근처 맛집 보기"</li>
+        <li><b>가게를 누르면</b> 예약(또는 전화) · 🧭 길찾기 버튼이 바로 나와요</li>
+      </ol>
+    </div>
     <dl>
       <dt>지도 핀</dt><dd>색·그림 = 음식 종류. 핀 옆 <b style="color:#1e8e3e">●</b> 지금 영업 중, <b style="color:#9aa0a6">●</b> 영업 전·휴무. 많이 확대하면 이름과 타베로그 점수가 보여요.</dd>
       <dt>숫자 원(묶음)</dt><dd>큰 숫자 = 가게 수, 아래 작은 숫자 = 그 안에서 <b>가장 높은 타베로그 점수</b>. 누르면 확대돼요.</dd>
@@ -124,7 +131,7 @@
       <dt>지도 길게 누르기</dt><dd>"동선에 추가" · "숙소로 저장" · "여기서 가까운 순".</dd>
       <dt>오프라인</dt><dd>한 번 본 동네의 지도와 전체 목록은 로밍이 끊겨도 보여요(홈 화면에 추가 권장).</dd>
     </dl>
-    <div class="dlgbtns"><button id="helpClose" class="cta">닫기</button></div>
+    <div class="dlgbtns"><button type="button" class="linkbtn" onclick="document.getElementById('helpDlg').close();document.getElementById('mapSettings').click()">⚙️ 지도 설정</button><button id="helpClose" class="cta">닫기</button></div>
   </dialog>
   <script src="assets/vendor/leaflet/leaflet.js"></script>
   <script src="assets/vendor/leaflet/leaflet.markercluster.js"></script>

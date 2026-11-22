@@ -176,7 +176,7 @@
       return b;
     },
   });
-  if (!NOMAP) new GearCtl().addTo(map);
+  // 지도 설정(구글 지도 키)은 거의 안 쓰는 기능이라 지도 위 버튼 대신 '보는 법' 안으로
   const HelpCtl = L.Control.extend({
     options: { position: "topright" },
     onAdd() {
@@ -335,6 +335,19 @@
     return b.join("");
   }
 
+  // 목록 카드용 배지: 지금 상태 · 웨이팅 · 예약 방식만 (나머지는 펼치면)
+  function cardBadges(r) {
+    const b = [];
+    if (r.smoking === "흡연가능") b.push(`<span class="badge smk">🚬 흡연 가능</span>`);
+    else if (r.smoking === "가열식만") b.push(`<span class="badge smk2">💨 가열식만</span>`);
+    if (r.google_status === "CLOSED_TEMPORARILY" || r.google_status === "CLOSED_PERMANENTLY") b.push(`<span class="badge st-warn">⚠️ ${r.google_status === "CLOSED_TEMPORARILY" ? "임시 휴업" : "폐업"}(구글)</span>`);
+    const st = statusBadge(r);
+    if (st) b.push(st);
+    const wb = waitBadge(r);
+    if (wb) b.push(wb);
+    if (r.booking_type && BOOK[r.booking_type]) b.push(`<span class="badge bk bk-${esc(r.booking_type)}">${BOOK[r.booking_type].emoji} ${esc(paidOnly(r) ? "유료 대행" : BOOK_SHORT[r.booking_type] || r.booking_type)}${resLabel(r)}</span>`);
+    return b.slice(0, 3).join("");
+  }
   const telHref = (p) => "tel:" + String(p).replace(/[^+\d]/g, "");
   // 길찾기: 내 위치가 1.5km 안이면 도보, 아니면 대중교통
   const dirUrl = (r) => {
@@ -366,12 +379,17 @@
       out.push(`<div class="alt">예약 방법은 아래 '예약팁' 참고 (링크 미확인)</div>`);
     }
     const phoneOk = r.phone && r.phone_booking !== false && (r.booking_type === "전화예약만" || r.booking_type === "앱예약");
-    if (phoneOk) {
+    const onlineCta = bk.length && canBook;
+    if (phoneOk && !onlineCta) {
+      // 전화 예약이 주 경로: 큰 전화 버튼 + 호텔에 보여줄 문구
       out.push(`<div class="btns two">
         <a class="cta tel" href="${telHref(r.phone)}">📞 전화 예약<small>${esc(telLocal(r.phone))}</small></a>
         <button class="cta conc" data-act="concierge" data-id="${r.id}">🏨 예약 부탁 문구</button>
       </div>`);
       if (r.booking_type === "전화예약만") out.push(`<div class="alt">전화가 어렵다면: 호텔 프런트에 문구를 보여주거나 <a href="https://autoreserve.com/" target="_blank" rel="noopener">AutoReserve</a>(AI 전화 대행 앱)</div>`);
+    } else if (phoneOk) {
+      // 온라인 예약이 있으면 전화는 한 줄로
+      out.push(`<div class="alt">전화도 돼요: <a href="${telHref(r.phone)}">📞 ${esc(telLocal(r.phone))}</a> · <button type="button" class="linkbtn" data-act="concierge" data-id="${r.id}">🏨 예약 부탁 문구</button></div>`);
     } else if (r.booking_type === "현장방문") {
       out.push(`<div class="alt walk">🚶 예약 없이 방문하는 곳이에요${r.tips ? " — 아래 팁 참고" : ""}</div>`);
     }
@@ -518,10 +536,11 @@
     return `<span class="badge st-${st.s}" title="요일별 영업시간 기준(L.O.는 보통 30분~1시간 전). 방문 전 확인">${icon} ${esc(st.t)}</span>`;
   };
 
-  function tbScore(r) {
-    if (!r.tabelog_score) return `<span class="tbs none" title="타베로그 점수 미확인">타베로그<b>-</b></span>`;
+  function tbScore(r, withGoogle) {
+    const g = withGoogle && r.google_rating ? `<i class="gsc" title="구글 지도 평점(리뷰 ${fmtN(r.google_reviews || 0)}개)">구글 ${r.google_rating}</i>` : "";
+    if (!r.tabelog_score) return `<span class="tbs none" title="타베로그 점수 미확인">타베로그<b>-</b>${g}</span>`;
     const lvl = r.tabelog_score >= 4 ? "s4" : r.tabelog_score >= 3.7 ? "s3" : r.tabelog_score >= 3.5 ? "s2" : "s1";
-    return `<span class="tbs ${lvl}" title="타베로그 점수">타베로그<b>${Number(r.tabelog_score).toFixed(2)}</b></span>`;
+    return `<span class="tbs ${lvl}" title="타베로그 점수">타베로그<b>${Number(r.tabelog_score).toFixed(2)}</b>${g}</span>`;
   }
 
   const PAID = /TABLE ?ALL|MY CONCIERGE|TakeMe/i;
@@ -557,15 +576,16 @@
   function linkBtns(r) {
     const lk = r.links;
     const isFav = fav.has(r.id), isVis = vis.has(r.id);
+    // 큰 버튼은 '예약(또는 전화)'과 '길찾기'만, 나머지는 작은 아이콘 줄로
     return `${bookBtns(r)}
-      <div class="btns">
-        <a class="g" href="${esc(dirUrl(r))}" target="_blank" rel="noopener">🧭 구글맵 길찾기${state.me && /walking/.test(dirUrl(r)) ? " (도보)" : ""}</a>
-        <a href="${esc(lk.google_maps)}" target="_blank" rel="noopener">📍 구글맵에서 보기</a>
-        <a class="tb" href="${esc(lk.tabelog)}" target="_blank" rel="noopener">타베로그${lk.tabelog_is_search ? " 검색" : " (한국어)"}</a>
-        <a class="yt" href="${esc(lk.youtube)}" target="_blank" rel="noopener">▶ 유튜브 검색</a>
-        <button class="favbtn ${isFav ? "on" : ""}" data-id="${r.id}" data-act="fav">${isFav ? "♥ 찜 해제" : "♡ 찜하기"}</button>
-        <button class="vis ${isVis ? "on" : ""}" data-id="${r.id}" data-act="vis">${isVis ? "✓ 방문함" : "방문 체크"}</button>
-        <button class="share" data-id="${r.id}" data-act="share">🔗 일행에게 공유</button>
+      <a class="cta nav navwide" href="${esc(dirUrl(r))}" target="_blank" rel="noopener">🧭 구글맵 길찾기${state.me && /walking/.test(dirUrl(r)) ? " (도보)" : ""}</a>
+      <div class="mini">
+        <a href="${esc(lk.google_maps)}" target="_blank" rel="noopener"><span>📍</span>구글맵</a>
+        <a href="${esc(lk.tabelog)}" target="_blank" rel="noopener"><span>🍽</span>타베로그</a>
+        <a href="${esc(lk.youtube)}" target="_blank" rel="noopener"><span>▶</span>유튜브</a>
+        <button class="${isFav ? "on" : ""}" data-id="${r.id}" data-act="fav"><span>${isFav ? "♥" : "♡"}</span>${isFav ? "찜함" : "찜"}</button>
+        <button class="${isVis ? "on" : ""}" data-id="${r.id}" data-act="vis"><span>👣</span>${isVis ? "가봄" : "가봤어요"}</button>
+        <button data-id="${r.id}" data-act="share"><span>🔗</span>공유</button>
       </div>`;
   }
 
@@ -708,8 +728,10 @@
         || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0));
     } else {
       const order = Object.keys(D.regions);
-      // 추천순: 지역 → 등급 → 근거 수(신뢰도) → 타베로그 점수
-      out.sort((a, b) => order.indexOf(a.region) - order.indexOf(b.region) || b.legend_level - a.legend_level
+      // 추천순: 오늘 아직 갈 수 있는 곳 먼저(오늘 휴무·영업 끝·주문 마감은 뒤로) → 지역 → 등급 → 근거 수 → 타베로그 점수
+      const doneToday = (r) => { const st = openStatus(r); return st && ["off", "closed", "lo"].includes(st.s) ? 1 : 0; };
+      const dt = new Map(out.map((r) => [r.id, doneToday(r)]));
+      out.sort((a, b) => dt.get(a.id) - dt.get(b.id) || order.indexOf(a.region) - order.indexOf(b.region) || b.legend_level - a.legend_level
         || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0));
     }
     return out;
@@ -889,16 +911,14 @@
         <div class="em" style="background:${c.color}22">${c.emoji}</div>
         <div>
           <div class="t">${esc(r.name_ko)}<span class="lv" title="${esc((D.levelRule || {})[r.legend_level] || "")}">${"★".repeat(r.legend_level)}</span>${r.icon ? `<span class="icn" title="점수 기준 밖이지만 꼭 가볼 만한 원조·명물">🏯</span>` : ""}<span class="evc" title="독립 근거 ${(r.evidence || []).length}개: ${esc((r.evidence || []).join(", "))}">근거 ${(r.evidence || []).length}</span></div>
-          <div class="ja">${esc(r.name_ja)}</div>
           <div class="meta">${esc(D.regions[r.region].ko)} ${esc(r.area)} · ${esc(r.category)} · <span class="nw">${YEN[r.price_level] || ""}</span>${noSmoke(r) ? ` · <span class="nw" title="${esc(smokeLabel[r.smoking])}">🚭${r.smoking === "분연" ? " 분연" : ""}</span>` : ""}</div>
           ${state.tripDay && r._trip ? `<div class="tripd">📍 ${esc(r._trip.n)}에서 ${walk(r._trip.d)}</div>` : ""}
           ${r.signature ? `<div class="sig">${esc(r.signature)}</div>` : ""}
-          <div class="badges">${badgesHtml(r, 3)}</div>
+          <div class="badges">${cardBadges(r)}</div>
         </div>
         <div class="side">
-          ${tbScore(r)}
+          ${tbScore(r, true)}
           <button class="iconbtn ${fav.has(r.id) ? "on" : ""}" data-act="fav" data-id="${r.id}" aria-label="찜">${fav.has(r.id) ? "♥" : "♡"}</button>
-          <button class="iconbtn vis ${vis.has(r.id) ? "on" : ""}" data-act="vis" data-id="${r.id}" aria-label="가 봤어요">${vis.has(r.id) ? "가봄" : "👣"}</button>
           ${(state.me || refHotelSort()) && r._d != null ? `<span class="dist"><small>${refHotelSort() ? "숙소에서" : "내 위치에서"}</small>${walk(r._d)}</span>` : ""}
         </div>
         ${state.open === r.id ? `<div class="more pp">${detailHtml(r)}</div>` : ""}
@@ -1281,7 +1301,7 @@
     if (watchId !== null) navigator.geolocation.clearWatch(watchId);
     watchId = null; follow = false; state.me = null; lastSorted = null;
     [meMarker, meCircle, refMarker].forEach((x) => x && map.removeLayer(x)); meMarker = meCircle = refMarker = null;
-    $("sort").options[0].text = "추천순"; setLocBtn("off"); update();
+    $("sort").options[0].text = "추천순 (오늘 여는 곳 먼저)"; setLocBtn("off"); update();
   }
   function toggleLocate(forceStart) {
     if (!navigator.geolocation) { toast("이 브라우저는 위치 정보를 지원하지 않아요"); return; }
