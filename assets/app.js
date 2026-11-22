@@ -651,7 +651,7 @@
 
   // ------------------------------------------------------------------ filters
   // 검색 표기 흔들림 보정: 타코야끼/타코야키, 쿠시카쯔/쿠시카츠, 돈까스/돈카츠, 라면/라멘 …
-  const ALIAS = [[/나포리탄|나폴리타|napolitan|ナポリタン|케[첩찹]\s*스파게티/gi, "나폴리탄"], [/오무라이스|오무라이수|オムライス/g, "오므라이스"],
+  const ALIAS = [[/나포리탄|나폴리타|napolitan|ナポリタン|케[첩찹]\s*스파게티/gi, "나폴리탄"], [/선술집|술집|대중주점|居酒屋|大衆酒場|izakaya/gi, "이자카야"], [/立ち飲み|立呑み|스탠딩\s*바|서서\s*마시는/g, "다치노미"], [/오무라이스|오무라이수|オムライス/g, "오므라이스"],
     [/함바그|햄버그|함바구|햄버거\s*스테이크|ハンバーグ/g, "함박"], [/푸린|プリン/g, "푸딩"], [/타마고\s*산도|계란\s*샌드|에그\s*샌드|玉子サンド|たまごサンド/g, "타마고산도"],
     [/규카츠|규까츠|牛カツ/g, "규카츠"], [/텐동|天丼/g, "덴동"], [/가이세키|카이세끼/g, "카이세키"], [/오꼬노미|오꼬노미/g, "오코노미"], [/돈가스|돈까스/g, "돈카츠"], [/라면/g, "라멘"], [/초밥/g, "스시"], [/우나기|장어덮밥/g, "장어"], [/고베규|소고기|쇠고기/g, "와규"]];
   const norm = (x) => {
@@ -659,8 +659,12 @@
     ALIAS.forEach(([re, to]) => { t = t.replace(re, to); });
     return t.replace(/끼/g, "키").replace(/꼬/g, "코").replace(/꾸/g, "쿠").replace(/까/g, "카").replace(/[쯔쓰]/g, "츠").replace(/찌/g, "치").replace(/따/g, "타").replace(/빠/g, "파").replace(/뽀/g, "포");
   };
+  // '이자카야'로 찾을 때 술 마시기 좋은 곳(쿠시카츠·가성비 야키토리·오뎅·다치노미 등)도 함께 나오게
+  const DRINKY = /오뎅|おでん|도테야키|다치노미|立ち飲み|사케|일본주|니혼슈|술안주|안주|酒|하이볼|생맥주/;
+  const izakayaLike = (r) => r.category === "이자카야·다치노미" || r.category === "쿠시카츠"
+    || (r.category === "야키토리·닭요리" && (r.price_level || 9) <= 3) || DRINKY.test([r.signature, r.why, r.tips].join(" "));
   function textOf(r) {
-    return [r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" "), r.smoking ? (noSmoke(r) ? "금연" : "흡연") : ""]
+    return [izakayaLike(r) ? "이자카야 술집" : "", r.name_ko, r.name_ja, r.name_en, r.area, r.category, r.signature, r.why, r.station, (r.tags || []).join(" "), (r.awards || []).join(" "), r.booking_type, (r.booking_apps || []).map((b) => b.app).join(" "), (r.reasons || []).map((x) => x.type + " " + x.detail).join(" "), r.smoking ? (noSmoke(r) ? "금연" : "흡연") : ""]
       .join(" ");
   }
   const TEXT = new Map(R.map((r) => [r.id, norm(textOf(r))]));
