@@ -630,3 +630,9 @@ details[open].moreinfo > summary::before, details[open].legend > summary::before
 .countbar .count { flex: none; white-space: nowrap; }
 .countbar .sort { flex: 1 1 0; }
 .countbar .sort.when { max-width: none; flex: 0.8 1 0; }
+.badge.dish { background: #fff0e0; color: #8a3b00; font-weight: 800; }
+.badge.dish-C { background: #f3f1ee; color: #6b665e; font-weight: 600; }
+.dishlinks { margin: 8px 0 2px; padding: 8px 10px; background: #fff7ec; border-radius: 10px; font-size: 14px; }
+.dishlinks small { color: var(--muted); }
+.ytline { font-size: 13px; margin: 4px 0; }
+@media (prefers-color-scheme: dark) { .badge.dish { background: #3a2410; color: #ffc98f; } .dishlinks { background: #2a2017; } }

@@ -341,6 +341,9 @@
   // 목록 카드용 배지: 지금 상태 · 웨이팅 · 예약 방식만 (나머지는 펼치면)
   function cardBadges(r) {
     const b = [];
+    const qt = norm(state.q).split(/\s+/).filter(Boolean);
+    const dish = qt.length ? dishFor(r, qt) : null;
+    if (dish) b.push(`<span class="badge dish dish-${dish.grade}">🍝 ${esc(dish.name)} ${dish.grade === "A" ? "명물" : dish.grade === "B" ? "인기 메뉴" : "메뉴에 있음"}</span>`);
     if (r.smoking === "흡연가능") b.push(`<span class="badge smk">🚬 흡연 가능</span>`);
     else if (r.smoking === "가열식만") b.push(`<span class="badge smk2">💨 가열식만</span>`);
     if (r.google_status === "CLOSED_TEMPORARILY" || r.google_status === "CLOSED_PERMANENTLY") b.push(`<span class="badge st-warn">⚠️ ${r.google_status === "CLOSED_TEMPORARILY" ? "임시 휴업" : "폐업"}(구글)</span>`);
@@ -590,12 +593,16 @@
       <div class="mini">
         <a href="${esc(lk.google_maps)}" target="_blank" rel="noopener"><span>📍</span>구글맵</a>
         <a href="${esc(lk.tabelog)}" target="_blank" rel="noopener"><span>🍽</span>타베로그</a>
-        <a href="${esc(lk.youtube)}" target="_blank" rel="noopener"><span>▶</span>유튜브</a>
+        <a href="${esc(photoUrl(r))}" target="_blank" rel="noopener"><span>📷</span>사진</a>
         <button class="${isFav ? "on" : ""}" data-id="${r.id}" data-act="fav"><span>${isFav ? "♥" : "♡"}</span>${isFav ? "찜함" : "찜"}</button>
         <button class="${isVis ? "on" : ""}" data-id="${r.id}" data-act="vis"><span>👣</span>${isVis ? "가봄" : "가봤어요"}</button>
         <button data-id="${r.id}" data-act="share"><span>🔗</span>공유</button>
-      </div>`;
+      </div>
+      ${(r.dishes || []).map((d) => `<div class="dishlinks">🍝 ${esc(d.name)} ${d.url ? `<a href="${esc(d.url)}" target="_blank" rel="noopener">근거 보기</a> · ` : ""}<a href="https://www.google.com/search?tbm=isch&q=${encodeURIComponent(r.name_ja + " " + (d.ja || d.name))}" target="_blank" rel="noopener">📷 ${esc(d.name)} 사진</a><br><small>구글맵 리뷰는 대부분 일본어예요 — 리뷰 검색창에 「${esc(d.ja || d.name)}」로 찾으면 후기가 나와요</small></div>`).join("")}
+      <div class="ytline"><a href="${esc(lk.youtube)}" target="_blank" rel="noopener">▶ 유튜브에서 이 가게 검색</a></div>`;
   }
+  // 타베로그 사진 목록(한국어판)
+  const photoUrl = (r) => (r.tabelog_url ? r.tabelog_url.replace("https://tabelog.com/", "https://tabelog.com/kr/") + "dtlphotolst/" : `https://www.google.com/search?tbm=isch&q=${encodeURIComponent(r.name_ja)}`);
 
   function nearHtml(r) {
     const near = R.filter((x) => x.id !== r.id)
@@ -634,6 +641,7 @@
     if (r.station) rows.push(["역", r.station]);
     if (r.phone) rows.push(["전화", `${telLocal(r.phone)} (해외에서 ${r.phone})`]);
     if ((r.youtube || []).length) rows.push(["유튜브", r.youtube.join(", ")]);
+    (r.dishes || []).forEach((d) => rows.unshift([`🍝 ${d.name}`, `${d.grade === "A" ? "명물" : d.grade === "B" ? "인기 메뉴" : "메뉴에 있음"} — ${d.evidence}`]));
     // 예약·이동 버튼을 맨 위에: 고르고 바로 행동할 수 있게
     return `${onlineHtml(r)}
       ${r.notice ? `<div class="notice">⚠️ ${esc(r.notice)}</div>` : ""}
@@ -644,7 +652,7 @@
       ${reasonsHtml(r)}
       ${r.tips ? `<div class="tips">💡 ${esc(r.tips)}</div>` : ""}
       ${(() => { // 자주 보는 정보만 펼쳐 두고 나머지는 '자세한 정보'로
-        const MAIN = new Set(["대표메뉴", "가격", "영업", "휴무", "예약", "예약팁", "웨이팅", "한산한 때", "흡연"]);
+        const MAIN = new Set(["대표메뉴", "가격", "영업", "휴무", "예약", "예약팁", "웨이팅", "한산한 때", "흡연", ...(r.dishes || []).map((d) => `🍝 ${d.name}`)]);
         const dl = (xs) => `<dl>${xs.map(([k, v]) => `<dt>${esc(k)}</dt><dd>${esc(v)}</dd>`).join("")}</dl>`;
         const main = rows.filter(([k]) => MAIN.has(k)), rest = rows.filter(([k]) => !MAIN.has(k));
         return dl(main) + (rest.length ? `<details class="moreinfo"><summary>자세한 정보 (${rest.map(([k]) => k).slice(0, 4).join("·")}${rest.length > 4 ? " 등" : ""})</summary>${dl(rest)}</details>` : "");
@@ -719,6 +727,15 @@
     return ["open", "soon"].includes(st.s) && walkInOk(r) ? 0 : 1;
   }
   const quality = (a, b) => b.legend_level - a.legend_level || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0);
+  const DISH_GRADE = { A: 3, B: 2, C: 1 };
+  function dishFor(r, terms) {
+    return (r.dishes || []).find((d) => terms.some((t) => norm(d.name).includes(t) || t.includes(norm(d.name))));
+  }
+  function matchRank(r, terms) {
+    const nm = norm(r.name_ko + " " + r.name_ja), sg = norm(r.signature || "");
+    const dish = dishFor(r, terms);
+    return (terms.every((t) => nm.includes(t)) ? 10 : 0) + (dish ? 4 + DISH_GRADE[dish.grade] : 0) + (terms.every((t) => sg.includes(t)) ? 3 : 0);
+  }
   function filtered() {
     const terms = norm(state.q).split(/\s+/).filter(Boolean);
     tripClosedN = 0; tripMealN = 0;
@@ -765,7 +782,9 @@
       const order = Object.keys(D.regions);
       // 추천순: 오늘 아직 갈 수 있는 곳 먼저(오늘 휴무·영업 끝·주문 마감은 뒤로) → 지역 → 등급 → 근거 수 → 타베로그 점수
       const tier = new Map(out.map((r) => [r.id, tierOf(r)]));
-      out.sort((a, b) => tier.get(a.id) - tier.get(b.id) || order.indexOf(a.region) - order.indexOf(b.region) || quality(a, b));
+      // 검색어가 있으면: 이름 > 대표 메뉴(그 메뉴의 명물 등급) > 설명 순으로 먼저
+      const rel = new Map(out.map((r) => [r.id, terms.length ? matchRank(r, terms) : 0]));
+      out.sort((a, b) => rel.get(b.id) - rel.get(a.id) || tier.get(a.id) - tier.get(b.id) || order.indexOf(a.region) - order.indexOf(b.region) || quality(a, b));
     }
     return out;
   }
