@@ -15736,7 +15736,12 @@
     "notice": null,
     "reservation": "필수",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/ib508202"
+      }
+    ],
     "booking_note": "OMAKASE로 예약을 받으며 당일 예약도 가능. 취소료는 30일 전부터 50%, 7일 전부터 100%.",
     "booking_checked": [
       "타베로그"
@@ -17379,7 +17384,12 @@
     "notice": null,
     "reservation": "가능",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/dl860220"
+      }
+    ],
     "booking_note": "OMAKASE에서 24시간 예약할 수 있다.",
     "booking_checked": [
       "타베로그"
@@ -17493,7 +17503,12 @@
     "notice": null,
     "reservation": "가능",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/he380047"
+      }
+    ],
     "booking_note": "타베로그에 'OMAKASE로 예약을 받는다'고 안내되어 있다(링크는 미게재 — OMAKASE에서 가게 이름으로 검색).",
     "booking_checked": [
       "타베로그"
@@ -26139,7 +26154,12 @@
     "notice": null,
     "reservation": "가능",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/ko/shops/yiwanshui/reserve"
+      }
+    ],
     "booking_note": "2026년 후기에 TableCheck로 약 2주 전에 예약했다는 기록이 있다(타베로그 페이지엔 링크 없음). 전화 예약도 가능.",
     "booking_checked": [
       "타베로그"
@@ -26615,7 +26635,12 @@
     "notice": null,
     "reservation": "필수",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/ko/shops/sumishomikuriya/reserve"
+      }
+    ],
     "booking_note": "예약은 TableCheck로만 받음(전화 예약 불가). 2026년 후기 기준 매월 1일 정오에 다음 달 예약이 열리고, 18:00·20:30 2부제.",
     "booking_checked": [
       "타베로그"
@@ -27416,7 +27441,12 @@
     "notice": null,
     "reservation": "필수",
     "booking_type": "앱예약",
-    "booking_apps": [],
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/jk392762"
+      }
+    ],
     "booking_note": "타베로그 페이지에는 전화번호·예약 경로가 없다. 2026년 후기 기준 예전 회원제에서 바뀌어 지금은 OMAKASE·잇큐(一休)로 예약하며, 자리 잡기가 어렵다는 평.",
     "booking_checked": [
       "타베로그"
@@ -29837,6 +29867,369 @@
     ],
     "sources": [
       "https://tabelog.com/kr/osaka/A2701/A270102/27112024/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-234",
+    "name_ko": "토리우마 시다레",
+    "name_ja": "鳥旨 しだれ",
+    "name_en": "Toriuma Shidare",
+    "region": "osaka",
+    "area": "기타신치",
+    "category": "야키토리·닭요리",
+    "signature": "닭과 기슈 오리(紀州鴨)를 쓰는 야키토리 오마카세 코스",
+    "why": "타베로그 4.15, 야키토리 百名店 2025·2026. 2025년 1월 도지마에서 재오픈한 야키토리집으로, 닭과 기슈 오리를 2부제 오마카세 코스로 낸다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 4.15 (리뷰 146건), 야키토리 WEST 百名店 2025·2026",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27147023/"
+      }
+    ],
+    "tips": "18:00~20:00, 20:30~22:30 2부제로 운영한다. 식사 중 자리를 비우지 말고 향수는 자제해 달라는 안내가 있다.",
+    "address_ja": "大阪府大阪市北区堂島1-3-8",
+    "address_building": null,
+    "station": "기타신치역에서 약 240m",
+    "phone": null,
+    "lat": 34.696648,
+    "lng": 135.497879,
+    "geo": "gsi:大阪府大阪市北区堂島一丁目３番",
+    "price_level": 4,
+    "price_note": "저녁 20,000~29,999엔 (타베로그)",
+    "hours": "18:00-22:30 (2부제 18:00~20:00 / 20:30~22:30)",
+    "closed": "일요일·공휴일",
+    "hours_week": {
+      "mon": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "tue": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "wed": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "thu": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "fri": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "sat": [
+        [
+          "18:00",
+          "22:30"
+        ]
+      ],
+      "sun": []
+    },
+    "hours_note": "공휴일 휴무",
+    "notice": null,
+    "reservation": "필수",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/ho492446"
+      }
+    ],
+    "booking_note": "완전 예약제. 전화번호가 공개되지 않아 OMAKASE로 예약한다.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": null,
+    "wait": null,
+    "smoking": "금연",
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27147023/",
+    "tabelog_score": 4.15,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 야키토리 WEST 2026",
+      "타베로그 백명점 야키토리 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "고급",
+      "예약필수"
+    ],
+    "legend_level": 3,
+    "editor_level": 3,
+    "icon": false,
+    "evidence": [
+      "타베로그 4.15",
+      "백명점"
+    ],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270101/27147023/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-235",
+    "name_ko": "다카하시 겐타로",
+    "name_ja": "髙橋 謙太郎",
+    "name_en": "Takahashi Kentaro",
+    "region": "osaka",
+    "area": "기타하마·요도야바시·혼마치",
+    "category": "스시·해산물",
+    "signature": "노도구로(눈볼대) 스시, 구운 시라코 등 오마카세 코스",
+    "why": "타베로그 4.28, Tabelog Award 2026 Bronze·스시 百名店 2025. 수분·염분·지방을 계산해 쥐는 다카하시 겐타로 셰프의 스시로, 2024년 기타신치에서 니시텐마로 옮겨 다시 문을 열었다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 4.28 (리뷰 222건), 스시 WEST 百名店 2025",
+        "url": "https://tabelog.com/osaka/A2701/A270101/27140862/"
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "Tabelog Award 2026 Bronze",
+        "url": null
+      }
+    ],
+    "tips": "향수는 피하고, 자리에 앉으면 시계·팔찌는 빼 달라는 요청이 있다. 예약 변경에도 취소 수수료가 붙는다.",
+    "address_ja": "大阪府大阪市北区西天満4-7-7",
+    "address_building": "サン・システム西天満ガストロプラザ 2F",
+    "station": "나니와바시역에서 약 430m · 요도야바시·기타신치역 도보 약 9분",
+    "phone": "+81-90-4695-6361",
+    "lat": 34.696716,
+    "lng": 135.503769,
+    "geo": "gsi:大阪府大阪市北区西天満四丁目７番７号",
+    "price_level": 4,
+    "price_note": "저녁 30,000~39,999엔 (타베로그)",
+    "hours": "월~금 17:45-22:30, 토 15:00-22:30, 일·공휴일 15:00-21:00",
+    "closed": "부정기 휴무",
+    "hours_week": {
+      "mon": [
+        [
+          "17:45",
+          "22:30"
+        ]
+      ],
+      "tue": [
+        [
+          "17:45",
+          "22:30"
+        ]
+      ],
+      "wed": [
+        [
+          "17:45",
+          "22:30"
+        ]
+      ],
+      "thu": [
+        [
+          "17:45",
+          "22:30"
+        ]
+      ],
+      "fri": [
+        [
+          "17:45",
+          "22:30"
+        ]
+      ],
+      "sat": [
+        [
+          "15:00",
+          "22:30"
+        ]
+      ],
+      "sun": [
+        [
+          "15:00",
+          "21:00"
+        ]
+      ]
+    },
+    "hours_note": "토·일·공휴일은 14:00에 여는 날도 있음",
+    "notice": null,
+    "reservation": "가능",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "OMAKASE",
+        "url": "https://omakase.in/en/r/ou405462"
+      }
+    ],
+    "booking_note": "전화 예약은 받지 않고 OMAKASE로만 예약. 예약 오픈 일정은 OMAKASE 페이지에서 확인 — 인기가 많아 금방 마감된다.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": false,
+    "wait": null,
+    "smoking": "금연",
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270101/27140862/",
+    "tabelog_score": 4.28,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "Tabelog Award 2026 Bronze",
+      "타베로그 백명점 스시 WEST 2025"
+    ],
+    "youtube": [],
+    "tags": [
+      "백명점",
+      "고급"
+    ],
+    "legend_level": 3,
+    "editor_level": 3,
+    "icon": false,
+    "evidence": [
+      "타베로그 4.28",
+      "백명점",
+      "Tabelog Award"
+    ],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270101/27140862/"
+    ],
+    "verified_open": true,
+    "checked_at": "2026-11-21"
+  },
+  {
+    "id": "osaka-236",
+    "name_ko": "우에로쿠 와인",
+    "name_ja": "上六ワイン",
+    "name_en": "Ueroku Wine",
+    "region": "osaka",
+    "area": "우에혼마치·다니마치9",
+    "category": "기타",
+    "signature": "셰프의 개성이 담긴 창작 스페인 요리와 와인",
+    "why": "타베로그 4.06에 스페인 요리 百名店 2회(2024·2026), 미쉐린 빕구르망 2년 연속(2025~2026). 예약 잡기 어렵기로 이름난 우에혼마치의 스페인 요리·와인 바다.",
+    "reasons": [
+      {
+        "type": "타베로그",
+        "detail": "타베로그 4.06 (리뷰 325건), 스페인 요리 百名店 2026",
+        "url": "https://tabelog.com/osaka/A2701/A270205/27136410/"
+      },
+      {
+        "type": "미쉐린",
+        "detail": "미쉐린 가이드 교토·오사카 빕구르망 2025~2026 2년 연속",
+        "url": null
+      },
+      {
+        "type": "수상·백명점",
+        "detail": "스페인 요리 百名店 2024·2026 선정",
+        "url": null
+      }
+    ],
+    "tips": "5명 이상은 예약을 받지 않는다. 카드·교통계 IC·PayPay 등 결제 수단이 다양하다.",
+    "address_ja": "大阪府大阪市天王寺区東高津町4-15",
+    "address_building": null,
+    "station": "오사카우에혼마치역 도보 5분 (약 300m)",
+    "phone": "+81-50-1395-5207",
+    "lat": 34.668182,
+    "lng": 135.521408,
+    "geo": "gsi:大阪府大阪市天王寺区東高津町４番１５号",
+    "price_level": 4,
+    "price_note": "저녁 20,000~29,999엔 (타베로그)",
+    "hours": "18:00-23:00 (토요일 18:00-22:00)",
+    "closed": "일요일·공휴일·부정기 휴무",
+    "hours_week": {
+      "mon": [
+        [
+          "18:00",
+          "23:00"
+        ]
+      ],
+      "tue": [
+        [
+          "18:00",
+          "23:00"
+        ]
+      ],
+      "wed": [
+        [
+          "18:00",
+          "23:00"
+        ]
+      ],
+      "thu": [
+        [
+          "18:00",
+          "23:00"
+        ]
+      ],
+      "fri": [
+        [
+          "18:00",
+          "23:00"
+        ]
+      ],
+      "sat": [
+        [
+          "18:00",
+          "22:00"
+        ]
+      ],
+      "sun": []
+    },
+    "hours_note": "요리 L.O. 22:00(토 21:00) / 공휴일 휴무",
+    "notice": null,
+    "reservation": "필수",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "잇큐",
+        "url": "https://restaurant.ikyu.com/123583"
+      }
+    ],
+    "booking_note": "완전 예약제. 전화·SNS 예약은 받지 않으며 잇큐(一休)에서 온라인 예약. 인기가 많아 일찍 예약하는 게 좋다.",
+    "booking_checked": [
+      "타베로그"
+    ],
+    "phone_booking": false,
+    "wait": null,
+    "smoking": "금연",
+    "smoking_note": null,
+    "tabelog_url": "https://tabelog.com/osaka/A2701/A270205/27136410/",
+    "tabelog_score": 4.06,
+    "google_rating": null,
+    "google_reviews": null,
+    "awards": [
+      "타베로그 백명점 스페인 요리 2026",
+      "타베로그 백명점 스페인 요리 2024",
+      "미쉐린 빕구르망 2025~2026"
+    ],
+    "youtube": [],
+    "tags": [
+      "미쉐린",
+      "백명점",
+      "예약필수",
+      "고급"
+    ],
+    "legend_level": 3,
+    "editor_level": 3,
+    "icon": false,
+    "evidence": [
+      "타베로그 4.06",
+      "백명점",
+      "미쉐린"
+    ],
+    "sources": [
+      "https://tabelog.com/kr/osaka/A2701/A270205/27136410/",
+      "https://tabelog.com/kr/osaka/A2701/A270205/27136410/party/"
     ],
     "verified_open": true,
     "checked_at": "2026-11-21"
@@ -48550,7 +48943,7 @@
     "booking_apps": [
       {
         "app": "포켓컨시어지",
-        "url": null
+        "url": "https://www.pocket-concierge.jp/en/restaurants/245273"
       }
     ],
     "booking_note": "24시간 온라인 예약 가능. 처음 가는 손님은 포켓컨시어지에서 '天若(텐와카)'를 검색하거나 가게 인스타그램 프로필 링크로 예약하라고 안내한다.",

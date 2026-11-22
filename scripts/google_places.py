@@ -11,6 +11,7 @@
 옵션
   --only-missing   google_rating 이 비어 있는 가게만 조회 (기본: 전체)
   --dry-run        파일을 바꾸지 않고 결과만 출력
+  --fill-hours     요일별 영업시간(hours_week)이 비었거나 일부 요일이 '모름'인 가게만 구글 영업시간으로 그 요일을 채움
 
 채우는 필드
   google_rating, google_reviews, google_maps_uri, google_reservable, google_checked_at
@@ -52,7 +53,31 @@ class ApiError(Exception):
         self.code = code
 
 
-def search(key: str, r: dict) -> dict | None:
+HOURS_FIELDS = ",".join(["places.id", "places.displayName", "places.location", "places.regularOpeningHours"])
+GDAY = ["sun", "mon", "tue", "wed", "thu", "fri", "sat"]  # 구글 day 0 = 일요일
+
+
+def google_week(p: dict) -> dict | None:
+    """구글 regularOpeningHours.periods → {"mon": [["11:00","15:00"], ...], ...} (자정 넘김은 25:30 식)."""
+    periods = (p.get("regularOpeningHours") or {}).get("periods") or []
+    if not periods:
+        return None
+    week = {k: [] for k in GDAY}
+    for pr in periods:
+        o, c = pr.get("open") or {}, pr.get("close")
+        if "day" not in o:
+            continue
+        if not c:  # 24시간 영업
+            week[GDAY[o["day"]]].append(["00:00", "24:00"])
+            continue
+        ch = c.get("hour", 0) + 24 * ((c.get("day", o["day"]) - o["day"]) % 7)
+        week[GDAY[o["day"]]].append([f"{o.get('hour', 0):02d}:{o.get('minute', 0):02d}", f"{ch:02d}:{c.get('minute', 0):02d}"])
+    for k in week:
+        week[k].sort()
+    return week
+
+
+def search(key: str, r: dict, fields: str = FIELDS) -> dict | None:
     for _ in range(2):
         body = {
             "textQuery": f"{r['name_ja']} {r['address_ja']}",
@@ -65,7 +90,7 @@ def search(key: str, r: dict) -> dict | None:
         req = urllib.request.Request(
             ENDPOINT,
             data=json.dumps(body).encode("utf-8"),
-            headers={"Content-Type": "application/json", "X-Goog-Api-Key": key, "X-Goog-FieldMask": FIELDS},
+            headers={"Content-Type": "application/json", "X-Goog-Api-Key": key, "X-Goog-FieldMask": fields},
             method="POST",
         )
         try:
@@ -126,6 +151,7 @@ def main() -> int:
     ap = argparse.ArgumentParser()
     ap.add_argument("--only-missing", action="store_true")
     ap.add_argument("--dry-run", action="store_true")
+    ap.add_argument("--fill-hours", action="store_true")
     args = ap.parse_args()
 
     key = os.environ.get("GOOGLE_MAPS_API_KEY")
@@ -193,10 +219,58 @@ def main() -> int:
         if not args.dry_run and changed % 20 == 0:
             save(items)  # 중간 저장
 
+    if args.fill_hours:
+        changed += fill_hours(key, items, today)
     if not args.dry_run:
         save(items)
     print(f"완료: {changed}곳 갱신" + (" (dry-run)" if args.dry_run else ""))
     return 0
+
+
+KO_DAY = {"mon": "월", "tue": "화", "wed": "수", "thu": "목", "fri": "금", "sat": "토", "sun": "일"}
+
+
+def fill_hours(key: str, items: list, today: str) -> int:
+    """타베로그에서 못 채운 요일만 구글 영업시간으로 보완 (이미 있는 요일은 건드리지 않음)."""
+    n = 0
+    for r in items:
+        hw = r.get("hours_week")
+        if hw and all(v is not None for v in hw.values()):
+            continue
+        try:
+            p = search(key, r, HOURS_FIELDS)
+        except ApiError as e:
+            print(f"❌ 영업시간 {r['id']}: {e}")
+            if e.code in (400, 401, 403):
+                return n
+            continue
+        except (urllib.error.URLError, TimeoutError) as e:
+            print(f"⚠️  영업시간 {r['id']}: 네트워크 오류 {e}")
+            continue
+        time.sleep(0.2)
+        if not p:
+            print(f"❔ 영업시간 {r['id']} {r['name_ko']}: 구글에서 못 찾음")
+            continue
+        ok, why = same_place(r, p)
+        if not ok:
+            print(f"❔ 영업시간 {r['id']} {r['name_ko']}: 다른 가게로 보여 건너뜀 ({why})")
+            continue
+        gw = google_week(p)
+        if not gw:
+            print(f"❔ 영업시간 {r['id']} {r['name_ko']}: 구글에도 영업시간 없음")
+            continue
+        new = dict(hw or {k: None for k in KO_DAY})
+        filled = [k for k in KO_DAY if new.get(k) is None]
+        for k in filled:
+            new[k] = gw[k]
+        r["hours_week"] = new
+        note = f"{'·'.join(KO_DAY[k] for k in filled)}요일 영업시간은 구글 지도 기준({today})"
+        if note not in (r.get("hours_note") or ""):
+            r["hours_note"] = ((r.get("hours_note") or "") + (" / " if r.get("hours_note") else "") + note)
+        print(f"🕒 {r['id']} {r['name_ko']}: {', '.join(f'{KO_DAY[k]} {gw[k]}' for k in filled)}")
+        n += 1
+    print(f"영업시간 보완: {n}곳")
+    return n
 
 
 if __name__ == "__main__":

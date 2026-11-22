@@ -16,6 +16,10 @@ on:
         description: "파일을 바꾸지 않고 로그로 결과만 보기"
         type: boolean
         default: false
+      fill_hours:
+        description: "요일별 영업시간이 빈 가게는 구글 영업시간으로 그 요일만 채우기"
+        type: boolean
+        default: false
 
 permissions:
   contents: write
@@ -40,11 +44,13 @@ jobs:
           GOOGLE_MAPS_API_KEY: ${{ secrets.GOOGLE_MAPS_API_KEY }}
           ONLY_MISSING: ${{ inputs.only_missing }}
           DRY_RUN: ${{ inputs.dry_run }}
+          FILL_HOURS: ${{ inputs.fill_hours }}
         run: |
           set -o pipefail
           args=()
           [ "$ONLY_MISSING" = "true" ] && args+=(--only-missing)
           [ "$DRY_RUN" = "true" ] && args+=(--dry-run)
+          [ "$FILL_HOURS" = "true" ] && args+=(--fill-hours)
           python3 scripts/google_places.py "${args[@]}" | tee google_places.log
 
       - name: 산출물 다시 만들기
