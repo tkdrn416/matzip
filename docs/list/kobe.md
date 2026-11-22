@@ -96,7 +96,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.56(리뷰 230), 중국요리 WEST 百名店 2026(2021·2023 포함 3회)](https://tabelog.com/hyogo/A2801/A280102/28000884/)
 - 🏯 **노포·원조** [1945년 개업, 1894년 지은 이진칸(옛 비숍 저택)을 매장으로 사용](https://tabelog.com/hyogo/A2801/A280102/28000884/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 473개 (2026-11-21 기준)](https://maps.google.com/?cid=7585522683107397721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 473개 (2026-11-21 기준)](https://maps.google.com/?cid=7585522683107397721)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/totenkaku/reserve), [잇큐](https://restaurant.ikyu.com/101992/)
 - 예약 팁: 공식 사이트의 '예약' 버튼이 TableCheck로 연결된다. 타베로그에서는 온라인 예약이 안 된다. 전화 078-231-1351.
@@ -107,7 +107,7 @@
 - 영업 11:30-14:30(L.O.14:00) / 17:00-21:00(L.O.20:00) / 휴무 연말연시(12/29~1/1), 부정기 임시휴업
 - 💡 기타노 이진칸 산책과 같이 다니기 좋다. 런치가 디너보다 부담이 적다. 예약 가능. 건물 관리 때문에 임시 휴업하는 날이 있다.
 - 🚃 JR 모토마치역·산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=7585522683107397721&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E5%A4%A9%E9%96%A3%20%E7%A5%9E%E6%88%B8%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B1%B1%E6%9C%AC%E9%80%9A3-14-18) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000884/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%ED%85%90%EC%B9%B4%EC%BF%A0%20%EA%B3%A0%EB%B2%A0%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7585522683107397721) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E5%A4%A9%E9%96%A3%20%E7%A5%9E%E6%88%B8%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B1%B1%E6%9C%AC%E9%80%9A3-14-18) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000884/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%ED%85%90%EC%B9%B4%EC%BF%A0%20%EA%B3%A0%EB%B2%A0%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-004"></a>
 #### ★★ 와코쿠 기타노자카 본점 (和黒 北野坂本店) — 🐂 와규·스테이크 · 타베로그 3.62
@@ -116,7 +116,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.62(리뷰 381), 스테이크·철판구이 WEST 百名店 2024·2025(스테이크 2021, 스테이크·철판구이 2022 포함 4회)](https://tabelog.com/hyogo/A2801/A280101/28000954/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 654개 (2026-11-21 기준)](https://maps.google.com/?cid=8278835397755998982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 654개 (2026-11-21 기준)](https://maps.google.com/?cid=8278835397755998982)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000954/)
 - 예약 팁: 타베로그 코스 페이지의 'Reserve' 버튼으로 예약한다. 핫페퍼는 현재 넷 예약 중단 표시. 카운터를 통째로 빌릴 수도 있다. 서비스료 10%.
@@ -127,7 +127,7 @@
 - 영업 12:00-15:00 / 17:00-22:00 / 휴무 12/31, 1/1
 - 💡 서비스료 10%. 런치 세트는 약 7,950엔. 온라인 예약 가능. 이진칸 거리 입구라 기타노 관광과 같이 다니기 좋다.
 - 🚃 산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=8278835397755998982&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%BB%92%20%E5%8C%97%E9%87%8E%E5%9D%82%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000954/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EC%BD%94%EC%BF%A0%20%EA%B8%B0%ED%83%80%EB%85%B8%EC%9E%90%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8278835397755998982) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%BB%92%20%E5%8C%97%E9%87%8E%E5%9D%82%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000954/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EC%BD%94%EC%BF%A0%20%EA%B8%B0%ED%83%80%EB%85%B8%EC%9E%90%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-045"></a>
 #### ★★ 프로인드리브 본점 (カフェ フロインドリーブ 本店) — ☕ 카페·킷사텐 · 타베로그 3.73
@@ -136,7 +136,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.73 (리뷰 1,946건), 카페 百名店 WEST 2025 · 카페 百名店 2021·2022](https://tabelog.com/hyogo/A2801/A280101/28000366/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,953개 (2026-11-21 기준)](https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,953개 (2026-11-21 기준)](https://maps.google.com/?cid=8014203383370559515)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약을 받지 않는다(2026년 9월 기준). 도착 순서대로 입장
@@ -151,7 +151,7 @@
 - 영업 2층 카페 10:00-17:00 (L.O. 16:30) · 1층 빵집 10:00-18:00 / 휴무 수요일 (공휴일이면 다음 날)
 - 💡 샌드위치가 가장 인기이고, 케이크는 오후 2시쯤이면 품절되기도 한다. 평일엔 모닝 세트(10:00~11:30)와 런치(11:00~14:00)가 있고, 1층 빵집에서 구움과자를 사 갈 수 있다.
 - 🚃 JR 신고베역 남쪽 출구 도보 10분 / JR 산노미야역 도보 12분
-- [구글 지도](https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%96%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA4-6-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000366/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%93%9C%EB%A6%AC%EB%B8%8C%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8014203383370559515) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%96%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA4-6-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000366/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%93%9C%EB%A6%AC%EB%B8%8C%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-001"></a>
 #### ★★ 🏯 프로인드리브 이쿠타점(본점) (フロインドリーブ 生田店) — 🥐 베이커리 · 타베로그 3.66
@@ -161,7 +161,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.66(리뷰 408), 빵 WEST 百名店 2022·2026 선정](https://tabelog.com/hyogo/A2801/A280101/28000106/)
 - 🏯 **노포·원조** [1924년 창업, 옛 교회 건물을 고친 매장](https://tabelog.com/hyogo/A2801/A280101/28000106/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,953개 (2026-11-21 기준)](https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,953개 (2026-11-21 기준)](https://maps.google.com/?cid=8014203383370559515)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 타베로그에 '예약 가능'이지만 온라인 예약은 없다(전화 078-231-6051). 빵만 살 때는 예약 없이 가면 된다.
@@ -172,7 +172,7 @@
 - 영업 10:00-19:00 / 휴무 수요일(공휴일이면 다음날)
 - 💡 1층은 빵과 구움과자 매장, 2층은 카페. 수요일 휴무(공휴일이면 다음날). 신고베역과 산노미야역 사이라 기타노 산책 전후로 들르기 좋다.
 - 🚃 신고베역 도보 약 8분 / 산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=8014203383370559515&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%96%20%E7%94%9F%E7%94%B0%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA4-6-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000106/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%93%9C%EB%A6%AC%EB%B8%8C%20%EC%9D%B4%EC%BF%A0%ED%83%80%EC%A0%90%28%EB%B3%B8%EC%A0%90%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8014203383370559515) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E3%83%89%E3%83%AA%E3%83%BC%E3%83%96%20%E7%94%9F%E7%94%B0%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E7%94%9F%E7%94%B0%E7%94%BA4-6-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000106/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%93%9C%EB%A6%AC%EB%B8%8C%20%EC%9D%B4%EC%BF%A0%ED%83%80%EC%A0%90%28%EB%B3%B8%EC%A0%90%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 나가타
 
@@ -198,7 +198,7 @@
 - 영업 수~일 11:30-14:00, 17:00-20:30 / 휴무 월·화요일
 - 💡 예약 불가, 현금만. 카운터 9석+테이블 10석의 작은 가게라 오픈 10분 전 도착 추천. 소스는 단맛·매운맛 선택. 산노미야에서 JR로 신나가타역까지 약 10분.
 - 🚃 JR 신나가타역 남쪽 출구 도보 6분 / 지하철 고마가바야시역 약 300m
-- [구글 지도](https://maps.google.com/?cid=160485502234496222&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E9%9D%92%E6%A3%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA%E4%B9%85%E4%BF%9D%E7%94%BA4-8-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280110/28000773/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BD%94%EB%85%B8%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%95%84%EC%98%A4%EB%AA%A8%EB%A6%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=160485502234496222) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E9%9D%92%E6%A3%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA%E4%B9%85%E4%BF%9D%E7%94%BA4-8-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280110/28000773/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BD%94%EB%85%B8%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%95%84%EC%98%A4%EB%AA%A8%EB%A6%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-044"></a>
 #### ★★ 유키 (ゆき) — 🥞 오코노미야키 · 타베로그 3.50
@@ -221,7 +221,7 @@
 - 영업 목~화 11:30-15:00, 17:00-21:00 (L.O. 각 30분 전) / 휴무 수요일, 매월 셋째 화요일
 - 💡 예약 불가, 현금만. 테이블 18석. 아오모리(도보 3분 거리)와 묶어 나가타 '고나몬' 투어 가능. 근처 주차장 할인권 있음.
 - 🚃 지하철 고마가바야시역 도보 3분 / JR 신나가타역 도보 9분
-- [구글 지도](https://maps.google.com/?cid=2890513990370818788&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%86%E3%81%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA%E4%B9%85%E4%BF%9D%E7%94%BA4-2-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280110/28002109/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2890513990370818788) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%86%E3%81%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E9%95%B7%E7%94%B0%E5%8C%BA%E4%B9%85%E4%BF%9D%E7%94%BA4-2-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280110/28002109/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 나다·롯코
 
@@ -243,7 +243,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 디너 17:00-23:00 (L.O.22:00, 목 휴무) / 런치 월·수·토 12:00-14:00 (L.O.13:00) / 휴무 목요일 + 월 1회 부정기
 - 💡 현금만. 목요일 휴무에 월 1회 부정기 휴무. 5명 이상은 예약·입장 불가. 예약은 1개월 전부터 받고, 전날 17시 이후·당일 점심은 전화로만. 점심은 월·수·토만 영업.
 - 🚃 JR스미요시역 북쪽 도보 약 2분
-- [구글 지도](https://maps.google.com/?cid=1567922873503053023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B6%8F%E4%B8%80%E9%80%94%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E4%BD%8F%E5%90%89%E6%9C%AC%E7%94%BA1-3-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28008517/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%9D%B4%EC%B9%98%EC%A6%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1567922873503053023) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B6%8F%E4%B8%80%E9%80%94%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E4%BD%8F%E5%90%89%E6%9C%AC%E7%94%BA1-3-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28008517/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%9D%B4%EC%B9%98%EC%A6%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-046"></a>
 #### ★★ 라오후차이 본점 (老虎菜 本店) — 🥟 중화·교자 · 타베로그 3.71
@@ -262,7 +262,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 12:00-14:00 (L.O. 13:00), 18:00-22:00 (L.O. 21:00) / 휴무 월·화요일, 부정기 휴무
 - 💡 기본은 코스지만 단품도 미리 예약하면 주문할 수 있다. 점심 한정 '중화 4단 찬합'에는 전채 7종이 담긴다. 고난 혼도리 상점가 아케이드 남쪽 출구에서 1분.
 - 🚃 한신 아오키역 도보 10분 / JR 셋쓰모토야마역 도보 15분
-- [구글 지도](https://maps.google.com/?cid=4142632454579064412&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E8%99%8E%E8%8F%9C%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E9%AD%9A%E5%B4%8E%E5%8C%97%E7%94%BA5-7-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280105/28022858/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EC%98%A4%ED%9B%84%EC%B0%A8%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4142632454579064412) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E8%99%8E%E8%8F%9C%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E9%AD%9A%E5%B4%8E%E5%8C%97%E7%94%BA5-7-15) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280105/28022858/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EC%98%A4%ED%9B%84%EC%B0%A8%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-047"></a>
 #### ★★ 야키토리 다카시마 (焼鳥高しま) — 🍗 야키토리·닭요리 · 타베로그 3.77
@@ -282,7 +282,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:00-23:00 / 휴무 화요일, 부정기 휴무
 - 💡 재료가 떨어지면 일찍 문을 닫을 수 있다. 3~6인 개인실이 하나 있어 일행이 많으면 미리 예약할 것. 휴무 공지는 가게 인스타그램에 올라온다.
 - 🚃 한신 미카게역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=819683542815729078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E9%AB%98%E3%81%97%E3%81%BE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%BE%A1%E5%BD%B1%E4%B8%AD%E7%94%BA1-4-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28062284/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%8B%A4%EC%B9%B4%EC%8B%9C%EB%A7%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=819683542815729078) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E9%AB%98%E3%81%97%E3%81%BE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%BE%A1%E5%BD%B1%E4%B8%AD%E7%94%BA1-4-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28062284/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%8B%A4%EC%B9%B4%EC%8B%9C%EB%A7%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-031"></a>
 #### ★ 마쓰야 사케텐 (松屋酒店) — 🍶 이자카야·다치노미 · 타베로그 3.59
@@ -302,7 +302,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 월~토 17:00-22:00 (L.O.21:30), 점심은 예약제 개인실만 / 휴무 일요일·공휴일
 - 💡 현금만(카드·전자결제 불가). 일·공휴일 휴무. 저녁 영업이 기본이고 점심은 예약제 개인실만. 우오자키·스미요시 일대 양조장 견학 뒤 들르기 좋다.
 - 🚃 한신 우오자키역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=10281105234232242805&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%BE%E5%B1%8B%E9%85%92%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E9%AD%9A%E5%B4%8E%E5%8D%97%E7%94%BA8-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28025768/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%93%B0%EC%95%BC%20%EC%82%AC%EC%BC%80%ED%85%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10281105234232242805) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%BE%E5%B1%8B%E9%85%92%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E9%AD%9A%E5%B4%8E%E5%8D%97%E7%94%BA8-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28025768/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%93%B0%EC%95%BC%20%EC%82%AC%EC%BC%80%ED%85%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-005"></a>
 #### ★ 사카바야시(고베 슈신칸) (蔵の料亭 さかばやし（神戸酒心館）) — 🍱 일식·카이세키 · 타베로그 3.49
@@ -312,7 +312,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.49(리뷰 318). 나다 사케 양조장 체험이라는 특별함 때문에 선정](https://tabelog.com/hyogo/A2801/A280106/28000407/)
 - 📰 **언론·가이드** [공식 사이트: 이 양조장의 '후쿠주 준마이긴조'가 노벨상 시상식 공식 행사에서 제공됨](https://www.shushinkan.co.jp/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 588개 (2026-11-21 기준)](https://maps.google.com/?cid=7905968839069601458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 588개 (2026-11-21 기준)](https://maps.google.com/?cid=7905968839069601458)
 
 - **온라인 예약: ✅ 가능** · [공식사이트](https://www.shushinkan.co.jp/sakabayashi/), [핫페퍼](https://www.hotpepper.jp/strJ003599046/yoyaku/?vos=othpporgzzzzx00000001)
 - 예약 팁: 공식 사이트에서 핫페퍼 24시간 웹 예약으로 연결된다. 전화 078-841-2612(11~20시, 수요일 제외). 당일 또는 전날 15시 이후 취소는 전액 청구.
@@ -323,7 +323,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-15:00(L.O.14:30) / 17:30-21:00(L.O.20:00), 토·일·공휴일 14:30-17:00 음주 타임 / 휴무 수요일, 12/30~1/4
 - 💡 수요일 휴무(연말연시 12/30~1/4 휴무). 토·일·공휴일은 14:30~17:00 '음주 타임'을 연다. 핫페퍼에서 온라인 예약 가능. 양조장 숍(東明蔵)에서 양조장 한정 사케를 살 수 있다.
 - 🚃 한신 이시야가와역 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=7905968839069601458&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%94%B5%E3%81%AE%E6%96%99%E4%BA%AD%20%E3%81%95%E3%81%8B%E3%81%B0%E3%82%84%E3%81%97%EF%BC%88%E7%A5%9E%E6%88%B8%E9%85%92%E5%BF%83%E9%A4%A8%EF%BC%89%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%BE%A1%E5%BD%B1%E5%A1%9A%E7%94%BA1-8-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28000407/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%B0%94%EC%95%BC%EC%8B%9C%28%EA%B3%A0%EB%B2%A0%20%EC%8A%88%EC%8B%A0%EC%B9%B8%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7905968839069601458) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%94%B5%E3%81%AE%E6%96%99%E4%BA%AD%20%E3%81%95%E3%81%8B%E3%81%B0%E3%82%84%E3%81%97%EF%BC%88%E7%A5%9E%E6%88%B8%E9%85%92%E5%BF%83%E9%A4%A8%EF%BC%89%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%BE%A1%E5%BD%B1%E5%A1%9A%E7%94%BA1-8-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280106/28000407/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%B0%94%EC%95%BC%EC%8B%9C%28%EA%B3%A0%EB%B2%A0%20%EC%8A%88%EC%8B%A0%EC%B9%B8%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 난킨마치
 
@@ -351,7 +351,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-18:30(품절 시 종료) / 휴무 월요일(공휴일이면 다음날)
 - 💡 5개 600엔, 10개 1,200엔(1개 120엔). 리뉴얼 뒤로는 매장 안에서 먹을 수 없고 테이크아웃만 된다. 품절되면 바로 문을 닫으니 주말에는 이른 시간에 갈 것. 카드·전자결제 불가. 월요일 휴무(공휴일이면 다음날).
 - 🚃 모토마치역(JR·한신) 남쪽 난킨마치 안
-- [구글 지도](https://maps.google.com/?cid=5464853522272701238&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E7%A5%A5%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A2-1-14) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000947/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%9C%EC%87%BC%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5464853522272701238) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E7%A5%A5%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A2-1-14) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000947/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%9C%EC%87%BC%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-007"></a>
 #### ★★ 민세이(광둥요리) (廣東料理 民生) — 🥟 중화·교자 · 타베로그 3.52
@@ -375,7 +375,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-14:30(L.O.14:00) / 17:00-20:00(L.O.19:00) / 휴무 월요일(공휴일이면 다음날)
 - 💡 오징어 튀김에 공심채 볶음을 곁들이는 게 정석. 월요일 휴무(공휴일이면 다음날). 점심 라스트오더는 14:00~14:30.
 - 🚃 모토마치역(JR·한신), 난킨마치 광장 동쪽
-- [구글 지도](https://maps.google.com/?cid=2304729373091389771&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%9D%B1%E6%96%99%E7%90%86%20%E6%B0%91%E7%94%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-3-4) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000923/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%BC%EC%84%B8%EC%9D%B4%28%EA%B4%91%EB%91%A5%EC%9A%94%EB%A6%AC%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2304729373091389771) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%9D%B1%E6%96%99%E7%90%86%20%E6%B0%91%E7%94%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-3-4) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000923/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%BC%EC%84%B8%EC%9D%B4%28%EA%B4%91%EB%91%A5%EC%9A%94%EB%A6%AC%29%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-008"></a>
 #### ★ 원조 교자엔 (元祖ぎょうざ苑) — 🥟 중화·교자 · 타베로그 3.49
@@ -397,7 +397,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:45-15:00 / 17:00-20:30 / 휴무 월요일(공휴일이나 고베·난킨마치 행사 날엔 영업하고 다음날 휴무)
 - 💡 라유를 두지 않고 자가제 미소다레에 찍어 먹는 게 정석. 고베규 교자(6개 1,800엔)도 있다. 월요일 휴무.
 - 🚃 모토마치역(JR·한신) 남쪽 난킨마치 인근
-- [구글 지도](https://maps.google.com/?cid=13005890997019742431&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%83%E7%A5%96%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E8%8B%91%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%A0%84%E7%94%BA%E9%80%9A2-8-11) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000849/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9B%90%EC%A1%B0%20%EA%B5%90%EC%9E%90%EC%97%94%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13005890997019742431) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%83%E7%A5%96%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E8%8B%91%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%A0%84%E7%94%BA%E9%80%9A2-8-11) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000849/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9B%90%EC%A1%B0%20%EA%B5%90%EC%9E%90%EC%97%94%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 모토마치
 
@@ -419,7 +419,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 월~토 12:00, 18:00, 20:40 일제히 시작 · 일·공휴일 12:00, 17:00 일제히 시작 / 휴무 부정기 휴무
 - 💡 모든 손님이 같은 시각에 시작하는 방식(월~토 12:00·18:00·20:40, 일·공휴일 12:00·17:00). 민소매·반바지·샌들 차림과 향수는 삼가고, 사진·동영상 촬영도 자제해 달라는 안내가 있다.
 - 🚃 모토마치역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=6611366882808610394&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%97%20%E3%81%86%E3%81%88%E3%81%A0%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A3-2-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28053397/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%9A%B0%EC%97%90%EB%8B%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6611366882808610394) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%97%20%E3%81%86%E3%81%88%E3%81%A0%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A3-2-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28053397/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%9A%B0%EC%97%90%EB%8B%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-051"></a>
 #### ★★★ 후신 (福星) — 🥟 중화·교자 · 타베로그 3.82
@@ -439,7 +439,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 18:00-23:00 (L.O. 22:00) / 휴무 부정기 휴무
 - 💡 술을 못 마시는 사람은 입장할 수 없다고 명시되어 있다. 카드 결제 가능.
 - 🚃 고베 시영 지하철 겐초마에역 도보 2분 / JR·한신 모토마치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=17083067228842668980&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E6%98%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A4-12-8) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28048384/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17083067228842668980) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E6%98%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A4-12-8) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28048384/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-049"></a>
 #### ★★ 락칸키 (楽関記) — 🥟 중화·교자 · 타베로그 3.74
@@ -449,7 +449,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.74 (리뷰 1,373건), 중국요리 百名店 WEST 2026 · 2024](https://tabelog.com/hyogo/A2801/A280102/28049146/)
 - 🏆 **수상·백명점** Tabelog Hot Restaurant 2026 · 2025
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 648개 (2026-11-21 기준)](https://maps.google.com/?cid=10074261288761215577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 648개 (2026-11-21 기준)](https://maps.google.com/?cid=10074261288761215577)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28049146/)
 - 예약 팁: 점심은 예약 불가(선착순). 인터넷 예약이 만석으로 떠도 당일 자리가 날 수 있다고 안내
@@ -460,7 +460,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-14:30 (L.O. 14:00), 17:30-22:00 (L.O. 21:30) / 휴무 화요일
 - 💡 점심은 예약 없이 선착순이고 점심 세트와 샤오롱바오 단품만 판다. 일품요리를 즐기려면 저녁에 예약해서 갈 것.
 - 🚃 JR 모토마치역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=10074261288761215577&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A5%BD%E9%96%A2%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A3-6-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28049146/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BD%EC%B9%B8%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10074261288761215577) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A5%BD%E9%96%A2%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A3-6-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28049146/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BD%EC%B9%B8%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-012"></a>
 #### ★★ 마마노에란다 모토마치 케이크 (ママのえらんだ元町ケーキ 元町本店) — 🍡 화과자·디저트 · 타베로그 3.64
@@ -469,7 +469,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.64(리뷰 841), 스위츠 WEST 百名店 2023·2026 선정](https://tabelog.com/hyogo/A2801/A280102/28001007/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 614개 (2026-11-21 기준)](https://maps.google.com/?cid=1384452264188649804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 614개 (2026-11-21 기준)](https://maps.google.com/?cid=1384452264188649804)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 카페 좌석은 예약을 받지 않는다.
@@ -482,7 +482,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-18:00 / 휴무 수·목요일
 - 💡 수·목 휴무. 카드와 전자머니는 안 되고 QR 결제는 된다. 이트인 좌석은 예약을 받지 않는다.
 - 🚃 하나쿠마역 서쪽 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=1384452264188649804&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9E%E3%83%9E%E3%81%AE%E3%81%88%E3%82%89%E3%82%93%E3%81%A0%E5%85%83%E7%94%BA%E3%82%B1%E3%83%BC%E3%82%AD%20%E5%85%83%E7%94%BA%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A5-5-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28001007/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A7%88%EB%85%B8%EC%97%90%EB%9E%80%EB%8B%A4%20%EB%AA%A8%ED%86%A0%EB%A7%88%EC%B9%98%20%EC%BC%80%EC%9D%B4%ED%81%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1384452264188649804) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9E%E3%83%9E%E3%81%AE%E3%81%88%E3%82%89%E3%82%93%E3%81%A0%E5%85%83%E7%94%BA%E3%82%B1%E3%83%BC%E3%82%AD%20%E5%85%83%E7%94%BA%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A5-5-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28001007/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A7%88%EB%85%B8%EC%97%90%EB%9E%80%EB%8B%A4%20%EB%AA%A8%ED%86%A0%EB%A7%88%EC%B9%98%20%EC%BC%80%EC%9D%B4%ED%81%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-032"></a>
 #### ★★ 만게쓰 (満月) — 🥩 야키니쿠·호르몬 · 타베로그 3.70
@@ -492,7 +492,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70(리뷰 592)](https://tabelog.com/hyogo/A2801/A280102/28000918/)
 - 🏆 **수상·백명점** [타베로그 야키니쿠 백명점 2019, WEST 2020~2026 매년 선정](https://tabelog.com/hyogo/A2801/A280102/28000918/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 394개 (2026-11-21 기준)](https://maps.google.com/?cid=5087958474330908315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 394개 (2026-11-21 기준)](https://maps.google.com/?cid=5087958474330908315)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 '予約可'이지만 네트예약 없음 — 전화(078-361-3292)는 14~16시·22시 이후만.
@@ -503,7 +503,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 수~일 17:00-23:00 (L.O.22:00) / 휴무 월·화요일
 - 💡 전화 예약은 14~16시 또는 22시 이후에만 받는다. 현금만(카드·전자결제 불가). 월·화 휴무. 호리고타츠석 있음.
 - 🚃 고베고속 니시모토마치역 도보 약 2분(135m) / JR모토마치역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=5087958474330908315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%BA%80%E6%9C%88%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A8-7-3) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000918/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EA%B2%8C%EC%93%B0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5087958474330908315) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%BA%80%E6%9C%88%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A8-7-3) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000918/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EA%B2%8C%EC%93%B0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-009"></a>
 #### ★★ 몽프류 본점 (パティスリー モンプリュ 本店) — 🍡 화과자·디저트 · 타베로그 3.75
@@ -512,7 +512,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75(리뷰 1,426), 스위츠 百名店 6회 선정(2018~2026)](https://tabelog.com/hyogo/A2801/A280102/28002315/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 575개 (2026-11-21 기준)](https://maps.google.com/?cid=13374274258373822288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 575개 (2026-11-21 기준)](https://maps.google.com/?cid=13374274258373822288)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -527,7 +527,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-18:00(이트인 L.O.16:00) / 휴무 화·수요일
 - 💡 화·수 휴무. 안쪽 살롱(이트인)은 라스트오더 16:00이고 예약을 받지 않는다. 카드는 1,000엔 이상 결제할 때만 쓸 수 있다.
 - 🚃 미나토모토마치역 도보 3분 / 모토마치역(JR·한신) 도보 5분
-- [구글 지도](https://maps.google.com/?cid=13374274258373822288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%A2%E3%83%B3%E3%83%97%E3%83%AA%E3%83%A5%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A3-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28002315/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%BD%ED%94%84%EB%A5%98%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13374274258373822288) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%91%E3%83%86%E3%82%A3%E3%82%B9%E3%83%AA%E3%83%BC%20%E3%83%A2%E3%83%B3%E3%83%97%E3%83%AA%E3%83%A5%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A3-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28002315/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%BD%ED%94%84%EB%A5%98%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-010"></a>
 #### ★★ 미야스 (みやす) — 🐂 와규·스테이크 · 타베로그 3.61
@@ -546,7 +546,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:00-21:30(L.O.20:30) / 휴무 일요일(일요일 포함 연휴면 월요일도)
 - 💡 저녁에만 영업하고 일요일은 쉰다. 소규모라 예약하고 가야 한다. 서비스료 10%.
 - 🚃 JR 모토마치역 동쪽 출구 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=1067988422303061993&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BF%E3%82%84%E3%81%99%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A3-2-19) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000524/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%95%BC%EC%8A%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1067988422303061993) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BF%E3%82%84%E3%81%99%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A3-2-19) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000524/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%95%BC%EC%8A%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-013"></a>
 #### ★★ 아카만 모토마치점 (ぎょうざ専門店 赤萬 元町店) — 🥟 중화·교자 · 타베로그 3.52
@@ -569,7 +569,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 12:00-19:00(품절 시 종료) / 휴무 수요일
 - 💡 교자는 처음 한 번만 주문할 수 있으니 먹을 만큼 한꺼번에 시킬 것. 현금만 받는다. 품절되면 문을 닫고 수요일은 쉰다. 테이크아웃 가능.
 - 🚃 모토마치역(JR·한신) 도보 1분 / 구거류지·다이마루마에역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=12036216362769729943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E5%B0%82%E9%96%80%E5%BA%97%20%E8%B5%A4%E8%90%AC%20%E5%85%83%E7%94%BA%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-11-10) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28002361/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%A7%8C%20%EB%AA%A8%ED%86%A0%EB%A7%88%EC%B9%98%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12036216362769729943) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8E%E3%82%87%E3%81%86%E3%81%96%E5%B0%82%E9%96%80%E5%BA%97%20%E8%B5%A4%E8%90%AC%20%E5%85%83%E7%94%BA%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-11-10) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28002361/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%A7%8C%20%EB%AA%A8%ED%86%A0%EB%A7%88%EC%B9%98%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-014"></a>
 #### ★★ 에비앙 커피 (エビアンコーヒー) — ☕ 카페·킷사텐 · 타베로그 3.67
@@ -590,7 +590,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 평일 8:30-18:30 / 주말·공휴일 9:00-18:00 / 휴무 수요일, 첫째·셋째 화요일(공휴일은 영업)
 - 💡 현금만 받는다. 모닝 메뉴는 11:00까지. 매주 수요일과 첫째·셋째 화요일 휴무(공휴일은 영업).
 - 🚃 구거류지·다이마루마에역 도보 2분 / JR 모토마치역 동쪽 출구 도보 2~3분
-- [구글 지도](https://maps.google.com/?cid=16029639196709618620&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A8%E3%83%93%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-7-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000650/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EB%B9%84%EC%95%99%20%EC%BB%A4%ED%94%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16029639196709618620) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A8%E3%83%93%E3%82%A2%E3%83%B3%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-7-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000650/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EB%B9%84%EC%95%99%20%EC%BB%A4%ED%94%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-050"></a>
 #### ★★ 윤키 (圓記) — 🥟 중화·교자 · 타베로그 3.74
@@ -609,7 +609,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-14:30 (L.O. 14:00), 17:00-20:00 (최종 입장) / 휴무 월·화요일 (월요일이 공휴일이면 점심 영업)
 - 💡 카드·전자결제 불가라 현금을 챙길 것. 점심은 14시 L.O., 저녁은 20시까지 입장해야 한다. 테이크아웃 가능.
 - 🚃 모토마치역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=16028296263179652081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%9C%93%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A3-4-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28042596/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A4%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16028296263179652081) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%9C%93%E8%A8%98%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A3-4-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28042596/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A4%ED%82%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-011"></a>
 #### ★★ 이토 그릴 (伊藤グリル) — 🍳 경양식·오므라이스 · 타베로그 3.68
@@ -629,7 +629,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-13:30~14:30 / 17:30-20:30~21:00(요일별 상이) / 휴무 수요일, 화요일 부정기
 - 💡 저녁은 코스만 낸다. 수요일 휴무, 화요일은 부정기 휴무. 빌딩 2층으로 계단을 이용. 서비스료 10%. 온라인 예약 자리가 적어 전화 예약을 권한다.
 - 🚃 모토마치역(JR·한신) 도보 3분
-- [구글 지도](https://maps.google.com/?cid=17465830809631133902&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8A%E8%97%A4%E3%82%B0%E3%83%AA%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-6-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000847/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%ED%86%A0%20%EA%B7%B8%EB%A6%B4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17465830809631133902) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8A%E8%97%A4%E3%82%B0%E3%83%AA%E3%83%AB%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%85%83%E7%94%BA%E9%80%9A1-6-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28000847/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%ED%86%A0%20%EA%B7%B8%EB%A6%B4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 산노미야
 
@@ -651,7 +651,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 월~토 11:30-23:30 / 일·공휴일 11:30-22:30 / 휴무 무휴
 - 💡 11:30부터 23:30(일·공휴일 22:30)까지 쉬지 않고 영업해 시간 맞추기 쉽다. 당일 빈자리는 전화로 문의. 재료가 떨어지면 일찍 닫을 수 있다. 카드·QR결제 가능.
 - 🚃 산노미야역 도보 약 4분
-- [구글 지도](https://maps.google.com/?cid=1658628461022001210&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%84%BC%E5%A1%A9%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%80%8E%E3%81%82%E3%80%8F%E7%A5%9E%E6%88%B8%E9%85%92%E5%A0%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A1-3-12) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28035865/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%8B%9C%EC%98%A4%ED%98%B8%EB%A5%B4%EB%AA%AC%20%27%EC%95%84%27%20%EA%B3%A0%EB%B2%A0%EC%82%AC%EC%B9%B4%EB%B0%94%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1658628461022001210) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%84%BC%E5%A1%A9%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%80%8E%E3%81%82%E3%80%8F%E7%A5%9E%E6%88%B8%E9%85%92%E5%A0%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A1-3-12) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28035865/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%8B%9C%EC%98%A4%ED%98%B8%EB%A5%B4%EB%AA%AC%20%27%EC%95%84%27%20%EA%B3%A0%EB%B2%A0%EC%82%AC%EC%B9%B4%EB%B0%94%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-016"></a>
 #### ★★★ 아라가와 (麤皮) — 🐂 와규·스테이크 · 타베로그 4.08
@@ -672,7 +672,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 12:00-15:00 / 17:00-22:00 / 휴무 일요일(월요일 휴무 표기도 있음)
 - 💡 코스 1인 45,980엔(세금·서비스료 포함). 디너에는 아이를 데려갈 수 없고 드레스코드는 스마트 캐주얼. 일요일 휴무(월요일 휴무라는 표기도 있어 방문 전 확인).
 - 🚃 산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=17733500256117590544&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A4%E7%9A%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A2-15-18) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000962/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EA%B0%80%EC%99%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17733500256117590544) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A4%E7%9A%AE%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A2-15-18) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000962/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EA%B0%80%EC%99%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-033"></a>
 #### ★★ 고베 프레지르 본점 (神戸プレジール 本店) — 🐂 와규·스테이크 · 타베로그 3.63
@@ -683,7 +683,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 🍽️ **타베로그** [타베로그 3.63(리뷰 554)](https://tabelog.com/hyogo/A2801/A280101/28008218/)
 - 🏆 **수상·백명점** [타베로그 스테이크·철판구이 WEST 백명점 2024·2025 외 2021·2022](https://tabelog.com/hyogo/A2801/A280101/28008218/)
 - 👥 **현지평판** [JA전농효고 직영. 런치 고베 비프 라운드 철판구이 코스 9,570엔으로 1만 엔 이하 고베 비프](https://tabelog.com/hyogo/A2801/A280101/28008218/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 766개 (2026-11-21 기준)](https://maps.google.com/?cid=6062991522584802186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 766개 (2026-11-21 기준)](https://maps.google.com/?cid=6062991522584802186)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28008218/)
 - 예약 팁: 타베로그 코스(런치 고베 비프 코스 등)에 '予約' 버튼이 있어 온라인 예약 가능. 전화 078-571-0141.
@@ -694,7 +694,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 런치 11:30-15:00 (L.O.14:00) / 디너 17:00-22:00 (L.O.21:00, 일요일 21:30 마감) / 휴무 월요일(공휴일이면 다음 날)
 - 💡 런치 고베 비프 라운드 코스 9,570엔(세금 포함). 서비스료 10%는 디너에만 붙는다. 월요일 휴무(월요일이 공휴일이면 영업하고 화요일 휴무). 주말은 예약 권장.
 - 🚃 산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=6062991522584802186&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E3%83%97%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%AB%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A2-11-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28008218/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%20%ED%94%84%EB%A0%88%EC%A7%80%EB%A5%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6062991522584802186) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E3%83%97%E3%83%AC%E3%82%B8%E3%83%BC%E3%83%AB%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A2-11-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28008218/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%20%ED%94%84%EB%A0%88%EC%A7%80%EB%A5%B4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-018"></a>
 #### ★★ 고베규 스테이크 이시다 본점 (神戸牛ステーキ Ishida. 本店) — 🐂 와규·스테이크 · 타베로그 3.60
@@ -703,7 +703,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60(리뷰 215), 스테이크·철판구이 百名店 2022](https://tabelog.com/hyogo/A2801/A280101/28032718/)
-- ⭐ **구글** [구글 지도 4.8 / 리뷰 2,365개 (2026-11-21 기준)](https://maps.google.com/?cid=7189071467985532570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.8 / 리뷰 2,365개 (2026-11-21 기준)](https://maps.google.com/?cid=7189071467985532570)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28032718/)
 - 예약 팁: 타베로그 코스(페어 코스) 'Reserve' 버튼으로 예약할 수 있다. 해외 손님의 당일 취소가 많아 온라인 자리를 줄였으니, 다 찼으면 전화(078-599-7779)로 문의.
@@ -714,7 +714,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-15:00(L.O.14:00) / 17:00-21:30(L.O.20:30) / 휴무 수요일
 - 💡 수요일 휴무. 10분 넘게 늦으면 취소될 수 있다. 본점이 꽉 차면 3분 거리의 이쿠타신도점(078-335-5922)을 안내해 준다.
 - 🚃 JR 산노미야역 서쪽 출구·한큐 산노미야역 동쪽 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=7189071467985532570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E7%89%9B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Ishida.%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-21-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28032718/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%EA%B7%9C%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%20%EC%9D%B4%EC%8B%9C%EB%8B%A4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7189071467985532570) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E7%89%9B%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20Ishida.%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-21-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28032718/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%EA%B7%9C%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%20%EC%9D%B4%EC%8B%9C%EB%8B%A4%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-034"></a>
 #### ★★ 고베규동 히로시게 (神戸牛丼 広重) — 🐂 와규·스테이크 · 타베로그 3.68
@@ -724,7 +724,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68(리뷰 855)](https://tabelog.com/hyogo/A2801/A280101/28033392/)
 - 👥 **현지평판** [타베로그 사진·리뷰: '神戸ビーフ牛丼', 다지마규·고베 비프 증명서 게시, '고베규를 덮밥으로 호화롭게 맛볼 수 있는 가게'](https://tabelog.com/kr/hyogo/A2801/A280101/28033392/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,042개 (2026-11-21 기준)](https://maps.google.com/?cid=10955183035826992742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,042개 (2026-11-21 기준)](https://maps.google.com/?cid=10955183035826992742)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 방문 후 대기.
@@ -739,7 +739,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-15:00 / 18:00-23:00 (품절 시 종료) / 휴무 수요일
 - 💡 예약 불가, 카운터 9석, 품절되면 종료. 현금만(카드·전자결제 불가). 수요일 휴무. 테이크아웃 가능.
 - 🚃 JR산노미야역 서쪽 출구 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=10955183035826992742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E7%89%9B%E4%B8%BC%20%E5%BA%83%E9%87%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-21) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28033392/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%EA%B7%9C%EB%8F%99%20%ED%9E%88%EB%A1%9C%EC%8B%9C%EA%B2%8C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10955183035826992742) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E6%88%B8%E7%89%9B%E4%B8%BC%20%E5%BA%83%E9%87%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-21) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28033392/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EB%B2%A0%EA%B7%9C%EB%8F%99%20%ED%9E%88%EB%A1%9C%EC%8B%9C%EA%B2%8C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-037"></a>
 #### ★★ 기세쓰잇핀료리 후지와라 (季節一品料理 藤原) — 🍶 이자카야·다치노미 · 타베로그 3.60
@@ -759,7 +759,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 화 16:00-18:00 / 수~토 16:00-20:00 (16시·18시 2부제) / 휴무 일·월요일
 - 💡 16시·18시 2부제, 카운터 10석뿐이라 전화 예약은 사실상 필수. 현금만. 일·월 휴무, 화요일은 16-18시만 영업.
 - 🚃 산노미야역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=16604405734661957096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AD%A3%E7%AF%80%E4%B8%80%E5%93%81%E6%96%99%E7%90%86%20%E8%97%A4%E5%8E%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%8C%E5%AE%AE%E7%94%BA1-6-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28005803/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%84%B8%EC%93%B0%EC%9E%87%ED%95%80%EB%A3%8C%EB%A6%AC%20%ED%9B%84%EC%A7%80%EC%99%80%EB%9D%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16604405734661957096) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AD%A3%E7%AF%80%E4%B8%80%E5%93%81%E6%96%99%E7%90%86%20%E8%97%A4%E5%8E%9F%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%8C%E5%AE%AE%E7%94%BA1-6-5) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28005803/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%84%B8%EC%93%B0%EC%9E%87%ED%95%80%EB%A3%8C%EB%A6%AC%20%ED%9B%84%EC%A7%80%EC%99%80%EB%9D%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-052"></a>
 #### ★★ 기타노자카 고바야시 (北野坂 こばやし) — 🍲 우동·소바 · 타베로그 3.70
@@ -777,7 +777,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-15:00, 17:30-20:00 (월·일은 점심만) / 휴무 화요일
 - 💡 카드·전자결제 불가라 현금을 챙길 것. 면이 다 떨어지면 영업을 일찍 마치니 늦은 시간은 피하는 게 좋다.
 - 🚃 JR·한큐 산노미야역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=545476692816670962&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E9%87%8E%E5%9D%82%20%E3%81%93%E3%81%B0%E3%82%84%E3%81%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-10) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28045408/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%ED%83%80%EB%85%B8%EC%9E%90%EC%B9%B4%20%EA%B3%A0%EB%B0%94%EC%95%BC%EC%8B%9C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=545476692816670962) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E9%87%8E%E5%9D%82%20%E3%81%93%E3%81%B0%E3%82%84%E3%81%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-22-10) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28045408/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%ED%83%80%EB%85%B8%EC%9E%90%EC%B9%B4%20%EA%B3%A0%EB%B0%94%EC%95%BC%EC%8B%9C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-053"></a>
 #### ★★ 류카추보 (劉家厨房) — 🥟 중화·교자 · 타베로그 3.79
@@ -796,7 +796,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:00-23:00 (L.O. 22:30), 일·공휴일 17:00-22:00 (L.O. 21:30) / 휴무 월요일, 부정기 휴무
 - 💡 카드·전자결제·QR결제 모두 불가라 현금을 넉넉히 챙길 것. 예약 대행 사이트로는 예약을 받지 않는다.
 - 🚃 산노미야역 약 200m (도보 3분)
-- [구글 지도](https://maps.google.com/?cid=10903491830636678893&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8A%89%E5%AE%B6%E5%8E%A8%E6%88%BF%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-9-22) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28035979/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%98%EC%B9%B4%EC%B6%94%EB%B3%B4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10903491830636678893) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8A%89%E5%AE%B6%E5%8E%A8%E6%88%BF%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-9-22) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28035979/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%98%EC%B9%B4%EC%B6%94%EB%B3%B4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-019"></a>
 #### ★★ 마루타카 주카소바 니노미야점 (丸高中華そば 神戸二宮 二宮店) — 🍜 라멘 · 타베로그 3.68
@@ -817,7 +817,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-15:00 / 17:00-02:00 / 휴무 월요일(매월 첫째 화요일 저녁 휴무)
 - 💡 현금만 받고 식권 발매기를 쓴다. 월요일 휴무(매월 첫째 화요일은 저녁 휴무). 늦은 밤 한 끼로 좋다.
 - 🚃 산노미야역 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=13163950924652379245&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B8%E9%AB%98%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E7%A5%9E%E6%88%B8%E4%BA%8C%E5%AE%AE%20%E4%BA%8C%E5%AE%AE%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%8C%E5%AE%AE%E7%94%BA4-11-9) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28002413/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A3%A8%ED%83%80%EC%B9%B4%20%EC%A3%BC%EC%B9%B4%EC%86%8C%EB%B0%94%20%EB%8B%88%EB%85%B8%EB%AF%B8%EC%95%BC%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13163950924652379245) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B8%E9%AB%98%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E7%A5%9E%E6%88%B8%E4%BA%8C%E5%AE%AE%20%E4%BA%8C%E5%AE%AE%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BA%8C%E5%AE%AE%E7%94%BA4-11-9) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28002413/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A3%A8%ED%83%80%EC%B9%B4%20%EC%A3%BC%EC%B9%B4%EC%86%8C%EB%B0%94%20%EB%8B%88%EB%85%B8%EB%AF%B8%EC%95%BC%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-020"></a>
 #### ★★ 미마사카 고베 기타노점 (美作 神戸北野店) — 🥞 오코노미야키 · 타베로그 3.70
@@ -827,7 +827,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70(리뷰 650), 오코노미야키 百名店 6회 선정(2018~2025)](https://tabelog.com/hyogo/A2801/A280101/28000977/)
 - 🏯 **노포·원조** [1972년(쇼와 47년) 어머니가 시작한 맛을 아들이 이어 감](https://www.gltjp.com/en/directory/item/16809/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 318개 (2026-11-21 기준)](https://maps.google.com/?cid=15532363971609917817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 318개 (2026-11-21 기준)](https://maps.google.com/?cid=15532363971609917817)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(16석).
@@ -840,7 +840,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 16:30-23:00(일요일 ~22:00) / 휴무 월요일
 - 💡 저녁 16:30부터 영업하고 월요일은 쉰다. 16석 소규모에 예약을 받지 않으니 오픈 직후가 좋다. 카드·전자결제가 안 되니 현금을 준비할 것.
 - 🚃 산노미야역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=15532363971609917817&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E4%BD%9C%20%E7%A5%9E%E6%88%B8%E5%8C%97%E9%87%8E%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-8-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000977/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EB%A7%88%EC%82%AC%EC%B9%B4%20%EA%B3%A0%EB%B2%A0%20%EA%B8%B0%ED%83%80%EB%85%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15532363971609917817) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E4%BD%9C%20%E7%A5%9E%E6%88%B8%E5%8C%97%E9%87%8E%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%B1%B1%E6%89%8B%E9%80%9A1-8-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000977/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EB%A7%88%EC%82%AC%EC%B9%B4%20%EA%B3%A0%EB%B2%A0%20%EA%B8%B0%ED%83%80%EB%85%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-021"></a>
 #### ★★ 비프테키노 카와무라 산노미야 본점 (ビフテキのカワムラ 三宮本店) — 🐂 와규·스테이크 · 타베로그 3.56
@@ -849,7 +849,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.56(리뷰 234), 스테이크·철판구이 WEST 百名店 2024·2025 연속 선정](https://tabelog.com/hyogo/A2801/A280101/28002105/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 534개 (2026-11-21 기준)](https://maps.google.com/?cid=5315375842597598319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 534개 (2026-11-21 기준)](https://maps.google.com/?cid=5315375842597598319)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28002105/), [잇큐](https://restaurant.ikyu.com/112283/), [구루나비](https://r.gnavi.co.jp/k504201/)
 - 예약 팁: 타베로그에서는 온라인 예약이 안 된다(전화 078-335-0399). 구루나비에 '좌석만 예약' 플랜이 있다. 개별실은 전화로.
@@ -860,7 +860,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-15:30(L.O.14:30) / 17:00-22:00(L.O.21:00) / 휴무 월요일(공휴일이면 다음날 화요일)
 - 💡 런치가 디너보다 부담이 적다. 월요일 휴무. 예약 권장.
 - 🚃 산노미야역(JR 서쪽 출구) 도보 2분
-- [구글 지도](https://maps.google.com/?cid=5315375842597598319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%83%95%E3%83%86%E3%82%AD%E3%81%AE%E3%82%AB%E3%83%AF%E3%83%A0%E3%83%A9%20%E4%B8%89%E5%AE%AE%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-5-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28002105/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%ED%94%84%ED%85%8C%ED%82%A4%EB%85%B8%20%EC%B9%B4%EC%99%80%EB%AC%B4%EB%9D%BC%20%EC%82%B0%EB%85%B8%EB%AF%B8%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5315375842597598319) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%83%95%E3%83%86%E3%82%AD%E3%81%AE%E3%82%AB%E3%83%AF%E3%83%A0%E3%83%A9%20%E4%B8%89%E5%AE%AE%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-5-13) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28002105/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%ED%94%84%ED%85%8C%ED%82%A4%EB%85%B8%20%EC%B9%B4%EC%99%80%EB%AC%B4%EB%9D%BC%20%EC%82%B0%EB%85%B8%EB%AF%B8%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-023"></a>
 #### ★★ 사바노우에니모산넨 (鯖の上にも三年) — 🍜 라멘 · 타베로그 3.68
@@ -869,7 +869,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68(리뷰 1,202), 라멘 WEST 百名店 2025 선정](https://tabelog.com/hyogo/A2801/A280101/28060647/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 636개 (2026-11-21 기준)](https://maps.google.com/?cid=4052083110137100163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 636개 (2026-11-21 기준)](https://maps.google.com/?cid=4052083110137100163)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가, 현금만.
@@ -882,7 +882,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:30-15:00 / 18:00-22:00 / 휴무 월요일
 - 💡 현금만 받는다(카드·전자결제 불가). 월요일 휴무. 예약 불가.
 - 🚃 산노미야역(지하철) 도보 1분 / JR 산노미야역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=4052083110137100163&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AF%96%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%82%E4%B8%89%E5%B9%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-10-3) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28060647/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%B0%94%EB%85%B8%EC%9A%B0%EC%97%90%EB%8B%88%EB%AA%A8%EC%82%B0%EB%84%A8%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4052083110137100163) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AF%96%E3%81%AE%E4%B8%8A%E3%81%AB%E3%82%82%E4%B8%89%E5%B9%B4%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-10-3) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28060647/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%B0%94%EB%85%B8%EC%9A%B0%EC%97%90%EB%8B%88%EB%AA%A8%EC%82%B0%EB%84%A8%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-024"></a>
 #### ★★ 아카네야 커피 (茜屋珈琲店) — ☕ 카페·킷사텐 · 타베로그 3.70
@@ -892,7 +892,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70(리뷰 822), 킷사텐 百名店 2021·2022·2026 선정](https://tabelog.com/hyogo/A2801/A280101/28001625/)
 - 🏯 **노포·원조** [1966년 개업한 카운터 전용 킷사텐](https://tabelog.com/hyogo/A2801/A280101/28001625/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 436개 (2026-11-21 기준)](https://maps.google.com/?cid=13036946823577508898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 436개 (2026-11-21 기준)](https://maps.google.com/?cid=13036946823577508898)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -905,7 +905,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 12:00-22:00(L.O.21:30) / 휴무 부정기
 - 💡 한큐 산노미야역 서쪽 출구 바로 앞 빌딩 2층. 정오에 문을 연다. 카드·전자머니·PayPay 사용 가능.
 - 🚃 한큐 고베산노미야역 서쪽 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=13036946823577508898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%9C%E5%B1%8B%E7%8F%88%E7%90%B2%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-9-4) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28001625/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%84%A4%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13036946823577508898) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%9C%E5%B1%8B%E7%8F%88%E7%90%B2%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-9-4) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28001625/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%84%A4%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-054"></a>
 #### ★★ 야키토리 본산 (焼鳥 梵讃) — 🍗 야키토리·닭요리 · 타베로그 3.71
@@ -924,7 +924,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 18:00-23:00 (L.O. 22:30) / 휴무 일요일
 - 💡 직원이 일본어로만 응대할 수 있어 일본어로 소통 가능한 손님만 예약해 달라는 안내가 있다. 1인 1음료 주문 필수, 자릿세 1인 500엔, 중학생 이상만 입장.
 - 🚃 JR 산노미야역 도보 약 4분
-- [구글 지도](https://maps.google.com/?cid=18330144321793175223&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E6%A2%B5%E8%AE%83%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-7-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28045860/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%B3%B8%EC%82%B0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18330144321793175223) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E6%A2%B5%E8%AE%83%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8A%A0%E7%B4%8D%E7%94%BA4-7-1) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28045860/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%B3%B8%EC%82%B0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-017"></a>
 #### ★★ 🏯 오우후료리 몬 (欧風料理 もん) — 🍳 경양식·오므라이스 · 타베로그 3.69
@@ -934,7 +934,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69(리뷰 1,959), 양식 WEST 百名店 2025 등 3회 선정](https://tabelog.com/hyogo/A2801/A280101/28000531/)
 - 🏯 **노포·원조** [1936년(쇼와 11년) 창업한 비프카츠 노포](https://www.mapple.net/article/16924/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,343개 (2026-11-21 기준)](https://maps.google.com/?cid=4666374070709548707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,343개 (2026-11-21 기준)](https://maps.google.com/?cid=4666374070709548707)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그에 '예약 가능'이지만 온라인 예약 버튼이 없고, 핫페퍼에도 넷 예약이 없다. 전화로 예약해야 한다.
@@ -945,7 +945,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-20:45 / 휴무 화요일(매체마다 다름, 방문 전 확인)
 - 💡 브레이크 타임 없이 11시부터 영업해 애매한 시간에 가기 좋다. 정기휴일은 매체마다 다르게 나와 있으니(타베로그는 화요일, 다른 매체는 셋째 월요일) 가기 전에 확인할 것.
 - 🚃 한큐 고베산노미야역 도보 약 3분
-- [구글 지도](https://maps.google.com/?cid=4666374070709548707&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%AC%A7%E9%A2%A8%E6%96%99%E7%90%86%20%E3%82%82%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A2-12-12) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000531/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9A%B0%ED%9B%84%EB%A3%8C%EB%A6%AC%20%EB%AA%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4666374070709548707) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%AC%A7%E9%A2%A8%E6%96%99%E7%90%86%20%E3%82%82%E3%82%93%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A2-12-12) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000531/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9A%B0%ED%9B%84%EB%A3%8C%EB%A6%AC%20%EB%AA%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-022"></a>
 #### ★★ 콤 시노와 (コム・シノワ) — 🥐 베이커리 · 타베로그 3.75
@@ -954,7 +954,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75(리뷰 2,223), 빵 百名店 6회 선정(2017~2026)](https://tabelog.com/hyogo/A2801/A280101/28004087/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 779개 (2026-11-21 기준)](https://maps.google.com/?cid=6021112084175066680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 779개 (2026-11-21 기준)](https://maps.google.com/?cid=6021112084175066680)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 좌석 예약은 안 된다. 테이크아웃 빵·케이크 주문 예약만 받는다.
@@ -968,7 +968,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 8:00-17:00(판매는 18:00까지라는 표기도 있음) / 휴무 월·수요일
 - 💡 산노미야 빌딩 남관 지하 1층. 월·수 휴무. 안쪽 카페 런치는 11:45~14:30이고 좌석 예약은 받지 않는다.
 - 🚃 산노미야·하나도케이마에역 3번 출구 도보 1분 / JR 산노미야역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6021112084175066680&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%A0%E3%83%BB%E3%82%B7%E3%83%8E%E3%83%AF%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BE%A1%E5%B9%B8%E9%80%9A7-1-16) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28004087/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%A4%20%EC%8B%9C%EB%85%B8%EC%99%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6021112084175066680) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%A0%E3%83%BB%E3%82%B7%E3%83%8E%E3%83%AF%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BE%A1%E5%B9%B8%E9%80%9A7-1-16) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28004087/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%A4%20%EC%8B%9C%EB%85%B8%EC%99%80%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-015"></a>
 #### ★ 🏯 모리야 본점 (モーリヤ 本店) — 🐂 와규·스테이크 · 타베로그 3.45
@@ -978,7 +978,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🏯 **노포·원조** [1885년(메이지 18년) 고베 창업, 약 140년 역사의 고베규 스테이크 노포](https://www.mouriya.co.jp/)
 - 🍽️ **타베로그** [타베로그 3.45(리뷰 195). 점수보다 140년 노포라는 상징성 때문에 선정](https://tabelog.com/hyogo/A2801/A280101/28000615/)
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 1,933개 (2026-11-21 기준)](https://maps.google.com/?cid=13442048507761208120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 1,933개 (2026-11-21 기준)](https://maps.google.com/?cid=13442048507761208120)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/mouriya-head/reserve), [공식사이트](https://www.mouriya.co.jp/reserve), [잇큐](https://restaurant.ikyu.com/112459/)
 - 예약 팁: 공식 사이트 예약 페이지가 TableCheck로 연결된다. 당일 예약은 전화(078-391-4603)로만 받는다. 연락 없이 15분 넘게 늦으면 취소 처리. 1/1~1/3은 10% 할증.
@@ -989,7 +989,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-22:00(L.O.21:00) / 휴무 부정기
 - 💡 산노미야에 본점 말고도 지점이 여러 곳 있다. 런치 코스도 평균 1만 엔이 넘으니 예산을 확인하고 예약하자.
 - 🚃 산노미야역(지하철) 도보 1분 / JR 산노미야역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=13442048507761208120&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%A4%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A2-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000615/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EB%A6%AC%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13442048507761208120) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A2%E3%83%BC%E3%83%AA%E3%83%A4%20%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%8B%E5%B1%B1%E6%89%8B%E9%80%9A2-1-17) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000615/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EB%A6%AC%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-036"></a>
 #### ★ 스테이크랜드 고베점 (ステーキランド 神戸店) — 🐂 와규·스테이크 · 타베로그 3.53
@@ -1001,7 +1001,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 👥 **현지평판** [한국 여행 앱 Polle 한국인 리뷰: '가성비 맛집', 코스처럼 즐기는 런치와 불쇼 퍼포먼스 호평](https://polle.com/place/1CcBj9/%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%9E%9C%EB%93%9C)
 - ▶️ **유튜브** [오사카관광 킴사이 '지금 당장 고베규 먹으러 고베 스테이크랜드 가세요!' 추천 영상](https://www.youtube.com/watch?v=8DbrOjtffCI)
 - ▶️ **유튜브** [일본 사는 코구마 '가성비 갑 고베규!! 고베규를 싸고 맛있게! 스테이크 랜드!'](https://www.youtube.com/watch?v=R_DN4NG4MYw)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,868개 (2026-11-21 기준)](https://maps.google.com/?cid=5817947521025709705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,868개 (2026-11-21 기준)](https://maps.google.com/?cid=5817947521025709705)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 줄 서서 입장.
@@ -1014,7 +1014,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 11:00-21:30 (L.O.20:30), 런치 11:00-14:00 / 휴무 무휴
 - 💡 예약 불가라 점심 피크엔 줄을 선다. 11시 오픈 직후 추천. 런치는 11:00-14:00이고 샐러드·구운 채소·밥·국·커피 포함. 바로 옆 '스테이크랜드 고베관'(타베로그 3.49)은 다른 점포. 카드·PayPay 가능.
 - 🚃 한큐 고베산노미야역 서쪽 출구 도보 1분 / JR산노미야역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=5817947521025709705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E6%88%B8%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-8-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000604/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%9E%9C%EB%93%9C%20%EA%B3%A0%EB%B2%A0%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5817947521025709705) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%A9%E3%83%B3%E3%83%89%20%E7%A5%9E%E6%88%B8%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E9%95%B7%E7%8B%AD%E9%80%9A1-8-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280101/28000604/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%EB%9E%9C%EB%93%9C%20%EA%B3%A0%EB%B2%A0%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 아리마온센
 
@@ -1026,7 +1026,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.61(리뷰 949)](https://tabelog.com/hyogo/A2801/A280112/28044218/)
 - 🏆 **수상·백명점** [타베로그 아이스크림·젤라토 백명점 2023·2026](https://tabelog.com/hyogo/A2801/A280112/28044218/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 726개 (2026-11-21 기준)](https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 726개 (2026-11-21 기준)](https://maps.google.com/?cid=18293377647136340373)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 방문해서 바로 주문.
@@ -1039,7 +1039,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-17:00 / 휴무 화·수요일
 - 💡 현금만(카드·전자결제 불가). 화·수 휴무. 온천 거리 산책 중 먹기 좋은 테이크아웃 디저트.
 - 🚃 아리마온센역 도보 약 8분 (아리마온센 버스터미널 옆 언덕길)
-- [구글 지도](https://maps.google.com/?cid=18293377647136340373&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%AA%E3%83%9E%20%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1163) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28044218/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%A6%AC%EB%A7%88%20%EC%A0%A4%EB%9D%BC%ED%85%8C%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%83%80%EC%A7%80%EC%98%A4%EB%84%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18293377647136340373) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%AA%E3%83%9E%20%E3%82%B8%E3%82%A7%E3%83%A9%E3%83%86%E3%83%AA%E3%82%A2%20%E3%82%B9%E3%82%BF%E3%82%B8%E3%82%AA%E3%83%BC%E3%83%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA1163) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28044218/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%A6%AC%EB%A7%88%20%EC%A0%A4%EB%9D%BC%ED%85%8C%EB%A6%AC%EC%95%84%20%EC%8A%A4%ED%83%80%EC%A7%80%EC%98%A4%EB%84%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-038"></a>
 #### ★ 미츠모리 혼포 (三津森本舗) — 🍡 화과자·디저트 · 타베로그 3.52
@@ -1060,7 +1060,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 9:00-17:00
 - 💡 온천 거리 대표 기념품. 갓 구운 센베이를 맛볼 수 있다. 전자머니 결제 가능, 카드 불가(타베로그).
 - 🚃 아리마온센역 도보 약 5~10분(330m)
-- [구글 지도](https://maps.google.com/?cid=5975301367146390682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%B4%A5%E6%A3%AE%E6%9C%AC%E8%88%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA809) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28027412/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%B8%A0%EB%AA%A8%EB%A6%AC%20%ED%98%BC%ED%8F%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5975301367146390682) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%B4%A5%E6%A3%AE%E6%9C%AC%E8%88%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA809) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28027412/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%B8%A0%EB%AA%A8%EB%A6%AC%20%ED%98%BC%ED%8F%AC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-040"></a>
 #### ★ 쿠츠로기야 (くつろぎ家) — 📍 기타 · 타베로그 3.54
@@ -1069,7 +1069,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.54(리뷰 436), 아리마 온천 거리 식사집 중 상위](https://tabelog.com/hyogo/A2801/A280112/28001997/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,035개 (2026-11-21 기준)](https://maps.google.com/?cid=16327366664739646369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,035개 (2026-11-21 기준)](https://maps.google.com/?cid=16327366664739646369)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 예약 없이 방문.
@@ -1083,7 +1083,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 점심 11:00~ / 저녁 17:00~ (품절 시 종료) / 휴무 화·수요일 + 부정기
 - 💡 예약 불가, 품절되면 영업 종료. 카드·전자결제 불가. 화·수 휴무에 부정기 휴무도 있다. 솥밥이라 나오는 데 시간이 걸리니 온천 전후로 여유 있게 간다.
 - 🚃 고베전철 아리마온센역 도보 약 5분(322m)
-- [구글 지도](https://maps.google.com/?cid=16327366664739646369&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8F%E3%81%A4%E3%82%8D%E3%81%8E%E5%AE%B6%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA839-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28001997/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%B8%A0%EB%A1%9C%EA%B8%B0%EC%95%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16327366664739646369) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8F%E3%81%A4%E3%82%8D%E3%81%8E%E5%AE%B6%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%89%E9%A6%AC%E7%94%BA839-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280112/28001997/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%B8%A0%EB%A1%9C%EA%B8%B0%EC%95%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 아시야·니시노미야
 
@@ -1105,7 +1105,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 휴무 수요일
 - 💡 코스는 약 2시간 45분 걸리고 서비스료 5%가 따로 붙는다. 향수는 삼가 달라는 안내.
 - 🚃 한신 아시야역 도보 5분 / JR 아시야역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=11049880221307788152&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E6%A1%9C%E4%BA%BA%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E8%8C%B6%E5%B1%8B%E4%B9%8B%E7%94%BA10-9) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280302/28064476/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%82%AC%EC%BF%A0%EB%9D%BC%EB%B9%84%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11049880221307788152) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E6%A1%9C%E4%BA%BA%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E8%8C%B6%E5%B1%8B%E4%B9%8B%E7%94%BA10-9) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280302/28064476/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%82%AC%EC%BF%A0%EB%9D%BC%EB%B9%84%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-057"></a>
 #### ★★★ 스시 마츠모토 (鮨 まつ本) — 🍣 스시·해산물 · 타베로그 3.87
@@ -1125,7 +1125,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 점심 12:00-14:00 (수·금·일), 저녁 17:00-22:00 / 휴무 월요일 (공휴일이면 다음 날)
 - 💡 점심은 12시, 저녁은 평일 17시·19시(주말·공휴일 17시·19시30분)에 모두 함께 시작한다. 카드 결제가 안 되니 현금을 챙기고, 향수는 삼가 달라는 안내가 있다. 서비스료·자릿세는 없다.
 - 🚃 한큐 구라쿠엔구치역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=18212069635589569865&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%BE%E3%81%A4%E6%9C%AC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E6%A8%8B%E4%B9%8B%E6%B1%A0%E7%94%BA2-33) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28006932/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%A7%88%EC%B8%A0%EB%AA%A8%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18212069635589569865) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%BE%E3%81%A4%E6%9C%AC%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E6%A8%8B%E4%B9%8B%E6%B1%A0%E7%94%BA2-33) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28006932/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%A7%88%EC%B8%A0%EB%AA%A8%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-056"></a>
 #### ★★★ 에라곤 (永来権) — 🍗 야키토리·닭요리 · 타베로그 4.30
@@ -1145,7 +1145,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:30-22:00 / 휴무 일요일, 월요일 부정기 휴무
 - 💡 연락 없이 예약 시간보다 30분 늦으면 자동 취소되고, 예약 변경은 안 돼 취소 후 다시 예약해야 한다. 향수는 삼가 달라는 안내.
 - 🚃 한신 아시야역 도보 5분 / JR 아시야역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=11645989647559509789&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B0%B8%E6%9D%A5%E6%A8%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E5%A4%A7%E6%A1%9D%E7%94%BA7-9) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280302/28010196/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EB%9D%BC%EA%B3%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11645989647559509789) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B0%B8%E6%9D%A5%E6%A8%A9%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%8A%A6%E5%B1%8B%E5%B8%82%E5%A4%A7%E6%A1%9D%E7%94%BA7-9) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280302/28010196/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EB%9D%BC%EA%B3%A4%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-058"></a>
 #### ★★ 야키토리 류 (焼き鳥 龍) — 🍗 야키토리·닭요리 · 타베로그 3.75
@@ -1164,7 +1164,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:00-23:00 (점심 11:30-13:00은 부정기)
 - 💡 닭 회·타타키는 예약할 때 미리 요청해야 나온다. 점심(11:30~13:00)은 부정기로 닭 소바만 낸다. 아이는 초등학생 이상, 코스를 먹을 수 있는 경우만.
 - 🚃 한큐 몬도야쿠진역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=526101463169712491&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E3%81%8D%E9%B3%A5%20%E9%BE%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E9%96%80%E6%88%B8%E8%8D%9815-3) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28064963/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%A5%98%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=526101463169712491) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E3%81%8D%E9%B3%A5%20%E9%BE%8D%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E9%96%80%E6%88%B8%E8%8D%9815-3) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28064963/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%A5%98%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-059"></a>
 #### ★★ 오카모토 (おかもと) — 🍗 야키토리·닭요리 · 타베로그 3.71
@@ -1183,7 +1183,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 17:30-24:00 / 휴무 화요일
 - 💡 입장 시각은 17:30·18:00·19:00·20:30 중에서 고른다. 향수는 삼가고, 아이는 코스 예약 시에만 동반 가능. 와인 반입은 1병 4,000엔.
 - 🚃 JR 고시엔구치역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8490120392849091599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%8B%E3%82%82%E3%81%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E7%94%B2%E5%AD%90%E5%9C%92%E5%8F%A3%E5%8C%97%E7%94%BA1-23) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28069327/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%B9%B4%EB%AA%A8%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8490120392849091599) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%8B%E3%82%82%E3%81%A8%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E7%94%B2%E5%AD%90%E5%9C%92%E5%8F%A3%E5%8C%97%E7%94%BA1-23) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28069327/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%B9%B4%EB%AA%A8%ED%86%A0%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-025"></a>
 #### ★★ 츠마가리 고요엔 본점 (ケーキハウス ツマガリ 甲陽園本店) — 🍡 화과자·디저트 · 타베로그 3.69
@@ -1192,7 +1192,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69(리뷰 1,002), 스위츠 百名店 6회 선정(2018~2026)](https://tabelog.com/hyogo/A2803/A280301/28001357/)
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 932개 (2026-11-21 기준)](https://maps.google.com/?cid=1501679150619229747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 932개 (2026-11-21 기준)](https://maps.google.com/?cid=1501679150619229747)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 테이크아웃만 된다. 타베로그에 '예약 가능'으로 나와 있지만 주문 예약 방법은 확인하지 못했다.
@@ -1206,7 +1206,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-18:00 / 휴무 월·수요일
 - 💡 테이크아웃만 된다. 월·수 휴무. 한큐 고요엔역에서 2분이라 산노미야에서 한큐를 타고 슈쿠가와에서 갈아타면 된다.
 - 🚃 한큐 고요엔역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=1501679150619229747&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%84%E3%83%9E%E3%82%AC%E3%83%AA%20%E7%94%B2%E9%99%BD%E5%9C%92%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E7%94%B2%E9%99%BD%E5%9C%92%E6%9C%AC%E5%BA%84%E7%94%BA6-38) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28001357/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EB%A7%88%EA%B0%80%EB%A6%AC%20%EA%B3%A0%EC%9A%94%EC%97%94%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1501679150619229747) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B1%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%83%84%E3%83%9E%E3%82%AC%E3%83%AA%20%E7%94%B2%E9%99%BD%E5%9C%92%E6%9C%AC%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E8%A5%BF%E5%AE%AE%E5%B8%82%E7%94%B2%E9%99%BD%E5%9C%92%E6%9C%AC%E5%BA%84%E7%94%BA6-38) · [타베로그](https://tabelog.com/kr/hyogo/A2803/A280301/28001357/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EB%A7%88%EA%B0%80%EB%A6%AC%20%EA%B3%A0%EC%9A%94%EC%97%94%20%EB%B3%B8%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 아카시
 
@@ -1228,7 +1228,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 12:00-14:00 / 17:00-20:30 / 휴무 목요일, 첫째·셋째·다섯째 수요일
 - 💡 목요일과 첫째·셋째·다섯째 수요일 휴무. 전화(078-928-7157)로 예약. 17석 소규모이고 매장 뒤에 주차장이 있다.
 - 🚃 니시아카시역(JR·신칸센) 약 480m
-- [구글 지도](https://maps.google.com/?cid=4072536056309844922&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8F%8A%E6%B0%B4%E9%AE%93%20%E8%A5%BF%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E6%9D%BE%E3%81%AE%E5%86%851-4-15) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28031883/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%BF%A0%EC%8A%A4%EC%9D%B4%EC%A6%88%EC%8B%9C%20%EB%8B%88%EC%8B%9C%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4072536056309844922) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8F%8A%E6%B0%B4%E9%AE%93%20%E8%A5%BF%E5%BA%97%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E6%9D%BE%E3%81%AE%E5%86%851-4-15) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28031883/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%BF%A0%EC%8A%A4%EC%9D%B4%EC%A6%88%EC%8B%9C%20%EB%8B%88%EC%8B%9C%EC%A0%90%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-028"></a>
 #### ★★ 후나마치 (ふなまち) — 🐙 타코야키 · 타베로그 3.70
@@ -1237,7 +1237,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70(리뷰 1,402), 아카시 지역 평점 순위 2위(2026-11 기준)](https://tabelog.com/hyogo/A2804/A280401/28001170/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,019개 (2026-11-21 기준)](https://maps.google.com/?cid=3762957422048838183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,019개 (2026-11-21 기준)](https://maps.google.com/?cid=3762957422048838183)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 매장 식사는 예약할 수 없고 테이크아웃만 예약된다(타베로그).
@@ -1251,7 +1251,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:30-17:30(L.O.17:00, 2026년 6월~) / 휴무 목·금요일
 - 💡 목·금 휴무. 주말에는 다마고야키만 판다. 2026년 8월부터 1인분 900엔. 카드·전자결제가 안 되니 현금을 준비할 것. 테이크아웃만 예약할 수 있다.
 - 🚃 산요 아카시역 약 650m / JR 아카시역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=3762957422048838183&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B5%E3%81%AA%E3%81%BE%E3%81%A1%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E6%9D%90%E6%9C%A8%E7%94%BA5-12) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28001170/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EB%82%98%EB%A7%88%EC%B9%98%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3762957422048838183) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B5%E3%81%AA%E3%81%BE%E3%81%A1%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E6%9D%90%E6%9C%A8%E7%94%BA5-12) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28001170/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EB%82%98%EB%A7%88%EC%B9%98%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-026"></a>
 #### ★ 🏯 혼케 기무라야 (明石名物 玉子焼き 本家きむらや) — 🐙 타코야키 · 타베로그 3.49
@@ -1274,7 +1274,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 10:00-16:30(주말 9:00 오픈 표기도 있음) / 휴무 월요일
 - 💡 현금만 받는다. 월요일 휴무이고 재료가 떨어지면 문을 닫는다. 관동니(오뎅)도 있다. 아카시역 근처 어시장 '우오노타나(魚の棚)'(아카시성 축성 때 생긴 시장, 가게 약 100곳)와 같이 둘러보기 좋다.
 - 🚃 JR 아카시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=14704887228210169699&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%8E%E7%9F%B3%E5%90%8D%E7%89%A9%20%E7%8E%89%E5%AD%90%E7%84%BC%E3%81%8D%20%E6%9C%AC%E5%AE%B6%E3%81%8D%E3%82%80%E3%82%89%E3%82%84%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E9%8D%9B%E6%B2%BB%E5%B1%8B%E7%94%BA5-23) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28000374/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EA%B8%B0%EB%AC%B4%EB%9D%BC%EC%95%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14704887228210169699) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%8E%E7%9F%B3%E5%90%8D%E7%89%A9%20%E7%8E%89%E5%AD%90%E7%84%BC%E3%81%8D%20%E6%9C%AC%E5%AE%B6%E3%81%8D%E3%82%80%E3%82%89%E3%82%84%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E6%98%8E%E7%9F%B3%E5%B8%82%E9%8D%9B%E6%B2%BB%E5%B1%8B%E7%94%BA5-23) · [타베로그](https://tabelog.com/kr/hyogo/A2804/A280401/28000374/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EA%B8%B0%EB%AC%B4%EB%9D%BC%EC%95%BC%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 오카모토
 
@@ -1296,7 +1296,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 9:00-18:00(품절 시 종료) / 휴무 일요일·공휴일, 첫째·셋째 수요일 등
 - 💡 식빵은 당일 오전 9시부터 방문이나 전화로 예약할 수 있고, 오후 2시쯤 구워져 나온다(금·토는 16시에도). 카드·전자결제를 받지 않으니 현금을 준비할 것. 일요일·공휴일 휴무.
 - 🚃 한큐 오카모토역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=12707852374329506465&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E5%A0%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%B2%A1%E6%9C%AC1-11-23) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280105/28001078/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%8F%84%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12707852374329506465) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%AD%E3%82%A4%E3%83%B3%E5%A0%82%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E6%9D%B1%E7%81%98%E5%8C%BA%E5%B2%A1%E6%9C%AC1-11-23) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280105/28001078/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A1%9C%EC%9D%B8%EB%8F%84%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 하버랜드·메리켄
 
@@ -1318,7 +1318,7 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 런치 11:30-15:00 (L.O.14:30) / 디너 17:00-21:30 (L.O.20:30) / 휴무 무휴
 - 💡 런치 국산우 스테이크 5,800엔이 가장 부담이 적다(세금 포함, 서비스료 10% 별도). 창가 전망이 핵심. 취소료: 2일 전 30%, 전날 50%, 당일 80~100%.
 - 🚃 미나토모토마치역 2번 출구 도보 약 8분 / 모토마치역 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=1505177773567221288&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%EF%BC%88%E7%A5%9E%E6%88%B8%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%86%E3%83%AB%EF%BC%89%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B3%A2%E6%AD%A2%E5%A0%B4%E7%94%BA5-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28008755/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%83%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1505177773567221288) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%E3%83%8F%E3%82%A6%E3%82%B9%20%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%EF%BC%88%E7%A5%9E%E6%88%B8%E3%83%A1%E3%83%AA%E3%82%B1%E3%83%B3%E3%83%91%E3%83%BC%E3%82%AF%E3%82%AA%E3%83%AA%E3%82%A8%E3%83%B3%E3%82%BF%E3%83%AB%E3%83%9B%E3%83%86%E3%83%AB%EF%BC%89%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B3%A2%E6%AD%A2%E5%A0%B4%E7%94%BA5-6) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28008755/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EB%A6%AC%EC%97%94%ED%83%88%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kobe-042"></a>
 #### ★★ 철판구이 고코로 (鉄板焼 心) — 🐂 와규·스테이크 · 타베로그 3.64
@@ -1338,4 +1338,4 @@ JR스미요시역 앞 야키토리 명가. 타베로그 3.84로 Tabelog Award Br
 - 영업 런치 11:30-15:00 (L.O.14:00) / 디너 17:30-22:30 (L.O.21:00) / 휴무 무휴
 - 💡 타베로그 코스 표기 기준 런치 약 9,400엔부터, 고베규가 들어간 런치는 약 19,400엔. 서비스료 10%. 드레스코드 있음(런치 스마트캐주얼, 디너엔 반바지·샌들·티셔츠 불가). 하버랜드·메리켄파크 산책과 묶기 좋다.
 - 🚃 미나토모토마치역(가이간선) 도보 약 4분 / JR고베역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=962394482290028395&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%89%84%E6%9D%BF%E7%84%BC%20%E5%BF%83%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B3%A2%E6%AD%A2%E5%A0%B4%E7%94%BA7-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28009951/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%A0%ED%8C%90%EA%B5%AC%EC%9D%B4%20%EA%B3%A0%EC%BD%94%EB%A1%9C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=962394482290028395) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%89%84%E6%9D%BF%E7%84%BC%20%E5%BF%83%20%E5%85%B5%E5%BA%AB%E7%9C%8C%E7%A5%9E%E6%88%B8%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B3%A2%E6%AD%A2%E5%A0%B4%E7%94%BA7-2) · [타베로그](https://tabelog.com/kr/hyogo/A2801/A280102/28009951/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%A0%ED%8C%90%EA%B5%AC%EC%9D%B4%20%EA%B3%A0%EC%BD%94%EB%A1%9C%20%EA%B3%A0%EB%B2%A0%20%EB%A7%9B%EC%A7%91)

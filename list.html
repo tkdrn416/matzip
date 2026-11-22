@@ -27,7 +27,7 @@
       <header class="head">
         <h1>🍜 간사이 레전드 맛집</h1>
         <p class="sub" id="sub">오사카 · 교토 · 고베 · 나라</p>
-        <p class="modenote">📋 목록 모드 — 지도 대신 각 가게의 🧭 구글맵 길찾기 버튼을 쓰세요. <a href="index.html">지도 모드</a></p>
+        <p class="modenote">📋 목록 모드 — 지도 대신 각 가게의 🧭 구글맵 길찾기 버튼을 쓰세요. <a href="index.html">지도 모드</a> · <button id="helpBtn" class="linkbtn" type="button">❔ 보는 법</button></p>
       </header>
 
       <div class="filters">
@@ -91,6 +91,22 @@
     <div class="dlgbtns"><button id="dlgCopy" class="cta">복사</button><button id="dlgClose">닫기</button></div>
   </dialog>
 
+  <dialog id="helpDlg" class="dlg help">
+    <h3>❔ 보는 법</h3>
+    <dl>
+      <dt>지도 핀</dt><dd>색·그림 = 음식 종류. 핀 옆 <b style="color:#1e8e3e">●</b> 지금 영업 중, <b style="color:#9aa0a6">●</b> 영업 전·휴무. 많이 확대하면 이름과 타베로그 점수가 보여요.</dd>
+      <dt>숫자 원(묶음)</dt><dd>큰 숫자 = 가게 수, 아래 작은 숫자 = 그 안에서 <b>가장 높은 타베로그 점수</b>. 누르면 확대돼요.</dd>
+      <dt>타베로그 점수</dt><dd>3.5 이상 상위권 · 3.8 이상 최상위 · 4.0 이상 일본 전국 톱클래스.</dd>
+      <dt>★ 등급</dt><dd>★★★ 필수 레전드(3.80+·미쉐린 별·Award) · ★★ 강력 추천(3.60+·백명점·빕구르망) · ★ 추천. 🏯 = 점수보다 역사·명물로 가 볼 만한 곳.</dd>
+      <dt>✔ 신뢰도</dt><dd>서로 다른 근거 수(타베로그 3.6+, 백명점, Award, 미쉐린, 구글 4.2+, 유튜브, 노포, 언론). <b>✔3 이상이면 탄탄</b> — "✔ 근거 탄탄" 필터.</dd>
+      <dt>예약</dt><dd>📱 온라인 예약 · ☎️ 전화 예약만 · 🎫 원격 번호표 · 🚶 예약 불가(가서 줄 서기)</dd>
+      <dt>웨이팅</dt><dd>⏳ 최근 후기 기준 피크 시간 예상 대기 · 🧘 한적한 편. 실시간이 아니에요.</dd>
+      <dt>흡연</dt><dd>🚭 금연 · 🚪 분연(흡연실 따로) · 💨 가열식 담배만 · 🚬 좌석 흡연 가능</dd>
+      <dt>지도 길게 누르기</dt><dd>"여기서 가까운 순" 또는 "숙소로 저장" → 숙소에서 가까운 순 정렬.</dd>
+      <dt>오프라인</dt><dd>한 번 본 동네의 지도와 전체 목록은 로밍이 끊겨도 보여요(홈 화면에 추가 권장).</dd>
+    </dl>
+    <div class="dlgbtns"><button id="helpClose" class="cta">닫기</button></div>
+  </dialog>
   <script src="assets/vendor/leaflet/leaflet.js"></script>
   <script src="assets/vendor/leaflet/leaflet.markercluster.js"></script>
   <script src="data/restaurants.js"></script>

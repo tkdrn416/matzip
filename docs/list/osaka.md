@@ -259,7 +259,7 @@
 - 영업 18:00-24:00 (최종 입장 21:30) / 휴무 부정기 휴무
 - 💡 단품 없이 코스(1인 8,800엔~)만 운영한다. 골목 안이라 찾기 어려우니 구이집 '겐짱' 옆 검은 천막을 찾으면 된다.
 - 🚃 JR 노에역 도보 8분 · 교바시역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=9137387547987501738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E3%81%84%E3%82%8F%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E9%83%BD%E5%B3%B6%E4%B8%AD%E9%80%9A3-5-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27134873/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%20%EC%9D%B4%EC%99%80%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9137387547987501738) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E3%81%84%E3%82%8F%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E9%83%BD%E5%B3%B6%E4%B8%AD%E9%80%9A3-5-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27134873/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%20%EC%9D%B4%EC%99%80%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-002"></a>
 #### ★★★ 쿄쇼란 본점 (京松蘭 本店) — 🥩 야키니쿠·호르몬 · 타베로그 3.91
@@ -269,7 +269,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.91 (리뷰 599건)](https://tabelog.com/osaka/A2701/A270107/27090232/)
 - 🏆 **수상·백명점** [야키니쿠 WEST 백명점 2020~2026 7년 연속](https://award.tabelog.com/hyakumeiten/yakiniku_west/2026)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 430개 (2026-11-21 기준)](https://maps.google.com/?cid=7981615679323088267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 430개 (2026-11-21 기준)](https://maps.google.com/?cid=7981615679323088267)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27090232/)
 - 예약 팁: 전화(080-3004-9886) 예약. 타베로그 온라인 예약·코스 예약 없음.
@@ -280,7 +280,7 @@
 - 영업 화~금 18:00-22:30 / 토·일·공휴일 17:30-22:30 / 휴무 월요일
 - 💡 월요일 휴무. 외국인 손님에겐 굽기 안내·언어 지원 포함 서비스료 400엔. 당일 빈자리가 날 때도 있다고 안내. 카드·PayPay·알리페이 가능.
 - 🚃 게이한 교바시역 85m / 지하철 교바시역 130m
-- [구글 지도](https://maps.google.com/?cid=7981615679323088267&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%9D%BE%E8%98%AD%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E7%89%87%E7%94%BA2-11-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27090232/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EC%87%BC%EB%9E%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7981615679323088267) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%9D%BE%E8%98%AD%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E7%89%87%E7%94%BA2-11-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27090232/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EC%87%BC%EB%9E%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-001"></a>
 #### ★★ 🏯 이자카야 토요 (居酒屋 とよ) — 🍶 이자카야·다치노미 · 타베로그 3.55
@@ -291,7 +291,7 @@
 - 🍽️ **타베로그** [타베로그 3.55 (리뷰 1,221건), 다치노미 백명점 2025](https://tabelog.com/osaka/A2701/A270107/27002949/)
 - 📰 **언론·가이드** [넷플릭스 다큐 'Street Food(ストリート・グルメを求めて)'로 알려진 전설의 이자카야로 언급(타베로그 리뷰)](https://tabelog.com/osaka/A2701/A270107/27002949/dtlrvwlst/B31965092/)
 - ▶️ **유튜브** [Mark Wiens: 영상 제목의 'KING OF TUNA' 파트이자 마지막 코스. 토요 사장이 토치로 직접 구워주는 참치 볼살(가마) 등, 일행 전체 8,500엔.](https://www.youtube.com/watch?v=3zLvByt52go)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,621개 (2026-11-21 기준)](https://maps.google.com/?cid=11050747874980278285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,621개 (2026-11-21 기준)](https://maps.google.com/?cid=11050747874980278285)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 줄 서서 입장.
@@ -304,7 +304,7 @@
 - 영업 화·수·금 13:00-16:30 / 토 12:00-16:30 / 휴무 월·목·일요일
 - 💡 낮에만 여는 가게: 화·수·금 13:00-16:30, 토 12:00-16:30(월·목·일 휴무). 예약 불가, 1시간 가까이 기다리기도. 음료는 셀프. 현금만. 오마카세가 무난.
 - 🚃 JR 교바시역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=11050747874980278285&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%81%A8%E3%82%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E6%9D%B1%E9%87%8E%E7%94%B0%E7%94%BA3-2-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27002949/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%86%A0%EC%9A%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11050747874980278285) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%81%A8%E3%82%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%83%BD%E5%B3%B6%E5%8C%BA%E6%9D%B1%E9%87%8E%E7%94%B0%E7%94%BA3-2-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270107/27002949/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%86%A0%EC%9A%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 기타신치
 
@@ -325,7 +325,7 @@
 - 영업 1부 17:30-19:30, 2부 20:00-22:00 / 휴무 일요일·공휴일
 - 💡 어른과 같은 코스를 먹을 수 있는 아이만 입장 가능. 본인이 오지 않는 대리 예약은 받지 않는다.
 - 🚃 오에바시역에서 약 270m
-- [구글 지도](https://maps.google.com/?cid=6666856657993068246&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%B5%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B6%E6%B5%9C1-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27135796/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%ED%83%80%EC%8B%A0%EC%B9%98%20%ED%9B%84%EC%B9%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6666856657993068246) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E6%96%B0%E5%9C%B0%20%E3%81%B5%E3%81%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B6%E6%B5%9C1-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27135796/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%ED%83%80%EC%8B%A0%EC%B9%98%20%ED%9B%84%EC%B9%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-121"></a>
 #### ★★★ 누마타 (ぬま田) — 🍤 튀김·돈카츠·규카츠 · 타베로그 4.41
@@ -346,7 +346,7 @@
 - 영업 월·화·수·금 12:00-15:00, 18:00-21:00 / 목 17:00-23:00 / 토·일 12:00-15:00, 17:30-21:00 / 휴무 부정기 휴무
 - 💡 향수는 삼가고, 예약 시각보다 15분 넘게 늦으면 취소 처리된다. 중학생 이상만 입장 가능, 서비스료 5% 별도.
 - 🚃 기타신치역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=4774645459610663151&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AC%E3%81%BE%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27119864/) · [유튜브](https://www.youtube.com/results?search_query=%EB%88%84%EB%A7%88%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4774645459610663151) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AC%E3%81%BE%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27119864/) · [유튜브](https://www.youtube.com/results?search_query=%EB%88%84%EB%A7%88%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-122"></a>
 #### ★★★ 료리야 이나야 (料理屋 稲家) — 🍱 일식·카이세키 · 타베로그 4.05
@@ -368,7 +368,7 @@
 - 영업 18:00, 20:45 2부제 (점심은 한 달에 몇 번) / 휴무 일요일, 부정기 휴무
 - 💡 예약 시각보다 30분 넘게 늦으면 취소 처리되고, 늦으면 코스 중간부터 시작한다. 12세(중학생) 이상만 가능.
 - 🚃 기타신치역에서 약 140m
-- [구글 지도](https://maps.google.com/?cid=15905909141504103024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%99%E7%90%86%E5%B1%8B%20%E7%A8%B2%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27121156/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%A6%AC%EC%95%BC%20%EC%9D%B4%EB%82%98%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15905909141504103024) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%99%E7%90%86%E5%B1%8B%20%E7%A8%B2%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27121156/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%A6%AC%EC%95%BC%20%EC%9D%B4%EB%82%98%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-129"></a>
 #### ★★★ 스시 무라카미 지로 (鮨 村上二郎) — 🍣 스시·해산물 · 타베로그 3.75
@@ -388,7 +388,7 @@
 - 영업 18:00-다음날 2:00 / 휴무 일요일·공휴일
 - 💡 해외 손님은 일본어가 되는 사람을 통해 예약해야 하므로 호텔 컨시어지에 부탁하는 편이 현실적이다.
 - 🚃 기타신치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=8653565446348493078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E6%9D%91%E4%B8%8A%E4%BA%8C%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27078821/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8%20%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8653565446348493078) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E6%9D%91%E4%B8%8A%E4%BA%8C%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27078821/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%AC%B4%EB%9D%BC%EC%B9%B4%EB%AF%B8%20%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-003"></a>
 #### ★★★ 스시 오오하타 (寿し おおはた) — 🍣 스시·해산물 · 타베로그 4.16
@@ -408,7 +408,7 @@
 - 영업 저녁만 18:00~ / 20:30~ 2부제 / 휴무 수·목요일
 - 💡 저녁 2부제(18:00 / 20:30). 수·목 휴무. 완전 예약제로 전화(070-3842-4261) 예약만. 카드·전자결제 불가. 타베로그에 남은 옛 주소(日宝新地レジャービル)가 아니라 현재 주소(廣ビル 2F)로 갈 것.
 - 🚃 JR 기타신치역·니시우메다역 도보 5분 / 오에바시역 275m
-- [구글 지도](https://maps.google.com/?cid=5850482256756436459&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E3%81%97%20%E3%81%8A%E3%81%8A%E3%81%AF%E3%81%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27057420/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%98%A4%ED%95%98%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5850482256756436459) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E3%81%97%20%E3%81%8A%E3%81%8A%E3%81%AF%E3%81%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27057420/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%98%A4%ED%95%98%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-123"></a>
 #### ★★★ 야키토리 이치마츠 (焼鳥 市松) — 🍗 야키토리·닭요리 · 타베로그 4.00
@@ -419,7 +419,7 @@
 - 🍽️ **타베로그** [타베로그 4.00 (리뷰 840건), 야키토리 百名店 2018~2026 중 8회](https://tabelog.com/osaka/A2701/A270101/27013209/)
 - 🏆 **수상·백명점** Tabelog Award 2026 Bronze (2017~2021 포함 통산 6회)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 게재
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 344개 (2026-11-21 기준)](https://maps.google.com/?cid=1087722571695552376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 344개 (2026-11-21 기준)](https://maps.google.com/?cid=1087722571695552376)
 
 - **온라인 예약: ✅ 가능** 
 - 예약 팁: OMAKASE로 예약을 받으며 당일 예약도 가능. 취소료는 30일 전부터 50%, 7일 전부터 100%.
@@ -430,7 +430,7 @@
 - 영업 화~목 16:00-18:00, 18:30-20:30 / 금·토 16:00-18:00, 18:30-20:30, 21:00-23:00 / 휴무 월요일·일요일
 - 💡 16시부터 시작하는 시간대별 부제 운영. 아이는 16~18시 타임에 같은 코스를 먹을 수 있을 때만 동반 가능하고, 가게 안 통화·향수는 금지다.
 - 🚃 기타신치역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=1087722571695552376&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E5%B8%82%E6%9D%BE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-5-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27013209/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%9D%B4%EC%B9%98%EB%A7%88%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1087722571695552376) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E5%B8%82%E6%9D%BE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-5-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27013209/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%9D%B4%EC%B9%98%EB%A7%88%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-004"></a>
 #### ★★★ 양식 이즈미 (洋食 泉) — 🍳 경양식·오므라이스 · 타베로그 3.97
@@ -450,7 +450,7 @@
 - 영업 화~일 17:00-23:00 / 휴무 월요일
 - 💡 저녁(17:00-23:00)만 영업, 월요일 휴무. 인기가 많아 며칠 전 전화 예약 권장. 카드 가능. 초등학생 이상 동반 가능.
 - 🚃 JR 기타신치역·히가시우메다역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=8786908061230927811&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B4%8B%E9%A3%9F%20%E6%B3%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-9-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27118018/) · [유튜브](https://www.youtube.com/results?search_query=%EC%96%91%EC%8B%9D%20%EC%9D%B4%EC%A6%88%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8786908061230927811) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B4%8B%E9%A3%9F%20%E6%B3%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-9-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27118018/) · [유튜브](https://www.youtube.com/results?search_query=%EC%96%91%EC%8B%9D%20%EC%9D%B4%EC%A6%88%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-124"></a>
 #### ★★★ 오노 (緒乃) — 🍱 일식·카이세키 · 타베로그 4.20
@@ -471,7 +471,7 @@
 - 영업 12:30-14:30, 18:00-20:30, 21:00-23:00 (일괄 시작) / 휴무 일요일 (공휴일이면 영업)
 - 💡 코스가 예약 시각에 일제히 시작되니 늦으면 일부 요리를 놓친다. 서비스료 10% 별도.
 - 🚃 기타신치역에서 약 160m
-- [구글 지도](https://maps.google.com/?cid=5392570398292975606&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B7%92%E4%B9%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-2-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27112164/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5392570398292975606) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B7%92%E4%B9%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-2-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27112164/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-005"></a>
 #### ★★★ 제신 (是しん) — 🍱 일식·카이세키 · 타베로그 3.90
@@ -492,7 +492,7 @@
 - 영업 저녁 월~토 17:30-22:00 / 점심 화·목·토 11:30-14:00 / 휴무 일요일, 공휴일인 월요일
 - 💡 완전 예약제, 전날 22시까지 예약. 점심은 화·목·토만. 일요일 휴무. 현금만(카드 불가), 서비스료 10%.
 - 🚃 JR 기타신치역 도보 5분 / 요도야바시역 도보 7분 / 오에바시역 325m
-- [구글 지도](https://maps.google.com/?cid=2088242581366837619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%AF%E3%81%97%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%802-9-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27077650/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%9C%EC%8B%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2088242581366837619) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%AF%E3%81%97%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%802-9-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27077650/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%9C%EC%8B%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-132"></a>
 #### ★★★ 쿠신 가란도 (空心 伽藍堂) — 🥟 중화·교자 · 타베로그 3.76
@@ -512,7 +512,7 @@
 - 영업 18:00-23:00 (최종 입장 20:30) / 휴무 월·화요일
 - 💡 최종 입장은 20:30. 서비스료 10% 별도.
 - 🚃 기타신치역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=10874154881724965639&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%E5%BF%83%20%E4%BC%BD%E8%97%8D%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27131042/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%A0%20%EA%B0%80%EB%9E%80%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10874154881724965639) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%E5%BF%83%20%E4%BC%BD%E8%97%8D%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27131042/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%A0%20%EA%B0%80%EB%9E%80%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-134"></a>
 #### ★★★ 텐푸라 히라이시 (天麩羅 ひらいし) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.66
@@ -531,7 +531,7 @@
 - 영업 17:00-22:00 / 휴무 일요일·공휴일
 - 💡 카운터 10석이라 미리 전화 예약하는 게 안전하다. 전화는 일본어 응대만 될 수 있다.
 - 🚃 기타신치역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=555918032484063341&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BA%A9%E7%BE%85%20%E3%81%B2%E3%82%89%E3%81%84%E3%81%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01%E4%B8%81%E7%9B%AE9-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27042091/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%ED%91%B8%EB%9D%BC%20%ED%9E%88%EB%9D%BC%EC%9D%B4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=555918032484063341) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BA%A9%E7%BE%85%20%E3%81%B2%E3%82%89%E3%81%84%E3%81%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01%E4%B8%81%E7%9B%AE9-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27042091/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%ED%91%B8%EB%9D%BC%20%ED%9E%88%EB%9D%BC%EC%9D%B4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-125"></a>
 #### ★★★ 토모노 (TOMONO) — 🥟 중화·교자 · 타베로그 4.02
@@ -550,7 +550,7 @@
 - 영업 18:00, 20:45 2부제 (일괄 시작) / 휴무 일요일
 - 💡 코스 하나만 내며 매달 바뀐다. 16세 이상만 입장 가능. 영업 중(18~23시)엔 전화를 삼가 달라고 하니 OMAKASE 예약이 편하다.
 - 🚃 기타신치역에서 약 140m (우메다역 도보 3분)
-- [구글 지도](https://maps.google.com/?cid=10814174547925606661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=TOMONO%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27121125/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%AA%A8%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10814174547925606661) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=TOMONO%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27121125/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%AA%A8%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-126"></a>
 #### ★★ 런던 티룸 도지마 본점 (ロンドンティールーム 堂島本店) — ☕ 카페·킷사텐 · 타베로그 3.70
@@ -573,7 +573,7 @@
 - 영업 평일 9:00-20:00, 주말·공휴일 8:00-20:00 (L.O. 19:00)
 - 💡 오픈~11시엔 모닝 세트, 11~14시엔 런치 세트가 있다. 유모차와 미취학 아동 동반 입장은 받지 않는다.
 - 🚃 기타신치역·니시우메다역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=12960720621613457175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0%20%E5%A0%82%E5%B3%B6%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B02-1-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002171/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9F%B0%EB%8D%98%20%ED%8B%B0%EB%A3%B8%20%EB%8F%84%EC%A7%80%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12960720621613457175) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%AD%E3%83%B3%E3%83%89%E3%83%B3%E3%83%86%E3%82%A3%E3%83%BC%E3%83%AB%E3%83%BC%E3%83%A0%20%E5%A0%82%E5%B3%B6%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B02-1-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002171/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9F%B0%EB%8D%98%20%ED%8B%B0%EB%A3%B8%20%EB%8F%84%EC%A7%80%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-127"></a>
 #### ★★ 소바도코로 토키 (そば処 とき) — 🍲 우동·소바 · 타베로그 3.67
@@ -583,7 +583,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 932건), 소바 WEST 百名店 2025·2024, 소바 百名店 2021](https://tabelog.com/osaka/A2701/A270101/27000217/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 414개 (2026-11-21 기준)](https://maps.google.com/?cid=4022890823422840229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 414개 (2026-11-21 기준)](https://maps.google.com/?cid=4022890823422840229)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -596,7 +596,7 @@
 - 영업 점심 11:30-14:00 / 저녁 월·화 18:00-24:00, 수 18:00-22:00, 목·금 18:00-다음날 1:00 / 토요일은 점심만 / 휴무 일요일·공휴일, 첫째·셋째·다섯째 토요일
 - 💡 인기 메뉴인 주와리 소바는 일찍 품절되기도 하니 점심은 12시 전에 가는 게 좋다. 롤 스시와 소바가키도 평이 좋다.
 - 🚃 기타신치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=4022890823422840229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%87%A6%20%E3%81%A8%E3%81%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-3-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000217/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%EB%8F%84%EC%BD%94%EB%A1%9C%20%ED%86%A0%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4022890823422840229) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%87%A6%20%E3%81%A8%E3%81%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-3-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000217/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%EB%8F%84%EC%BD%94%EB%A1%9C%20%ED%86%A0%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-128"></a>
 #### ★★ 쇼쿠도 아카리 (食堂 燈) — 🍶 이자카야·다치노미 · 타베로그 3.60
@@ -615,7 +615,7 @@
 - 영업 수~금 18:00-24:00, 토 18:00-23:00 / 휴무 월·화·일요일
 - 💡 자릿세 660엔이 붙는다. 월·화·일요일은 쉬니 일정 짤 때 주의.
 - 🚃 기타신치역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=8688922531133264162&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A3%9F%E5%A0%82%20%E7%87%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-6-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27112023/) · [유튜브](https://www.youtube.com/results?search_query=%EC%87%BC%EC%BF%A0%EB%8F%84%20%EC%95%84%EC%B9%B4%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8688922531133264162) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A3%9F%E5%A0%82%20%E7%87%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-6-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27112023/) · [유튜브](https://www.youtube.com/results?search_query=%EC%87%BC%EC%BF%A0%EB%8F%84%20%EC%95%84%EC%B9%B4%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-135"></a>
 #### ★★ 스이교 무라바야시 (粋魚 むらばやし) — 🍱 일식·카이세키 · 타베로그 3.60
@@ -635,7 +635,7 @@
 - 영업 월~금 17:30-22:30, 토 17:30-22:00 / 휴무 일요일·공휴일
 - 💡 카드로 결제하면 서비스료 5%가 붙는다. 좌석 흡연이 가능한 가게라 담배 연기에 민감하면 피하는 게 좋다.
 - 🚃 기타신치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=2075625926122994614&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B2%8B%E9%AD%9A%20%E3%82%80%E3%82%89%E3%81%B0%E3%82%84%E3%81%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-2-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27042412/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%9D%B4%EA%B5%90%20%EB%AC%B4%EB%9D%BC%EB%B0%94%EC%95%BC%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2075625926122994614) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B2%8B%E9%AD%9A%20%E3%82%80%E3%82%89%E3%81%B0%E3%82%84%E3%81%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-2-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27042412/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%9D%B4%EA%B5%90%20%EB%AC%B4%EB%9D%BC%EB%B0%94%EC%95%BC%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-136"></a>
 #### ★★ 아카토시로 (あかとしろ) — 🍣 스시·해산물 · 타베로그 3.43
@@ -654,7 +654,7 @@
 - 가격: 저녁 6,000~7,999엔 (타베로그)
 - 영업 17:00-23:00 / 휴무 일요일·공휴일
 - 🚃 오에바시역에서 약 270m
-- [구글 지도](https://maps.google.com/?cid=16180827279498719856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%81%8B%E3%81%A8%E3%81%97%E3%82%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-41) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27110894/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%ED%86%A0%EC%8B%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16180827279498719856) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%81%8B%E3%81%A8%E3%81%97%E3%82%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-41) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27110894/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%ED%86%A0%EC%8B%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-006"></a>
 #### ★★ 오반 (大番) — 🥩 야키니쿠·호르몬 · 타베로그 3.66
@@ -674,7 +674,7 @@
 - 영업 월~토 17:30-03:00 / 휴무 일·공휴일
 - 💡 17:30~새벽 3:00 영업이라 늦은 저녁에도 좋다. 일·공휴일 휴무. 전화 예약(일본어 위주).
 - 🚃 JR 기타신치역 118m
-- [구글 지도](https://maps.google.com/?cid=5303543436378541206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E7%95%AA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002139/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%B0%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5303543436378541206) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E7%95%AA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002139/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%B0%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-007"></a>
 #### ★★ 이자카야 하마무라 (居酒屋 浜村) — 🍶 이자카야·다치노미 · 타베로그 3.63
@@ -694,7 +694,7 @@
 - 영업 월~금 18:00-23:00 / 휴무 토·일·공휴일
 - 💡 평일 18:00-23:00만 영업(토·일·공휴일 휴무). 전화 예약 권장. 카드 가능, 서비스료 없음.
 - 🚃 오에바시역 262m
-- [구글 지도](https://maps.google.com/?cid=14654312220387651662&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E6%B5%9C%E6%9D%91%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-2-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27016897/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%95%98%EB%A7%88%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14654312220387651662) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E6%B5%9C%E6%9D%91%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-2-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27016897/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%95%98%EB%A7%88%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-130"></a>
 #### ★★ 젠도 (善道) — 🥟 중화·교자 · 타베로그 3.71
@@ -713,7 +713,7 @@
 - 영업 월~금 18:00-23:00, 토 18:00-22:00 / 휴무 일요일·공휴일
 - 💡 첫 주문은 음료 필수이고 기본 안주(오토시) 350엔이 붙는다.
 - 🚃 기타신치역·니시우메다역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=16425285006266594945&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%84%E9%81%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-3-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27065615/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%A0%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16425285006266594945) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%84%E9%81%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B61-3-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27065615/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%A0%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-131"></a>
 #### ★★ 코사이 후쿠미미 (幸菜福耳) — 🥟 중화·교자 · 타베로그 3.76
@@ -732,7 +732,7 @@
 - 영업 18:00-02:00 / 휴무 일요일
 - 💡 카드·전자화폐·QR 결제가 모두 안 되니 현금을 준비하자.
 - 🚃 오에바시역에서 약 250m
-- [구글 지도](https://maps.google.com/?cid=2511317299809278474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B9%B8%E8%8F%9C%E7%A6%8F%E8%80%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27084462/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EC%82%AC%EC%9D%B4%20%ED%9B%84%EC%BF%A0%EB%AF%B8%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2511317299809278474) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B9%B8%E8%8F%9C%E7%A6%8F%E8%80%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27084462/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EC%82%AC%EC%9D%B4%20%ED%9B%84%EC%BF%A0%EB%AF%B8%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-137"></a>
 #### ★★ 쿠시아게 제로이치제로 (クシアゲ 010) — 🍢 쿠시카츠 · 타베로그 3.44
@@ -751,7 +751,7 @@
 - 가격: 저녁 5,000~5,999엔 (타베로그), 후기 집계 10,000~14,999엔
 - 영업 17:30-22:00 / 휴무 일요일
 - 🚃 오에바시역에서 약 270m
-- [구글 지도](https://maps.google.com/?cid=13649143057986906644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%B2%20010%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-41) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27092520/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%9C%EC%95%84%EA%B2%8C%20%EC%A0%9C%EB%A1%9C%EC%9D%B4%EC%B9%98%EC%A0%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13649143057986906644) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AF%E3%82%B7%E3%82%A2%E3%82%B2%20010%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-1-41) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27092520/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%9C%EC%95%84%EA%B2%8C%20%EC%A0%9C%EB%A1%9C%EC%9D%B4%EC%B9%98%EC%A0%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-133"></a>
 #### ★★ 탄포포 기타신치 본점 (tanpopo 北新地本店) — 🥞 오코노미야키 · 타베로그 3.66
@@ -771,7 +771,7 @@
 - 영업 18:00-22:00 (L.O. 21:00) / 휴무 일요일 (공휴일 부정기 휴무)
 - 💡 서비스료가 1인 660엔 붙는다. 1층에 패밀리마트가 있는 흰 건물 6층.
 - 🚃 기타신치역에서 약 130m
-- [구글 지도](https://maps.google.com/?cid=18137330904193900940&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=tanpopo%20%E5%8C%97%E6%96%B0%E5%9C%B0%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27101683/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%84%ED%8F%AC%ED%8F%AC%20%EA%B8%B0%ED%83%80%EC%8B%A0%EC%B9%98%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18137330904193900940) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=tanpopo%20%E5%8C%97%E6%96%B0%E5%9C%B0%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%96%B0%E5%9C%B01-10-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27101683/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%84%ED%8F%AC%ED%8F%AC%20%EA%B8%B0%ED%83%80%EC%8B%A0%EC%B9%98%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 기타하마·요도야바시·혼마치
 
@@ -792,7 +792,7 @@
 - 영업 18:00-21:00 / 휴무 일요일·부정기
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비하자. 점심 영업은 하지 않는다.
 - 🚃 나니와바시역 도보 4분 · 기타하마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15722465968261134572&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%88%E6%B3%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%801-6-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27082740/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B2%9F%EC%84%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15722465968261134572) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%88%E6%B3%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%801-6-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27082740/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B2%9F%EC%84%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-139"></a>
 #### ★★★ 누마타 소 (ぬまた 双) — 🍤 튀김·돈카츠·규카츠 · 타베로그 4.02
@@ -812,7 +812,7 @@
 - 영업 점심 12:00-14:30, 저녁 17:30-22:50 (1부 17:30, 2부 20:20) / 휴무 부정기 휴무
 - 💡 점심(12:00)·저녁 모두 정해진 시각에 일제히 시작한다. 아이 동반은 개별실 카운터만 전화로 예약 가능. 서비스료 카운터 5%, 개별실 10%.
 - 🚃 나니와바시역·기타신치역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=9356866851375653249&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AC%E3%81%BE%E3%81%9F%20%E5%8F%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-7-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27140129/) · [유튜브](https://www.youtube.com/results?search_query=%EB%88%84%EB%A7%88%ED%83%80%20%EC%86%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9356866851375653249) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AC%E3%81%BE%E3%81%9F%20%E5%8F%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-7-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27140129/) · [유튜브](https://www.youtube.com/results?search_query=%EB%88%84%EB%A7%88%ED%83%80%20%EC%86%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-154"></a>
 #### ★★★ 시후 (Chi-Fu) — 🥟 중화·교자 · 타베로그 3.63
@@ -833,7 +833,7 @@
 - 영업 화~토 11:30-13:00, 17:30-21:00 / 월 17:30-21:00 / 휴무 일요일·월요일 점심
 - 💡 서비스료 10%가 별도로 붙는다. 당일 취소·인원 감소 시 코스 요금 100%가 청구된다.
 - 🚃 기타신치역 도보 7분 · 요도야바시역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=8082925012616783316&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Chi-Fu%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27060667/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%ED%9B%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8082925012616783316) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Chi-Fu%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27060667/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%ED%9B%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-156"></a>
 #### ★★★ 아틀리에 하나다 (atelier HANADA) — 🥟 중화·교자 · 타베로그 3.78
@@ -853,7 +853,7 @@
 - 영업 12:00-15:00, 18:00-22:00 / 휴무 일요일
 - 💡 서비스료 10%가 붙는다. 디너는 초등학생 이하 입장 불가이고, 3인 이하가 개인실을 쓰면 5,500엔이 추가된다.
 - 🚃 요도야바시역 10번 출구 직결
-- [구글 지도](https://maps.google.com/?cid=11482446867429773769&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=atelier%20HANADA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C4-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27142187/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90%20%ED%95%98%EB%82%98%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11482446867429773769) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=atelier%20HANADA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%B5%9C4-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27142187/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%ED%8B%80%EB%A6%AC%EC%97%90%20%ED%95%98%EB%82%98%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-140"></a>
 #### ★★★ 오브 (AUBE) — 🥟 중화·교자 · 타베로그 3.90
@@ -873,7 +873,7 @@ Tabelog Award 2025·2026 연속 Bronze, 중식 百名店 3회. 계절마다 산�
 - 영업 11:30-15:00, 18:00-21:00 / 휴무 월요일·일요일
 - 💡 드레스코드는 스마트 캐주얼, 서비스료 10% 별도. 당일 취소·인원 감소 시 식사비 100%가 취소료로 청구된다.
 - 🚃 기타신치역 도보 7분 · 요도야바시역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=3071888703183031350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=AUBE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27106973/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%B8%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3071888703183031350) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=AUBE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27106973/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%B8%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-141"></a>
 #### ★★★ 오이마츠 미야모토 (老松みやもと) — 🍗 야키토리·닭요리 · 타베로그 3.99
@@ -892,7 +892,7 @@ Tabelog Award 2025·2026 연속 Bronze, 중식 百名店 3회. 계절마다 산�
 - 영업 18:00 일제 시작 / 휴무 일요일·부정기
 - 💡 18시 일제 시작이라 5분 전 도착을 부탁한다. 향이 강한 헤어 제품·향수는 입장 거절 사유가 될 수 있고, 미성년자는 입장할 수 없다.
 - 🚃 오에바시역에서 약 450m · 히가시우메다역·요도야바시역 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=4327523423695024701&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E6%9D%BE%E3%81%BF%E3%82%84%E3%82%82%E3%81%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27106123/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9D%B4%EB%A7%88%EC%B8%A0%20%EB%AF%B8%EC%95%BC%EB%AA%A8%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4327523423695024701) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%80%81%E6%9D%BE%E3%81%BF%E3%82%84%E3%82%82%E3%81%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27106123/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9D%B4%EB%A7%88%EC%B8%A0%20%EB%AF%B8%EC%95%BC%EB%AA%A8%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-157"></a>
 #### ★★★ 지분도키 (時分時) — 🐂 와규·스테이크 · 타베로그 3.80
@@ -913,7 +913,7 @@ Tabelog Award Bronze 3회(2017~2019)에 오코노미야키·철판구이 百名�
 - 영업 17:00-23:00 / 휴무 월요일·일요일·공휴일
 - 💡 현금만 받는다. 단골의 다음 예약으로 자리가 많이 차서 예약이 어렵고, 취소분이 나올 때를 노리는 경우가 많다.
 - 🚃 혼마치역 도보 6분
-- [구글 지도](https://maps.google.com/?cid=5484596682914067900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%99%82%E5%88%86%E6%99%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E4%B9%85%E5%AE%9D%E5%AF%BA%E7%94%BA4-5-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27001808/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%80%EB%B6%84%EB%8F%84%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5484596682914067900) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%99%82%E5%88%86%E6%99%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E4%B9%85%E5%AE%9D%E5%AF%BA%E7%94%BA4-5-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27001808/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%80%EB%B6%84%EB%8F%84%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-142"></a>
 #### ★★★ 토리쇼 이시이 (鳥匠 いし井) — 🍗 야키토리·닭요리 · 타베로그 4.46
@@ -934,7 +934,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 점심 15:00~, 저녁 17:00~ / 20:00~ (일제 시작) / 휴무 부정기 휴무
 - 💡 향수 사용 금지. 코스는 정해진 시각에 다 같이 시작한다. 10석 카운터.
 - 🚃 나카노시마역 도보 5분 · 기타하마역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=12261534271409583083&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E5%8C%A0%20%E3%81%84%E3%81%97%E4%BA%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%803-11-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27117938/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%87%BC%20%EC%9D%B4%EC%8B%9C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12261534271409583083) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E5%8C%A0%20%E3%81%84%E3%81%97%E4%BA%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%803-11-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27117938/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%87%BC%20%EC%9D%B4%EC%8B%9C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-143"></a>
 #### ★★★ 후시미초 카코이야마 (伏見町 栫山) — 🍱 일식·카이세키 · 타베로그 4.17
@@ -955,7 +955,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 18:00·20:45 시작, 토·일 12:00·18:00 시작 / 휴무 부정기 휴무
 - 💡 서비스료 10%가 붙는다. 아이는 중학생 이상이고 어른과 같은 코스를 먹을 수 있어야 동반 가능하다.
 - 🚃 기타하마역에서 약 290m
-- [구글 지도](https://maps.google.com/?cid=18145275855948789476&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8F%E8%A6%8B%E7%94%BA%20%E6%A0%AB%E5%B1%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BC%8F%E8%A6%8B%E7%94%BA2-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27132209/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%9C%EB%AF%B8%EC%B4%88%20%EC%B9%B4%EC%BD%94%EC%9D%B4%EC%95%BC%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18145275855948789476) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8F%E8%A6%8B%E7%94%BA%20%E6%A0%AB%E5%B1%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BC%8F%E8%A6%8B%E7%94%BA2-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27132209/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%9C%EB%AF%B8%EC%B4%88%20%EC%B9%B4%EC%BD%94%EC%9D%B4%EC%95%BC%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-008"></a>
 #### ★★ 고칸 기타하마 본관 (五感 北浜本館) — 🍡 화과자·디저트 · 타베로그 3.63
@@ -965,7 +965,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.63 (리뷰 1,899건)](https://tabelog.com/osaka/A2701/A270102/27003404/)
 - 🏆 **수상·백명점** [스위츠 WEST 백명점 2018~2026 중 6회](https://award.tabelog.com/hyakumeiten/sweets_west/2026)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,462개 (2026-11-21 기준)](https://maps.google.com/?cid=8178627238361474125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,462개 (2026-11-21 기준)](https://maps.google.com/?cid=8178627238361474125)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 살롱은 예약 불가, 도착 순 번호표(타베로그·공식).
@@ -980,7 +980,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-19:00(살롱 L.O. 18:00) / 휴무 1/1~1/3
 - 💡 10:00-19:00(살롱 L.O. 18:00), 1/1~3만 휴무. 살롱은 예약 불가, 현장에서 번호표 발급. 카드 가능. 오사카 선물 과자 사기 좋다.
 - 🚃 기타하마역 2번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=8178627238361474125&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%E6%84%9F%20%E5%8C%97%E6%B5%9C%E6%9C%AC%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27003404/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%B9%B8%20%EA%B8%B0%ED%83%80%ED%95%98%EB%A7%88%20%EB%B3%B8%EA%B4%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8178627238361474125) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%E6%84%9F%20%E5%8C%97%E6%B5%9C%E6%9C%AC%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%BB%8A%E6%A9%8B2-1-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27003404/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%B9%B8%20%EA%B8%B0%ED%83%80%ED%95%98%EB%A7%88%20%EB%B3%B8%EA%B4%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-144"></a>
 #### ★★ 나니와 오키나 (なにわ翁) — 🍲 우동·소바 · 타베로그 3.67
@@ -991,7 +991,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 763건), 소바 百名店 2021·2024·2025](https://tabelog.com/osaka/A2701/A270102/27000029/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
 - 🏯 **노포·원조** 1930년(쇼와 5년) 창업 (타베로그 후기)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 656개 (2026-11-21 기준)](https://maps.google.com/?cid=3429133458713069713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 656개 (2026-11-21 기준)](https://maps.google.com/?cid=3429133458713069713)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -1004,7 +1004,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~목 11:30-17:00, 금·토 11:30-20:00 / 휴무 월요일·일요일
 - 💡 주와리 소바는 양이 적고 품절되기도 한다. 2:8 수타 소바 포장(2인분 2,000엔)도 판다.
 - 🚃 나니와바시역 도보 약 4분
-- [구글 지도](https://maps.google.com/?cid=3429133458713069713&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%AB%E3%82%8F%E7%BF%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000029/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%8B%88%EC%99%80%20%EC%98%A4%ED%82%A4%EB%82%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3429133458713069713) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%AB%E3%82%8F%E7%BF%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000029/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%8B%88%EC%99%80%20%EC%98%A4%ED%82%A4%EB%82%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-145"></a>
 #### ★★ 도노스티아 (ドノスティア) — 📍 기타 · 타베로그 3.57
@@ -1025,7 +1025,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~금 11:30-14:00, 17:00-22:30 / 토·일·공휴일 14:00-22:00 / 휴무 월요일
 - 💡 와인은 모두 잔·병으로 주문할 수 있고, 핀초스는 쇼케이스를 보고 고르면 된다. 카드·교통계 IC카드·PayPay 모두 사용 가능.
 - 🚃 게이한 와타나베바시역 도보 1분(지하 연결) · 지하철 히고바시역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=14586885489366698913&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%89%E3%83%8E%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B63-6-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27074000/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%EB%85%B8%EC%8A%A4%ED%8B%B0%EC%95%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14586885489366698913) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%89%E3%83%8E%E3%82%B9%E3%83%86%E3%82%A3%E3%82%A2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B63-6-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27074000/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%EB%85%B8%EC%8A%A4%ED%8B%B0%EC%95%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-159"></a>
 #### ★★ 돈카츠 카츠하나 (とんかつ KATSU華) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.62
@@ -1035,7 +1035,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 2023~2026 4년 연속
 - 🍽️ **타베로그** [타베로그 3.62 (리뷰 247건)](https://tabelog.com/osaka/A2701/A270106/27092216/)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 638개 (2026-11-21 기준)](https://maps.google.com/?cid=3852250637071551856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 638개 (2026-11-21 기준)](https://maps.google.com/?cid=3852250637071551856)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/katsuhana/reserve)
 - 예약 팁: 점심·저녁 모두 TableCheck로 예약(60분제). 테이블은 2~4명, 전화는 영업시간 외에도 받는다.
@@ -1046,7 +1046,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 점심 11:00-16:00(일·월), 저녁 18:00-23:00(수·목·금) / 휴무 화요일·토요일 (부정기 휴무 있음)
 - 💡 현금만 받는다(카드·PayPay 불가). 1인 1정식이 원칙이고 혼자 가면 카운터석. 예약은 60분제.
 - 🚃 사카이스지혼마치역 10번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=3852250637071551856&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20KATSU%E8%8F%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E4%B9%85%E5%AE%9D%E5%AF%BA%E7%94%BA2-2-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27092216/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EC%B9%B4%EC%B8%A0%ED%95%98%EB%82%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3852250637071551856) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20KATSU%E8%8F%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E4%B9%85%E5%AE%9D%E5%AF%BA%E7%94%BA2-2-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27092216/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EC%B9%B4%EC%B8%A0%ED%95%98%EB%82%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-146"></a>
 #### ★★ 라 본 타슈 (ラ ボンヌ ターシュ) — 🍷 프렌치·이노베이티브 · 타베로그 3.71
@@ -1065,7 +1065,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 18:00-23:00 / 휴무 일요일
 - 💡 프리픽스 코스가 4품 7,600엔, 5품 10,000엔이라 고르기 쉽다.
 - 🚃 나니와바시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=2448466864087299416&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%20%E3%83%9C%E3%83%B3%E3%83%8C%20%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27074083/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%20%EB%B3%B8%20%ED%83%80%EC%8A%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2448466864087299416) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%20%E3%83%9C%E3%83%B3%E3%83%8C%20%E3%82%BF%E3%83%BC%E3%82%B7%E3%83%A5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27074083/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%20%EB%B3%B8%20%ED%83%80%EC%8A%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-147"></a>
 #### ★★ 라멘 쿠온 (らーめん久遠) — 🍜 라멘 · 타베로그 3.69
@@ -1075,7 +1075,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69 (리뷰 1,048건), 라멘 OSAKA 百名店 2024·2025](https://tabelog.com/osaka/A2701/A270106/27115366/)
 - 🎖️ **미쉐린** 미쉐린 가이드 빕구르망
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 680개 (2026-11-21 기준)](https://maps.google.com/?cid=3879550787593894695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 680개 (2026-11-21 기준)](https://maps.google.com/?cid=3879550787593894695)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -1088,7 +1088,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 평일 11:00-15:00, 토 11:00-14:30 (수프 소진 시 종료) / 휴무 일요일
 - 💡 가게 앞 발권기에서 식권을 먼저 산다. 현금만, 1인 1그릇 주문, 라멘 외 사진 촬영·통화 금지, 어린이 입장 불가.
 - 🚃 사카이스지혼마치역 6·7번 출구 바로 앞(지하 연결)
-- [구글 지도](https://maps.google.com/?cid=3879550787593894695&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E4%B9%85%E9%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%88%B9%E5%A0%B4%E4%B8%AD%E5%A4%AE1-4-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27115366/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%BF%A0%EC%98%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3879550787593894695) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E4%B9%85%E9%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%88%B9%E5%A0%B4%E4%B8%AD%E5%A4%AE1-4-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27115366/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%BF%A0%EC%98%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-160"></a>
 #### ★★ 베니쿠라게 (べにくらげ) — 🍶 이자카야·다치노미 · 타베로그 3.60
@@ -1107,7 +1107,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 18:00-24:00경 / 휴무 부정기 휴무
 - 💡 자릿세(오토시) 400엔. 카드·PayPay 결제 가능. 휴무일은 가게 X(트위터)에 공지한다.
 - 🚃 사카이스지혼마치역에서 약 350m
-- [구글 지도](https://maps.google.com/?cid=3970421800740047512&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B9%E3%81%AB%E3%81%8F%E3%82%89%E3%81%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA%E6%A9%8B5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27087689/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B2%A0%EB%8B%88%EC%BF%A0%EB%9D%BC%EA%B2%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3970421800740047512) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B9%E3%81%AB%E3%81%8F%E3%82%89%E3%81%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA%E6%A9%8B5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27087689/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B2%A0%EB%8B%88%EC%BF%A0%EB%9D%BC%EA%B2%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-148"></a>
 #### ★★ 비훈 아즈마 오사카점 (Az/ビーフン東 大阪店) — 🥟 중화·교자 · 타베로그 3.67
@@ -1127,7 +1127,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~토 11:30-14:00, 17:30-22:00 / 월 17:30-22:00 / 휴무 일요일·월요일 점심
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비하자. 저녁에는 자릿세가 포함된 전채 모둠(1,800엔)이 나온다.
 - 🚃 나니와바시역에서 약 500m · 요도야바시역·기타신치역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=15833124125296272108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Az/%E3%83%93%E3%83%BC%E3%83%95%E3%83%B3%E6%9D%B1%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27060666/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%ED%9B%88%20%EC%95%84%EC%A6%88%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15833124125296272108) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Az/%E3%83%93%E3%83%BC%E3%83%95%E3%83%B3%E6%9D%B1%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27060666/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%ED%9B%88%20%EC%95%84%EC%A6%88%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-149"></a>
 #### ★★ 빵듀스 본점 (パンデュース 本店) — 🥐 베이커리 · 타베로그 3.78
@@ -1148,7 +1148,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월·화·목·금 08:00-19:00, 토 08:00-17:00 / 휴무 수요일·일요일
 - 💡 카드는 안 되지만 교통계 전자화폐·PayPay는 가능. 크루아상 같은 인기 빵은 떨어져 있을 때가 있다.
 - 🚃 요도야바시역 13번 출구·혼마치역 2번 출구 도보 4분
-- [구글 지도](https://maps.google.com/?cid=11563310303849804576&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%91%E3%83%B3%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA4-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27003262/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%B5%EB%93%80%EC%8A%A4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11563310303849804576) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%91%E3%83%B3%E3%83%87%E3%83%A5%E3%83%BC%E3%82%B9%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA4-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27003262/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%B5%EB%93%80%EC%8A%A4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-150"></a>
 #### ★★ 샹화 (饗華) — 🥟 중화·교자 · 타베로그 3.70
@@ -1166,7 +1166,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 가격: 10,000~14,999엔 (타베로그)
 - 영업 18:00-22:30 (18:00·19:00 시작) / 휴무 일요일
 - 🚃 나니와바시역에서 약 140m · 기타하마역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=12926911658237334084&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A5%97%E8%8F%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%801-13-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27133325/) · [유튜브](https://www.youtube.com/results?search_query=%EC%83%B9%ED%99%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12926911658237334084) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A5%97%E8%8F%AF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%801-13-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27133325/) · [유튜브](https://www.youtube.com/results?search_query=%EC%83%B9%ED%99%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-151"></a>
 #### ★★ 소바키리 아라본푸 (そば切り 荒凡夫) — 🍲 우동·소바 · 타베로그 3.69
@@ -1186,7 +1186,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-15:00 (목·금은 저녁 18:00-20:00 추가) / 휴무 화요일·부정기
 - 💡 현금만 받는다. 품절되면 일찍 문을 닫으니 이른 시간에 가는 게 좋다.
 - 🚃 나니와바시역 도보 약 6분
-- [구글 지도](https://maps.google.com/?cid=8976884441611702587&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E8%8D%92%E5%87%A1%E5%A4%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27080059/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%95%84%EB%9D%BC%EB%B3%B8%ED%91%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8976884441611702587) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E8%8D%92%E5%87%A1%E5%A4%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-1-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27080059/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%95%84%EB%9D%BC%EB%B3%B8%ED%91%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-152"></a>
 #### ★★ 스미비 야키토리 모리타 (炭火やきとり 森田) — 🍗 야키토리·닭요리 · 타베로그 3.74
@@ -1203,7 +1203,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 16:00-24:00 / 휴무 화요일
 - 💡 7석뿐인 작은 가게. 영업 중이나 휴무일에는 전화를 못 받을 수 있다. 카드 결제 가능.
 - 🚃 혼마치역 8번 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8950576890194580900&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E3%82%84%E3%81%8D%E3%81%A8%E3%82%8A%20%E6%A3%AE%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA4-4-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27115978/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%20%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%AA%A8%EB%A6%AC%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8950576890194580900) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E3%82%84%E3%81%8D%E3%81%A8%E3%82%8A%20%E6%A3%AE%E7%94%B0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA4-4-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27115978/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%20%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%AA%A8%EB%A6%AC%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-153"></a>
 #### ★★ 스미비야키토리 이코카 본점 (炭火焼鳥 いこか 本店) — 🍗 야키토리·닭요리 · 타베로그 3.73
@@ -1223,7 +1223,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 평일 18:00-22:30, 토·일·공휴일 17:00-22:30 (L.O. 22:00) / 휴무 부정기 휴무
 - 💡 자릿세 1인 600엔, 이용 시간 약 2시간. 연락 없이 20분 넘게 늦으면 취소될 수 있다. 카드 결제 가능.
 - 🚃 사카이스지혼마치역 도보 7분 · 기타하마역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=5852436738167300206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%20%E3%81%84%E3%81%93%E3%81%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%A4%A7%E6%89%8B%E9%80%9A3-3-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27092595/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%9D%B4%EC%BD%94%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5852436738167300206) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%20%E3%81%84%E3%81%93%E3%81%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%A4%A7%E6%89%8B%E9%80%9A3-3-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27092595/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%9D%B4%EC%BD%94%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-155"></a>
 #### ★★ 아오조라 블루 본점 (自家製粉石臼挽きうどん 青空blue 本店) — 🍲 우동·소바 · 타베로그 3.63
@@ -1243,7 +1243,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-14:30, 17:30-22:30 (토·공휴일 저녁은 21:30까지) / 휴무 일요일
 - 💡 점심 예약은 전화로 받는다. 포장용 '블루 롤' 김초밥(1줄 1,250엔)도 있다.
 - 🚃 히고바시역·요도야바시역 도보 약 6분
-- [구글 지도](https://maps.google.com/?cid=10954863088824906169&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E5%AE%B6%E8%A3%BD%E7%B2%89%E7%9F%B3%E8%87%BC%E6%8C%BD%E3%81%8D%E3%81%86%E3%81%A9%E3%82%93%20%E9%9D%92%E7%A9%BAblue%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B9%B3%E9%87%8E%E7%94%BA4-5-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27082212/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%98%A4%EC%A1%B0%EB%9D%BC%20%EB%B8%94%EB%A3%A8%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10954863088824906169) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E5%AE%B6%E8%A3%BD%E7%B2%89%E7%9F%B3%E8%87%BC%E6%8C%BD%E3%81%8D%E3%81%86%E3%81%A9%E3%82%93%20%E9%9D%92%E7%A9%BAblue%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B9%B3%E9%87%8E%E7%94%BA4-5-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27082212/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%98%A4%EC%A1%B0%EB%9D%BC%20%EB%B8%94%EB%A3%A8%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-161"></a>
 #### ★★ 오료리 아메니모마케즈 (お料理 雨ニモマケズ) — 🍱 일식·카이세키 · 타베로그 3.62
@@ -1262,7 +1262,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:30-23:00 (13:00-17:30은 예약 시에만) / 휴무 부정기 휴무
 - 💡 현금만 받는다. 1층 카운터 6석과 2층 코타츠 개별실 6석뿐이라 예약하고 가는 편이 안전하다.
 - 🚃 오에바시역에서 약 440m (요도야바시역·기타신치역 도보 약 10분)
-- [구글 지도](https://maps.google.com/?cid=16205045269896387045&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E6%96%99%E7%90%86%20%E9%9B%A8%E3%83%8B%E3%83%A2%E3%83%9E%E3%82%B1%E3%82%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27119221/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%A3%8C%EB%A6%AC%20%EC%95%84%EB%A9%94%EB%8B%88%EB%AA%A8%EB%A7%88%EC%BC%80%EC%A6%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16205045269896387045) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E6%96%99%E7%90%86%20%E9%9B%A8%E3%83%8B%E3%83%A2%E3%83%9E%E3%82%B1%E3%82%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27119221/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%A3%8C%EB%A6%AC%20%EC%95%84%EB%A9%94%EB%8B%88%EB%AA%A8%EB%A7%88%EC%BC%80%EC%A6%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-162"></a>
 #### ★★ 우동도코로 시게미 (うどん処 重己) — 🍲 우동·소바 · 타베로그 3.63
@@ -1272,7 +1272,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.63 (리뷰 585건)](https://tabelog.com/osaka/A2701/A270101/27140756/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 (2021년판부터 6년 연속)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 557개 (2026-11-21 기준)](https://maps.google.com/?cid=1515225113414494575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 557개 (2026-11-21 기준)](https://maps.google.com/?cid=1515225113414494575)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -1284,7 +1284,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-15:00 (L.O. 14:30) / 휴무 일요일·공휴일
 - 💡 현금만 받는다. 히야카케 우동(900엔)에 달걀덮밥을 곁들인 점심 세트가 인기이고, 회전이 빨라 줄이 있어도 금방 빠진다.
 - 🚃 나니와바시역에서 약 430m
-- [구글 지도](https://maps.google.com/?cid=1515225113414494575&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%A9%E3%82%93%E5%87%A6%20%E9%87%8D%E5%B7%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-7-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27140756/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%8F%99%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1515225113414494575) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%A9%E3%82%93%E5%87%A6%20%E9%87%8D%E5%B7%B1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%804-7-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27140756/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%8F%99%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%8B%9C%EA%B2%8C%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-009"></a>
 #### ★★ 제로쿠 혼마치점 (ゼー六 本町店) — ☕ 카페·킷사텐 · 타베로그 3.68
@@ -1294,7 +1294,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 1,060건)](https://tabelog.com/osaka/A2701/A270106/27001820/)
 - 🏆 **수상·백명점** [킷사텐 백명점 2021·2022·2026](https://award.tabelog.com/hyakumeiten/kissaten/2026)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 463개 (2026-11-21 기준)](https://maps.google.com/?cid=4215713606756217002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 463개 (2026-11-21 기준)](https://maps.google.com/?cid=4215713606756217002)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -1307,7 +1307,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 09:00-17:00 / 휴무 토·일요일
 - 💡 평일 9:00-17:00만 영업(토·일 휴무). 12석으로 작고 포장 가능. 현금만. 도쇼마치 '제로쿠'와 뿌리는 같지만 별도 운영.
 - 🚃 사카이스지혼마치역 1·13번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=4215713606756217002&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%BC%E3%83%BC%E5%85%AD%20%E6%9C%AC%E7%94%BA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA1-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27001820/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%9C%EB%A1%9C%EC%BF%A0%20%ED%98%BC%EB%A7%88%EC%B9%98%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4215713606756217002) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%BC%E3%83%BC%E5%85%AD%20%E6%9C%AC%E7%94%BA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9C%AC%E7%94%BA1-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27001820/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%9C%EB%A1%9C%EC%BF%A0%20%ED%98%BC%EB%A7%88%EC%B9%98%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-010"></a>
 #### ★★ 카시미르 (カシミール) — 🍛 카레 · 타베로그 3.70
@@ -1332,7 +1332,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~금 13:00-16:00 / 휴무 월·토·일요일
 - 💡 화~금 13:00-16:00만 여는 짧은 영업(월·토·일 휴무)이라 시간 엄수. 행렬·조기 품절 잦음. 카드 불가, PayPay·전자머니 가능.
 - 🚃 기타하마역 4번 출구에서 동쪽으로 도보 5분
-- [구글 지도](https://maps.google.com/?cid=14947109176181255086&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%82%B7%E3%83%9F%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E9%AB%98%E9%BA%97%E6%A9%8B6-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27003694/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EC%8B%9C%EB%AF%B8%EB%A5%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14947109176181255086) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%82%B7%E3%83%9F%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E9%AB%98%E9%BA%97%E6%A9%8B6-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27003694/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EC%8B%9C%EB%AF%B8%EB%A5%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-158"></a>
 #### ★★ 카카오티에 고칸 고라이바시 본점 (カカオティエゴカン 高麗橋本店) — 🍡 화과자·디저트 · 타베로그 3.72
@@ -1341,7 +1341,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.72 (리뷰 1,172건), 카페 WEST 百名店 2025·카페 百名店 2022](https://tabelog.com/osaka/A2701/A270102/27089982/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,005개 (2026-11-21 기준)](https://maps.google.com/?cid=8268619294289410108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,005개 (2026-11-21 기준)](https://maps.google.com/?cid=8268619294289410108)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 좌석 예약은 안 되지만 케이크 예약은 가능하다.
@@ -1353,7 +1353,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-19:00 (L.O. 18:00) / 휴무 1월 1~3일
 - 💡 피낭시에는 굽는 시간이 정해져 있어 시간을 맞추면 갓 구운 걸 살 수 있다. 케이크에 200엔을 더하면 아이스크림을 올려 준다.
 - 🚃 요도야바시역 도보 약 4분 · 기타하마역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=8268619294289410108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%82%AB%E3%82%AA%E3%83%86%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AB%E3%83%B3%20%E9%AB%98%E9%BA%97%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E9%BA%97%E6%A9%8B2-6-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27089982/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8B%B0%EC%97%90%20%EA%B3%A0%EC%B9%B8%20%EA%B3%A0%EB%9D%BC%EC%9D%B4%EB%B0%94%EC%8B%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8268619294289410108) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%82%AB%E3%82%AA%E3%83%86%E3%82%A3%E3%82%A8%E3%82%B4%E3%82%AB%E3%83%B3%20%E9%AB%98%E9%BA%97%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E9%BA%97%E6%A9%8B2-6-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27089982/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EC%B9%B4%EC%98%A4%ED%8B%B0%EC%97%90%20%EA%B3%A0%EC%B9%B8%20%EA%B3%A0%EB%9D%BC%EC%9D%B4%EB%B0%94%EC%8B%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-011"></a>
 #### ★★ 콜롬비아 에이트 기타하마 본점 (コロンビア エイト 北浜本店) — 🍛 카레 · 타베로그 3.70
@@ -1363,7 +1363,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 1,101건)](https://tabelog.com/osaka/A2701/A270102/27015618/)
 - 🏆 **수상·백명점** [카레 백명점 2018~2026 중 7회 선정](https://award.tabelog.com/hyakumeiten/curry_west/2024)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 577개 (2026-11-21 기준)](https://maps.google.com/?cid=8174338616631393474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 577개 (2026-11-21 기준)](https://maps.google.com/?cid=8174338616631393474)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -1376,7 +1376,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~금 11:00-15:00 / 제2·4토 11:00-15:00 / 휴무 월·일·공휴일, 그 외 토요일
 - 💡 화~금 + 제2·4토요일 점심만 영업. 빌딩 2층. 첫 방문자는 매운 '하나비' 주문 불가라는 리뷰. 카드 불가, PayPay 가능.
 - 🚃 기타하마역(사카이스지선) 도보 4분
-- [구글 지도](https://maps.google.com/?cid=8174338616631393474&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%20%E3%82%A8%E3%82%A4%E3%83%88%20%E5%8C%97%E6%B5%9C%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E4%BF%AE%E7%94%BA1-3-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015618/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%9C%EB%A1%AC%EB%B9%84%EC%95%84%20%EC%97%90%EC%9D%B4%ED%8A%B8%20%EA%B8%B0%ED%83%80%ED%95%98%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8174338616631393474) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%AD%E3%83%B3%E3%83%93%E3%82%A2%20%E3%82%A8%E3%82%A4%E3%83%88%20%E5%8C%97%E6%B5%9C%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E4%BF%AE%E7%94%BA1-3-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015618/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%9C%EB%A1%AC%EB%B9%84%EC%95%84%20%EC%97%90%EC%9D%B4%ED%8A%B8%20%EA%B8%B0%ED%83%80%ED%95%98%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-012"></a>
 #### ★★ 큐야무테이 나카노시마 양관 (旧ヤム邸 中之島洋館) — 🍛 카레 · 타베로그 3.58
@@ -1386,7 +1386,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 771건)](https://tabelog.com/osaka/A2701/A270108/27073991/)
 - 🏆 **수상·백명점** [카레 백명점 2017~2026 중 6회 선정](https://award.tabelog.com/hyakumeiten/curry_west/2024)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 458개 (2026-11-21 기준)](https://maps.google.com/?cid=6141230116087474371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 458개 (2026-11-21 기준)](https://maps.google.com/?cid=6141230116087474371)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -1400,7 +1400,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~토 11:30-15:30(L.O. 15:00) / 휴무 일·공휴일
 - 💡 다이빌 본관 2층, 다이쇼 시대 서양관 콘셉트의 앤티크 인테리어. 월~토 점심만, 일·공휴일 휴무. 현금만.
 - 🚃 와타나베바시역(게이한 나카노시마선) 도보 3분 / 히고바시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6141230116087474371&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A7%E3%83%A4%E3%83%A0%E9%82%B8%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%E6%B4%8B%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B63-6-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27073991/) · [유튜브](https://www.youtube.com/results?search_query=%ED%81%90%EC%95%BC%EB%AC%B4%ED%85%8C%EC%9D%B4%20%EB%82%98%EC%B9%B4%EB%85%B8%EC%8B%9C%EB%A7%88%20%EC%96%91%EA%B4%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6141230116087474371) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A7%E3%83%A4%E3%83%A0%E9%82%B8%20%E4%B8%AD%E4%B9%8B%E5%B3%B6%E6%B4%8B%E9%A4%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E4%B9%8B%E5%B3%B63-6-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27073991/) · [유튜브](https://www.youtube.com/results?search_query=%ED%81%90%EC%95%BC%EB%AC%B4%ED%85%8C%EC%9D%B4%20%EB%82%98%EC%B9%B4%EB%85%B8%EC%8B%9C%EB%A7%88%20%EC%96%91%EA%B4%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-013"></a>
 #### ★★ 하쿠긴테이 본점 (白銀亭) — 🍛 카레 · 타베로그 3.70
@@ -1410,7 +1410,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 1,555건)](https://tabelog.com/osaka/A2701/A270106/27012545/)
 - 🏆 **수상·백명점** [카레 백명점 2019~2026 중 6회 선정](https://award.tabelog.com/hyakumeiten/curry_west/2024)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,195개 (2026-11-21 기준)](https://maps.google.com/?cid=9870686394993745535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,195개 (2026-11-21 기준)](https://maps.google.com/?cid=9870686394993745535)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -1423,7 +1423,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 11:45-15:00 / 휴무 토·일·공휴일
 - 💡 평일 점심(11:45-15:00)만 영업, 토·일·공휴일 휴무. 2008년 아와지마치 3초메에서 현 위치로 이전. 카드 불가, PayPay 가능. 혼마치역 직결 '이투빌딩점'(2호점)도 있다.
 - 🚃 혼마치역 2번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=9870686394993745535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%99%BD%E9%8A%80%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA4-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27012545/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%BF%A0%EA%B8%B4%ED%85%8C%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9870686394993745535) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%99%BD%E9%8A%80%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA4-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27012545/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%BF%A0%EA%B8%B4%ED%85%8C%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-014"></a>
 #### ★ 미미우 본점 (美々卯 本店) — 🍲 우동·소바 · 타베로그 3.37
@@ -1433,7 +1433,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🏯 **노포·원조** [쇼와 3년(1928)경 우동스키를 고안한 미미우의 발상 총본점(공식)](https://www.mimiu.co.jp/)
 - 🍽️ **타베로그** [타베로그 3.37 (리뷰 269건)](https://tabelog.com/osaka/A2701/A270102/27000015/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 498개 (2026-11-21 기준)](https://maps.google.com/?cid=15477348307454475736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 498개 (2026-11-21 기준)](https://maps.google.com/?cid=15477348307454475736)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000015/)
 - 예약 팁: 타베로그 페이지에 '온라인 예약 24시간 접수' 표시. 단 공식사이트는 '저녁은 전화 예약(06-6231-5770, 평일 11:30-15:00 접수), 온라인 예약 불가'로 안내해 서로 다르니 전화 확인 권장.
@@ -1445,7 +1445,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 평일 점심 11:30-15:00(L.O. 14:30) / 저녁 18:00-21:00(최종 입점 19:00, 예약제) / 휴무 토·일·공휴일
 - 💡 점심은 소바만, 우동스키는 저녁 코스(완전 예약제)로만 제공. 토·일·공휴일 휴무. 전날까지 취소하지 않으면 100% 청구.
 - 🚃 요도야바시역 13번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15477348307454475736&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E3%80%85%E5%8D%AF%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B9%B3%E9%87%8E%E7%94%BA4-6-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000015/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EB%AF%B8%EC%9A%B0%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15477348307454475736) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E3%80%85%E5%8D%AF%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B9%B3%E9%87%8E%E7%94%BA4-6-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000015/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EB%AF%B8%EC%9A%B0%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-113"></a>
 #### ★ 요시노즈시 (吉野寿司) — 🍣 스시·해산물 · 타베로그 3.50
@@ -1467,7 +1467,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 테이크아웃 9:30-15:00 / 2층 식사 11:00-14:00 / 휴무 토·일·공휴일
 - 💡 평일만 영업(토·일·공휴일 휴무). 2층 카운터·테이블에서 먹을 수 있고, 1층은 테이크아웃(선물용). 하코즈시 8조각 2,592엔·장어말이 1,815엔(2025-05 후기). 난바 다카시마야·신오사카역 등에도 매장 있음(후기 언급).
 - 🚃 요도야바시역 11번 출구 도보 4~5분 / 혼마치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=1836599017792475107&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27000011/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%8B%9C%EB%85%B8%EC%A6%88%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1836599017792475107) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%89%E9%87%8E%E5%AF%BF%E5%8F%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%B7%A1%E8%B7%AF%E7%94%BA3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27000011/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%8B%9C%EB%85%B8%EC%A6%88%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 나카자키초
 
@@ -1489,7 +1489,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 점심 12:00-15:00, 저녁 17:00-22:00 / 휴무 일요일
 - 💡 반바지·샌들처럼 너무 캐주얼한 복장은 입장을 거절당할 수 있고, 강한 향수도 삼가 달라고 한다. 아이는 어른과 같은 코스를 먹을 수 있어야 한다.
 - 🚃 나카자키초역 1번 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=3326528243867738444&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8A%E6%96%B9%E4%B8%AD%E8%8F%AF%20%E6%96%B0%E7%93%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E1-4-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27128426/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%AF%B8%EA%B0%80%ED%83%80%20%EC%B6%94%EC%B9%B4%20%EC%8B%A0%ED%83%80%EB%8B%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3326528243867738444) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8A%E6%96%B9%E4%B8%AD%E8%8F%AF%20%E6%96%B0%E7%93%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E1-4-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27128426/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%AF%B8%EA%B0%80%ED%83%80%20%EC%B6%94%EC%B9%B4%20%EC%8B%A0%ED%83%80%EB%8B%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-015"></a>
 #### ★★★ 무기토 멘스케 (麦と麺助) — 🍜 라멘 · 타베로그 3.92
@@ -1499,7 +1499,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.92 (리뷰 2,529건), 오사카 라멘 랭킹 최상위권](https://tabelog.com/osaka/A2701/A270101/27104891/)
 - 🏆 **수상·백명점** [라멘 백명점 2019~2025 연속 선정](https://award.tabelog.com/hyakumeiten/ramen_osaka/2025)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,068개 (2026-11-21 기준)](https://maps.google.com/?cid=3279025535520593386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,068개 (2026-11-21 기준)](https://maps.google.com/?cid=3279025535520593386)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/mensuke-fastpass/reserve)
 - 예약 팁: 줄서기 가게지만 TableCheck '패스트패스'(1인 800엔, 약 1주 전 판매, 15분 넘게 늦으면 무효)를 사면 줄 없이 입장. 토요일 밤은 예약제(가게 X 공지).
@@ -1513,7 +1513,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월·수·목·금 11:00-15:30 / 토 11:00-16:00, 18:00-21:00(밤은 예약제) / 일 11:00-16:00 / 휴무 화요일
 - 💡 점심 행렬이 매우 길다. 토요일 밤은 예약제로 운영하며 공지는 가게 공식 X(트위터)에 올라온다. 화요일 휴무. 같은 블록(豊崎3-4)에 '라멘 야시치'가 있어 라멘 투어 동선이 좋다.
 - 🚃 나카쓰역(미도스지선)에서 동쪽으로 도보 3분
-- [구글 지도](https://maps.google.com/?cid=3279025535520593386&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A6%E3%81%A8%E9%BA%BA%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E3-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27104891/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B8%B0%ED%86%A0%20%EB%A9%98%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3279025535520593386) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A6%E3%81%A8%E9%BA%BA%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E3-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27104891/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B8%B0%ED%86%A0%20%EB%A9%98%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-017"></a>
 #### ★★ 가루루코리 (がるる氷) — 🍡 화과자·디저트 · 타베로그 3.59
@@ -1537,7 +1537,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월·수·금·토·일 12:00-17:00 / 화·목 13:00-19:00
 - 💡 혼잡 시 번호표 배부. 월·수·금·토·일 12:00-17:00, 화·목 13:00-19:00. 현금만.
 - 🚃 나카자키초역 도보 3분 / 텐진바시스지로쿠초메역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=5052839548583722300&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8C%E3%82%8B%E3%82%8B%E6%B0%B7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E9%BB%92%E5%B4%8E%E7%94%BA5-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27091193/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%A3%A8%EB%A3%A8%EC%BD%94%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5052839548583722300) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8C%E3%82%8B%E3%82%8B%E6%B0%B7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E9%BB%92%E5%B4%8E%E7%94%BA5-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27091193/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%A3%A8%EB%A3%A8%EC%BD%94%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-016"></a>
 #### ★★ 라멘 야시치 (らーめん弥七) — 🍜 라멘 · 타베로그 3.74
@@ -1561,7 +1561,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 10:45-16:00(정리권 10:15~ 배부, 소진 시 종료) / 휴무 토·일·공휴일
 - 💡 10:15부터 가게 앞에서 정리권을 나눠주고 수프가 떨어지면 끝. 평일만 영업(토·일·공휴일 휴무). 현금만.
 - 🚃 나카쓰역(미도스지선) 1번 출구 도보 3분 / 한큐 오사카우메다역 차야마치 출구 도보 10분
-- [구글 지도](https://maps.google.com/?cid=1480996770654964846&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E5%BC%A5%E4%B8%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E3-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27003232/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%95%BC%EC%8B%9C%EC%B9%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1480996770654964846) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E5%BC%A5%E4%B8%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%B1%8A%E5%B4%8E3-4-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27003232/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%95%BC%EC%8B%9C%EC%B9%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-018"></a>
 #### ★★ 사누키우동 이마유키 (讃岐うどん 今雪) — 🍲 우동·소바 · 타베로그 3.72
@@ -1581,7 +1581,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~토 11:30-14:30(L.O. 14:00), 18:00-21:00(L.O. 20:30) / 일·공휴일 11:30-14:30, 18:00-20:00 / 휴무 부정기
 - 💡 점심·저녁 2부 영업, 부정기 휴무. 예약 시 1드링크 필수, 15분 이상 늦으면 자동 취소. 카드·교통IC·PayPay 등 결제 다양.
 - 🚃 오기마치역 2A 출구·나카자키초역 1번 출구 도보 6분 / 우메다역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=278155028024355081&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%AE%83%E5%B2%90%E3%81%86%E3%81%A9%E3%82%93%20%E4%BB%8A%E9%9B%AA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E7%A5%9E%E5%B1%B1%E7%94%BA3-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27067874/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%88%84%ED%82%A4%EC%9A%B0%EB%8F%99%20%EC%9D%B4%EB%A7%88%EC%9C%A0%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=278155028024355081) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%AE%83%E5%B2%90%E3%81%86%E3%81%A9%E3%82%93%20%E4%BB%8A%E9%9B%AA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E7%A5%9E%E5%B1%B1%E7%94%BA3-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27067874/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%88%84%ED%82%A4%EC%9A%B0%EB%8F%99%20%EC%9D%B4%EB%A7%88%EC%9C%A0%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-164"></a>
 #### ★★ 피탁 고한 (ピタックごはん) — 📍 기타 · 타베로그 3.59
@@ -1600,7 +1600,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 12:00-15:00, 18:00-23:00 / 휴무 월요일
 - 💡 신용카드는 안 되고 현금이나 QR 결제만 가능하다.
 - 🚃 나카자키초역에서 약 190m
-- [구글 지도](https://maps.google.com/?cid=432495367941114175&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%94%E3%82%BF%E3%83%83%E3%82%AF%E3%81%94%E3%81%AF%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E2-2-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27130892/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%BC%ED%83%81%20%EA%B3%A0%ED%95%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=432495367941114175) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%94%E3%82%BF%E3%83%83%E3%82%AF%E3%81%94%E3%81%AF%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E4%B8%AD%E5%B4%8E2-2-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27130892/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%BC%ED%83%81%20%EA%B3%A0%ED%95%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 니시나리
 
@@ -1623,7 +1623,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-21:00 (LO 20:30) / 휴무 1월 1일만 휴무
 - 💡 본점은 9석뿐인 작은 가게. 소스 없이 그대로 먹는 것이 기본. 카드·전자머니 불가(QR 결제 가능). 난바점 등 시내 지점도 있음.
 - 🚃 다마데역(요쓰바시선) 1번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=10626716356760679157&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%9A%E6%B4%A5%E5%B1%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E7%8E%89%E5%87%BA%E8%A5%BF2-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270406/27001123/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%9D%B4%EC%A6%88%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10626716356760679157) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%9A%E6%B4%A5%E5%B1%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E7%8E%89%E5%87%BA%E8%A5%BF2-3-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270406/27001123/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%9D%B4%EC%A6%88%EC%95%BC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-020"></a>
 #### ★★ 오코노미야키 치토세 (お好み焼き ちとせ) — 🥞 오코노미야키 · 타베로그 3.60
@@ -1633,7 +1633,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 390건)](https://tabelog.com/osaka/A2701/A270206/27019100/)
 - 🏆 **수상·백명점** [타베로그 오코노미야키 백명점 2022·2023·2024·2025 연속 선정](https://award.tabelog.com/hyakumeiten/okonomiyaki)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 1,870개 (2026-11-21 기준)](https://maps.google.com/?cid=12697853774598797665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 1,870개 (2026-11-21 기준)](https://maps.google.com/?cid=12697853774598797665)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -1647,7 +1647,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월·금·토 11:30-14:30, 17:00-20:00 / 목 11:30-14:30 / 일 17:00-20:00 / 휴무 화·수
 - 💡 요일마다 영업시간이 다름(화·수 휴무, 목은 점심만, 일은 저녁만). 예약 불가. 카드·교통IC·PayPay 등 결제 가능.
 - 🚃 도부쓰엔마에역 도보 3분 / JR 신이마미야역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=12697853774598797665&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%20%E3%81%A1%E3%81%A8%E3%81%9B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E5%A4%AA%E5%AD%901-11-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27019100/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BD%94%EB%85%B8%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%B9%98%ED%86%A0%EC%84%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12697853774598797665) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%20%E3%81%A1%E3%81%A8%E3%81%9B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E6%88%90%E5%8C%BA%E5%A4%AA%E5%AD%901-11-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27019100/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BD%94%EB%85%B8%EB%AF%B8%EC%95%BC%ED%82%A4%20%EC%B9%98%ED%86%A0%EC%84%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 니시나카지마·신오사카
 
@@ -1673,7 +1673,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~토 17:00-20:00 / 휴무 일·월·공휴일
 - 💡 화~토 17:00-20:00 단 3시간 영업, 일·월·공휴일 휴무. 예약 불가라 오픈 전 줄 서기. 좌석이 적은 카운터 위주, 현금만. 신칸센 타기 전 저녁으로.
 - 🚃 니시나카지마미나미가타역 북쪽 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=10788136089187287710&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%A2%A8%E3%82%82%E3%81%A4%E6%96%99%E7%90%86%20%E3%81%82%E3%82%89%E3%81%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B64-2-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27012977/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%ED%9B%84%20%EB%AA%A8%EC%B8%A0%EB%A3%8C%EB%A6%AC%20%EC%95%84%EB%9D%BC%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10788136089187287710) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%A2%A8%E3%82%82%E3%81%A4%E6%96%99%E7%90%86%20%E3%81%82%E3%82%89%E3%81%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B64-2-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27012977/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%ED%9B%84%20%EB%AA%A8%EC%B8%A0%EB%A3%8C%EB%A6%AC%20%EC%95%84%EB%9D%BC%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-090"></a>
 #### ★★ 모쟈카레 신오사카 본점 (モジャカレー 新大阪本店) — 🍛 카레 · 타베로그 3.69
@@ -1696,7 +1696,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-14:30, 17:00-20:00
 - 💡 11:00-14:30, 17:00-20:00(브레이크타임 주의). 매장 식사는 예약 불가(테이크아웃만 예약 가능). 현금·PayPay만(카드 불가).
 - 🚃 JR 신오사카역 1층 아지노코지(역 구내)
-- [구글 지도](https://maps.google.com/?cid=10802235109311242345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A2%E3%82%B8%E3%83%A3%E3%82%AB%E3%83%AC%E3%83%BC%20%E6%96%B0%E5%A4%A7%E9%98%AA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B65-16-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27012792/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EC%9F%88%EC%B9%B4%EB%A0%88%20%EC%8B%A0%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10802235109311242345) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A2%E3%82%B8%E3%83%A3%E3%82%AB%E3%83%AC%E3%83%BC%20%E6%96%B0%E5%A4%A7%E9%98%AA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B65-16-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27012792/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EC%9F%88%EC%B9%B4%EB%A0%88%20%EC%8B%A0%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-021"></a>
 #### ★★ 🏯 인류모두면류 (진루이 미나 멘루이) 본점 (人類みな麺類) — 🍜 라멘 · 타베로그 3.75
@@ -1706,7 +1706,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75 (리뷰 5,145건)](https://tabelog.com/osaka/A2701/A270301/27064584/)
 - 🏆 **수상·백명점** [라멘 백명점 2017~2022(WEST), 2023~2025(OSAKA) 연속 선정](https://award.tabelog.com/hyakumeiten/ramen_osaka/2025)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,815개 (2026-11-21 기준)](https://maps.google.com/?cid=6418836266917594457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,815개 (2026-11-21 기준)](https://maps.google.com/?cid=6418836266917594457)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 줄 서서 입장.
@@ -1718,7 +1718,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~목 10:00-03:00 / 금 10:00-04:00 / 토 09:00-04:00 / 일 09:00-03:00 / 휴무 무휴
 - 💡 새벽 3~4시까지 영업하고 정기휴일이 없어 일정 짜기 편하다. 카드·전자결제 불가(현금만). 예약 불가. 신오사카역에서 도보 10분.
 - 🚃 한큐 미나미카타역 바로 앞 / 니시나카지마미나미가타역(미도스지선) 도보 1분
-- [구글 지도](https://maps.google.com/?cid=6418836266917594457&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%BA%E9%A1%9E%E3%81%BF%E3%81%AA%E9%BA%BA%E9%A1%9E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B61-12-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27064584/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B8%EB%A5%98%EB%AA%A8%EB%91%90%EB%A9%B4%EB%A5%98%20%28%EC%A7%84%EB%A3%A8%EC%9D%B4%20%EB%AF%B8%EB%82%98%20%EB%A9%98%EB%A3%A8%EC%9D%B4%29%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6418836266917594457) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%BA%E9%A1%9E%E3%81%BF%E3%81%AA%E9%BA%BA%E9%A1%9E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E8%A5%BF%E4%B8%AD%E5%B3%B61-12-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270301/27064584/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B8%EB%A5%98%EB%AA%A8%EB%91%90%EB%A9%B4%EB%A5%98%20%28%EC%A7%84%EB%A3%A8%EC%9D%B4%20%EB%AF%B8%EB%82%98%20%EB%A9%98%EB%A3%A8%EC%9D%B4%29%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 닛폰바시·구로몬
 
@@ -1730,7 +1730,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.76 (리뷰 1,299건)](https://tabelog.com/osaka/A2701/A270202/27001576/)
 - 🏆 **수상·백명점** [타베로그 스위츠 백명점 2017, 스위츠 WEST 2018~2020·2022, 화과자 WEST 2023·2026 선정](https://award.tabelog.com/hyakumeiten/wagashi_west)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 959개 (2026-11-21 기준)](https://maps.google.com/?cid=17193496079202062229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 959개 (2026-11-21 기준)](https://maps.google.com/?cid=17193496079202062229)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 테이크아웃 전용, 현장 구매.
@@ -1745,7 +1745,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 14:00~품절 시 종료 / 휴무 수·목·일·공휴일(춘분·추분·오봉 기간은 영업)
 - 💡 14시 오픈·품절 시 종료라 이른 오후 방문 추천. 테이크아웃 전용, 예약 불가·현금만. 휴무일 표기가 엇갈리니(수·목·일·공휴일 / 비고란엔 목·일·공휴일) 방문 전 확인.
 - 🚃 닛폰바시역 B28 출구 근처(약 100m)
-- [구글 지도](https://maps.google.com/?cid=17193496079202062229&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%8E%89%E8%A3%BD%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D1-4-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001576/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EC%BF%A0%EC%84%B8%EC%9D%B4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17193496079202062229) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%8E%89%E8%A3%BD%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D1-4-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001576/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EC%BF%A0%EC%84%B8%EC%9D%B4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-167"></a>
 #### ★★ 돈카츠 미나토 (とんかつ みな斗) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.60
@@ -1755,7 +1755,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 122건)](https://tabelog.com/osaka/A2701/A270202/27141118/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 2026 빕구르망 (첫 게재)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 482개 (2026-11-21 기준)](https://maps.google.com/?cid=11466714150229971593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 482개 (2026-11-21 기준)](https://maps.google.com/?cid=11466714150229971593)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 전화번호가 공개되지 않아 전화 예약은 어렵다. 예약은 공식 인스타그램(@minato.tonkatsu) 안내를 따르고, 보통은 가서 줄을 선다(평일 오후에도 대기 손님이 있다는 후기).
@@ -1765,7 +1765,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:30-14:50, 17:30-20:50 / 휴무 연중무휴
 - 💡 한국어 메뉴판이 있고 한국어 가능한 직원이 있다. 카드·교통계 IC·PayPay 결제가 되며, 평일 13시 반에도 밖에서 기다리는 손님이 있었다는 후기가 있다.
 - 🚃 닛폰바시역 약 380m · 나가호리바시역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=11466714150229971593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%BF%E3%81%AA%E6%96%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%852-9-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27141118/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EB%AF%B8%EB%82%98%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11466714150229971593) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%BF%E3%81%AA%E6%96%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%852-9-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27141118/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EB%AF%B8%EB%82%98%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-091"></a>
 #### ★★ 롯카쿠테이 (구로몬 본점) (六覺燈) — 🍢 쿠시카츠 · 타베로그 3.67
@@ -1774,7 +1774,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 975건) — 오사카시 쿠시아게 랭킹 3위권](https://tabelog.com/osaka/A2701/A270202/27000401/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 504개 (2026-11-21 기준)](https://maps.google.com/?cid=2391897082516258960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 504개 (2026-11-21 기준)](https://maps.google.com/?cid=2391897082516258960)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27000401/), [잇큐](https://restaurant.ikyu.com/110260)
 - 예약 팁: 타베로그 네트예약(코스 예약 버튼: 2시간 20꼬치 10,800엔 등) 확인. 공식사이트의 '디너 예약' 링크가 잇큐 페이지로 연결(잇큐 페이지 자체는 접속 차단으로 내용 미확인).
@@ -1785,7 +1785,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:00-22:00 (L.O. 21:30) / 휴무 수요일, 연말연시
 - 💡 수요일 휴무, 17:00-22:00. 2시간 표준 코스 외에 21시 한정 1시간 10꼬치 코스도 있다. 카드 가능.
 - 🚃 닛폰바시역 도보 3분 / 긴테쓰 닛폰바시역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=2391897082516258960&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AD%E8%A6%BA%E7%87%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-21-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27000401/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%AF%EC%B9%B4%EC%BF%A0%ED%85%8C%EC%9D%B4%20%28%EA%B5%AC%EB%A1%9C%EB%AA%AC%20%EB%B3%B8%EC%A0%90%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2391897082516258960) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AD%E8%A6%BA%E7%87%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-21-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27000401/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%AF%EC%B9%B4%EC%BF%A0%ED%85%8C%EC%9D%B4%20%28%EA%B5%AC%EB%A1%9C%EB%AA%AC%20%EB%B3%B8%EC%A0%90%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-023"></a>
 #### ★★ 멘노요지 (麺のようじ) — 🍜 라멘 · 타베로그 3.69
@@ -1795,7 +1795,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69 (리뷰 1,498건)](https://tabelog.com/osaka/A2701/A270202/27072765/)
 - 🏆 **수상·백명점** [타베로그 라멘 백명점 WEST 2017~2022, OSAKA 2023·2024·2025 매년 선정](https://award.tabelog.com/hyakumeiten/ramen_osaka)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,293개 (2026-11-21 기준)](https://maps.google.com/?cid=11833311574059077621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,293개 (2026-11-21 기준)](https://maps.google.com/?cid=11833311574059077621)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」, 온라인 예약·원격 대기 링크 없음.
@@ -1809,7 +1809,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-14:40 (LO 14:20), 18:00-21:00 (LO 20:30) / 휴무 없음(타베로그 기준)
 - 💡 연중무휴(타베로그 기준), 점심·저녁 2부 영업. 예약 불가·현금만(카드·전자머니·QR 불가). 월 한정 메뉴도 있음.
 - 🚃 닛폰바시역 7번 출구 도보 6~8분 / 다니마치큐초메역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=11833311574059077621&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E3%81%AE%E3%82%88%E3%81%86%E3%81%98%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E6%B4%A52-1-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27072765/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EB%85%B8%EC%9A%94%EC%A7%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11833311574059077621) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E3%81%AE%E3%82%88%E3%81%86%E3%81%98%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E6%B4%A52-1-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27072765/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EB%85%B8%EC%9A%94%EC%A7%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-165"></a>
 #### ★★ 미쿠니테이 (三国亭) — 🥟 중화·교자 · 타베로그 3.72
@@ -1828,7 +1828,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:00-21:30 / 휴무 수요일
 - 💡 카드·전자결제가 모두 안 되니 현금을 준비할 것. 교자와 오징어 요리가 특히 좋다는 후기가 많고, 테이크아웃도 된다.
 - 🚃 지하철·긴테쓰 닛폰바시역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=18309763037268656233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E5%9B%BD%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%852-17-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001443/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%BF%A0%EB%8B%88%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18309763037268656233) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E5%9B%BD%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%852-17-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001443/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%BF%A0%EB%8B%88%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-092"></a>
 #### ★★ 사카나테츠 (酒肴哲) — 🍶 이자카야·다치노미 · 타베로그 3.71
@@ -1848,7 +1848,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~토 17:00-23:00 (L.O. 22:30) / 휴무 일요일
 - 💡 일요일 휴무(월요일 공휴일이면 일·월 연휴), 17:00-23:00(마지막 입장 22:00). 예약 상황에 따라 2시간 제한. 카드 가능. 부정기 휴무는 인스타그램 공지.
 - 🚃 닛폰바시역(긴테쓰·사카이스지선) 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=9361136982922627059&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E8%82%B4%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B2-7-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27050565/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%82%98%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9361136982922627059) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E8%82%B4%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B2-7-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27050565/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%82%98%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-166"></a>
 #### ★★ 오퍼스 원 (オーパス ワン) — 🥟 중화·교자 · 타베로그 3.70
@@ -1866,7 +1866,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 12:00-14:00, 17:00-22:00 / 휴무 월요일·매월 셋째 화요일
 - 💡 카드·QUICPay·PayPay·알리페이·위챗페이 등 결제 수단이 다양하다. 테이크아웃도 된다.
 - 🚃 지하철 닛폰바시역 8번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=12734228134794392943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%83%BC%E3%83%91%E3%82%B9%20%E3%83%AF%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E6%B4%A53-3-29) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27000369/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%ED%8D%BC%EC%8A%A4%20%EC%9B%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12734228134794392943) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%83%BC%E3%83%91%E3%82%B9%20%E3%83%AF%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%AB%98%E6%B4%A53-3-29) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27000369/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%ED%8D%BC%EC%8A%A4%20%EC%9B%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-093"></a>
 #### ★ 슈하리 구로몬점 (守破離 黒門店) — 🍲 우동·소바 · 타베로그 3.59
@@ -1876,7 +1876,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 564건)](https://tabelog.com/osaka/A2701/A270202/27104034/)
 - 👥 **현지평판** [타베로그 리뷰: 석맷돌 자가제분, 니하치·주와리·굵은면 선택 가능한 수타 소바](https://tabelog.com/en/osaka/A2701/A270202/27104034/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 644개 (2026-11-21 기준)](https://maps.google.com/?cid=17940521616587389289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 644개 (2026-11-21 기준)](https://maps.google.com/?cid=17940521616587389289)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 저녁만 전화 예약 가능(타베로그 予約可, 네트예약 없음). 점심은 예약 불가.
@@ -1887,7 +1887,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~일 11:30-15:00 (L.O. 14:30), 17:30-22:00 (푸드 L.O. 20:30) / 휴무 월요일(공휴일이면 다음 날)
 - 💡 월요일 휴무(공휴일이면 화). 점심 11:30-15:00은 예약 불가, 저녁 17:30-22:00은 전화 예약 가능. 카드(VISA·Master).
 - 🚃 긴테쓰 닛폰바시역 도보 1분(86m)
-- [구글 지도](https://maps.google.com/?cid=17940521616587389289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AE%88%E7%A0%B4%E9%9B%A2%20%E9%BB%92%E9%96%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-19-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27104034/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%88%ED%95%98%EB%A6%AC%20%EA%B5%AC%EB%A1%9C%EB%AA%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17940521616587389289) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AE%88%E7%A0%B4%E9%9B%A2%20%E9%BB%92%E9%96%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-19-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27104034/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%88%ED%95%98%EB%A6%AC%20%EA%B5%AC%EB%A1%9C%EB%AA%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-094"></a>
 #### ★ 이부키 커피 구로몬시장점 (伊吹珈琲店 黒門市場) — ☕ 카페·킷사텐 · 타베로그 3.52
@@ -1908,7 +1908,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 07:00-18:30 (푸드 L.O. 18:00) / 휴무 1월 1일만 휴무
 - 💡 아침 7:00부터 영업(1월 1일만 휴무)이라 구로몬시장 아침 산책과 함께. 현금만.
 - 🚃 긴테쓰 닛폰바시역·닛폰바시역 도보 약 3분
-- [구글 지도](https://maps.google.com/?cid=15123496326032779613&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8A%E5%90%B9%E7%8F%88%E7%90%B2%E5%BA%97%20%E9%BB%92%E9%96%80%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-22-31) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27012983/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%B6%80%ED%82%A4%20%EC%BB%A4%ED%94%BC%20%EA%B5%AC%EB%A1%9C%EB%AA%AC%EC%8B%9C%EC%9E%A5%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15123496326032779613) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8A%E5%90%B9%E7%8F%88%E7%90%B2%E5%BA%97%20%E9%BB%92%E9%96%80%E5%B8%82%E5%A0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%97%A5%E6%9C%AC%E6%A9%8B1-22-31) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27012983/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%B6%80%ED%82%A4%20%EC%BB%A4%ED%94%BC%20%EA%B5%AC%EB%A1%9C%EB%AA%AC%EC%8B%9C%EC%9E%A5%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-024"></a>
 #### ★ 타코우메 본점 (たこ梅 本店) — 🍶 이자카야·다치노미 · 타베로그 3.53
@@ -1928,7 +1928,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 16:00-21:50 (LO 21:30) / 휴무 12/31~1/3
 - 💡 16:00-21:50 저녁 영업, 12/31~1/3 휴무. 오토시 275엔. 예약은 15시 이후 전화(06-6211-6201). 카드 가능.
 - 🚃 닛폰바시역 B28·B30 출구 도보 약 3분
-- [구글 지도](https://maps.google.com/?cid=5675327647209572366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%93%E6%A2%85%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27013511/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%BD%94%EC%9A%B0%EB%A9%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5675327647209572366) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%93%E6%A2%85%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-1-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27013511/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%BD%94%EC%9A%B0%EB%A9%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 다나베
 
@@ -1949,7 +1949,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-14:00, 18:00-21:00 (토요일 11:30-16:00) / 휴무 월요일·일요일
 - 💡 카드는 AMEX만 되고 전자화폐는 쓸 수 있다. 토요일은 점심(11:30~16:00)만 영업한다.
 - 🚃 다나베역(다니마치선) 도보 8분 (약 430m)
-- [구글 지도](https://maps.google.com/?cid=18066753362831937380&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%B9%E5%BF%83%E5%B7%A5%E6%88%BF%20%E4%B9%9D%E9%BE%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA%E7%94%B0%E8%BE%BA4-1-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270405/27125127/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%8B%A0%EC%BD%94%EB%B3%B4%20%EC%BF%A0%EB%A1%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18066753362831937380) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%B9%E5%BF%83%E5%B7%A5%E6%88%BF%20%E4%B9%9D%E9%BE%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E4%BD%8F%E5%90%89%E5%8C%BA%E7%94%B0%E8%BE%BA4-1-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270405/27125127/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%8B%A0%EC%BD%94%EB%B3%B4%20%EC%BF%A0%EB%A1%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 도톤보리·난바
 
@@ -1971,7 +1971,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:00-21:00 (월~토) / 휴무 일
 - 💡 완전 예약제·디너만(17:00~), 일요일 휴무. 15석(카운터 8석)이라 예약이 매우 어려움. 카드·전자머니·QR 불가.
 - 🚃 난바역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=4139773270745534990&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E6%B9%96%E6%9C%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001286/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BD%94%EA%B2%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4139773270745534990) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E6%B9%96%E6%9C%88%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001286/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BD%94%EA%B2%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-095"></a>
 #### ★★ 나니와 멘지로 (なにわ 麺次郎) — 🍜 라멘 · 타베로그 3.71
@@ -1981,7 +1981,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 2,257건) — 난바 라멘 랭킹 2위](https://tabelog.com/osaka/A2701/A270202/27112089/)
 - 🏆 **수상·백명점** [라멘 백명점 OSAKA 2023·2024·2025 선정](https://tabelog.com/en/osaka/A2701/A270202/27112089/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,637개 (2026-11-21 기준)](https://maps.google.com/?cid=6712168601677447523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,637개 (2026-11-21 기준)](https://maps.google.com/?cid=6712168601677447523)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그 予約不可).
@@ -1995,7 +1995,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-22:00
 - 💡 개찰구 안이라 승차권이 없으면 입장권 겸 서비스권(180엔)을 사서 들어가고, 가게에서 그만큼 할인해준다. 나라 당일치기(긴테쓰) 전후 식사로 최적. 현금만.
 - 🚃 긴테쓰 오사카난바역 개찰구 안
-- [구글 지도](https://maps.google.com/?cid=6712168601677447523&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%AB%E3%82%8F%20%E9%BA%BA%E6%AC%A1%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A24-1-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27112089/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%8B%88%EC%99%80%20%EB%A9%98%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6712168601677447523) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%AB%E3%82%8F%20%E9%BA%BA%E6%AC%A1%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A24-1-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27112089/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%8B%88%EC%99%80%20%EB%A9%98%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-030"></a>
 #### ★★ 니쿠쇼 나카타 본점 (肉匠なか田 本店) — 🥩 야키니쿠·호르몬 · 타베로그 3.67
@@ -2005,7 +2005,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 458건)](https://tabelog.com/osaka/A2701/A270202/27001305/)
 - 🏆 **수상·백명점** [타베로그 야키니쿠 백명점 2018, WEST 2020~2026 매년 선정](https://award.tabelog.com/hyakumeiten/yakiniku_west)
-- ⭐ **구글** [구글 지도 4.9 / 리뷰 1,628개 (2026-11-21 기준)](https://maps.google.com/?cid=2400963173036745700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.9 / 리뷰 1,628개 (2026-11-21 기준)](https://maps.google.com/?cid=2400963173036745700)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001305/)
 - 예약 팁: 타베로그 네트예약 가능(코스별 예약 버튼). 당일 온라인 예약은 16시 마감, 이메일 확인 안 하면 취소될 수 있음. 전화 06-6214-8989.
@@ -2016,7 +2016,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:00-22:30 (LO 요리 21:30 / 코스 21:00) / 휴무 월(공휴일이면 화), 연말연시
 - 💡 월요일 휴무, 17시 오픈. 2시간제, 10세 미만 입장 불가, 서비스료 10%·개별실료 3,300엔. 카드 가능.
 - 🚃 난바역 14번 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=2400963173036745700&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%82%89%E5%8C%A0%E3%81%AA%E3%81%8B%E7%94%B0%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-7-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001305/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%BF%A0%EC%87%BC%20%EB%82%98%EC%B9%B4%ED%83%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2400963173036745700) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%82%89%E5%8C%A0%E3%81%AA%E3%81%8B%E7%94%B0%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-7-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001305/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%BF%A0%EC%87%BC%20%EB%82%98%EC%B9%B4%ED%83%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-037"></a>
 #### ★★ 덴푸라 안도 (天麩羅 安藤) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.72
@@ -2036,7 +2036,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~토 17:45 오픈(18:00 일제 시작) / 일 11:45·17:45 오픈(12:00·18:00 시작) / 휴무 부정기
 - 💡 완전 예약제, 18:00 일제 스타트(일요일은 12:00 점심도). 향수가 강하면 입장 거절될 수 있고 미취학 아동 불가. 서비스료 10%. 카드·PayPay 가능.
 - 🚃 닛폰바시역 도보 약 5분 / 난바워크 B26 출구 도보 4분
-- [구글 지도](https://maps.google.com/?cid=704591701996288838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BA%A9%E7%BE%85%20%E5%AE%89%E8%97%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%AE%97%E5%8F%B3%E8%A1%9B%E9%96%80%E7%94%BA5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27123561/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%95%88%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=704591701996288838) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BA%A9%E7%BE%85%20%E5%AE%89%E8%97%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%AE%97%E5%8F%B3%E8%A1%9B%E9%96%80%E7%94%BA5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27123561/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%95%88%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-026"></a>
 #### ★★ 🏯 도톤보리 이마이 본점 (道頓堀 今井 本店) — 🍲 우동·소바 · 타베로그 3.58
@@ -2047,7 +2047,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 🏯 **노포·원조** [1946년(쇼와 21년) 창업, 키츠네우동이 대표 상품](https://www.d-imai.com/)
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 2,423건)](https://tabelog.com/osaka/A2701/A270202/27001289/)
 - 🏆 **수상·백명점** [타베로그 우동 백명점 2017·2018·2019·2020 선정](https://tabelog.com/osaka/A2701/A270202/27001289/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,736개 (2026-11-21 기준)](https://maps.google.com/?cid=18399770083682177411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,736개 (2026-11-21 기준)](https://maps.google.com/?cid=18399770083682177411)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 공식 사이트: 예약은 각 점포 전화로만(본점 06-6211-0319), 메일 예약 불가. 일반 식사는 대부분 바로 입장/대기.
@@ -2058,7 +2058,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-21:30 (LO 20:45) / 휴무 수, 넷째 주 화(12월 제외)
 - 💡 수요일·넷째 주 화요일 휴무. 우동스키 등 나베 코스는 전날까지 전화 예약. 카드·교통IC 결제 가능.
 - 🚃 난바역 도보 7분 / 닛폰바시역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=18399770083682177411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%81%93%E9%A0%93%E5%A0%80%20%E4%BB%8A%E4%BA%95%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001289/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%20%EC%9D%B4%EB%A7%88%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18399770083682177411) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%81%93%E9%A0%93%E5%A0%80%20%E4%BB%8A%E4%BA%95%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-22) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001289/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%20%EC%9D%B4%EB%A7%88%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-028"></a>
 #### ★★ 🏯 미즈노 (美津の) — 🥞 오코노미야키 · 타베로그 3.55
@@ -2080,7 +2080,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-21:00 / 휴무 없음(타베로그상 매일 영업)
 - 💡 예약 불가라 식사 시간대엔 줄이 길다. 오픈 직후나 늦은 오후 방문 추천. 카드 결제는 3,000엔 이상부터.
 - 🚃 난바역(미도스지선) 도보 5분 / 닛폰바시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=14993068628475195202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E6%B4%A5%E3%81%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-4-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001278/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%A6%88%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14993068628475195202) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%BE%8E%E6%B4%A5%E3%81%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-4-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001278/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%A6%88%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-038"></a>
 #### ★★ 살롱 드 테 아르숑 호젠지 본점 (サロン・ド・テ・アルション 法善寺本店) — 🍡 화과자·디저트 · 타베로그 3.70
@@ -2090,7 +2090,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 1,243건)](https://tabelog.com/osaka/A2701/A270202/27001538/)
 - 🏆 **수상·백명점** [타베로그 스위츠 WEST 백명점 2020·2022·2023·2026 선정](https://award.tabelog.com/hyakumeiten/sweets_west)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 861개 (2026-11-21 기준)](https://maps.google.com/?cid=1383940765665632623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 861개 (2026-11-21 기준)](https://maps.google.com/?cid=1383940765665632623)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001538/)
 - 예약 팁: 타베로그 예약(당일 예약자 수 표시) 및 ebica 온라인 예약 링크(타베로그 비고란). 2층 살롱은 식사·세트 이용 시에만 예약 가능.
@@ -2101,7 +2101,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~금 11:30-20:00 / 토·일·공휴일 11:00-20:00 (LO 19:00) / 휴무 월(공휴일이면 영업)
 - 💡 월요일 휴무(공휴일 제외). 2층 살롱 이트인은 식사나 세트 이용 시에만 예약 가능. 카드 가능.
 - 🚃 난바역 도보 3분(난바워크 B12·B14 출구)
-- [구글 지도](https://maps.google.com/?cid=1383940765665632623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%86%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%B3%95%E5%96%84%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-6-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001538/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%B4%EB%A1%B1%20%EB%93%9C%20%ED%85%8C%20%EC%95%84%EB%A5%B4%EC%88%91%20%ED%98%B8%EC%A0%A0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1383940765665632623) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%86%E3%83%BB%E3%82%A2%E3%83%AB%E3%82%B7%E3%83%A7%E3%83%B3%20%E6%B3%95%E5%96%84%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-6-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001538/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%B4%EB%A1%B1%20%EB%93%9C%20%ED%85%8C%20%EC%95%84%EB%A5%B4%EC%88%91%20%ED%98%B8%EC%A0%A0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-032"></a>
 #### ★★ 순킷사 아메리칸 (純喫茶 アメリカン) — ☕ 카페·킷사텐 · 타베로그 3.64
@@ -2122,7 +2122,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-21:45 (화 10:00-21:15) / 휴무 없음(타베로그 기준)
 - 💡 10:00-21:45(화 ~21:15) 영업, 예약 불가. 카드(VISA·Master) 가능.
 - 🚃 난바역 15번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=16910750404935257493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B4%94%E5%96%AB%E8%8C%B6%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27005758/) · [유튜브](https://www.youtube.com/results?search_query=%EC%88%9C%ED%82%B7%EC%82%AC%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16910750404935257493) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B4%94%E5%96%AB%E8%8C%B6%20%E3%82%A2%E3%83%A1%E3%83%AA%E3%82%AB%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-7-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27005758/) · [유튜브](https://www.youtube.com/results?search_query=%EC%88%9C%ED%82%B7%EC%82%AC%20%EC%95%84%EB%A9%94%EB%A6%AC%EC%B9%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-033"></a>
 #### ★★ 아라비야 커피 (アラビヤコーヒー) — ☕ 카페·킷사텐 · 타베로그 3.68
@@ -2133,7 +2133,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 🏯 **노포·원조** [1951년 2월 개업(타베로그 개업일 기재)](https://tabelog.com/osaka/A2701/A270202/27001511/)
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 1,111건)](https://tabelog.com/osaka/A2701/A270202/27001511/)
 - 🏆 **수상·백명점** [타베로그 킷사텐 백명점 2021·2022·2026 선정](https://award.tabelog.com/hyakumeiten/kissaten)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 907개 (2026-11-21 기준)](https://maps.google.com/?cid=17566366636701267772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 907개 (2026-11-21 기준)](https://maps.google.com/?cid=17566366636701267772)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 타베로그상 예약 가능이나 온라인 예약 버튼 없음(전화 06-6211-8048). 보통은 바로 입장.
@@ -2144,7 +2144,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 12:00-18:00 / 토·일 10:00-19:00
 - 💡 평일 12:00-18:00, 주말 10:00-19:00. 카드·PayPay 가능.
 - 🚃 난바역 14번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=17566366636701267772&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%83%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-6-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001511/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17566366636701267772) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%83%A4%E3%82%B3%E3%83%BC%E3%83%92%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-6-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001511/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EB%B9%84%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-034"></a>
 #### ★★ 주테이 (重亭) — 🍳 경양식·오므라이스 · 타베로그 3.68
@@ -2154,7 +2154,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 1,576건)](https://tabelog.com/osaka/A2701/A270202/27001308/)
 - 🏆 **수상·백명점** [타베로그 양식 백명점 2020·2022, WEST 2025 선정](https://award.tabelog.com/hyakumeiten/yoshoku_west)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,292개 (2026-11-21 기준)](https://maps.google.com/?cid=716891188368770783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,292개 (2026-11-21 기준)](https://maps.google.com/?cid=716891188368770783)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -2168,7 +2168,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-15:00 (LO 14:30), 17:00-20:00 (LO 19:30) / 휴무 수·부정기
 - 💡 수요일·부정기 휴무. 인력 부족으로 영업시간이 임시 변경될 수 있음(타베로그 공지). 현금만.
 - 🚃 난바역 도보 약 3분(난바워크 B17 출구에서 남쪽 50m)
-- [구글 지도](https://maps.google.com/?cid=716891188368770783&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%87%8D%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-1-30) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001308/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A3%BC%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=716891188368770783) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%87%8D%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-1-30) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001308/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A3%BC%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-035"></a>
 #### ★★ 하리쥬 도톤보리 본점 (はり重 道頓堀本店) — 🐂 와규·스테이크 · 타베로그 3.55
@@ -2189,7 +2189,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:30-15:30 (LO 14:30), 17:00-21:00 (LO 20:00) / 휴무 화(공휴일·공휴일 전날·12월은 영업)
 - 💡 본점 건물에 일본요리(스키야키·샤부샤부), '하리쥬 그릴'(스테이크·비프카츠), 카레숍, 정육점이 함께 있음. 부담 없이 맛보려면 그릴이나 카레숍. 화요일 휴무(공휴일·전날·12월은 영업).
 - 🚃 난바역 14번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=6129541567121181724&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%82%8A%E9%87%8D%20%E9%81%93%E9%A0%93%E5%A0%80%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-9-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001250/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%A6%AC%EC%A5%AC%20%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6129541567121181724) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%82%8A%E9%87%8D%20%E9%81%93%E9%A0%93%E5%A0%80%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-9-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001250/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%A6%AC%EC%A5%AC%20%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-114"></a>
 #### ★★ 호테이 (ほてい) — 🍣 스시·해산물 · 타베로그 3.61
@@ -2212,7 +2212,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~일 14:00-22:00 (L.O. 21:30) / 휴무 월요일
 - 💡 천연 복어만 사용. 서비스 코스 9,680엔(유비키·테사·테치리·조스이, 2026-02 후기)이 기본, 구운 시라코 추가 추천. 14시부터 영업해 이른 저녁도 가능. 1층 카운터·고아가리, 2~3층 다다미. 카드 가능, 전자머니·QR 불가.
 - 🚃 닛폰바시역·난바역 도보 6분 (호젠지 요코초 인근)
-- [구글 지도](https://maps.google.com/?cid=14631078708530054565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BB%E3%81%A6%E3%81%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-1-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001300/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%B8%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14631078708530054565) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BB%E3%81%A6%E3%81%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-1-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001300/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%B8%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-025"></a>
 #### ★ 🏯 551 호라이 본점 (551蓬莱 本店) — 🥟 중화·교자 · 타베로그 3.48
@@ -2223,7 +2223,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 🏯 **노포·원조** [1945년 10월 개업(타베로그 개업일 기재), 오사카 명물 부타만의 본점](https://tabelog.com/osaka/A2701/A270202/27001312/)
 - 🍽️ **타베로그** [타베로그 3.48 (리뷰 1,947건) — 551 전 점포 중 최고점](https://tabelog.com/osaka/A2701/A270202/27001312/)
 - ▶️ **유튜브** [Paolo fromTOKYO: 551 호라이 부타만이 만들어지는 과정을 취재한 영상(브랜드 단위 영상, 본점 매장 방문 여부는 미확인).](https://www.youtube.com/watch?v=U9QlvPz6iYQ)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 4,639개 (2026-11-21 기준)](https://maps.google.com/?cid=2120556066066794875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 4,639개 (2026-11-21 기준)](https://maps.google.com/?cid=2120556066066794875)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 레스토랑 좌석은 타베로그상 예약 가능하나 온라인 예약 버튼 없음(전화 06-6641-0551). 부타만 테이크아웃은 현장 줄서기.
@@ -2234,7 +2234,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-21:30 / 휴무 화
 - 💡 에비스바시스지 상점가 안. 테이크아웃 줄은 회전이 빠르다. 화요일 휴무. 카드 가능.
 - 🚃 난바역 11번 출구 도보 1~2분
-- [구글 지도](https://maps.google.com/?cid=2120556066066794875&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=551%E8%93%AC%E8%8E%B1%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-6-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001312/) · [유튜브](https://www.youtube.com/results?search_query=551%20%ED%98%B8%EB%9D%BC%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2120556066066794875) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=551%E8%93%AC%E8%8E%B1%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-6-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001312/) · [유튜브](https://www.youtube.com/results?search_query=551%20%ED%98%B8%EB%9D%BC%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-027"></a>
 #### ★ 🏯 리쿠로 오지상 난바 본점 (りくろーおじさんの店 なんば本店) — 🍡 화과자·디저트 · 타베로그 3.52
@@ -2244,7 +2244,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.52 (리뷰 1,521건) — 리쿠로 전 점포 중 최고점](https://tabelog.com/osaka/A2701/A270202/27002336/)
 - 🏯 **노포·원조** [공식 사이트 보도자료상 2026년 창업 70년째](https://www.rikuro.co.jp/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,685개 (2026-11-21 기준)](https://maps.google.com/?cid=9250892613011960260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,685개 (2026-11-21 기준)](https://maps.google.com/?cid=9250892613011960260)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 치즈케이크 구매는 현장 줄서기(점포·전화 예약 불가). 2층 '리쿠 카페 ROOM'만 공식 사이트에 TableCheck 예약 링크.
@@ -2258,7 +2258,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 9:00-20:00 (2층 카페 11:00-17:30, LO 16:30)
 - 💡 9:00-20:00. 매장 구매는 줄서기(예약 불가). 2층 카페(11:00-17:30)는 TableCheck 예약 링크 있음. 카드·교통IC·QR 결제 가능.
 - 🚃 난바역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=9250892613011960260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%8A%E3%81%8F%E3%82%8D%E3%83%BC%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%AE%E5%BA%97%20%E3%81%AA%E3%82%93%E3%81%B0%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-2-28) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002336/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A6%AC%EC%BF%A0%EB%A1%9C%20%EC%98%A4%EC%A7%80%EC%83%81%20%EB%82%9C%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9250892613011960260) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%8A%E3%81%8F%E3%82%8D%E3%83%BC%E3%81%8A%E3%81%98%E3%81%95%E3%82%93%E3%81%AE%E5%BA%97%20%E3%81%AA%E3%82%93%E3%81%B0%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-2-28) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002336/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A6%AC%EC%BF%A0%EB%A1%9C%20%EC%98%A4%EC%A7%80%EC%83%81%20%EB%82%9C%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-031"></a>
 #### ★ 메오토젠자이 (夫婦善哉) — 🍡 화과자·디저트 · 타베로그 3.58
@@ -2268,7 +2268,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 📰 **언론·가이드** [오다 사쿠노스케 소설 『夫婦善哉』의 제목이 된 가게 — 젠자이를 두 그릇에 나눠 내는 데서 '부부(めおと)'](https://ja.wikipedia.org/wiki/夫婦善哉_(小説))
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 427건)](https://tabelog.com/osaka/A2701/A270202/27015375/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,134개 (2026-11-21 기준)](https://maps.google.com/?cid=12187781741516759471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,134개 (2026-11-21 기준)](https://maps.google.com/?cid=12187781741516759471)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -2281,7 +2281,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-22:00 / 휴무 없음(타베로그 기준)
 - 💡 10:00-22:00 영업, 서비스료 부과. 카드·교통IC·QR 결제 모두 가능. 호젠지 참배와 함께 들르기 좋다.
 - 🚃 난바역 도보 약 5분(호젠지 요코초)
-- [구글 지도](https://maps.google.com/?cid=12187781741516759471&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%AB%E5%A9%A6%E5%96%84%E5%93%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-2-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27015375/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EC%98%A4%ED%86%A0%EC%A0%A0%EC%9E%90%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12187781741516759471) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%AB%E5%A9%A6%E5%96%84%E5%93%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A21-2-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27015375/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EC%98%A4%ED%86%A0%EC%A0%A0%EC%9E%90%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-029"></a>
 #### ★ 🏯 지유켄 난바 본점 (自由軒 難波本店) — 🍛 카레 · 타베로그 3.49
@@ -2305,7 +2305,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 11:00-19:35 (화~일) / 휴무 월
 - 💡 월요일 휴무, 19:35까지. 현금만. 날달걀을 섞고 소스를 살짝 뿌려 먹는 게 정석.
 - 🚃 난바역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=365342684045844433&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E7%94%B1%E8%BB%92%20%E9%9B%A3%E6%B3%A2%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-1-34) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001310/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%80%EC%9C%A0%EC%BC%84%20%EB%82%9C%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=365342684045844433) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E7%94%B1%E8%BB%92%20%E9%9B%A3%E6%B3%A2%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-1-34) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001310/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%80%EC%9C%A0%EC%BC%84%20%EB%82%9C%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-115"></a>
 #### ★ 치소 우오사 (馳走 うお佐) — 🍱 일식·카이세키 · 타베로그 3.58
@@ -2316,7 +2316,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 60, 2026-05 오픈)](https://tabelog.com/osaka/A2701/A270202/27156304/)
 - 🏯 **노포·원조** [후기: 1956년 창업 'うお佐'가 2026-05-01 아침식사 전문점으로 새 단장(3대째는 니시텐마 '요리 산다' 운영)](https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/)
 - 👥 **현지평판** [후기 2026: '밥이 너무 맛있어 리필', '사치스러운 아침식사를 난바에서 손쉽게'](https://tabelog.com/kr/osaka/A2701/A270202/27156304/dtlrvwlst/)
-- ⭐ **구글** [구글 지도 5 / 리뷰 689개 (2026-11-21 기준)](https://maps.google.com/?cid=15534404178089478185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 5 / 리뷰 689개 (2026-11-21 기준)](https://maps.google.com/?cid=15534404178089478185)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/chisou-uosa)
 - 예약 팁: TableCheck(한국어 페이지)로 회차 예약. 타베로그엔 네트예약 없음(전화 080-4261-9336도 가능).
@@ -2331,7 +2331,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~토 08:30-09:30 / 10:00-11:00 / 11:30-12:30 (3부제) / 휴무 일요일
 - 💡 08:30 / 10:00 / 11:30 3부제, 아침 고젠 3,600엔 하나(추가 주문 가능, 새우카레 +1,000엔). 예약이 안 찬 회차는 워크인 가능하지만 만석인 날 많음. 카드 가능, 전자머니·QR 불가. 일요일 휴무.
 - 🚃 난바역 도보 1분(약 55m)
-- [구글 지도](https://maps.google.com/?cid=15534404178089478185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A6%B3%E8%B5%B0%20%E3%81%86%E3%81%8A%E4%BD%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-5-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27156304/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%86%8C%20%EC%9A%B0%EC%98%A4%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15534404178089478185) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A6%B3%E8%B5%B0%20%E3%81%86%E3%81%8A%E4%BD%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A23-5-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27156304/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%86%8C%20%EC%9A%B0%EC%98%A4%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-097"></a>
 #### ★ 혼케 오타코 도톤보리점 (本家 大たこ 道頓堀店) — 🐙 타코야키 · 타베로그 3.49
@@ -2355,7 +2355,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 10:00-23:00 (재료 소진 시 종료) / 휴무 연중무휴
 - 💡 연중무휴 10:00-23:00, 재료 소진 시 종료. 테이크아웃 노점. 카드 불가·전자머니 가능. 미즈노(오코노미야키, 1-4-15) 근처.
 - 🚃 닛폰바시역 약 300m(도보 4분) / 난바역 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=13233410597884382898&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E5%AE%B6%20%E5%A4%A7%E3%81%9F%E3%81%93%20%E9%81%93%E9%A0%93%E5%A0%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-4-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001483/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EC%98%A4%ED%83%80%EC%BD%94%20%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13233410597884382898) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E5%AE%B6%20%E5%A4%A7%E3%81%9F%E3%81%93%20%E9%81%93%E9%A0%93%E5%A0%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%81%93%E9%A0%93%E5%A0%801-4-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001483/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EC%98%A4%ED%83%80%EC%BD%94%20%EB%8F%84%ED%86%A4%EB%B3%B4%EB%A6%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 베이에어리어·USJ
 
@@ -2377,7 +2377,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 17:00~ / 19:30~ 2부제 / 휴무 월요일
 - 💡 결제는 현금 또는 PayPay만 된다(카드는 예약 보증용). 알레르기나 못 먹는 재료는 미리 알려 달라는 안내가 있다.
 - 🚃 니시쿠조역 약 150m
-- [구글 지도](https://maps.google.com/?cid=11351081122352569752&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%95%E3%81%8B%E6%9C%AC%20%E9%AE%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E8%A5%BF%E4%B9%9D%E6%9D%A11-23-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270401/27131194/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%AA%A8%ED%86%A0%20%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11351081122352569752) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%95%E3%81%8B%E6%9C%AC%20%E9%AE%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%AD%A4%E8%8A%B1%E5%8C%BA%E8%A5%BF%E4%B9%9D%E6%9D%A11-23-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270401/27131194/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%B9%B4%EB%AA%A8%ED%86%A0%20%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-098"></a>
 #### ★★ 아카렌가 스테이크 하우스 (AKARENGA STEAK HOUSE) — 🐂 와규·스테이크 · 타베로그 3.57
@@ -2387,7 +2387,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.57 (리뷰 391건)](https://tabelog.com/osaka/A2701/A270402/27085855/)
 - 🏆 **수상·백명점** [스테이크·철판구이 백명점 WEST 2024 선정](https://tabelog.com/en/osaka/A2701/A270402/27085855/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 564개 (2026-11-21 기준)](https://maps.google.com/?cid=2186683939960638303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 564개 (2026-11-21 기준)](https://maps.google.com/?cid=2186683939960638303)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/glionsteak/reserve), [타베로그](https://tabelog.com/kr/osaka/A2701/A270402/27085855/)
 - 예약 팁: 타베로그 네트예약(코스 예약 버튼) + 공식사이트의 TableCheck 예약 링크 확인. 7명 이상은 전화.
@@ -2398,7 +2398,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 화~금 17:00-22:30 / 토·일·공휴일 12:00-15:00, 17:00-22:30 / 휴무 월요일
 - 💡 월요일 휴무. 평일은 디너만(17:00-22:30), 주말·공휴일은 런치(12:00-15:00)도. 7명 이상은 전화 예약. 무료 주차. 카드·PayPay 가능. 가이유칸에서 도보권.
 - 🚃 오사카코역 4·6번 출구 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=2186683939960638303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=AKARENGA%20STEAK%20HOUSE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A2-6-39) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270402/27085855/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%A0%8C%EA%B0%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%20%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2186683939960638303) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=AKARENGA%20STEAK%20HOUSE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A2-6-39) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270402/27085855/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EB%A0%8C%EA%B0%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%20%ED%95%98%EC%9A%B0%EC%8A%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-099"></a>
 #### ★★ 치코 멘코보 (築港麺工房) — 🍲 우동·소바 · 타베로그 3.60
@@ -2407,7 +2407,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 436건) — 덴포잔·오사카항 지역 랭킹 2위(1위는 2~3만엔대 복어집)](https://tabelog.com/osaka/A2701/A270402/27081824/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 726개 (2026-11-21 기준)](https://maps.google.com/?cid=13546943019628679382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 726개 (2026-11-21 기준)](https://maps.google.com/?cid=13546943019628679382)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그 予約不可).
@@ -2421,7 +2421,7 @@ Tabelog Award Silver 5년 연속(2022~2026), 타베로그 4.46. 비장탄으로 
 - 영업 월~금 11:00-16:00 / 휴무 토·일·공휴일
 - 💡 평일 11:00-16:00만 영업, 토·일·공휴일 휴무 — 주말 가이유칸 일정이면 못 감. 현금만. 오사카코역 1번 출구에서 서쪽 279m.
 - 🚃 오사카코역 1번 출구 도보 약 4분
-- [구글 지도](https://maps.google.com/?cid=13546943019628679382&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AF%89%E6%B8%AF%E9%BA%BA%E5%B7%A5%E6%88%BF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A1-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270402/27081824/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%BD%94%20%EB%A9%98%EC%BD%94%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13546943019628679382) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AF%89%E6%B8%AF%E9%BA%BA%E5%B7%A5%E6%88%BF%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B8%AF%E5%8C%BA%E6%B5%B7%E5%B2%B8%E9%80%9A1-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270402/27081824/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%BD%94%20%EB%A9%98%EC%BD%94%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 사카이
 
@@ -2443,7 +2443,7 @@ Tabelog Award Bronze 8년 연속(2019~2026), 야키니쿠 百名店 8회, 타베
 - 영업 16:30-24:00 / 휴무 일요일
 - 💡 카드·전자결제가 모두 안 되니 현금을 넉넉히 준비할 것. 주차장이 있다.
 - 🚃 쓰쿠노역 약 850m
-- [구글 지도](https://maps.google.com/?cid=6410278050612072430&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%94%9F%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E5%87%A6%20%E3%81%8A%E3%81%95%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%80%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%B3%B3%E5%8C%97%E7%94%BA8-33-4) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27052134/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%A7%88%ED%98%B8%EB%A5%B4%EB%AA%AC%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%98%A4%EC%82%AC%EB%AC%B4%EC%A7%B1%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6410278050612072430) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%94%9F%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E5%87%A6%20%E3%81%8A%E3%81%95%E3%82%80%E3%81%A1%E3%82%83%E3%82%93%E3%80%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%B3%B3%E5%8C%97%E7%94%BA8-33-4) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27052134/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%A7%88%ED%98%B8%EB%A5%B4%EB%AA%AC%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%98%A4%EC%82%AC%EB%AC%B4%EC%A7%B1%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-171"></a>
 #### ★★★ 스시 오오가 (鮨 おおが) — 🍣 스시·해산물 · 타베로그 4.21
@@ -2464,7 +2464,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 17:30-22:30 (17:30~·20:30~ 2부제) / 휴무 부정기 휴무
 - 💡 강한 향수는 삼가 달라는 안내가 있고 아이 동반은 불가. 카드 결제 가능.
 - 🚃 슈쿠인역 약 130m · 난카이 사카이역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=14854511297343644624&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%8A%E3%81%8A%E3%81%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%A4%A7%E7%94%BA%E6%9D%B11-2-7) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27104114/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%98%A4%EA%B0%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14854511297343644624) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%8A%E3%81%8A%E3%81%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%A4%A7%E7%94%BA%E6%9D%B11-2-7) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27104114/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%98%A4%EC%98%A4%EA%B0%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-039"></a>
 #### ★★★ 야스케 (弥助) — 🍣 스시·해산물 · 타베로그 3.75
@@ -2485,7 +2485,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 12:00-13:30, 17:30-21:30 / 휴무 목, 오봉·연말연시
 - 💡 완전 예약제, 목요일·오봉·연말연시 휴무. 한카이 전차 '宿院' 정류장 도보 1분. 카드 가능(전자머니·QR 불가).
 - 🚃 한카이 전차 '宿院' 정류장 도보 1분 / 난카이 사카이역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=605647696013860202&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BC%A5%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%A4%A7%E7%94%BA%E6%9D%B11-1-18) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27001079/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=605647696013860202) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BC%A5%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E5%A4%A7%E7%94%BA%E6%9D%B11-1-18) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27001079/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-116"></a>
 #### ★★ 긴샤리 엔 (銀シャリ en) — 📍 기타 · 타베로그 3.61
@@ -2496,7 +2496,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 🏆 **수상·백명점** [타베로그 식당(食堂) 백명점 2026 선정](https://award.tabelog.com/hyakumeiten/shokudo/2026)
 - 🍽️ **타베로그** [타베로그 3.61 (리뷰 517)](https://tabelog.com/osaka/A2705/A270501/27134058/)
 - 🏯 **노포·원조** [후기: 사카이의 '밥 짓기 선인' 銀シャリ屋 ゲコ亭에서 수련한 주인이 독립한 가게(게코테이 계열)](https://tabelog.com/kr/osaka/A2705/A270501/27134058/dtlrvwlst/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 467개 (2026-11-21 기준)](https://maps.google.com/?cid=5841713953314609121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 467개 (2026-11-21 기준)](https://maps.google.com/?cid=5841713953314609121)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 줄 서서 입장.
@@ -2509,7 +2509,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 수~월 08:00-14:00 / 휴무 화요일
 - 💡 셀프로 반찬 접시를 고르고 밥·미소국은 가져다주는 방식(흰밥 150엔, 계란말이 200엔 등 — 고르다 보면 금액이 오르니 주의). 현금만, 합석 기본, 주차장 없음. 난카이 고야선 사카이히가시역에서도 도보 약 14분(후기).
 - 🚃 한카이선 하나다구치·오쇼쿠지마 정류장 도보 5분
-- [구글 지도](https://maps.google.com/?cid=5841713953314609121&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8A%80%E3%82%B7%E3%83%A3%E3%83%AA%20en%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%88%8E%E4%B9%8B%E7%94%BA%E6%9D%B13-1-9) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27134058/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B4%EC%83%A4%EB%A6%AC%20%EC%97%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5841713953314609121) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8A%80%E3%82%B7%E3%83%A3%E3%83%AA%20en%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%88%8E%E4%B9%8B%E7%94%BA%E6%9D%B13-1-9) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27134058/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B4%EC%83%A4%EB%A6%AC%20%EC%97%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-040"></a>
 #### ★★ 칸부쿠로 (かん袋) — 🍡 화과자·디저트 · 타베로그 3.72
@@ -2519,7 +2519,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.72 (리뷰 1,510건)](https://tabelog.com/osaka/A2705/A270501/27001078/)
 - 🏆 **수상·백명점** [타베로그 스위츠 백명점 2017, 스위츠 WEST 2018~2020·2022, 화과자 WEST 2023·2026 선정](https://award.tabelog.com/hyakumeiten/wagashi_west)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,753개 (2026-11-21 기준)](https://maps.google.com/?cid=5321635333233198905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,753개 (2026-11-21 기준)](https://maps.google.com/?cid=5321635333233198905)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 현장 줄서기.
@@ -2534,7 +2534,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 10:00-17:00 (이트인 LO 16:45, 품절 시 종료) / 휴무 화·수(공휴일은 영업)
 - 💡 화·수 휴무(공휴일은 영업), 10:00-17:00 품절 시 종료. 예약 불가·현금만. 한카이 전차 '寺地町' 정류장 도보 2분.
 - 🚃 한카이 전차 '寺地町' 정류장 도보 2분
-- [구글 지도](https://maps.google.com/?cid=5321635333233198905&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%82%93%E8%A2%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%96%B0%E5%9C%A8%E5%AE%B6%E7%94%BA%E6%9D%B11-2-1) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27001078/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B8%EB%B6%80%EC%BF%A0%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5321635333233198905) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%82%93%E8%A2%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A0%BA%E5%B8%82%E5%A0%BA%E5%8C%BA%E6%96%B0%E5%9C%A8%E5%AE%B6%E7%94%BA%E6%9D%B11-2-1) · [타베로그](https://tabelog.com/kr/osaka/A2705/A270501/27001078/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B8%EB%B6%80%EC%BF%A0%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 센니치마에·우라난바
 
@@ -2559,7 +2559,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 11:30-15:00, 18:00-21:00 (매월 첫째 일요일 7:00-10:00, 11:30-15:00) / 휴무 수
 - 💡 수요일 휴무, 점심·저녁 2부 영업. 매월 첫째 일요일엔 아침 7~10시 영업(저녁 없음). 카운터 7석이라 대기 필수, 현금만.
 - 🚃 닛폰바시역 5번 출구 도보 6분 / 난카이 난바역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=4091417499978083138&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E4%B8%88%E5%85%AD%20%E3%81%AA%E3%82%93%E3%81%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D6-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27084754/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%A1%B0%EB%A1%9C%EC%BF%A0%20%EB%82%9C%EB%B0%94%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4091417499978083138) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E4%B8%88%E5%85%AD%20%E3%81%AA%E3%82%93%E3%81%B0%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D6-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27084754/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%A1%B0%EB%A1%9C%EC%BF%A0%20%EB%82%9C%EB%B0%94%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-100"></a>
 #### ★★ 스시 히데조 (鮨 ひでぞう) — 🍣 스시·해산물 · 타베로그 3.63
@@ -2579,7 +2579,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 16:00-23:00 (L.O. 22:30) / 휴무 수요일
 - 💡 수요일 휴무, 16:00-23:00, 2시간 제한. 인원 변경은 전날까지, 취소는 2일 전까지 연락. 카드·PayPay 가능. 자매점 '다치즈시 히데조'(긴테쓰 닛폰바시역 근처)도 있다.
 - 🚃 난카이 난바역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=187833502701698313&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%B2%E3%81%A7%E3%81%9E%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D8-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27094403/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%ED%9E%88%EB%8D%B0%EC%A1%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=187833502701698313) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E3%81%B2%E3%81%A7%E3%81%9E%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D8-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27094403/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%ED%9E%88%EB%8D%B0%EC%A1%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-044"></a>
 #### ★★ 와나카 센니치마에 본점 (たこ焼道楽 わなか 千日前本店) — 🐙 타코야키 · 타베로그 3.49
@@ -2589,7 +2589,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 **선정 이유**
 - 🎖️ **미쉐린** [미쉐린 가이드 교토·오사카 빕구르망 2016·2017·2018 3년 연속 게재](https://takoyaki-wanaka.com/)
 - 🍽️ **타베로그** [타베로그 3.49 (리뷰 3,269건)](https://tabelog.com/osaka/A2701/A270202/27002320/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 4,519개 (2026-11-21 기준)](https://maps.google.com/?cid=14307774044429847286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 4,519개 (2026-11-21 기준)](https://maps.google.com/?cid=14307774044429847286)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 테이크아웃·이트인 모두 현장 줄서기.
@@ -2601,7 +2601,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 휴무 연중무휴
 - 💡 1층 테이크아웃, 2층 이트인(총 80석). 소금(塩) 맛이 인기. 카드·전자머니 불가.
 - 🚃 난카이 난바역 도보 4분 / 닛폰바시역·난바역 도보 6분
-- [구글 지도](https://maps.google.com/?cid=14307774044429847286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%93%E7%84%BC%E9%81%93%E6%A5%BD%20%E3%82%8F%E3%81%AA%E3%81%8B%20%E5%8D%83%E6%97%A5%E5%89%8D%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D11-19) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002320/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EB%82%98%EC%B9%B4%20%EC%84%BC%EB%8B%88%EC%B9%98%EB%A7%88%EC%97%90%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14307774044429847286) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%93%E7%84%BC%E9%81%93%E6%A5%BD%20%E3%82%8F%E3%81%AA%E3%81%8B%20%E5%8D%83%E6%97%A5%E5%89%8D%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D11-19) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002320/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EB%82%98%EC%B9%B4%20%EC%84%BC%EB%8B%88%EC%B9%98%EB%A7%88%EC%97%90%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-041"></a>
 #### ★★ 🏯 치토세 본점 (니쿠스이) (千とせ 本店) — 🍲 우동·소바 · 타베로그 3.72
@@ -2626,7 +2626,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 10:30-14:30 / 휴무 화·금
 - 💡 10:30~14:30 점심 장사만, 화·금 휴무. 점심 피크엔 줄이 길다. 현금만(카드·전자머니·QR 불가).
 - 🚃 난카이 난바역 도보 3분 / 난바역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=4741825626377761725&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%83%E3%81%A8%E3%81%9B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D8-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002763/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%ED%86%A0%EC%84%B8%20%EB%B3%B8%EC%A0%90%20%28%EB%8B%88%EC%BF%A0%EC%8A%A4%EC%9D%B4%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4741825626377761725) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%83%E3%81%A8%E3%81%9B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%9B%A3%E6%B3%A2%E5%8D%83%E6%97%A5%E5%89%8D8-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002763/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%ED%86%A0%EC%84%B8%20%EB%B3%B8%EC%A0%90%20%28%EB%8B%88%EC%BF%A0%EC%8A%A4%EC%9D%B4%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-042"></a>
 #### ★★ 🏯 후쿠타로 본점 (福太郎 本店) — 🥞 오코노미야키 · 타베로그 3.70
@@ -2636,7 +2636,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 2,842건)](https://tabelog.com/osaka/A2701/A270202/27002665/)
 - 🏆 **수상·백명점** [타베로그 오코노미야키 백명점 2018·2019·2022·2023·2024·2025 선정](https://award.tabelog.com/hyakumeiten/okonomiyaki)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,910개 (2026-11-21 기준)](https://maps.google.com/?cid=806559085317412531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,910개 (2026-11-21 기준)](https://maps.google.com/?cid=806559085317412531)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 현장 대기.
@@ -2650,7 +2650,7 @@ Tabelog Award Silver 4회(2019~2022)·Bronze 4회(2023~2026), 스시 百名店 3
 - 영업 월~금 17:00-23:30 / 토·일·공휴일 12:00-23:30 (LO 22:45) / 휴무 없음(타베로그 기준)
 - 💡 평일은 17시 오픈(토·일·공휴일은 12시). 예약 불가라 저녁 피크엔 대기. 카드·Suica·PayPay 가능.
 - 🚃 긴테쓰 닛폰바시역 약 200m / 난바역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=806559085317412531&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E5%A4%AA%E9%83%8E%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-3-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002665/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%ED%83%80%EB%A1%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=806559085317412531) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E5%A4%AA%E9%83%8E%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%83%E6%97%A5%E5%89%8D2-3-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27002665/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%ED%83%80%EB%A1%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 센바야시
 
@@ -2673,7 +2673,7 @@ Tabelog Award 2026 Bronze에 돈카츠 百名店 2회(2024·2026), 타베로그 
 - 영업 11:00-13:45, 17:30-19:45 (입장 시각 기준) / 휴무 화요일·금요일 (그 밖에 부정기 휴무)
 - 💡 입장 시각이 정해져 있다(점심 60분·저녁 90분 제한). 카드·교통계 IC 결제 가능, 초등학생 이상만 입장.
 - 🚃 게이한 센바야시역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=12627696740369575854&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%B5%E3%81%98%E4%BA%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%97%AD%E5%8C%BA%E5%8D%83%E6%9E%971-11-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270304/27131908/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%ED%9B%84%EC%A7%80%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12627696740369575854) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%81%B5%E3%81%98%E4%BA%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%97%AD%E5%8C%BA%E5%8D%83%E6%9E%971-11-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270304/27131908/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%ED%9B%84%EC%A7%80%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 신사이바시·아메무라
 
@@ -2695,7 +2695,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 1부 18:00-20:30, 2부 21:00-23:00 / 휴무 수요일
 - 💡 코스가 끝난 뒤 단품을 추가로 주문할 수 있다.
 - 🚃 나가호리바시역에서 약 310m · 신사이바시역 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=14565439345579033767&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20Shizuku%20%E5%BF%83%E6%96%8E%E6%A9%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-1-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27093524/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%8B%9C%EC%A6%88%EC%BF%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14565439345579033767) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20Shizuku%20%E5%BF%83%E6%96%8E%E6%A9%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-1-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27093524/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EC%8B%9C%EC%A6%88%EC%BF%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-048"></a>
 #### ★★★ 진세이 (尽誠) — 🍣 스시·해산물 · 타베로그 4.23
@@ -2716,7 +2716,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 17:00-23:00 (2부제, 토 16:00/18:00/20:30 3부제) / 휴무 일
 - 💡 일요일 휴무. 2부제(토요일 3부제). 예약은 16시 이후 전화(090-8124-5536). 카드 불가.
 - 🚃 신사이바시역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=16891895298749739451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B0%BD%E8%AA%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B2-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000411/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%84%EC%84%B8%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16891895298749739451) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B0%BD%E8%AA%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B2-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000411/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A7%84%EC%84%B8%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-173"></a>
 #### ★★★ 쿄라쿠 야키니쿠 포메 (京洛焼肉 ぽめ) — 🥩 야키니쿠·호르몬 · 타베로그 4.19
@@ -2736,7 +2736,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 18:00-24:00 / 휴무 월요일
 - 💡 카드·전자결제가 안 되니 현금을 넉넉히 준비할 것. 환기가 강하지 않아 옷에 고기 냄새가 밸 수 있다.
 - 🚃 나가호리바시역 도보 3분 · 신사이바시역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=15144315993328157470&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%B4%9B%E7%84%BC%E8%82%89%20%E3%81%BD%E3%82%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-1-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27119987/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EB%9D%BC%EC%BF%A0%20%EC%95%BC%ED%82%A4%EB%8B%88%EC%BF%A0%20%ED%8F%AC%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15144315993328157470) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%B4%9B%E7%84%BC%E8%82%89%20%E3%81%BD%E3%82%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-1-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27119987/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EB%9D%BC%EC%BF%A0%20%EC%95%BC%ED%82%A4%EB%8B%88%EC%BF%A0%20%ED%8F%AC%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-050"></a>
 #### ★★★ 타이안 (太庵) — 🍱 일식·카이세키 · 타베로그 3.68
@@ -2756,7 +2756,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 17:30-19:30 (화~일, 타베로그 표기) / 휴무 월
 - 💡 월요일 휴무, 저녁만 영업. 서비스료 10%, 카드 가능. OMAKASE로 24시간 온라인 예약 가능.
 - 🚃 나가호리바시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7340680687209852821&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%AA%E5%BA%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%851-21-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000578/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%9D%B4%EC%95%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7340680687209852821) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%AA%E5%BA%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B3%B6%E4%B9%8B%E5%86%851-21-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000578/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%9D%B4%EC%95%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-174"></a>
 #### ★★★ 하시모토야 (橋本屋) — 🍛 카레 · 타베로그 4.04
@@ -2778,7 +2778,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:45-13:30 (월~목) / 휴무 금·토·일요일·공휴일
 - 💡 메뉴는 치킨 카레 하나로 밥 양과 토핑만 추가할 수 있고, 매운맛 1단계도 꽤 맵다는 후기가 있다. 현금만 가능하며 초등학생 이상만 입장할 수 있다.
 - 🚃 나가호리바시역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=18386036872914663312&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A9%8B%E6%9C%AC%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B42-2-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27107555/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%8B%9C%EB%AA%A8%ED%86%A0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18386036872914663312) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A9%8B%E6%9C%AC%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B42-2-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27107555/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%8B%9C%EB%AA%A8%ED%86%A0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-051"></a>
 #### ★★ 돈카츠 고시로 (とんかつ 康四郎) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.72
@@ -2798,7 +2798,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:00-13:30 (3부제), 18:30-21:30 / 휴무 일·월(공휴일 포함)
 - 💡 점심은 11:00·12:15·13:30 3부제(빈자리 있으면 워크인 가능), 저녁은 18:30 일제 스타트로 전날까지 예약 필수. 일·월 휴무, 영업시간 변동은 인스타그램 공지 확인. 카드·PayPay 가능.
 - 🚃 신사이바시역 2번 출구 도보 약 6분(크리스타 나가호리 경유)
-- [구글 지도](https://maps.google.com/?cid=17157344728092255472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E5%BA%B7%E5%9B%9B%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B42-10-24) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27134224/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EA%B3%A0%EC%8B%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17157344728092255472) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E5%BA%B7%E5%9B%9B%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B42-10-24) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27134224/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EA%B3%A0%EC%8B%9C%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-175"></a>
 #### ★★ 료보 (両忘) — 🍗 야키토리·닭요리 · 타베로그 3.77
@@ -2817,7 +2817,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 월~금 17:00-23:00 / 토 12:00-23:00 / 일·공휴일 12:00-22:00 / 휴무 부정기 휴무
 - 💡 마무리 돌솥 소보로밥과 자가제 레몬사워가 인기. 영어 가능한 직원이 있고, 아이는 초등학생 이상만 상담 후 입장할 수 있다.
 - 🚃 지하철 신사이바시역·요쓰바시역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=16401502701210739549&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%A1%E5%BF%98%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B1-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27135982/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16401502701210739549) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%A1%E5%BF%98%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B1-10-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27135982/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-046"></a>
 #### ★★ 메이지켄 (明治軒) — 🍳 경양식·오므라이스 · 타베로그 3.49
@@ -2827,7 +2827,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.49 (리뷰 1,739건)](https://tabelog.com/osaka/A2701/A270201/27001834/)
 - 🏆 **수상·백명점** [타베로그 양식 백명점 2020·2022, WEST 2025 선정](https://award.tabelog.com/hyakumeiten/yoshoku_west)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,444개 (2026-11-21 기준)](https://maps.google.com/?cid=12921712387673618451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,444개 (2026-11-21 기준)](https://maps.google.com/?cid=12921712387673618451)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -2840,7 +2840,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:00-15:00, 17:00-20:00 (월은 점심만) / 휴무 수
 - 💡 수요일 휴무, 월요일은 점심만. 카드·전자머니 불가, PayPay 가능.
 - 🚃 신사이바시역 5·6번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=12921712387673618451&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%8E%E6%B2%BB%E8%BB%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B1-5-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27001834/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EC%9D%B4%EC%A7%80%EC%BC%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12921712387673618451) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%8E%E6%B2%BB%E8%BB%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B1-5-32) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27001834/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EC%9D%B4%EC%A7%80%EC%BC%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-047"></a>
 #### ★★ 우사미테이 마츠바야 (うさみ亭マツバヤ) — 🍲 우동·소바 · 타베로그 3.66
@@ -2851,7 +2851,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 🏯 **노포·원조** [1893년(메이지 26년) 창업한 船場의 '松葉家'가 유부 우동(키츠네우동)을 고안했다고 전해짐, 가게에 '大阪きつねうどん' 석비](https://ja.wikipedia.org/wiki/きつねうどん)
 - 🍽️ **타베로그** [타베로그 3.66 (리뷰 921건)](https://tabelog.com/osaka/A2701/A270201/27000931/)
 - 🏆 **수상·백명점** [타베로그 우동 WEST 백명점 2024 선정](https://award.tabelog.com/hyakumeiten/udon_west)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 866개 (2026-11-21 기준)](https://maps.google.com/?cid=13100384311338914887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 866개 (2026-11-21 기준)](https://maps.google.com/?cid=13100384311338914887)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -2864,7 +2864,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:00-18:00 (월~토) / 휴무 일·공휴일
 - 💡 일요일·공휴일 휴무, 18시까지만 영업. 현금만(카드·전자머니·QR 불가).
 - 🚃 신사이바시역 1·2번 출구 도보 7분
-- [구글 지도](https://maps.google.com/?cid=13100384311338914887&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%95%E3%81%BF%E4%BA%AD%E3%83%9E%E3%83%84%E3%83%90%E3%83%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B43-8-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000931/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EC%82%AC%EB%AF%B8%ED%85%8C%EC%9D%B4%20%EB%A7%88%EC%B8%A0%EB%B0%94%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13100384311338914887) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%95%E3%81%BF%E4%BA%AD%E3%83%9E%E3%83%84%E3%83%90%E3%83%A4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8D%97%E8%88%B9%E5%A0%B43-8-1) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000931/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EC%82%AC%EB%AF%B8%ED%85%8C%EC%9D%B4%20%EB%A7%88%EC%B8%A0%EB%B0%94%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-177"></a>
 #### ★★ 추카 슌사이 모리모토 (中華旬彩 森本) — 🥟 중화·교자 · 타베로그 3.60
@@ -2874,7 +2874,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 1,759건), 중식 百名店 WEST 2021·2023·2024](https://tabelog.com/osaka/A2701/A270201/27086074/)
 - 🎖️ **미쉐린** 미쉐린 가이드 2026 빕구르망 (첫 게재)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 719개 (2026-11-21 기준)](https://maps.google.com/?cid=6823457983942536636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 719개 (2026-11-21 기준)](https://maps.google.com/?cid=6823457983942536636)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 점심은 좌석 예약 불가. 가게는 인터넷 예약을 부탁하지만(바쁜 시간엔 전화 연결이 어려움) 타베로그 페이지에서 예약 버튼은 확인되지 않았다. 연락 없이 15분 이상 늦으면 예약 취소.
@@ -2885,7 +2885,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:30-15:00, 18:00-22:00 / 휴무 수요일 (변동 가능)
 - 💡 점심엔 요다레도리 런치·미니 마파두부 등 1,000엔대 메뉴가 있다. 저녁엔 1인 350엔의 기본 안주 요금이 붙는다.
 - 🚃 지하철 신사이바시역 5번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=6823457983942536636&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E6%97%AC%E5%BD%A9%20%E6%A3%AE%E6%9C%AC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B1-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27086074/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B6%94%EC%B9%B4%20%EC%8A%8C%EC%82%AC%EC%9D%B4%20%EB%AA%A8%EB%A6%AC%EB%AA%A8%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6823457983942536636) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E6%97%AC%E5%BD%A9%20%E6%A3%AE%E6%9C%AC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%BF%83%E6%96%8E%E6%A9%8B%E7%AD%8B1-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27086074/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B6%94%EC%B9%B4%20%EC%8A%8C%EC%82%AC%EC%9D%B4%20%EB%AA%A8%EB%A6%AC%EB%AA%A8%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-049"></a>
 #### ★★ 키타무라 (北むら) — 🐂 와규·스테이크 · 타베로그 3.67
@@ -2895,7 +2895,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 178건)](https://tabelog.com/osaka/A2701/A270201/27000889/)
 - 🏆 **수상·백명점** [타베로그 스키야키·샤부샤부 백명점 2024·2026 선정](https://award.tabelog.com/hyakumeiten/sukiyaki_shabushabu)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 306개 (2026-11-21 기준)](https://maps.google.com/?cid=568154845182932388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 306개 (2026-11-21 기준)](https://maps.google.com/?cid=568154845182932388)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그상 예약 가능이나 온라인 예약 버튼 없음. 전화 06-6245-4129.
@@ -2906,7 +2906,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 16:30-21:50 (월~토) / 휴무 일
 - 💡 일요일 휴무, 저녁(16:30~)만 영업. 개별실 있음. 카드는 JCB·AMEX·Diners 표기.
 - 🚃 신사이바시역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=568154845182932388&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B1-16-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000889/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%ED%83%80%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=568154845182932388) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B1-16-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27000889/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%ED%83%80%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-084"></a>
 #### ★ 돈소쿠 비짱 (とん足 びーちゃん) — 🍶 이자카야·다치노미 · 타베로그 3.56
@@ -2926,7 +2926,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 18:00-21:00 (월~토, 매진 시 조기 마감) / 휴무 일요일
 - 💡 카운터 6석, 18~21시의 짧은 영업에 족발 매진 시 조기 마감. 타베로그상 카드·전자화폐·QR 불가라 현금 준비. 전화 예약 가능.
 - 🚃 신사이바시역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=12237864819201507057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E8%B6%B3%20%E3%81%B3%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-4-19) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27013496/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%86%8C%EC%BF%A0%20%EB%B9%84%EC%A7%B1%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12237864819201507057) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E8%B6%B3%20%E3%81%B3%E3%83%BC%E3%81%A1%E3%82%83%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B2-4-19) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27013496/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%86%8C%EC%BF%A0%20%EB%B9%84%EC%A7%B1%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-045"></a>
 #### ★ 🏯 홋쿄쿠세이 신사이바시 본점 (北極星 心斎橋本店) — 🍳 경양식·오므라이스 · 타베로그 3.46
@@ -2936,7 +2936,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🏯 **노포·원조** [1925년(다이쇼 14년) 전신 'パンヤの食堂' 주인 기타하시 시게오가 오므라이스를 고안했다고 전해짐](https://ja.wikipedia.org/wiki/オムライス)
 - 🍽️ **타베로그** [타베로그 3.46 (리뷰 1,444건)](https://tabelog.com/osaka/A2701/A270202/27001274/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,880개 (2026-11-21 기준)](https://maps.google.com/?cid=7101572526531839344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,880개 (2026-11-21 기준)](https://maps.google.com/?cid=7101572526531839344)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -2950,7 +2950,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:30-21:30 / 휴무 없음(타베로그 기준)
 - 💡 예약 불가. 카드 결제 가능. 매일 11:30-21:30 영업.
 - 🚃 난바역 25번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7101572526531839344&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E6%A5%B5%E6%98%9F%20%E5%BF%83%E6%96%8E%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B2-7-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001274/) · [유튜브](https://www.youtube.com/results?search_query=%ED%99%8B%EC%BF%84%EC%BF%A0%EC%84%B8%EC%9D%B4%20%EC%8B%A0%EC%82%AC%EC%9D%B4%EB%B0%94%EC%8B%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7101572526531839344) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8C%97%E6%A5%B5%E6%98%9F%20%E5%BF%83%E6%96%8E%E6%A9%8B%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%A5%BF%E5%BF%83%E6%96%8E%E6%A9%8B2-7-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270202/27001274/) · [유튜브](https://www.youtube.com/results?search_query=%ED%99%8B%EC%BF%84%EC%BF%A0%EC%84%B8%EC%9D%B4%20%EC%8B%A0%EC%82%AC%EC%9D%B4%EB%B0%94%EC%8B%9C%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-085"></a>
 #### ★ 히마와리 (ひまわり) — 🥞 오코노미야키 · 타베로그 3.45
@@ -2971,7 +2971,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 17:00-23:30 (L.O. 요리 22:30, 음료 23:00) / 휴무 일요일, 여름휴가·연말연시
 - 💡 저녁 영업(17시~)만, 일요일 휴무. 예약은 전화로. 카드·PayPay 가능.
 - 🚃 신사이바시역 도보 5분 / 나가호리바시역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=10092584069688419764&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B1-19-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27083055/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%A7%88%EC%99%80%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10092584069688419764) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B2%E3%81%BE%E3%82%8F%E3%82%8A%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%BF%83%E6%96%8E%E6%A9%8B1-19-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27083055/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%A7%88%EC%99%80%EB%A6%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 신세카이·덴노지
 
@@ -2995,7 +2995,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 매일 11:30-14:00 / 저녁 화·수·토 18:00-21:00, 금 18:00-22:00
 - 💡 점심 11:30-14:00 위주(저녁은 화·수·토 18-21시, 금 18-22시만), 재료 소진 시 종료. 예약 불가. 현금 또는 PayPay.
 - 🚃 시텐노지마에유히가오카역 4번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=4872431967231017423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%99%B9%E3%81%AE%E4%BB%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA1-12-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27066977/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%A7%80%EB%85%B8%ED%98%B8%ED%86%A0%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4872431967231017423) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%99%B9%E3%81%AE%E4%BB%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA1-12-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27066977/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%A7%80%EB%85%B8%ED%98%B8%ED%86%A0%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-053"></a>
 #### ★★ 그릴 본 (グリル梵) — 🍳 경양식·오므라이스 · 타베로그 3.58
@@ -3005,7 +3005,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 518건)](https://tabelog.com/osaka/A2701/A270206/27001105/)
 - 🏆 **수상·백명점** [타베로그 양식 WEST 백명점 2025 선정](https://award.tabelog.com/hyakumeiten/yoshoku_west)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 590개 (2026-11-21 기준)](https://maps.google.com/?cid=18159818243211090275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 590개 (2026-11-21 기준)](https://maps.google.com/?cid=18159818243211090275)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그상 예약 가능이나 온라인 예약 버튼 없음. 전화 06-6632-3765.
@@ -3016,7 +3016,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 12:00-14:30 (LO 14:00), 17:00-19:30 (LO 19:00) / 휴무 매월 6·16·26일
 - 💡 매월 6·16·26일 휴무, 재료 소진 시 종료. 카드 가능.
 - 🚃 에비스초역 도보 2분 / 도부쓰엔마에역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=18159818243211090275&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B0%E3%83%AA%E3%83%AB%E6%A2%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B11-17-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27001105/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B7%B8%EB%A6%B4%20%EB%B3%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18159818243211090275) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B0%E3%83%AA%E3%83%AB%E6%A2%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B11-17-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27001105/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B7%B8%EB%A6%B4%20%EB%B3%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-054"></a>
 #### ★★ 무뎃포 오사카점 (無鉄砲 大阪店) — 🍜 라멘 · 타베로그 3.71
@@ -3038,7 +3038,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:00-15:00, 17:30-22:30 / 휴무 월(공휴일은 영업)
 - 💡 월요일 휴무(공휴일은 영업). 15:00-17:30 브레이크 타임. 현금만(카드·전자머니·QR 불가).
 - 🚃 다이코쿠초역 4번 출구 / 난카이 이마미야에비스역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=938185873184974134&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%A1%E9%89%84%E7%A0%B2%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%88%8E%E6%9C%AC%E7%94%BA1-5-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27005006/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%8E%83%ED%8F%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=938185873184974134) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%A1%E9%89%84%E7%A0%B2%20%E5%A4%A7%E9%98%AA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%88%8E%E6%9C%AC%E7%94%BA1-5-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27005006/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%8E%83%ED%8F%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-102"></a>
 #### ★★ 센나리야 커피 (千成屋珈琲) — ☕ 카페·킷사텐 · 타베로그 3.63
@@ -3059,7 +3059,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 평일 11:30-19:00 / 토·일·공휴일 9:00-19:00
 - 💡 평일 11:30-19:00, 주말·공휴일 9:00-19:00. 카드·전자결제 가능. 쿠시카츠 먹고 디저트 겸 들르기 좋다(텐구 바로 근처).
 - 🚃 도부쓰엔마에역 1번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=573427284082764967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%83%E6%88%90%E5%B1%8B%E7%8F%88%E7%90%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27017860/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%EB%82%98%EB%A6%AC%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=573427284082764967) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%83%E6%88%90%E5%B1%8B%E7%8F%88%E7%90%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-15) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27017860/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%EB%82%98%EB%A6%AC%EC%95%BC%20%EC%BB%A4%ED%94%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-178"></a>
 #### ★★ 오소레이유 쿠샹 (オーソレイユ クーシャン) — 🍷 프렌치·이노베이티브 · 타베로그 3.33
@@ -3079,7 +3079,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 11:30-14:00, 18:00-21:00 / 휴무 수요일
 - 💡 카드·전자결제가 안 되는 현금 전용 가게다. 수요일은 쉰다.
 - 🚃 시텐노지마에유히가오카역 4번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15056895054181113367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20%E3%82%AF%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA1-14-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27058206/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%86%8C%EB%A0%88%EC%9D%B4%EC%9C%A0%20%EC%BF%A0%EC%83%B9%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15056895054181113367) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%83%BC%E3%82%BD%E3%83%AC%E3%82%A4%E3%83%A6%20%E3%82%AF%E3%83%BC%E3%82%B7%E3%83%A3%E3%83%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%9B%9B%E5%A4%A9%E7%8E%8B%E5%AF%BA1-14-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27058206/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%86%8C%EB%A0%88%EC%9D%B4%EC%9C%A0%20%EC%BF%A0%EC%83%B9%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-086"></a>
 #### ★ 논키야 (のんきや) — 🍶 이자카야·다치노미 · 타베로그 3.49
@@ -3089,7 +3089,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - ▶️ **유튜브** [Mark Wiens 2024년 오사카 영상 첫 코스. 서서 먹는 노포 오뎅·도테야키(1,420엔)로 소개](https://www.youtube.com/watch?v=3zLvByt52go)
 - 🍽️ **타베로그** [타베로그 3.49 (리뷰 410건) — 3.5 미만이지만 Mark Wiens 소개와 신세카이 서민 선술집 상징성으로 포함](https://tabelog.com/osaka/A2701/A270206/27045066/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 404개 (2026-11-21 기준)](https://maps.google.com/?cid=10631297181652875660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 404개 (2026-11-21 기준)](https://maps.google.com/?cid=10631297181652875660)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 서서 먹는 선술집이라 그냥 방문.
@@ -3101,7 +3101,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 08:00-14:30, 16:30-20:00 (토·일 오후 16:00~, L.O. 19:30) / 휴무 화·수요일
 - 💡 현금만. 화·수 휴무. 아침 8시 오픈이라 신세카이 아침 코스로 좋고, 바로 옆 입식 우동집 마츠야도 Mark Wiens 코스.
 - 🚃 도부쓰엔마에역 도보 3분 / 신이마미야역 동쪽 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=10631297181652875660&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AE%E3%82%93%E3%81%8D%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27045066/) · [유튜브](https://www.youtube.com/results?search_query=%EB%85%BC%ED%82%A4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10631297181652875660) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AE%E3%82%93%E3%81%8D%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-5) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27045066/) · [유튜브](https://www.youtube.com/results?search_query=%EB%85%BC%ED%82%A4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-103"></a>
 #### ★ 신세카이 칸칸 (新世界 かんかん) — 🐙 타코야키 · 타베로그 3.49
@@ -3123,7 +3123,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 화~일 9:30-18:00 / 휴무 월요일
 - 💡 월요일 휴무, 9:30-18:00. 서서 먹는 테이블 2개 정도라 사실상 테이크아웃. 현금만. 근처 자판기 맥주 반입 가능(혼잡 시 자제).
 - 🚃 도부쓰엔마에역 1번 출구 도보 5분 / JR 신이마미야역 동쪽 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6087713483950905479&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E4%B8%96%E7%95%8C%20%E3%81%8B%E3%82%93%E3%81%8B%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-5-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27011377/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%B9%B8%EC%B9%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6087713483950905479) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E4%B8%96%E7%95%8C%20%E3%81%8B%E3%82%93%E3%81%8B%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-5-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27011377/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%B9%B8%EC%B9%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-055"></a>
 #### ★ 야에카츠 (八重勝) — 🍢 쿠시카츠 · 타베로그 3.49
@@ -3146,7 +3146,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 10:30-20:30 / 휴무 목
 - 💡 목요일 휴무. 줄이 길지만 회전은 빠른 편. 현금만(카드·전자머니·QR 불가).
 - 🚃 도부쓰엔마에역 1번 출구 도보 2분 / JR 신이마미야역 동쪽 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=5223555477227955972&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AB%E9%87%8D%E5%8B%9D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27000443/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EC%97%90%EC%B9%B4%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5223555477227955972) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AB%E9%87%8D%E5%8B%9D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27000443/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EC%97%90%EC%B9%B4%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-052"></a>
 #### ★ 🏯 쿠시카츠 다루마 신세카이 총본점 (元祖串かつ だるま 新世界総本店) — 🍢 쿠시카츠 · 타베로그 3.48
@@ -3169,7 +3169,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 월~금 11:00-22:30 / 토·일·공휴일 10:30-22:30 (LO 22:00) / 휴무 없음(타베로그 기준)
 - 💡 총본점은 카운터 12석뿐이라 대기 각오. 소스는 한 번만 찍고, 더 필요하면 양배추로 떠서 뿌릴 것. 현금만(카드·전자머니·QR 불가).
 - 🚃 도부쓰엔마에역 5번 출구 도보 6분 / 에비스초역 3번 출구 도보 6분
-- [구글 지도](https://maps.google.com/?cid=17209588581346616951&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%83%E7%A5%96%E4%B8%B2%E3%81%8B%E3%81%A4%20%E3%81%A0%E3%82%8B%E3%81%BE%20%E6%96%B0%E4%B8%96%E7%95%8C%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B12-3-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27004260/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%9C%EC%B9%B4%EC%B8%A0%20%EB%8B%A4%EB%A3%A8%EB%A7%88%20%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17209588581346616951) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%83%E7%A5%96%E4%B8%B2%E3%81%8B%E3%81%A4%20%E3%81%A0%E3%82%8B%E3%81%BE%20%E6%96%B0%E4%B8%96%E7%95%8C%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B12-3-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27004260/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%8B%9C%EC%B9%B4%EC%B8%A0%20%EB%8B%A4%EB%A3%A8%EB%A7%88%20%EC%8B%A0%EC%84%B8%EC%B9%B4%EC%9D%B4%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-087"></a>
 #### ★ 텐구 (てんぐ) — 🍢 쿠시카츠 · 타베로그 3.49
@@ -3192,7 +3192,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 10:30-20:00
 - 💡 예약 불가, 카운터 37석. 소스 두 번 찍기 금지. 현금만. 10:30부터 영업해 점심에도 좋다. 메뉴 가격은 변동 가능.
 - 🚃 도부쓰엔마에역 1번 출구 도보 2분 / JR 신이마미야역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=5198892808408323011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A6%E3%82%93%E3%81%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27000442/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EA%B5%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5198892808408323011) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A6%E3%82%93%E3%81%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B5%AA%E9%80%9F%E5%8C%BA%E6%81%B5%E7%BE%8E%E9%A0%88%E6%9D%B13-4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270206/27000442/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EA%B5%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 쓰루하시
 
@@ -3204,7 +3204,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.73 (리뷰 952건)](https://tabelog.com/osaka/A2701/A270205/27000561/)
 - 🏆 **수상·백명점** [타베로그 야키니쿠 백명점 2019, WEST 2020~2026 매년 선정](https://award.tabelog.com/hyakumeiten/yakiniku_west)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 493개 (2026-11-21 기준)](https://maps.google.com/?cid=5138672742046468206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 493개 (2026-11-21 기준)](https://maps.google.com/?cid=5138672742046468206)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 1~3인은 당일 예약만, 4인 이상은 다음 달까지 예약 가능(2023년 11월~). 전화 090-2592-9687(월·수 제외). 온라인 예약 없음.
@@ -3215,7 +3215,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 17:30~ / 휴무 월·수
 - 💡 17:30 오픈, 월·수 휴무. 1~3인은 당일 예약만 가능(4인 이상은 다음 달까지). 현금만. 쓰루하시역에서 도보 약 15분.
 - 🚃 쓰루하시역 도보 약 15분(약 600m)
-- [구글 지도](https://maps.google.com/?cid=5138672742046468206&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%87%E6%AD%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B73-3-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000561/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EB%A7%88%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5138672742046468206) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%87%E6%AD%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B73-3-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000561/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EB%A7%88%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-180"></a>
 #### ★★ 멘도코로 스베테 (麺処 全て) — 🍜 라멘 · 타베로그 3.62
@@ -3236,7 +3236,7 @@ Tabelog Award 2025·2026 연속 Bronze에 스시 百名店 3회. 그날 들어�
 - 영업 10:00-16:00 / 휴무 수요일
 - 💡 현금만 받는다. 아침 10시에 열고 재료가 떨어지면 일찍 닫을 수 있으니 이른 시간에 가는 편이 안전하다.
 - 🚃 모모다니역 약 530m
-- [구글 지도](https://maps.google.com/?cid=8642509704207090885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%87%A6%20%E5%85%A8%E3%81%A6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B72-17-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27146800/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%8A%A4%EB%B2%A0%ED%85%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8642509704207090885) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%87%A6%20%E5%85%A8%E3%81%A6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B72-17-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27146800/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%8A%A4%EB%B2%A0%ED%85%8C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-057"></a>
 #### ★★ 소라 쓰루하시 총본점 (空 鶴橋総本店) — 🥩 야키니쿠·호르몬 · 타베로그 3.69
@@ -3259,7 +3259,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 11:00-22:00 / 휴무 화(공휴일이면 다음날)
 - 💡 예약 불가·현금만. 화요일 휴무(공휴일이면 다음날). 11시부터 통으로 영업해 저녁 피크를 피해 이른 시간 방문 추천.
 - 🚃 JR 쓰루하시역 도보 1분 / 지하철 쓰루하시역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=17307329987200885888&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%20%E9%B6%B4%E6%A9%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8B%E5%91%B3%E5%8E%9F%E7%94%BA1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000564/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%9D%BC%20%EC%93%B0%EB%A3%A8%ED%95%98%EC%8B%9C%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17307329987200885888) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A9%BA%20%E9%B6%B4%E6%A9%8B%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8B%E5%91%B3%E5%8E%9F%E7%94%BA1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000564/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%9D%BC%20%EC%93%B0%EB%A3%A8%ED%95%98%EC%8B%9C%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-058"></a>
 #### ★★ 오모니 본점 (お好み焼 オモニ 本店) — 🥞 오코노미야키 · 타베로그 3.67
@@ -3269,7 +3269,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 863건)](https://tabelog.com/osaka/A2701/A270205/27000560/)
 - 🏆 **수상·백명점** [타베로그 오코노미야키 백명점 2018·2019·2022·2023·2024·2025 선정](https://award.tabelog.com/hyakumeiten/okonomiyaki)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 742개 (2026-11-21 기준)](https://maps.google.com/?cid=10995549564776691126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 742개 (2026-11-21 기준)](https://maps.google.com/?cid=10995549564776691126)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」.
@@ -3283,7 +3283,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 11:30-21:45 (입장 21:00까지) / 휴무 월·화
 - 💡 JR 쓰루하시역에서 도보 약 10분. 월·화 휴무, 21시까지 입장. 카드·전자머니 불가(PayPay·라쿠텐페이는 가능).
 - 🚃 JR 쓰루하시역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=10995549564776691126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E3%82%AA%E3%83%A2%E3%83%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B73-3-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000560/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%AA%A8%EB%8B%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10995549564776691126) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E3%82%AA%E3%83%A2%E3%83%8B%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E6%A1%83%E8%B0%B73-3-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27000560/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%AA%A8%EB%8B%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-179"></a>
 #### ★★ 카미가타 레인보 (上方レインボー) — 🍜 라멘 · 타베로그 3.71
@@ -3293,7 +3293,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 870건), 라멘 OSAKA 百名店 2023·2024·2025](https://tabelog.com/osaka/A2701/A270203/27116315/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 (3년 연속)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 599개 (2026-11-21 기준)](https://maps.google.com/?cid=2828261912584655185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 599개 (2026-11-21 기준)](https://maps.google.com/?cid=2828261912584655185)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/kamigatarainbow/reserve)
 - 예약 팁: TableCheck 예약은 매주 금요일 0시에 다음 토~금요일분이 열린다. 1인 500엔 예약 수수료(환불 불가)가 있고 좌석 확정이 아닌 우선 안내 방식이며, 전화 예약은 받지 않는다.
@@ -3304,7 +3304,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 11:00-15:00, 18:00-22:00 (목요일은 09:00-15:00) / 휴무 연중무휴
 - 💡 좌석이 6석뿐이라 TableCheck 우선 착석 예약을 이용하면 기다림을 줄일 수 있다. 목요일은 아침 9시부터 15시까지만 영업한다.
 - 🚃 모모다니역 남쪽 출구 도보 5분 (약 430m)
-- [구글 지도](https://maps.google.com/?cid=2828261912584655185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8A%E6%96%B9%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%8B%9D%E5%B1%B14-6-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27116315/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%AF%B8%EA%B0%80%ED%83%80%20%EB%A0%88%EC%9D%B8%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2828261912584655185) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8A%E6%96%B9%E3%83%AC%E3%82%A4%E3%83%B3%E3%83%9C%E3%83%BC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%8B%9D%E5%B1%B14-6-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27116315/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%AF%B8%EA%B0%80%ED%83%80%20%EB%A0%88%EC%9D%B8%EB%B3%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 아베노
 
@@ -3327,7 +3327,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 11:30-14:00, 18:00-20:30 / 휴무 일요일·부정기 휴무 (월요일은 표기가 엇갈림)
 - 💡 예약 시간에 늦으면 나오는 가짓수가 줄 수 있고, 강한 향수는 삼가 달라는 안내가 있다. 서비스 요금이 따로 붙는다.
 - 🚃 기타바타케역(한카이 우에마치선) 도보 1분 · 덴노지역에서 택시 5분
-- [구글 지도](https://maps.google.com/?cid=5156107881070906128&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%BE%E5%AF%BF%E5%8F%B8%20%E3%81%9F%E3%81%AB%E3%81%8C%E3%82%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E7%8E%8B%E5%AD%90%E7%94%BA3-13-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27015415/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EC%A6%88%EC%8B%9C%20%ED%83%80%EB%8B%88%EA%B0%80%EC%99%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5156107881070906128) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%BE%E5%AF%BF%E5%8F%B8%20%E3%81%9F%E3%81%AB%E3%81%8C%E3%82%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E7%8E%8B%E5%AD%90%E7%94%BA3-13-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27015415/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EC%A6%88%EC%8B%9C%20%ED%83%80%EB%8B%88%EA%B0%80%EC%99%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-059"></a>
 #### ★★ 멘야 사이사이 쇼와초 본점 (麺屋彩々 昭和町本店) — 🍜 라멘 · 타베로그 3.69
@@ -3337,7 +3337,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69 (리뷰 1,454건)](https://tabelog.com/osaka/A2701/A270203/27059500/)
 - 🏆 **수상·백명점** [타베로그 라멘 백명점 WEST 2017~2022, OSAKA 2023·2024·2025 연속 선정](https://award.tabelog.com/hyakumeiten/ramen_osaka)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 731개 (2026-11-21 기준)](https://maps.google.com/?cid=12287819238588015693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 731개 (2026-11-21 기준)](https://maps.google.com/?cid=12287819238588015693)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」, 온라인 예약·원격 대기 링크 없음.
@@ -3351,7 +3351,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 8:00-14:15, 17:30-19:30 / 휴무 목
 - 💡 목요일 휴무. 8:00-14:15, 17:30-19:30 영업이라 아침 라멘도 가능. 예약 불가. 카드·전자머니·QR 결제 가능.
 - 🚃 쇼와초역(미도스지선) 2번 출구 도보 1분 / 후미노사토역 4번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=12287819238588015693&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%E5%BD%A9%E3%80%85%20%E6%98%AD%E5%92%8C%E7%94%BA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%AA%E5%8D%97%E7%94%BA1-46-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27059500/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4%20%EC%87%BC%EC%99%80%EC%B4%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12287819238588015693) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%E5%BD%A9%E3%80%85%20%E6%98%AD%E5%92%8C%E7%94%BA%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%AA%E5%8D%97%E7%94%BA1-46-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27059500/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%82%AC%EC%9D%B4%EC%82%AC%EC%9D%B4%20%EC%87%BC%EC%99%80%EC%B4%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-182"></a>
 #### ★★ 텐푸라 코자키 (てんぷら こざき) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.66
@@ -3371,7 +3371,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 17:30-21:30 / 휴무 월요일 (2~3개월에 한 번 화요일 휴무)
 - 💡 카드·전자결제가 안 되니 현금을 넉넉히 준비할 것. 17:30·19:30 두 타임으로 나눠 손님을 받는다.
 - 🚃 후미노사토역 2번 출구에서 약 260m
-- [구글 지도](https://maps.google.com/?cid=6104062204424908541&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%20%E3%81%93%E3%81%96%E3%81%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E6%9D%BE%E5%B4%8E%E7%94%BA4-11-38) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27033152/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%ED%91%B8%EB%9D%BC%20%EC%BD%94%EC%9E%90%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6104062204424908541) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A6%E3%82%93%E3%81%B7%E3%82%89%20%E3%81%93%E3%81%96%E3%81%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E6%9D%BE%E5%B4%8E%E7%94%BA4-11-38) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27033152/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%ED%91%B8%EB%9D%BC%20%EC%BD%94%EC%9E%90%ED%82%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-104"></a>
 #### ★ 아베노 타코야키 야마짱 본점 (やまちゃん 本店) — 🐙 타코야키 · 타베로그 3.49
@@ -3394,7 +3394,7 @@ JR 쓰루하시역 1분, 야키니쿠 성지 쓰루하시를 대표하는 120석
 - 영업 월·화·목·일·공휴일 11:00-22:00 / 수·금·토 11:00-23:00 / 휴무 부정기(1월 1일 휴무)
 - 💡 현재 매장 좌석 운영 중단 — 테이크아웃 전용. 덴노지역·긴테쓰 오사카아베노바시역 바로 앞이라 아베노하루카스 가는 길에 들르기 좋다. 현금만.
 - 🚃 긴테쓰 오사카아베노바시역 도보 1분 / 덴노지역 바로 앞
-- [구글 지도](https://maps.google.com/?cid=14310328804541557959&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%84%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B1-2-34) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27002750/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%B2%A0%EB%85%B8%20%ED%83%80%EC%BD%94%EC%95%BC%ED%82%A4%20%EC%95%BC%EB%A7%88%EC%A7%B1%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14310328804541557959) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%84%E3%81%BE%E3%81%A1%E3%82%83%E3%82%93%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E9%98%BF%E5%80%8D%E9%87%8E%E5%8C%BA%E9%98%BF%E5%80%8D%E9%87%8E%E7%AD%8B1-2-34) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270203/27002750/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%B2%A0%EB%85%B8%20%ED%83%80%EC%BD%94%EC%95%BC%ED%82%A4%20%EC%95%BC%EB%A7%88%EC%A7%B1%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 야오
 
@@ -3407,7 +3407,7 @@ Tabelog Award 10회(2020~2023 Silver 포함)·돈카츠 百名店 7회, 타베�
 - 🍽️ **타베로그** [타베로그 3.99 (리뷰 2,429건), 돈카츠 百名店 2026](https://tabelog.com/osaka/A2707/A270705/27013624/)
 - 🏆 **수상·백명점** Tabelog Award 2026 Bronze (2020~2023 Silver 포함 통산 10회)
 - 🏆 **수상·백명점** 돈카츠 百名店 2017·2018·2019·2021·2022·2024·2026 선정
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,564개 (2026-11-21 기준)](https://maps.google.com/?cid=371562154138431314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,564개 (2026-11-21 기준)](https://maps.google.com/?cid=371562154138431314)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 당일 아침 8:30부터 가게 앞에서 명단 기입(점심 60명·저녁 40명 한정). 저녁은 당일 전화로 남은 자리를 확인하고 들어간 후기도 있다.
@@ -3423,7 +3423,7 @@ Tabelog Award 10회(2020~2023 Silver 포함)·돈카츠 百名店 7회, 타베�
 - 영업 11:00-14:00, 17:00-20:30 / 휴무 월요일·화요일 (공휴일도 휴무)
 - 💡 아침 8:30부터 가게 앞에서 당일 명단을 받고 순서가 되면 전화로 부르므로, 통화 가능한 번호를 남겨야 한다. 카드·PayPay 결제 가능, 주차장 9대.
 - 🚃 JR 야오역 북쪽 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=371562154138431314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%83%9E%E3%83%B3%E3%82%B8%E3%82%A7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%85%AB%E5%B0%BE%E5%B8%82%E9%99%BD%E5%85%89%E5%9C%922-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2707/A270705/27013624/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EB%A7%8C%EC%A0%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=371562154138431314) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%93%E3%81%8B%E3%81%A4%20%E3%83%9E%E3%83%B3%E3%82%B8%E3%82%A7%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%85%AB%E5%B0%BE%E5%B8%82%E9%99%BD%E5%85%89%E5%9C%922-3-22) · [타베로그](https://tabelog.com/kr/osaka/A2707/A270705/27013624/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8F%88%EC%B9%B4%EC%B8%A0%20%EB%A7%8C%EC%A0%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 에사카
 
@@ -3445,7 +3445,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 12:00-14:30, 18:00-21:30 (월요일은 저녁만) / 휴무 일요일 (월요일은 점심 휴무)
 - 💡 주차장(5~6대)이 있다. 저녁 코스엔 5% 서비스 요금이 붙고 아이 동반은 불가.
 - 🚃 에사카역 5번 출구에서 약 600m (도보 8분)
-- [구글 지도](https://maps.google.com/?cid=13883143181538322780&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%AC%E5%BD%A9%E5%A4%A9%20%E3%81%A4%E3%81%A1%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%90%B9%E7%94%B0%E5%B8%82%E8%B1%8A%E6%B4%A5%E7%94%BA41-4) · [타베로그](https://tabelog.com/kr/osaka/A2706/A270602/27017728/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%8C%EC%82%AC%EC%9D%B4%ED%85%90%20%EC%B8%A0%EC%B9%98%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13883143181538322780) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%AC%E5%BD%A9%E5%A4%A9%20%E3%81%A4%E3%81%A1%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%90%B9%E7%94%B0%E5%B8%82%E8%B1%8A%E6%B4%A5%E7%94%BA41-4) · [타베로그](https://tabelog.com/kr/osaka/A2706/A270602/27017728/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%8C%EC%82%AC%EC%9D%B4%ED%85%90%20%EC%B8%A0%EC%B9%98%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 오사카성·다니마치
 
@@ -3466,7 +3466,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 평일 1부 18:00·2부 20:30, 주말·공휴일 1부 17:00·2부 19:30 (~23:00)
 - 💡 소믈리에가 상주하고 영어 메뉴판이 있다. 강한 향수는 자제해 달라는 요청이 있다. 카드 결제 가능.
 - 🚃 텐마바시역 도보 약 4~5분
-- [구글 지도](https://maps.google.com/?cid=17655392979059327079&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E7%87%A6%E7%84%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%87%A3%E9%90%98%E7%94%BA2-1-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27152450/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%82%B0%EC%A0%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17655392979059327079) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E7%87%A6%E7%84%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%87%A3%E9%90%98%E7%94%BA2-1-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27152450/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%82%B0%EC%A0%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-060"></a>
 #### ★★★ 우나기 니시하라 (鰻 にしはら) — 🐟 장어 · 타베로그 3.74
@@ -3486,7 +3486,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 화~일 11:00-14:00(L.O. 13:45), 17:00-21:00(L.O. 20:30) / 휴무 월요일, 매월 둘째 화요일
 - 💡 월요일·둘째 화요일 휴무. 예약하면 원하는 시간에 맞춰 장어를 준비해 준다. 카드 불가.
 - 🚃 다니마치욘초메역 도보 5분 / 덴마바시역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=16057071794334039410&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B0%BB%20%E3%81%AB%E3%81%97%E3%81%AF%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%96%B0%E7%94%BA4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27081196/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%20%EB%8B%88%EC%8B%9C%ED%95%98%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16057071794334039410) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B0%BB%20%E3%81%AB%E3%81%97%E3%81%AF%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%8C%97%E6%96%B0%E7%94%BA4-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27081196/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%20%EB%8B%88%EC%8B%9C%ED%95%98%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-105"></a>
 #### ★★ 고조야 (五條家) — 🍢 쿠시카츠 · 타베로그 3.66
@@ -3506,7 +3506,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 월~토 17:00-23:00 / 휴무 일요일·공휴일
 - 💡 일·공휴일 휴무, 17:00-23:00. 예약은 전화만(06-6945-5045), 20시 이후가 비교적 예약 잡기 쉬움. 현금만(카드 불가). 2027-01-01부터 1꼬치 180엔(세금 별도)으로 가격 개정 공지.
 - 🚃 덴마바시역(지하철·게이한) 도보 약 5분(407m)
-- [구글 지도](https://maps.google.com/?cid=3128080239414944233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%E6%A2%9D%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%86%85%E5%B9%B3%E9%87%8E2-1-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27011721/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%A1%B0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3128080239414944233) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%E6%A2%9D%E5%AE%B6%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%86%85%E5%B9%B3%E9%87%8E2-1-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27011721/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%A1%B0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-190"></a>
 #### ★★ 니코미 키무라 (にこみ㐂むら) — 🍶 이자카야·다치노미 · 타베로그 3.50
@@ -3525,7 +3525,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 18:00-23:00 / 휴무 부정기 휴무
 - 💡 술을 마시지 않는 손님은 방문을 삼가 달라는 안내가 있으니 한잔할 생각으로 갈 것. 카드(VISA·Master·JCB) 결제 가능.
 - 🚃 마쓰야마치역 약 170m
-- [구글 지도](https://maps.google.com/?cid=5339044211610738795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AB%E3%81%93%E3%81%BF%E3%90%82%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6-18-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27110474/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%BD%94%EB%AF%B8%20%ED%82%A4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5339044211610738795) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AB%E3%81%93%E3%81%BF%E3%90%82%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6-18-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27110474/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%BD%94%EB%AF%B8%20%ED%82%A4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-106"></a>
 #### ★★ 라멘 츠지 (Ramen 辻) — 🍜 라멘 · 타베로그 3.68
@@ -3547,7 +3547,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 평일 11:30-14:30, 17:30-21:15 / 토·일·공휴일 11:30-21:15 / 휴무 연중무휴
 - 💡 평일 11:30-14:30, 17:30-21:15 / 주말·공휴일 11:30-21:15 통영업, 연중무휴. 예약 불가. 현금·PayPay. 한정 메뉴·임시휴업은 X(트위터)·인스타그램 공지.
 - 🚃 다니마치욘초메역 3번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=95778445716286493&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Ramen%20%E8%BE%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8E%97%E5%B1%8B%E7%94%BA1-1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27092793/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%B8%A0%EC%A7%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=95778445716286493) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Ramen%20%E8%BE%BB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E9%8E%97%E5%B1%8B%E7%94%BA1-1-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27092793/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%B8%A0%EC%A7%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-186"></a>
 #### ★★ 마카우다 (マカウダ) — 📍 기타 · 타베로그 3.68
@@ -3567,7 +3567,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-14:00, 17:30-22:30 (저녁 L.O. 21:00) / 휴무 화요일, 수요일 점심, 월 2회 부정기 휴무
 - 💡 점심은 A런치 1,000엔·B런치 1,200엔. 카드와 PayPay 결제 가능.
 - 🚃 다니마치욘초메역에서 약 270m
-- [구글 지도](https://maps.google.com/?cid=14684415348373074119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9E%E3%82%AB%E3%82%A6%E3%83%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B8%B8%E7%9B%A4%E7%94%BA2-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27112899/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B9%B4%EC%9A%B0%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14684415348373074119) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9E%E3%82%AB%E3%82%A6%E3%83%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%B8%B8%E7%9B%A4%E7%94%BA2-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270104/27112899/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B9%B4%EC%9A%B0%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-187"></a>
 #### ★★ 세이란 (青藍) — 🥟 중화·교자 · 타베로그 3.74
@@ -3577,7 +3577,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.74 (리뷰 679건), 중식 WEST 百名店 2026](https://tabelog.com/osaka/A2701/A270204/27065032/)
 - 🏆 **수상·백명점** 중식 百名店 2021·2023·2024·2026 선정
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 406개 (2026-11-21 기준)](https://maps.google.com/?cid=16673197401928818407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 406개 (2026-11-21 기준)](https://maps.google.com/?cid=16673197401928818407)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 점심은 원칙적으로 예약 불가(6,800엔 코스만 12:30부터 예약 가능). 저녁 예약 취소·인원 감소 시 1인 5,000엔의 취소료가 있다.
@@ -3588,7 +3588,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-14:30, 18:00-22:00 (토·일·공휴일 저녁 17:30~, 일요일은 21:30까지) / 휴무 부정기 휴무 (월요일 중심, 월 7회 정도)
 - 💡 점심은 예약 없이 줄을 서는 방식이고 대기 상황에 따라 접수를 일찍 마감한다. 저녁은 6% 서비스 차지와 1인 1음료 주문이 필수다.
 - 🚃 마쓰야마치역 약 470m · 다니마치로쿠초메역 4번 출구에서 도보
-- [구글 지도](https://maps.google.com/?cid=16673197401928818407&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9D%92%E8%97%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%AF%BA1-2-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27065032/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%B8%EC%9D%B4%EB%9E%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16673197401928818407) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9D%92%E8%97%8D%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E4%B8%AD%E5%AF%BA1-2-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27065032/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%B8%EC%9D%B4%EB%9E%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-188"></a>
 #### ★★ 소바키리 가쿠우 (そば切り 岳空) — 🍲 우동·소바 · 타베로그 3.67
@@ -3609,7 +3609,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-14:30, 18:00-20:30 / 휴무 일요일·월요일 (화요일 부정기 휴무)
 - 💡 '아부리 시메사바 스시는 필수'라는 후기가 있다. 초등학생 미만 아이는 입장할 수 없고, 주말 점심엔 개점 30분 전부터 줄이 생기기도 한다.
 - 🚃 다니마치로쿠초메역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=17867415077503796819&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E5%B2%B3%E7%A9%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA7-1-54) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27096691/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EA%B0%80%EC%BF%A0%EC%9A%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17867415077503796819) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E5%B2%B3%E7%A9%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA7-1-54) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27096691/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EA%B0%80%EC%BF%A0%EC%9A%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-189"></a>
 #### ★★ 소바키리 아야메도 (そば切り文目堂) — 🍲 우동·소바 · 타베로그 3.71
@@ -3620,7 +3620,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 893건), 소바 WEST 百名店 2025](https://tabelog.com/osaka/A2701/A270204/27040266/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
 - 🏆 **수상·백명점** 소바 百名店 2021·2024·2025 선정
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 543개 (2026-11-21 기준)](https://maps.google.com/?cid=653605229088341418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 543개 (2026-11-21 기준)](https://maps.google.com/?cid=653605229088341418)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -3633,7 +3633,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-14:30, 17:30-20:30 / 휴무 일요일·매월 셋째 월요일
 - 💡 현금만 받는다. 소바가 일찍 떨어질 수 있어 점심은 개점 직후나 13시 이후, 저녁은 17:30 오픈에 맞춰 가는 것이 좋다.
 - 🚃 다니마치로쿠초메역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=653605229088341418&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%E6%96%87%E7%9B%AE%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%AE%89%E5%A0%82%E5%AF%BA%E7%94%BA2-2-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27040266/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%95%84%EC%95%BC%EB%A9%94%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=653605229088341418) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%E6%96%87%E7%9B%AE%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E5%AE%89%E5%A0%82%E5%AF%BA%E7%94%BA2-2-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27040266/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%95%84%EC%95%BC%EB%A9%94%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 우메다·오사카역
 
@@ -3646,7 +3646,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 🍽️ **타베로그** [타베로그 4.03 (리뷰 771건), 프렌치 WEST 百名店 2025·2023·2021](https://tabelog.com/osaka/A2701/A270101/27000702/)
 - 🏆 **수상·백명점** Tabelog Award 2026 Bronze (2017·2018·2020·2021·2022·2023 포함 통산 7회)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 게재
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 393개 (2026-11-21 기준)](https://maps.google.com/?cid=9319029541462312185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 393개 (2026-11-21 기준)](https://maps.google.com/?cid=9319029541462312185)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000702/)
 - 예약 팁: 타베로그에서 코스를 골라 바로 예약할 수 있다.
@@ -3657,7 +3657,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-15:00, 17:30-21:00
 - 💡 드레스코드는 점심 스마트 캐주얼, 저녁 엘레강스(모자 자제). 런치 코스(5품 14,500엔)가 저녁보다 부담이 덜하다.
 - 🚃 니시우메다역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=9319029541462312185&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%BB%E3%83%99%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B02-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000702/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%20%EB%B2%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9319029541462312185) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%BB%E3%83%99%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B02-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000702/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%20%EB%B2%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-192"></a>
 #### ★★★ 스가타 (象 SUGATA) — 🍗 야키토리·닭요리 · 타베로그 3.96
@@ -3675,7 +3675,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 디너 17:00~ (공식 사이트 기준, 종료 시각 미기재)
 - 💡 코스는 예약 시간에 맞춰 일제히 시작해 늦으면 일부 요리를 못 받을 수 있다. 취소 수수료가 방문 30일 전부터 발생한다.
 - 🚃 오사카역에서 약 320m
-- [구글 지도](https://maps.google.com/?cid=4788115688576248768&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B1%A1%20SUGATA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%B1%E7%94%BA5-54) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27147971/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EA%B0%80%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4788115688576248768) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B1%A1%20SUGATA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%B1%E7%94%BA5-54) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27147971/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EA%B0%80%ED%83%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-193"></a>
 #### ★★ 고이치 (도야마초) (吾一) — 🍗 야키토리·닭요리 · 타베로그 3.71
@@ -3684,7 +3684,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 496건), 야키토리 WEST 百名店 2026·2025](https://tabelog.com/osaka/A2701/A270101/27060097/)
-- ⭐ **구글** [구글 지도 4.8 / 리뷰 623개 (2026-11-21 기준)](https://maps.google.com/?cid=6094802162753901428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.8 / 리뷰 623개 (2026-11-21 기준)](https://maps.google.com/?cid=6094802162753901428)
 
 - **온라인 예약: ✅ 가능** · [토레타](https://yoyaku.toreta.in/goichidoyama/)
 - 예약 팁: 토레타 웹 예약은 도야마점 전용. 변경·취소는 전화로만 받고, 연락 없이 15분 넘게 늦으면 대기 손님이 먼저 들어갈 수 있다.
@@ -3695,7 +3695,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 17:00-24:00
 - 💡 카드·전자화폐가 안 되는 현금 전용 가게다.
 - 🚃 나카자키초역에서 약 430m
-- [구글 지도](https://maps.google.com/?cid=6094802162753901428&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%BE%E4%B8%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B1%B1%E7%94%BA8-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27060097/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%9D%B4%EC%B9%98%20%28%EB%8F%84%EC%95%BC%EB%A7%88%EC%B4%88%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6094802162753901428) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%BE%E4%B8%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B1%B1%E7%94%BA8-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27060097/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%9D%B4%EC%B9%98%20%28%EB%8F%84%EC%95%BC%EB%A7%88%EC%B4%88%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-111"></a>
 #### ★★ 나카미세 (なかみせ) — 🍣 스시·해산물 · 타베로그 3.62
@@ -3715,7 +3715,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 평일 16:00-22:00 / 일·공휴일 15:00-21:00 / 휴무 화요일(월 1회 연휴 있음)
 - 💡 8석뿐이라 예약 추천 — 평일 16~21시에 전화로만 접수(일본어). 현금만. 화요일 휴무(월 1회 연휴 가능).
 - 🚃 히가시우메다역 도보 약 4분(259m)
-- [구글 지도](https://maps.google.com/?cid=15314857107174454809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%8B%E3%81%BF%E3%81%9B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-5-40) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27092965/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%EB%AF%B8%EC%84%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15314857107174454809) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AA%E3%81%8B%E3%81%BF%E3%81%9B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-5-40) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27092965/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%EB%AF%B8%EC%84%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-194"></a>
 #### ★★ 샹타오 (香桃) — 🥟 중화·교자 · 타베로그 3.71
@@ -3734,7 +3734,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-15:00, 17:30-21:30 (금·토·공휴일 전날 ~22:00)
 - 💡 서비스료 15%가 별도로 붙는다. 주말·공휴일 저녁엔 중국 악기 라이브 연주가 있고, 4~14명용 개별룸이 있어 가족 모임에도 좋다.
 - 🚃 니시우메다역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6865706970798048401&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A6%99%E6%A1%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B02-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000699/) · [유튜브](https://www.youtube.com/results?search_query=%EC%83%B9%ED%83%80%EC%98%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6865706970798048401) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%A6%99%E6%A1%83%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%A2%85%E7%94%B02-5-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000699/) · [유튜브](https://www.youtube.com/results?search_query=%EC%83%B9%ED%83%80%EC%98%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-107"></a>
 #### ★★ 시루히사 소네자키 본점 (知留久 曽根崎本店) — 🍢 쿠시카츠 · 타베로그 3.61
@@ -3754,7 +3754,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 월~토·공휴일 17:00-22:00 (L.O. 21:30) / 휴무 일요일, 연말연시
 - 💡 일요일 휴무, 17:00-22:00(L.O. 21:30, 마지막 입장 21:00). 오하츠텐진 근처. 카드 가능. 온라인 예약 추천.
 - 🚃 히가시우메다역 도보 2~5분
-- [구글 지도](https://maps.google.com/?cid=11307112965146411683&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%9F%A5%E7%95%99%E4%B9%85%20%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-9-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000479/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%A3%A8%ED%9E%88%EC%82%AC%20%EC%86%8C%EB%84%A4%EC%9E%90%ED%82%A4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11307112965146411683) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%9F%A5%E7%95%99%E4%B9%85%20%E6%9B%BD%E6%A0%B9%E5%B4%8E%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-9-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000479/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%A3%A8%ED%9E%88%EC%82%AC%20%EC%86%8C%EB%84%A4%EC%9E%90%ED%82%A4%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-108"></a>
 #### ★★ 야키니쿠 호르몬 우치다 (焼肉ホルモンうちだ) — 🥩 야키니쿠·호르몬 · 타베로그 3.59
@@ -3764,7 +3764,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 417건)](https://tabelog.com/osaka/A2701/A270101/27135358/)
 - 🏆 **수상·백명점** [타베로그 야키니쿠 백명점 WEST 2025 선정](https://tabelog.com/en/osaka/A2701/A270101/27135358/)
-- ⭐ **구글** [구글 지도 4.9 / 리뷰 5,182개 (2026-11-21 기준)](https://maps.google.com/?cid=17935305357631004943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.9 / 리뷰 5,182개 (2026-11-21 기준)](https://maps.google.com/?cid=17935305357631004943)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27135358/)
 - 예약 팁: 타베로그 네트예약 가능(온라인 예약 캘린더·코스 예약 버튼 확인 — 13품 음료무제한 6,000엔, 14품 7,700엔 등).
@@ -3775,7 +3775,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 17:00-05:00 (L.O. 04:00) / 휴무 부정기
 - 💡 매일 17:00-05:00(L.O. 04:00) 심야영업이라 늦은 저녁에도 OK. 예약 시간 15분 넘게 연락 없으면 자동 취소. 카드·PayPay 가능.
 - 🚃 우메다역(각 노선) 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=17935305357631004943&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E8%82%89%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%81%86%E3%81%A1%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B1%B1%E7%94%BA17-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27135358/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%EB%8B%88%EC%BF%A0%20%ED%98%B8%EB%A5%B4%EB%AA%AC%20%EC%9A%B0%EC%B9%98%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17935305357631004943) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E8%82%89%E3%83%9B%E3%83%AB%E3%83%A2%E3%83%B3%E3%81%86%E3%81%A1%E3%81%A0%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B1%B1%E7%94%BA17-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27135358/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%EB%8B%88%EC%BF%A0%20%ED%98%B8%EB%A5%B4%EB%AA%AC%20%EC%9A%B0%EC%B9%98%EB%8B%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-109"></a>
 #### ★★ 오사카 멘테츠 (大阪麺哲) — 🍜 라멘 · 타베로그 3.71
@@ -3797,7 +3797,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 월~목 11:30-14:30, 17:30-22:00 / 금·토 11:30-14:30, 17:30-23:30 / 일 11:30-14:30, 17:30-21:00
 - 💡 카운터 11석뿐이라 피크 시간엔 줄. 현금만(카드·전자결제 불가). 점심 11:30-14:30 뒤 저녁 17:30까지 브레이크타임.
 - 🚃 히가시우메다역 도보 2~3분 / JR 오사카역 도보 9~12분
-- [구글 지도](https://maps.google.com/?cid=16024921270097560802&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%98%AA%E9%BA%BA%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E2-10-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27080479/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A9%98%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16024921270097560802) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%98%AA%E9%BA%BA%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BE%E6%A0%B9%E5%B4%8E2-10-27) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27080479/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A9%98%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-061"></a>
 #### ★★ 🏯 우메다 믹스주스 본점 (梅田 ミックスジュース 本店) — 🏮 시장·길거리음식 · 타베로그 3.76
@@ -3844,7 +3844,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:00-14:30 (재료 소진 시 종료) / 휴무 화요일
 - 💡 11:00-14:30 점심만, 재료 소진 시 조기 마감. 화요일 휴무. 현금만. 오픈 직후가 안전.
 - 🚃 한큐 오사카우메다역·JR 오사카역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=8423748828023520682&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A2%85%E7%94%B0%20%E9%87%9C%E3%81%9F%E3%81%91%E3%81%86%E3%81%A9%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27052204/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%A9%94%EB%8B%A4%20%EC%B9%B4%EB%A7%88%ED%83%80%EC%BC%80%20%EC%9A%B0%EB%8F%99%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8423748828023520682) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A2%85%E7%94%B0%20%E9%87%9C%E3%81%9F%E3%81%91%E3%81%86%E3%81%A9%E3%82%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27052204/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%A9%94%EB%8B%A4%20%EC%B9%B4%EB%A7%88%ED%83%80%EC%BC%80%20%EC%9A%B0%EB%8F%99%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-112"></a>
 #### ★★ 카페 반호프 한큐산반가이점 (自家焙煎珈琲工房 カフェ バーンホーフ 三番街店) — ☕ 카페·킷사텐 · 타베로그 3.70
@@ -3865,7 +3865,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 10:00-21:00 (커피 코너 11:00~, L.O. 20:40) / 휴무 부정기(한큐산반가이 휴관일에 따름)
 - 💡 한큐 오사카우메다역 바로 아래 한큐산반가이 B2라 이동 중 들르기 좋다. 커피 코너는 11:00부터(L.O. 20:40). 카드·전자결제 가능.
 - 🚃 한큐 오사카우메다역 직결(도보 2~3분)
-- [구글 지도](https://maps.google.com/?cid=10298230041858614051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%E7%8F%88%E7%90%B2%E5%B7%A5%E6%88%BF%20%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%90%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%95%20%E4%B8%89%E7%95%AA%E8%A1%97%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%8A%9D%E7%94%B01-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27011966/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%ED%8E%98%20%EB%B0%98%ED%98%B8%ED%94%84%20%ED%95%9C%ED%81%90%EC%82%B0%EB%B0%98%EA%B0%80%EC%9D%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10298230041858614051) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%87%AA%E5%AE%B6%E7%84%99%E7%85%8E%E7%8F%88%E7%90%B2%E5%B7%A5%E6%88%BF%20%E3%82%AB%E3%83%95%E3%82%A7%20%E3%83%90%E3%83%BC%E3%83%B3%E3%83%9B%E3%83%BC%E3%83%95%20%E4%B8%89%E7%95%AA%E8%A1%97%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%8A%9D%E7%94%B01-1-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27011966/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%ED%8E%98%20%EB%B0%98%ED%98%B8%ED%94%84%20%ED%95%9C%ED%81%90%EC%82%B0%EB%B0%98%EA%B0%80%EC%9D%B4%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-195"></a>
 #### ★★ 코큐 (故宮) — 🥟 중화·교자 · 타베로그 3.75
@@ -3884,7 +3884,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-15:00, 17:00-21:00
 - 💡 서비스료 15% 별도, 드레스코드는 스마트 캐주얼(반바지·샌들 자제). JR 오사카역 사쿠라바시 출구 서쪽 고가 아래에서 호텔 무료 셔틀버스가 다닌다.
 - 🚃 JR 오사카역 도보 7분 (호텔 무료 셔틀버스 있음)
-- [구글 지도](https://maps.google.com/?cid=11624578470388114213&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%95%85%E5%AE%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD1-1-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002558/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%ED%81%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11624578470388114213) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%95%85%E5%AE%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD1-1-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002558/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%ED%81%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-062"></a>
 #### ★★ 🏯 키지 우메다 스카이빌딩점 (お好み焼 きじ 梅田スカイビル店) — 🥞 오코노미야키 · 타베로그 3.69
@@ -3895,7 +3895,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 🍽️ **타베로그** [타베로그 3.69 (리뷰 1,124건)](https://tabelog.com/osaka/A2701/A270101/27000322/)
 - 🏆 **수상·백명점** [오코노미야키 백명점 2018·2019·2022~2025 선정(본점도 2025 선정)](https://award.tabelog.com/hyakumeiten/okonomiyaki/2025)
 - 🏯 **노포·원조** 1954년 신우메다쇼쿠도가이에서 창업, 1970년부터 오코노미야키(타베로그 리뷰)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,425개 (2026-11-21 기준)](https://maps.google.com/?cid=16710215185814148984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,425개 (2026-11-21 기준)](https://maps.google.com/?cid=16710215185814148984)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 줄 서서 입장.
@@ -3909,7 +3909,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 11:30-21:30 / 휴무 목요일
 - 💡 스카이빌딩 지하 레트로 골목 '타키미코지' 안. 공중정원 전망대와 묶어 방문 추천. 점심때 줄. 현금만, 전석 금연, 22석. 목요일 휴무. 본점(角田町 新梅田食道街 2F, 일요일 휴무)도 백명점 2025.
 - 🚃 JR 오사카역·우메다역 도보 9분
-- [구글 지도](https://maps.google.com/?cid=16710215185814148984&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E3%81%8D%E3%81%98%20%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD1-1-90) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000322/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%A7%80%20%EC%9A%B0%EB%A9%94%EB%8B%A4%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%B9%8C%EB%94%A9%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16710215185814148984) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E3%81%8D%E3%81%98%20%E6%A2%85%E7%94%B0%E3%82%B9%E3%82%AB%E3%82%A4%E3%83%93%E3%83%AB%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD1-1-90) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27000322/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%A7%80%20%EC%9A%B0%EB%A9%94%EB%8B%A4%20%EC%8A%A4%EC%B9%B4%EC%9D%B4%EB%B9%8C%EB%94%A9%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-065"></a>
 #### ★★ 타쿠야 (涿屋) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.66
@@ -3929,7 +3929,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 월~토 18:00-23:30 / 휴무 일·공휴일
 - 💡 저녁만, 완전 예약제. 전화(090-3837-0563)는 '오래 울려 달라'는 안내. 오토시 1,100엔. 일·공휴일 휴무. 카드·전자결제 가능.
 - 🚃 히가시우메다역 233m
-- [구글 지도](https://maps.google.com/?cid=10966306726722928089&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B6%BF%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-5-37) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002290/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%BF%A0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10966306726722928089) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B6%BF%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9B%BD%E6%A0%B9%E5%B4%8E2-5-37) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27002290/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EC%BF%A0%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-063"></a>
 #### ★ 마츠바 총본점 (串かつ専門店 松葉 総本店) — 🍢 쿠시카츠 · 타베로그 3.49
@@ -3951,7 +3951,7 @@ Tabelog Award 2025·2026 Bronze에 텐푸라 百名店 3회(2022·2023·2025), �
 - 영업 월~토 11:00-22:00 / 일·공휴일 11:00-21:30
 - 💡 예약 불가. 소스 두 번 찍기 금지. 식은 꼬치는 다시 튀겨 달라고 하면 된다. 카드·교통IC 결제 가능. JR 신오사카역 개찰구 안에도 지점이 있다.
 - 🚃 한큐 오사카우메다역·JR 오사카역·우메다역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=6320722990641199318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B2%E3%81%8B%E3%81%A4%E5%B0%82%E9%96%80%E5%BA%97%20%E6%9D%BE%E8%91%89%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27001927/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EB%B0%94%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6320722990641199318) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B2%E3%81%8B%E3%81%A4%E5%B0%82%E9%96%80%E5%BA%97%20%E6%9D%BE%E8%91%89%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27001927/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EB%B0%94%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-064"></a>
 #### ★ 하나다코 (はなだこ) — 🐙 타코야키 · 타베로그 3.50
@@ -3962,7 +3962,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 🍽️ **타베로그** [타베로그 3.50 (리뷰 3,093건)](https://tabelog.com/osaka/A2701/A270101/27012248/)
 - 👥 **현지평판** ['우메다에서 가장 행렬이 생기는 타코야키집'(타베로그 리뷰)](https://tabelog.com/osaka/A2701/A270101/27012248/)
 - ▶️ **유튜브** [Mark Wiens: 타코야키 코스. '현지인들이 오사카 최고 타코야키로 많이 추천하는 곳'이라고 소개(860엔).](https://www.youtube.com/watch?v=3zLvByt52go)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 4,700개 (2026-11-21 기준)](https://maps.google.com/?cid=11352409233880323705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 4,700개 (2026-11-21 기준)](https://maps.google.com/?cid=11352409233880323705)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 서서 먹는 카운터·포장. 예약 불가(타베로그).
@@ -3976,7 +3976,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 10:00-21:45 / 휴무 무휴
 - 💡 카운터 6석 서서 먹기, 포장 가능. 현금만. 연중무휴.
 - 🚃 JR 오사카역 미도스지 남쪽 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=11352409233880323705&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%81%AA%E3%81%A0%E3%81%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27012248/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%82%98%EB%8B%A4%EC%BD%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11352409233880323705) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%81%AA%E3%81%A0%E3%81%93%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A7%92%E7%94%B0%E7%94%BA9-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270101/27012248/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%82%98%EB%8B%A4%EC%BD%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 우에혼마치·다니마치9
 
@@ -3998,7 +3998,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 18:00-22:30 (일요일은 11:30-14:00 점심도 영업) / 휴무 월요일·화요일
 - 💡 세전 1만 엔 이하 결제는 현금만 받는다. 초등학생 이하 아이와 캐리어 같은 큰 짐은 들어갈 수 없다.
 - 🚃 다니마치큐초메역 도보 6분 · 긴테쓰 오사카우에혼마치역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=4430736753106316602&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8C%E3%83%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%B9%B31-4-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27135395/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%87%8C%ED%94%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4430736753106316602) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%83%8C%E3%83%95%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E6%9D%B1%E5%B9%B31-4-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27135395/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EB%87%8C%ED%94%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-067"></a>
 #### ★★ 스시 하라쇼 (鮨 原正) — 🍣 스시·해산물 · 타베로그 3.75
@@ -4018,7 +4018,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 12:00-14:00, 18:00-20:30 (월·화·목·금·토) / 휴무 수·일
 - 💡 완전 예약제, 수·일 휴무. 점심(12:00~)도 운영. 카드 가능.
 - 🚃 오사카우에혼마치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=1811395221721162600&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E5%8E%9F%E6%AD%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8A%E4%B9%8B%E5%AE%AE%E7%94%BA3-30) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27104509/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%ED%95%98%EB%9D%BC%EC%87%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1811395221721162600) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%20%E5%8E%9F%E6%AD%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E4%B8%8A%E4%B9%8B%E5%AE%AE%E7%94%BA3-30) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27104509/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%ED%95%98%EB%9D%BC%EC%87%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-088"></a>
 #### ★★ 아지쿠라야 (お好み焼き あじくらや) — 🥞 오코노미야키 · 타베로그 3.59
@@ -4030,7 +4030,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - ▶️ **유튜브** [풍자 '또간집' EP.77 오사카편에서 현지인 추천으로 방문, 오코노미야키·야키소바 먹고 인증 스티커 부착](https://www.youtube.com/watch?v=ER8NwhJ6yH4)
 - 🏆 **수상·백명점** [타베로그 오코노미야키 百名店 2025 선정](https://tabelog.com/kr/osaka/A2701/A270205/27103780/)
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 605건)](https://tabelog.com/osaka/A2701/A270205/27103780/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,026개 (2026-11-21 기준)](https://maps.google.com/?cid=3019061456503391599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,026개 (2026-11-21 기준)](https://maps.google.com/?cid=3019061456503391599)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27103780/)
 - 예약 팁: 타베로그 「予約可」 + 온라인 예약 표시 확인(당일 온라인 예약자 수 노출). 혼잡 시 좌석 90분 제한.
@@ -4041,7 +4041,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 11:00-24:00 (L.O. 23:30) / 휴무 연말연시
 - 💡 자정까지 영업해 늦은 저녁 코스로 좋음. 타베로그 온라인 예약 가능(혼잡 시 90분 제한, 15분 늦으면 취소). 카드·PayPay 가능.
 - 🚃 오사카우에혼마치역 도보 4분 / 쓰루하시역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=3019061456503391599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%20%E3%81%82%E3%81%98%E3%81%8F%E3%82%89%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%B0%8F%E6%A9%8B%E7%94%BA13-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27103780/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%A7%80%EC%BF%A0%EB%9D%BC%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3019061456503391599) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%E3%81%8D%20%E3%81%82%E3%81%98%E3%81%8F%E3%82%89%E3%82%84%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%A4%A9%E7%8E%8B%E5%AF%BA%E5%8C%BA%E5%B0%8F%E6%A9%8B%E7%94%BA13-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270205/27103780/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%A7%80%EC%BF%A0%EB%9D%BC%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-066"></a>
 #### ★★ 큐야무테이 가라호리점 (旧ヤム邸 空堀店) — 🍛 카레 · 타베로그 3.64
@@ -4051,7 +4051,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.64 (리뷰 1,575건)](https://tabelog.com/osaka/A2701/A270204/27060944/)
 - 🏆 **수상·백명점** [타베로그 카레 백명점 2017·2018·2022, WEST 2019·2020·2023·2024·2026 선정](https://award.tabelog.com/hyakumeiten/curry_west)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,048개 (2026-11-21 기준)](https://maps.google.com/?cid=17362797368194333286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,048개 (2026-11-21 기준)](https://maps.google.com/?cid=17362797368194333286)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 디너만 예약 가능(타베로그). 온라인 예약 버튼은 확인되지 않음. 점심은 현장 줄서기.
@@ -4065,7 +4065,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 화 11:30-14:00 / 수~토 11:30-14:00, 18:00-21:00 / 일 11:20-14:00, 18:00-20:00 / 휴무 월
 - 💡 월요일 휴무, 화요일은 점심만. 디너만 예약 가능. 카드·PayPay 가능. 가라호리 상점가 근처.
 - 🚃 다니마치로쿠초메역 4번 출구 도보 4분 / 마쓰야마치역 3번 출구 도보 8분
-- [구글 지도](https://maps.google.com/?cid=17362797368194333286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A7%E3%83%A4%E3%83%A0%E9%82%B8%20%E7%A9%BA%E5%A0%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6-4-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27060944/) · [유튜브](https://www.youtube.com/results?search_query=%ED%81%90%EC%95%BC%EB%AC%B4%ED%85%8C%EC%9D%B4%20%EA%B0%80%EB%9D%BC%ED%98%B8%EB%A6%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17362797368194333286) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A7%E3%83%A4%E3%83%A0%E9%82%B8%20%E7%A9%BA%E5%A0%80%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E4%B8%AD%E5%A4%AE%E5%8C%BA%E8%B0%B7%E7%94%BA6-4-23) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270204/27060944/) · [유튜브](https://www.youtube.com/results?search_query=%ED%81%90%EC%95%BC%EB%AC%B4%ED%85%8C%EC%9D%B4%20%EA%B0%80%EB%9D%BC%ED%98%B8%EB%A6%AC%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 우츠보·니시구
 
@@ -4077,7 +4077,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 4.25 (리뷰 771건), 야키토리 百名店 2021~2026](https://tabelog.com/osaka/A2701/A270102/27112024/)
 - 🏆 **수상·백명점** Tabelog Award 2026 Bronze · 2025 Bronze
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 962개 (2026-11-21 기준)](https://maps.google.com/?cid=16906887599822739661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 962개 (2026-11-21 기준)](https://maps.google.com/?cid=16906887599822739661)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 🚭 흡연: **금연**
@@ -4086,7 +4086,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 가격: 저녁 10,000~14,999엔 (타베로그), 오마카세 코스 13,000엔
 - 💡 카드·전자화폐·QR 결제가 모두 안 되니 현금을 준비하자. 서비스료·자릿세는 없다.
 - 🚃 히고바시역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=16906887599822739661&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%BE%E4%B8%80%20%E6%B1%9F%E6%88%B8%E5%A0%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-19-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27112024/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%9D%B4%EC%B9%98%20%28%EC%97%90%EB%8F%84%EB%B3%B4%EB%A6%AC%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16906887599822739661) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%90%BE%E4%B8%80%20%E6%B1%9F%E6%88%B8%E5%A0%80%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-19-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27112024/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%9D%B4%EC%B9%98%20%28%EC%97%90%EB%8F%84%EB%B3%B4%EB%A6%AC%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-197"></a>
 #### ★★★ 교마치보리 나카무라 (京町堀 なかむら) — 🍤 튀김·돈카츠·규카츠 · 타베로그 4.03
@@ -4106,7 +4106,7 @@ JR 오사카역 바로 앞 신우메다쇼쿠도가이의 행렬 타코야키. �
 - 영업 11:00-15:00, 19:00-21:30 / 휴무 월요일·목요일·부정기
 - 💡 결제는 현금 또는 PayPay만 된다(카드 불가). 강한 향수·헤어스프레이는 입장 거절될 수 있고, 미취학 아동은 입장할 수 없다.
 - 🚃 히고바시역에서 약 520m
-- [구글 지도](https://maps.google.com/?cid=15700312246658194786&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E7%94%BA%E5%A0%80%20%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E4%BA%AC%E7%94%BA%E5%A0%801-17-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27142354/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EB%A7%88%EC%B9%98%EB%B3%B4%EB%A6%AC%20%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15700312246658194786) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E7%94%BA%E5%A0%80%20%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E4%BA%AC%E7%94%BA%E5%A0%801-17-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27142354/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EB%A7%88%EC%B9%98%EB%B3%B4%EB%A6%AC%20%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-198"></a>
 #### ★★★ 아니에루도루 (アニエルドール) — 🍷 프렌치·이노베이티브 · 타베로그 4.11
@@ -4127,7 +4127,7 @@ Tabelog Award Bronze 8회(2017~2021, 2024~2026), 타베로그 4.11. 프랑스에
 - 영업 12:00-13:00, 18:00-19:30 (화요일은 저녁만) / 휴무 월요일
 - 💡 스마트 캐주얼 권장(샌들·반바지는 자제), 서비스료 10% 별도. 소믈리에 상주, 카드·전자화폐·PayPay 결제 가능.
 - 🚃 아와자역 1번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7152182944617513941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E8%A5%BF%E6%9C%AC%E7%94%BA2-4-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27074473/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%8B%88%EC%97%90%EB%A3%A8%EB%8F%84%EB%A3%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7152182944617513941) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%8B%E3%82%A8%E3%83%AB%E3%83%89%E3%83%BC%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E8%A5%BF%E6%9C%AC%E7%94%BA2-4-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27074473/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%8B%88%EC%97%90%EB%A3%A8%EB%8F%84%EB%A3%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-199"></a>
 #### ★★★ 아라루데 (アラルデ) — 📍 기타 · 타베로그 4.07
@@ -4148,7 +4148,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:30-22:30 (금요일 19:00-22:30) / 휴무 일요일·공휴일
 - 💡 현재 1인 예약은 받지 않는다. 18:30경 일제히 시작하니 늦지 말 것(15분 넘게 늦으면 연락 필수). 서비스료 10%는 코스 요금에 포함, 카드 결제 가능.
 - 🚃 혼마치역 23번 출구 도보 약 3분 · 아와자역 2번 출구 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=13335692353854314257&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%AB%E3%83%87%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%98%BF%E6%B3%A2%E5%BA%A71-14-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27090095/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EB%A3%A8%EB%8D%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13335692353854314257) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%AB%E3%83%87%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%98%BF%E6%B3%A2%E5%BA%A71-14-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270106/27090095/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EB%A3%A8%EB%8D%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-068"></a>
 #### ★★★ 카도야 식당 총본점 (カドヤ食堂 総本店) — 🍜 라멘 · 타베로그 3.83
@@ -4172,7 +4172,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 10:00-15:00 (월·목·금·토·일) / 휴무 화·수요일(변동 가능)
 - 💡 오전 10시 오픈, 오후 3시 종료의 낮 영업. 행렬이 길다. 현금만. 한신백화점 우메다 본점 지하 스낵파크에도 지점이 있다.
 - 🚃 니시나가호리역 4-A 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=4715903537433432411&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%89%E3%83%A4%E9%A3%9F%E5%A0%82%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA4-16-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27001084/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%8F%84%EC%95%BC%20%EC%8B%9D%EB%8B%B9%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4715903537433432411) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%89%E3%83%A4%E9%A3%9F%E5%A0%82%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA4-16-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27001084/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%8F%84%EC%95%BC%20%EC%8B%9D%EB%8B%B9%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-069"></a>
 #### ★★★ 하지메 (HAJIME) — 🍷 프렌치·이노베이티브 · 타베로그 4.34
@@ -4183,7 +4183,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 🎖️ **미쉐린** [미쉐린 가이드 교토·오사카 3스타, 2026년판에서도 3스타 유지](https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026)
 - 🍽️ **타베로그** [타베로그 4.34 (리뷰 405건)](https://tabelog.com/osaka/A2701/A270102/27015488/)
 - 🏆 **수상·백명점** [The Tabelog Award 2017~2026 10년 연속 수상(Silver 7회·Bronze 3회), 이노베이티브 백명점 2025](https://tabelog.com/osaka/A2701/A270102/27015488/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 328개 (2026-11-21 기준)](https://maps.google.com/?cid=16315036906105016071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 328개 (2026-11-21 기준)](https://maps.google.com/?cid=16315036906105016071)
 
 - **온라인 예약: ✅ 가능** · [OMAKASE](https://omakase.in/ja/r/fy215196), [공식사이트](https://omakase.in/ja/r/fy215196), [잇큐](https://restaurant.ikyu.com/115801)
 - 예약 팁: 공식 온라인 예약 폼(hajime-reservation.com)과 잇큐에서 예약 신청 가능(잇큐 공석 표시는 수동 갱신). 전화는 월~토 10:00-18:00(06-6447-6688).
@@ -4194,7 +4194,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 화~토 17:00-23:00(입점 17:00-19:00) / 휴무 일·월요일(부정기)
 - 💡 화~토 저녁, 17:00-19:00 사이 입점. 일·월 휴무(부정기, 공식 캘린더 확인). 서비스료 15%. 1대 주차 가능.
 - 🚃 히고바시역 7번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=16315036906105016071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=HAJIME%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-9-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015488/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%A7%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16315036906105016071) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=HAJIME%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-9-11) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27015488/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EC%A7%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-200"></a>
 #### ★★ 가스트로테카 비멘디 (ガストロテカ ビメンディ) — 📍 기타 · 타베로그 3.65
@@ -4214,7 +4214,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 11:30-14:30, 17:30-23:00 (토·일·공휴일 11:30-15:00, 17:00-23:00) / 휴무 수요일
 - 💡 와인은 스페인산만 두고 바스크식 '에스칸시아르'로 높이 따라 준다. 1인 200엔 자릿세가 있다.
 - 🚃 혼마치역 25번 출구 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=3356544104562591040&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%86%E3%82%AB%20%E3%83%93%E3%83%A1%E3%83%B3%E3%83%87%E3%82%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%9D%AD%E6%9C%AC%E7%94%BA1-5-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27081431/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%85%8C%EC%B9%B4%20%EB%B9%84%EB%A9%98%EB%94%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3356544104562591040) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AC%E3%82%B9%E3%83%88%E3%83%AD%E3%83%86%E3%82%AB%20%E3%83%93%E3%83%A1%E3%83%B3%E3%83%87%E3%82%A3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%9D%AD%E6%9C%AC%E7%94%BA1-5-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27081431/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8A%A4%ED%8A%B8%EB%A1%9C%ED%85%8C%EC%B9%B4%20%EB%B9%84%EB%A9%98%EB%94%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-201"></a>
 #### ★★ 스미비야키토리 키치조 (炭火焼鳥 きち蔵) — 🍗 야키토리·닭요리 · 타베로그 3.71
@@ -4232,7 +4232,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:00-23:00 (L.O. 22:00) / 휴무 일요일·공휴일
 - 💡 카드·전자화폐·QR 모두 안 되니 현금을 챙길 것. 카운터 8석·테이블 8석.
 - 🚃 아와자역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=15465959397615651843&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%20%E3%81%8D%E3%81%A1%E8%94%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%AB%8B%E5%A3%B2%E5%A0%803-5-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27060726/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%ED%82%A4%EC%B9%98%EC%A1%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15465959397615651843) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%20%E3%81%8D%E3%81%A1%E8%94%B5%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E7%AB%8B%E5%A3%B2%E5%A0%803-5-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27060726/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%ED%82%A4%EC%B9%98%EC%A1%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-202"></a>
 #### ★★ 오스테리아 라 치체르키아 (オステリア・ラ・チチェルキア) — 📍 기타 · 타베로그 3.55
@@ -4252,7 +4252,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:00-24:00 (일 14:00-23:00) / 휴무 화요일
 - 💡 카드는 JCB·AMEX·Diners만 표기되어 있다(VISA·Master 미표기).
 - 🚃 히고바시역 7번 출구 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=17410275858861525779&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%81%E3%83%81%E3%82%A7%E3%83%AB%E3%82%AD%E3%82%A2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E4%BA%AC%E7%94%BA%E5%A0%802-3-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27068624/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%8A%A4%ED%85%8C%EB%A6%AC%EC%95%84%20%EB%9D%BC%20%EC%B9%98%EC%B2%B4%EB%A5%B4%ED%82%A4%EC%95%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17410275858861525779) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AA%E3%82%B9%E3%83%86%E3%83%AA%E3%82%A2%E3%83%BB%E3%83%A9%E3%83%BB%E3%83%81%E3%83%81%E3%82%A7%E3%83%AB%E3%82%AD%E3%82%A2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E4%BA%AC%E7%94%BA%E5%A0%802-3-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27068624/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%8A%A4%ED%85%8C%EB%A6%AC%EC%95%84%20%EB%9D%BC%20%EC%B9%98%EC%B2%B4%EB%A5%B4%ED%82%A4%EC%95%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-203"></a>
 #### ★★ 이완스이 (一碗水) — 🥟 중화·교자 · 타베로그 3.71
@@ -4271,7 +4271,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 12:00-14:00, 17:00-21:30 (L.O. 20:00) / 휴무 월요일·금요일
 - 💡 점심 코스(2026년 후기 기준 4,400엔)가 저녁보다 부담이 적다. 카드 결제 가능.
 - 🚃 아와자역에서 약 390m
-- [구글 지도](https://maps.google.com/?cid=7216378644804564319&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%A2%97%E6%B0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%9D%B1%E6%9C%AC%E7%94%BA2-6-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27137773/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%99%84%EC%8A%A4%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7216378644804564319) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%A2%97%E6%B0%B4%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E9%9D%B1%E6%9C%AC%E7%94%BA2-6-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270105/27137773/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%99%84%EC%8A%A4%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-070"></a>
 #### ★★ 잇포 본점 (一宝 本店) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.62
@@ -4291,7 +4291,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 월~토 11:30-14:30, 17:30-22:30 / 휴무 일·공휴일
 - 💡 예약제. 일·공휴일 휴무. 카드 가능.
 - 🚃 히고바시역 177m
-- [구글 지도](https://maps.google.com/?cid=10577160605727765595&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%AE%9D%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-18-35) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000267/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%ED%8F%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10577160605727765595) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%AE%9D%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%B1%9F%E6%88%B8%E5%A0%801-18-35) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270102/27000267/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%ED%8F%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-204"></a>
 #### ★★ 철판구이 오리베 (鉄板焼き Oribe) — 🐂 와규·스테이크 · 타베로그 3.59
@@ -4310,7 +4310,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:00-22:00 / 휴무 월요일·매월 셋째 화요일
 - 💡 1인 550엔의 기본 안주 요금이 붙는다. 카드는 JCB·AMEX만 받는다.
 - 🚃 지하철 요쓰바시역 2번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15611973453698541766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20Oribe%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA1-6-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27013493/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%A0%ED%8C%90%EA%B5%AC%EC%9D%B4%20%EC%98%A4%EB%A6%AC%EB%B2%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15611973453698541766) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%89%84%E6%9D%BF%E7%84%BC%E3%81%8D%20Oribe%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA1-6-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27013493/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%A0%ED%8C%90%EA%B5%AC%EC%9D%B4%20%EC%98%A4%EB%A6%AC%EB%B2%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-205"></a>
 #### ★★ 프레스토 (PRESTAU（プレスト）) — 📍 기타 · 타베로그 3.43
@@ -4330,7 +4330,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 12:00-15:00, 18:00-22:00 / 휴무 월요일(공휴일이면 다음 날)·월 1회 일요일
 - 💡 저녁엔 아이도 어른과 같은 코스를 주문해야 하고, 영상·게임 없이 식사해야 한다.
 - 🚃 지하철 니시오하시역 도보 5분 · 니시나가호리역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=15818101025596334233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=PRESTAU%EF%BC%88%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%EF%BC%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA2-17-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27135751/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15818101025596334233) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=PRESTAU%EF%BC%88%E3%83%97%E3%83%AC%E3%82%B9%E3%83%88%EF%BC%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E8%A5%BF%E5%8C%BA%E6%96%B0%E7%94%BA2-17-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270201/27135751/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%A0%88%EC%8A%A4%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 이마자토
 
@@ -4353,7 +4353,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:00-22:00 / 휴무 월요일·수요일 (부정기 휴무 있음)
 - 💡 18:00·19:30 두 타임에 맞춰 일제히 시작한다. 1인 300엔 서비스 요금이 있고 당일 취소는 100%, 전날 취소는 70%의 취소료가 붙는다.
 - 🚃 이마자토역 2번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=3411891841155554425&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E8%82%B4%20%E5%A4%A7%E9%98%AA%E3%81%BE%E3%82%93%E3%81%B7%E3%81%8F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E5%A4%A7%E4%BB%8A%E9%87%8C%E8%A5%BF3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270306/27017087/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%88%EC%BD%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%8C%ED%91%B8%EC%BF%A0%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3411891841155554425) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E8%82%B4%20%E5%A4%A7%E9%98%AA%E3%81%BE%E3%82%93%E3%81%B7%E3%81%8F%E5%A0%82%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%9D%B1%E6%88%90%E5%8C%BA%E5%A4%A7%E4%BB%8A%E9%87%8C%E8%A5%BF3-4-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270306/27017087/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%88%EC%BD%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%8C%ED%91%B8%EC%BF%A0%EB%8F%84%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 이쿠노·기타타쓰미
 
@@ -4365,7 +4365,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.63 (리뷰 309), 오사카 복어(ふぐ) 장르 랭킹 상위권](https://tabelog.com/osaka/A2701/A270306/27032294/)
 - 👥 **현지평판** [타베로그 후기 2026: '복어를 먹으려면 역시 여기', '가성비 최고, 양이 놀랄 정도', '여전히 대성황이라 예약하고 가야 할 가게'](https://tabelog.com/kr/osaka/A2701/A270306/27032294/dtlrvwlst/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 357개 (2026-11-21 기준)](https://maps.google.com/?cid=2293733922011150599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 357개 (2026-11-21 기준)](https://maps.google.com/?cid=2293733922011150599)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 '예약 가능'이지만 네트예약 없음 → 전화(06-6754-4669). 후기상 당일 전화는 만석인 경우가 많아 며칠 전 예약 추천.
@@ -4378,7 +4378,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 화~일 17:00-22:00 / 휴무 월요일 (공휴일이면 다음 날)
 - 💡 예약 필수급 인기(전화 예약). 코스 대신 테사·테치리·가라아게·유비키(껍질)를 단품으로 골라 시켜도 됨. 기타타쓰미역에서 걸어서 5분, 난바에서 지하철 센니치마에선 약 15분. 같은 계열 '아지헤이 이마자토점'(3.62)도 있음.
 - 🚃 지하철 센니치마에선 기타타쓰미역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=2293733922011150599&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%81%98%E5%B9%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E5%B0%8F%E8%B7%AF%E6%9D%B14-3-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270306/27032294/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%A7%80%ED%97%A4%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2293733922011150599) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%81%98%E5%B9%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%94%9F%E9%87%8E%E5%8C%BA%E5%B0%8F%E8%B7%AF%E6%9D%B14-3-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270306/27032294/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%A7%80%ED%97%A4%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 주소
 
@@ -4391,7 +4391,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 🏯 **노포·원조** [1965년 창업, 네기야키 발상의 가게(타베로그)](https://tabelog.com/osaka/A2701/A270302/27000981/)
 - 🍽️ **타베로그** [타베로그 3.54 (리뷰 1,702건)](https://tabelog.com/osaka/A2701/A270302/27000981/)
 - 🏆 **수상·백명점** [오코노미야키 백명점 2018~2025 중 6회 선정](https://award.tabelog.com/hyakumeiten/okonomiyaki/2025)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,838개 (2026-11-21 기준)](https://maps.google.com/?cid=17140013327103955808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,838개 (2026-11-21 기준)](https://maps.google.com/?cid=17140013327103955808)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -4405,7 +4405,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 11:30-21:00 / 휴무 정기휴일 없음
 - 💡 예약 불가, 현금만. 주말엔 줄. 냉동 네기야키 포장 가능. 우메다점·신오사카점도 있다.
 - 🚃 한큐 주소(十三)역 서쪽 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=17140013327103955808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AD%E3%81%8E%E7%84%BC%E3%82%84%E3%81%BE%E3%82%82%E3%81%A8%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9C%AC%E7%94%BA1-8-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27000981/) · [유튜브](https://www.youtube.com/results?search_query=%EB%84%A4%EA%B8%B0%EC%95%BC%ED%82%A4%20%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17140013327103955808) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AD%E3%81%8E%E7%84%BC%E3%82%84%E3%81%BE%E3%82%82%E3%81%A8%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9C%AC%E7%94%BA1-8-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27000981/) · [유튜브](https://www.youtube.com/results?search_query=%EB%84%A4%EA%B8%B0%EC%95%BC%ED%82%A4%20%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-118"></a>
 #### ★ 가니후쿠 (かに福) — 🍣 스시·해산물 · 타베로그 3.58
@@ -4427,7 +4427,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 월~토 17:00-26:00 / 일·공휴일 17:00-24:00 (12/1~1/8은 12:00부터) / 휴무 연중무휴
 - 💡 게 회 포함 풀코스 8,910엔·음료무제한 2,750엔(2026-11 후기). 복어(테사 등) 포함 VIP 코스 후기도 있음. 12/1~1/8엔 낮 12시부터 영업. 반개별실·2층 좌식. 타베로그 비고에 '추가 300엔' 표기. 카드·전자머니·QR 가능.
 - 🚃 한큐 주소역 동쪽 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=2067228071499481930&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%81%AB%E7%A6%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9D%B13-26-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27009857/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%8B%88%ED%9B%84%EC%BF%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2067228071499481930) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%81%AB%E7%A6%8F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9D%B13-26-7) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27009857/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%8B%88%ED%9B%84%EC%BF%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-072"></a>
 #### ★ 키야스 총본포 본점 (喜八洲総本舗 本店) — 🍡 화과자·디저트 · 타베로그 3.51
@@ -4437,7 +4437,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 **선정 이유**
 - 🏯 **노포·원조** [1948년 12월 25일 개업(타베로그 개업일)](https://tabelog.com/osaka/A2701/A270302/27004531/)
 - 🍽️ **타베로그** [타베로그 3.51 (리뷰 1,308건)](https://tabelog.com/osaka/A2701/A270302/27004531/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,442개 (2026-11-21 기준)](https://maps.google.com/?cid=8498471591387799166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,442개 (2026-11-21 기준)](https://maps.google.com/?cid=8498471591387799166)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 테이크아웃 판매.
@@ -4448,7 +4448,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 10:00-20:00 / 휴무 무휴
 - 💡 1개부터 사서 가게 앞에서 바로 먹을 수 있다. 한큐 주소역 구내점도 있음. 10:00-20:00 무휴, 카드 가능.
 - 🚃 한큐 주소(十三)역 서쪽 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8498471591387799166&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%9C%E5%85%AB%E6%B4%B2%E7%B7%8F%E6%9C%AC%E8%88%97%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9C%AC%E7%94%BA1-4-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27004531/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%95%BC%EC%8A%A4%20%EC%B4%9D%EB%B3%B8%ED%8F%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8498471591387799166) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%9C%E5%85%AB%E6%B4%B2%E7%B7%8F%E6%9C%AC%E8%88%97%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E6%B7%80%E5%B7%9D%E5%8C%BA%E5%8D%81%E4%B8%89%E6%9C%AC%E7%94%BA1-4-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270302/27004531/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%95%BC%EC%8A%A4%20%EC%B4%9D%EB%B3%B8%ED%8F%AC%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 중앙도매시장
 
@@ -4460,7 +4460,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 **선정 이유**
 - 🏯 **노포·원조** [1907년(메이지 40년) 창업, 현재 4대째. 쥐지 않는 '츠카미즈시' 스타일(타베로그 리뷰)](https://tabelog.com/osaka/A2701/A270108/27002698/)
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 974건), 스시 WEST 백명점 2021](https://tabelog.com/osaka/A2701/A270108/27002698/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,377개 (2026-11-21 기준)](https://maps.google.com/?cid=7968571347243365068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,377개 (2026-11-21 기준)](https://maps.google.com/?cid=7968571347243365068)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 '예약 가능'이지만 온라인 예약 버튼은 없음 → 전화 예약.
@@ -4474,7 +4474,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 월~토 05:00-14:00 / 휴무 일·공휴일
 - 💡 새벽 5시~오후 2시 영업, 일·공휴일 휴무(시장 휴장일도 확인). 한 접시씩 주문하면 금액이 쌓이니 구성 확인. 외국인 손님이 많고 영어 메뉴 있음.
 - 🚃 다마가와역(오사카메트로 센니치마에선)에서 약 620m
-- [구글 지도](https://maps.google.com/?cid=7968571347243365068&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%A4%AE%E5%B8%82%E5%A0%B4%20%E3%82%91%E3%82%93%E3%81%A9%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%87%8E%E7%94%B01-1-86) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27002698/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%94%EB%8F%84%EC%8A%A4%EC%8B%9C%20%28%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5%20%EC%97%94%EB%8F%84%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7968571347243365068) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%A4%AE%E5%B8%82%E5%A0%B4%20%E3%82%91%E3%82%93%E3%81%A9%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%87%8E%E7%94%B01-1-86) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27002698/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%94%EB%8F%84%EC%8A%A4%EC%8B%9C%20%28%EC%A4%91%EC%95%99%EC%8B%9C%EC%9E%A5%20%EC%97%94%EB%8F%84%29%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 텐마·텐진바시스지
 
@@ -4496,7 +4496,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 18:00~ (꼬치가 다 떨어질 때까지) / 휴무 일요일·공휴일, 부정기 휴무
 - 💡 중학생 이하는 입장 불가. 카드(VISA·Master·JCB·AMEX)와 PayPay 등 QR 결제 가능.
 - 🚃 미나미모리마치역 도보 5분 · 나니와바시역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=16196461324516461551&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E5%8C%A0%20%E5%BE%A1%E5%8E%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%805-10-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27106249/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%87%BC%20%EB%AF%B8%EC%BF%A0%EB%A6%AC%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16196461324516461551) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E5%8C%A0%20%E5%BE%A1%E5%8E%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%805-10-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27106249/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%87%BC%20%EB%AF%B8%EC%BF%A0%EB%A6%AC%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-214"></a>
 #### ★★★ 야마하시루 (山はしる) — 🍗 야키토리·닭요리 · 타베로그 3.84
@@ -4514,7 +4514,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 1부 18:00~, 2부 20:30~ (코스 일제 시작)
 - 💡 1부 18:00·2부 20:30에 모두 함께 시작하니 늦지 말 것. 카드 결제 가능.
 - 🚃 텐진바시스지로쿠초메역에서 약 230m
-- [구글 지도](https://maps.google.com/?cid=7188056422869809584&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E3%81%AF%E3%81%97%E3%82%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27114882/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%ED%95%98%EC%8B%9C%EB%A3%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7188056422869809584) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E3%81%AF%E3%81%97%E3%82%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B5%AA%E8%8A%B1%E7%94%BA5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27114882/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%ED%95%98%EC%8B%9C%EB%A3%A8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-208"></a>
 #### ★★★ 오사카텐만구 스시 토요나가 (大阪天満宮 鮨とよなが) — 🍣 스시·해산물 · 타베로그 4.21
@@ -4534,7 +4534,7 @@ Tabelog Award Bronze 3회(2021·2025·2026), 타베로그 4.07. 바스크의 미
 - 영업 17:30-23:00 (2부제 17:30~20:00 / 20:30~23:00) / 휴무 토·일·공휴일
 - 💡 17:30~20:00, 20:30~23:00 2부제로 운영한다. 코스를 먹지 못하는 아이는 입장할 수 없다. 조린 아나고 도시락 포장도 있다.
 - 🚃 오사카텐만구역에서 약 90m
-- [구글 지도](https://maps.google.com/?cid=11028155930163131439&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%AE%AE%20%E9%AE%A8%E3%81%A8%E3%82%88%E3%81%AA%E3%81%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-5-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27105145/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%ED%85%90%EB%A7%8C%EA%B5%AC%20%EC%8A%A4%EC%8B%9C%20%ED%86%A0%EC%9A%94%EB%82%98%EA%B0%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11028155930163131439) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%98%AA%E5%A4%A9%E6%BA%80%E5%AE%AE%20%E9%AE%A8%E3%81%A8%E3%82%88%E3%81%AA%E3%81%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-5-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27105145/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%82%AC%EC%B9%B4%ED%85%90%EB%A7%8C%EA%B5%AC%20%EC%8A%A4%EC%8B%9C%20%ED%86%A0%EC%9A%94%EB%82%98%EA%B0%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-209"></a>
 #### ★★★ 히가시차야 나카무라 (東茶屋 なかむら) — 🍱 일식·카이세키 · 타베로그 4.21
@@ -4555,7 +4555,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 1부 17:30-19:30, 2부 20:15-22:15 (일제 시작) / 휴무 수요일, 부정기 휴무
 - 💡 4명 이하 예약은 서비스료가 15%(5명 이상 10%). 향수, 카메라 플래시·셔터음, 큰 소리 대화는 자제해 달라는 가게 요청이 있다.
 - 🚃 텐진바시스지로쿠초메역 도보 약 7분 · 나카자키초역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=4731666646878660485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E8%8C%B6%E5%B1%8B%20%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%AC%E5%BA%84%E6%9D%B11-25-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27113956/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%B0%A8%EC%95%BC%20%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4731666646878660485) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E8%8C%B6%E5%B1%8B%20%E3%81%AA%E3%81%8B%E3%82%80%E3%82%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%9C%AC%E5%BA%84%E6%9D%B11-25-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27113956/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%B0%A8%EC%95%BC%20%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-210"></a>
 #### ★★ 라멘 하야토 (らーめん颯人) — 🍜 라멘 · 타베로그 3.74
@@ -4578,7 +4578,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00~재료 소진 시 / 휴무 부정기 (영업일 불규칙)
 - 💡 현금만 받는다. 라멘은 1인 1그릇이고 주문 후 변경할 수 없다. 가게 안에서는 대화를 삼가고, 향수 등 인공 향은 피해 달라는 안내가 있다.
 - 🚃 미나미모리마치역 2번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=131058045548112677&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E9%A2%AF%E4%BA%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8D%97%E6%A3%AE%E7%94%BA1-2-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27083921/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%ED%95%98%EC%95%BC%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=131058045548112677) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%83%BC%E3%82%81%E3%82%93%E9%A2%AF%E4%BA%BA%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8D%97%E6%A3%AE%E7%94%BA1-2-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27083921/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%ED%95%98%EC%95%BC%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-075"></a>
 #### ★★ 만료 미나미모리마치점 (万両 南森町店) — 🥩 야키니쿠·호르몬 · 타베로그 3.63
@@ -4588,7 +4588,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.63 (리뷰 1,604건)](https://tabelog.com/osaka/A2701/A270103/27002291/)
 - 🏆 **수상·백명점** [야키니쿠 백명점 2018~2025 8년 연속 선정](https://tabelog.com/osaka/A2701/A270103/27002291/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,251개 (2026-11-21 기준)](https://maps.google.com/?cid=4855251065637085849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,251개 (2026-11-21 기준)](https://maps.google.com/?cid=4855251065637085849)
 
 - **온라인 예약: ✅ 가능** · [공식사이트](https://yakiniku-manryo-minamimorimachi.com/), [AutoReserve](https://autoreserve.com/ja/restaurants/WfFpZrK33LFHCinPyCK5)
 - 예약 팁: 공식사이트의 '예약하기' 버튼이 AutoReserve 예약 폼으로 연결. 전화(06-6361-1371, 14시~L.O.)도 가능. 좌석 지정 예약은 불가.
@@ -4599,7 +4599,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~일 16:00-24:00(L.O. 23:30) / 휴무 월요일·공휴일, 12/31~1/3
 - 💡 16시 오픈. 명물 '환상의 갈비'는 예약 필수. 월요일·공휴일·연말연시 휴무. 카드·PayPay·알리페이 가능. 텐진바시점·히가시텐마점 등 지점이 여럿이니 주소 혼동 주의.
 - 🚃 미나미모리마치역 4B 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=4855251065637085849&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%87%E4%B8%A1%20%E5%8D%97%E6%A3%AE%E7%94%BA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8D%97%E6%A3%AE%E7%94%BA1-2-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002291/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EB%A3%8C%20%EB%AF%B8%EB%82%98%EB%AF%B8%EB%AA%A8%EB%A6%AC%EB%A7%88%EC%B9%98%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4855251065637085849) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%87%E4%B8%A1%20%E5%8D%97%E6%A3%AE%E7%94%BA%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%8D%97%E6%A3%AE%E7%94%BA1-2-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002291/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%8C%EB%A3%8C%20%EB%AF%B8%EB%82%98%EB%AF%B8%EB%AA%A8%EB%A6%AC%EB%A7%88%EC%B9%98%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-077"></a>
 #### ★★ 미야비테이 (みやび亭) — 🐂 와규·스테이크 · 타베로그 3.60
@@ -4619,7 +4619,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~일 18:00-22:30(L.O. 21:30) / 휴무 월요일, 부정기
 - 💡 저녁만 영업(18:00~). 월요일+부정기 휴무. 코스는 전날까지 예약, 당일 예약은 전화만.
 - 🚃 JR 오사카텐만구역 도보 4분 / 덴마바시역·미나미모리마치역 도보 6분
-- [구글 지도](https://maps.google.com/?cid=16251936080780153797&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BF%E3%82%84%E3%81%B3%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-6-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27000671/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%95%BC%EB%B9%84%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16251936080780153797) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BF%E3%82%84%E3%81%B3%E4%BA%AD%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%803-6-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27000671/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%95%BC%EB%B9%84%ED%85%8C%EC%9D%B4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-211"></a>
 #### ★★ 소바 타카마 (蕎麦 たかま) — 🍲 우동·소바 · 타베로그 3.75
@@ -4628,7 +4628,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75 (리뷰 1,027건), 소바 百名店 2017·2018·2019·2021·2022·2024·2025](https://tabelog.com/osaka/A2701/A270103/27000530/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 497개 (2026-11-21 기준)](https://maps.google.com/?cid=15051007438567976289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 497개 (2026-11-21 기준)](https://maps.google.com/?cid=15051007438567976289)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -4642,7 +4642,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:30-14:30 (재료 소진 시 종료) / 휴무 월요일·화요일
 - 💡 현금만 받는다. 곱빼기를 추천하는 후기가 많고, 소바 전에 다시마 계란말이나 구운 된장을 안주로 곁들이기 좋다. 영어 메뉴가 있다.
 - 🚃 덴진바시스지로쿠초메역 4·6번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15051007438567976289&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%20%E3%81%9F%E3%81%8B%E3%81%BE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B7-12-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27000530/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%20%ED%83%80%EC%B9%B4%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15051007438567976289) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%20%E3%81%9F%E3%81%8B%E3%81%BE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B7-12-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27000530/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%20%ED%83%80%EC%B9%B4%EB%A7%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-212"></a>
 #### ★★ 스시도코로 카이하라 (寿司処 かい原) — 🍣 스시·해산물 · 타베로그 3.62
@@ -4662,7 +4662,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:00-22:00 / 휴무 수요일
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비하자. 10분 넘게 늦으면 메뉴가 바뀌고, 15분 넘으면 예약이 취소될 수 있다.
 - 🚃 JR 덴마역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=295089222129010642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%8F%B8%E5%87%A6%20%E3%81%8B%E3%81%84%E5%8E%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B1%A0%E7%94%B0%E7%94%BA5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27051741/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%B9%B4%EC%9D%B4%ED%95%98%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=295089222129010642) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%8F%B8%E5%87%A6%20%E3%81%8B%E3%81%84%E5%8E%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E6%B1%A0%E7%94%B0%E7%94%BA5-4) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27051741/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%B9%B4%EC%9D%B4%ED%95%98%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-213"></a>
 #### ★★ 스시츠네 (寿司常) — 🍣 스시·해산물 · 타베로그 3.66
@@ -4681,7 +4681,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 목 17:00-21:30 / 금~일 11:00-14:00, 17:00-21:30 / 휴무 월·화·수요일
 - 💡 카운터 6석뿐이라 예약하고 가는 편이 좋다.
 - 🚃 오사카텐만구역에서 약 90m
-- [구글 지도](https://maps.google.com/?cid=1646861851034599301&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%8F%B8%E5%B8%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-4-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27094765/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EC%B8%A0%EB%84%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1646861851034599301) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AF%BF%E5%8F%B8%E5%B8%B8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B2-4-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27094765/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EC%B8%A0%EB%84%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-215"></a>
 #### ★★ 야키토리 에나미 (焼鳥エナミ) — 🍗 야키토리·닭요리 · 타베로그 3.70
@@ -4700,7 +4700,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 16:00-24:00 (L.O. 23:00) / 휴무 부정기 휴무
 - 💡 이용 시간은 기본 3시간. 음식·음료를 많이 남기면 1인 3,000엔이 추가되고, 오야코동은 미리 예약해야 한다. 카드 결제 가능.
 - 🚃 미나미모리마치역 도보 3~5분
-- [구글 지도](https://maps.google.com/?cid=15714060653223724644&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E3%82%A8%E3%83%8A%E3%83%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%805-6-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27126273/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%97%90%EB%82%98%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15714060653223724644) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E3%82%A8%E3%83%8A%E3%83%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E8%A5%BF%E5%A4%A9%E6%BA%805-6-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27126273/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%97%90%EB%82%98%EB%AF%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-216"></a>
 #### ★★ 오기마치 우동야 아스로 (扇町うどん屋 あすろう) — 🍲 우동·소바 · 타베로그 3.67
@@ -4710,7 +4710,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.67 (리뷰 1,044건), 우동 百名店 2024](https://tabelog.com/osaka/A2701/A270103/27110013/)
 - 🎖️ **미쉐린** 미쉐린 가이드 빕구르망
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 629개 (2026-11-21 기준)](https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 629개 (2026-11-21 기준)](https://maps.google.com/?cid=14951123387409938968)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -4723,7 +4723,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-16:00 (면 소진 시 종료) / 휴무 월요일·일요일·공휴일
 - 💡 카드·전자화폐·QR 모두 불가라 현금을 챙길 것. 영어 메뉴판 있음. 우동이라 회전이 빨라 줄이 길어도 금방 빠지는 편.
 - 🚃 오기마치역에서 약 220m
-- [구글 지도](https://maps.google.com/?cid=14951123387409938968&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%87%E7%94%BA%E3%81%86%E3%81%A9%E3%82%93%E5%B1%8B%20%E3%81%82%E3%81%99%E3%82%8D%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27110013/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EA%B8%B0%EB%A7%88%EC%B9%98%20%EC%9A%B0%EB%8F%99%EC%95%BC%20%EC%95%84%EC%8A%A4%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14951123387409938968) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%87%E7%94%BA%E3%81%86%E3%81%A9%E3%82%93%E5%B1%8B%20%E3%81%82%E3%81%99%E3%82%8D%E3%81%86%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B3-8-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27110013/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EA%B8%B0%EB%A7%88%EC%B9%98%20%EC%9A%B0%EB%8F%99%EC%95%BC%20%EC%95%84%EC%8A%A4%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-078"></a>
 #### ★★ 우나지로 (うな次郎) — 🐟 장어 · 타베로그 3.72
@@ -4733,7 +4733,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.72 (리뷰 624건)](https://tabelog.com/osaka/A2701/A270103/27040987/)
 - 🏆 **수상·백명점** [장어 백명점 2026 첫 선정](https://award.tabelog.com/hyakumeiten/unagi/2026)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 620개 (2026-11-21 기준)](https://maps.google.com/?cid=1383055371007821358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 620개 (2026-11-21 기준)](https://maps.google.com/?cid=1383055371007821358)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 전화(06-6356-2239) 예약, 점심·저녁 각 2팀 한정. 타베로그 온라인 예약 없음.
@@ -4744,7 +4744,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~토 11:00-14:00, 17:00-21:00 / 일 11:00-17:00 (품절 시 종료) / 휴무 월요일, 매월 첫째 화요일
 - 💡 장어가 떨어지면 조기 종료. 예약은 점심·저녁 각 2팀 한정. 월요일·첫째 화요일 휴무. 카드·PayPay 가능.
 - 🚃 미나미모리마치역 3번 출구·JR 오사카텐만구역 1번 출구 도보 4분
-- [구글 지도](https://maps.google.com/?cid=1383055371007821358&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E6%AC%A1%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%85%E6%A2%85%E7%94%BA3-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27040987/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1383055371007821358) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E6%AC%A1%E9%83%8E%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%85%E6%A2%85%E7%94%BA3-14) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27040987/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EC%A7%80%EB%A1%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-076"></a>
 #### ★★ 치구사 (お好み焼 千草) — 🥞 오코노미야키 · 타베로그 3.65
@@ -4755,7 +4755,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 🏯 **노포·원조** 1949년(쇼와 24년) 창업(타베로그 정리 기사)
 - 🍽️ **타베로그** [타베로그 3.65 (리뷰 1,712건)](https://tabelog.com/osaka/A2701/A270103/27002204/)
 - 🏆 **수상·백명점** [오코노미야키 백명점 2018~2025 중 6회 선정](https://award.tabelog.com/hyakumeiten/okonomiyaki/2025)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,752개 (2026-11-21 기준)](https://maps.google.com/?cid=14467874836275969506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,752개 (2026-11-21 기준)](https://maps.google.com/?cid=14467874836275969506)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -4769,7 +4769,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-21:30(L.O. 21:00) / 휴무 화요일
 - 💡 예약 불가, 현금만. 상점가에서 좁은 골목으로 살짝 들어간 곳. 화요일 휴무.
 - 🚃 JR 텐마역 도보 3분 / 오기마치역 1번 출구 도보 4분
-- [구글 지도](https://maps.google.com/?cid=14467874836275969506&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E5%8D%83%E8%8D%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-11-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002204/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EA%B5%AC%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14467874836275969506) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E5%A5%BD%E3%81%BF%E7%84%BC%20%E5%8D%83%E8%8D%89%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B4-11-18) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002204/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EA%B5%AC%EC%82%AC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-217"></a>
 #### ★★ 텐보시 (天星) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.69
@@ -4790,7 +4790,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 점심 12:00 시작, 저녁 18:00~ (토·일·공휴일 저녁은 17:30 / 20:15 2부제) / 휴무 월요일(부정기 휴무 있음)
 - 💡 예약 변경은 받지 않고(변경하면 취소 처리·취소료), 30분 이상 늦으면 자동 취소된다. 카드 결제 가능.
 - 🚃 텐진바시스지로쿠초메역 6번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=9420776398816859318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E6%98%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B7-10-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27119037/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EB%B3%B4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9420776398816859318) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E6%98%9F%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B7-10-9) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27119037/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EB%B3%B4%EC%8B%9C%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-074"></a>
 #### ★★ 🏯 하루코마 본점 (春駒 本店) — 🍣 스시·해산물 · 타베로그 3.57
@@ -4800,7 +4800,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🏯 **노포·원조** [1953년 창업, 텐진바시스지 상점가에서 가장 오래된 스시집(타베로그 정리 기사)](https://tabelog.com/matome/14156/)
 - 🍽️ **타베로그** [타베로그 3.57 (리뷰 1,870건), 스시 WEST 백명점 2021](https://tabelog.com/osaka/A2701/A270103/27002205/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,904개 (2026-11-21 기준)](https://maps.google.com/?cid=6656831565755969603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,904개 (2026-11-21 기준)](https://maps.google.com/?cid=6656831565755969603)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 줄 서서 입장.
@@ -4814,7 +4814,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-21:30 / 휴무 화요일
 - 💡 예약 불가라 개점 전부터 줄을 선다. 주문은 종이에 적어 내는 방식이라는 리뷰. 근처 지점(天神橋5-6-8)이 좌석이 더 많다. 화요일 휴무. 카드 결제 가능.
 - 🚃 JR 텐마역 도보 4분 / 텐진바시스지로쿠초메역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6656831565755969603&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%A5%E9%A7%92%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002205/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%A3%A8%EC%BD%94%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6656831565755969603) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%A5%E9%A7%92%20%E6%9C%AC%E5%BA%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E7%A5%9E%E6%A9%8B5-5-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002205/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%EB%A3%A8%EC%BD%94%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-079"></a>
 #### ★★ 후쿠류엔 (福龍園) — 🥟 중화·교자 · 타베로그 3.55
@@ -4834,7 +4834,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 월~토 11:30-14:00, 18:00-22:00 / 휴무 일·공휴일
 - 💡 월~토 점심·저녁 영업, 일·공휴일 휴무. 현금만. 점심 정식이 가성비 좋다.
 - 🚃 JR 오사카텐만구역 2번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=13900929053598510750&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E9%BE%8D%E5%9C%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%804-16-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002221/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%A5%98%EC%97%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13900929053598510750) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E9%BE%8D%E5%9C%92%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A9%E6%BA%804-16-8) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270103/27002221/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%A5%98%EC%97%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 ### 후쿠시마
 
@@ -4857,7 +4857,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 12:00-15:00, 18:00-22:00 / 휴무 수요일
 - 💡 점심 12:30, 저녁 18:30까지 입장해야 하는 일제 시작 코스다. 중학생 미만은 입장할 수 없고 진한 향수는 삼가야 한다.
 - 🚃 JR 신후쿠시마역·한신 후쿠시마역 도보 3분 · JR 후쿠시마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=5000748241300724738&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=ad%20hoc%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B61-1-48) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27080791/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%A0%EB%93%9C%ED%98%B9%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5000748241300724738) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=ad%20hoc%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B61-1-48) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27080791/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%A0%EB%93%9C%ED%98%B9%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-219"></a>
 #### ★★★ 요네마스 (米増) — 🍱 일식·카이세키 · 타베로그 4.34
@@ -4878,7 +4878,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 점심 14:00 시작 / 저녁 17:30 시작 / 휴무 수요일·일요일
 - 💡 카드·전자결제가 안 되니 현금을 넉넉히 준비할 것. 서비스료 10%가 붙고 아이 동반은 불가하다.
 - 🚃 JR 후쿠시마역 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=16022214514915236291&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B1%B3%E5%A2%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E5%8D%971-9-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27095726/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EB%84%A4%EB%A7%88%EC%8A%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16022214514915236291) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B1%B3%E5%A2%97%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E5%8D%971-9-16) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27095726/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EB%84%A4%EB%A7%88%EC%8A%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-083"></a>
 #### ★★ 데이리바시 킨츠바야 (出入橋きんつば屋) — 🍡 화과자·디저트 · 타베로그 3.71
@@ -4888,7 +4888,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 837건)](https://tabelog.com/osaka/A2701/A270108/27003802/)
 - 🏆 **수상·백명점** [화과자 WEST 백명점 2023·2026, 스위츠 WEST 2022](https://award.tabelog.com/hyakumeiten/wagashi_west/2026)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 620개 (2026-11-21 기준)](https://maps.google.com/?cid=7562697388417744909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 620개 (2026-11-21 기준)](https://maps.google.com/?cid=7562697388417744909)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그).
@@ -4902,7 +4902,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 월~금 10:00-19:00 / 토 10:00-18:00 / 휴무 일요일
 - 💡 일요일 휴무, 토요일은 18시까지. 가게 안에서 젠자이·아베카와모치도 먹을 수 있다. 현금만.
 - 🚃 JR 후쿠시마역 311m / 니시우메다·기타신치역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7562697388417744909&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E5%85%A5%E6%A9%8B%E3%81%8D%E3%82%93%E3%81%A4%E3%81%B0%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B63-4-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27003802/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A6%AC%EB%B0%94%EC%8B%9C%20%ED%82%A8%EC%B8%A0%EB%B0%94%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7562697388417744909) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E5%85%A5%E6%A9%8B%E3%81%8D%E3%82%93%E3%81%A4%E3%81%B0%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A0%82%E5%B3%B63-4-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27003802/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9D%B4%EB%A6%AC%EB%B0%94%EC%8B%9C%20%ED%82%A8%EC%B8%A0%EB%B0%94%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-080"></a>
 #### ★★ 덴푸라 오사카야 소테츠 (天ぷら 大坂屋 草哲) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.73
@@ -4922,7 +4922,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~목 17:00-22:00 / 금~일·공휴일 11:30-14:00, 17:00-22:00 / 휴무 월요일(공휴일이면 다음날)
 - 💡 점심은 금~일·공휴일만. 월요일 휴무. 서비스료 10%. 만석이면 근처 자매점 'Goku'(월요일 영업)를 안내받을 수 있다.
 - 🚃 JR 후쿠시마역 도보 5분 / JR 오사카역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=13033524536635837057&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E5%A4%A7%E5%9D%82%E5%B1%8B%20%E8%8D%89%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-8-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27093282/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%95%BC%20%EC%86%8C%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13033524536635837057) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E5%A4%A7%E5%9D%82%E5%B1%8B%20%E8%8D%89%E5%93%B2%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-8-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27093282/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%EC%95%BC%20%EC%86%8C%ED%85%8C%EC%B8%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-220"></a>
 #### ★★ 라멘 진세이 JET (ラーメン人生JET) — 🍜 라멘 · 타베로그 3.75
@@ -4944,7 +4944,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-15:00, 18:00-22:00 / 휴무 연중무휴
 - 💡 식권 자판기에서 먼저 표를 산 뒤 줄을 선다. 현금만 가능하고 면 굳기 조절은 받지 않는다.
 - 🚃 JR 후쿠시마역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=12004084120505548181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%BA%E7%94%9FJET%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B67-12-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27050827/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%A7%84%EC%84%B8%EC%9D%B4%20JET%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12004084120505548181) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%E4%BA%BA%E7%94%9FJET%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B67-12-2) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27050827/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%EC%A7%84%EC%84%B8%EC%9D%B4%20JET%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-221"></a>
 #### ★★ 마키노 (まき埜) — 🍲 우동·소바 · 타베로그 3.75
@@ -4953,7 +4953,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75 (리뷰 1,085건), 소바 百名店 2021·2022, 소바 WEST 2024·2025](https://tabelog.com/osaka/A2701/A270108/27002682/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 442개 (2026-11-21 기준)](https://maps.google.com/?cid=1861430481026877906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 442개 (2026-11-21 기준)](https://maps.google.com/?cid=1861430481026877906)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27002682/)
 - 예약 팁: 점심은 예약 불가(현장 대기). 저녁은 18:00~18:30 입장분만 예약을 받는다.
@@ -4964,7 +4964,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:30-14:00, 18:00-21:30 (토·일·공휴일 11:30-14:30 점심만) / 휴무 수요일
 - 💡 카드는 안 되고 현금·PayPay만 가능. 저녁은 1인 1음료 이상 주문해야 하며, 미취학 아동은 입장할 수 없다.
 - 🚃 JR 후쿠시마역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=1861430481026877906&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BE%E3%81%8D%E5%9F%9C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-11-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27002682/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%ED%82%A4%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1861430481026877906) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BE%E3%81%8D%E5%9F%9C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-11-13) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27002682/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%ED%82%A4%EB%85%B8%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-081"></a>
 #### ★★ 모에요 멘스케 (燃えよ麺助) — 🍜 라멘 · 타베로그 3.76
@@ -4974,7 +4974,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.76 (리뷰 3,351건)](https://tabelog.com/osaka/A2701/A270108/27091454/)
 - 🏆 **수상·백명점** [라멘 백명점 2017~2025 연속 선정](https://award.tabelog.com/hyakumeiten/ramen_osaka/2025)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,014개 (2026-11-21 기준)](https://maps.google.com/?cid=15211390249895172293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,014개 (2026-11-21 기준)](https://maps.google.com/?cid=15211390249895172293)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가(타베로그). 현장 줄서기.
@@ -4989,7 +4989,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~토 11:00-15:00, 18:00-21:00 / 일 11:00-16:00 / 휴무 월요일
 - 💡 카운터 10석 남짓이라 회전은 빠르지만 오픈 전부터 줄. 특제 메뉴는 일찍 품절되기도 한다. 현금만. 월요일 휴무.
 - 🚃 JR 후쿠시마역 도보 1분 / JR 신후쿠시마역 1번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=15211390249895172293&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%87%83%E3%81%88%E3%82%88%E9%BA%BA%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-12-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27091454/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EC%97%90%EC%9A%94%20%EB%A9%98%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15211390249895172293) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%87%83%E3%81%88%E3%82%88%E9%BA%BA%E5%8A%A9%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-12-21) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27091454/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EC%97%90%EC%9A%94%20%EB%A9%98%EC%8A%A4%EC%BC%80%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-230"></a>
 #### ★★ 비아 델 엠메 (ヴィア・デル・エンメ) — 📍 기타 · 타베로그 3.58
@@ -5008,7 +5008,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 12:00-15:00, 18:00-23:00 (화요일은 저녁만) / 휴무 월요일·화요일 점심
 - 💡 소믈리에가 있어 와인을 곁들이기 좋다. 아이는 어른과 같은 코스를 먹을 수 있으면 동반 가능.
 - 🚃 JR 후쿠시마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6331862876290251265&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%A1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B67-7-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27095193/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%95%84%20%EB%8D%B8%20%EC%97%A0%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6331862876290251265) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%B4%E3%82%A3%E3%82%A2%E3%83%BB%E3%83%87%E3%83%AB%E3%83%BB%E3%82%A8%E3%83%B3%E3%83%A1%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B67-7-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27095193/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%95%84%20%EB%8D%B8%20%EC%97%A0%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-222"></a>
 #### ★★ 소바키리 카라니 (そば切り からに) — 🍲 우동·소바 · 타베로그 3.61
@@ -5030,7 +5030,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-14:00, 17:00-20:00 (최종 입장 19:00) / 휴무 목요일·매월 넷째 수요일
 - 💡 카드·전자결제가 모두 안 되니 현금을 챙길 것. 한 그릇씩 주문 후 만들어 나오기 때문에 시간이 조금 걸리고, 아이 동반은 불가하다.
 - 🚃 JR 후쿠시마역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=18385531309900304253&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E3%81%8B%E3%82%89%E3%81%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%B7%BA%E6%B4%B22-11-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27004511/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%B9%B4%EB%9D%BC%EB%8B%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18385531309900304253) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%B0%E5%88%87%E3%82%8A%20%E3%81%8B%E3%82%89%E3%81%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%B7%BA%E6%B4%B22-11-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27004511/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%ED%82%A4%EB%A6%AC%20%EC%B9%B4%EB%9D%BC%EB%8B%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-223"></a>
 #### ★★ 스미비야키토리 토리오 (炭火焼鳥とり央) — 🍗 야키토리·닭요리 · 타베로그 3.75
@@ -5049,7 +5049,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:00-22:30 / 휴무 일요일 (토요일·공휴일 부정기 휴무)
 - 💡 코스 예약 시 인원수만큼 코스를 주문해야 한다. 미성년자는 입장할 수 없고 향수는 삼가야 한다.
 - 🚃 JR 신후쿠시마역 2번 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=3128332701236984850&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%E3%81%A8%E3%82%8A%E5%A4%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B62-7-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27103401/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%ED%86%A0%EB%A6%AC%EC%98%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3128332701236984850) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%81%AB%E7%84%BC%E9%B3%A5%E3%81%A8%E3%82%8A%E5%A4%AE%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B62-7-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27103401/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EB%B9%84%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%ED%86%A0%EB%A6%AC%EC%98%A4%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-082"></a>
 #### ★★ 아야무야 (あやむ屋) — 🍗 야키토리·닭요리 · 타베로그 3.67
@@ -5069,7 +5069,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:30-22:00(L.O. 요리 21:15) / 휴무 일요일(공휴일 휴무 정보도 있음)
 - 💡 17:30 오픈, 일요일(·공휴일) 휴무. 어린이 동반 예약 불가. 오토시 440엔. 카드 가능. 17석.
 - 🚃 JR 신후쿠시마역 도보 약 1분(66m) / JR·한신 후쿠시마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=10797501092135692671&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%82%84%E3%82%80%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-17-39) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27001234/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%95%BC%EB%AC%B4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10797501092135692671) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%82%E3%82%84%E3%82%80%E5%B1%8B%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-17-39) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27001234/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%95%BC%EB%AC%B4%EC%95%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-224"></a>
 #### ★★ 야키토리 코쿠레 (焼鳥こくれ) — 🍗 야키토리·닭요리 · 타베로그 3.75
@@ -5087,7 +5087,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:00-23:00 / 휴무 일요일·월요일
 - 💡 간판 메뉴 '모모 타타키'와 마무리 계란덮밥을 놓치지 말 것. 내추럴 와인은 레드·화이트 각 3종을 잔으로 주문할 수 있다.
 - 🚃 후쿠시마역에서 약 100m · JR 신후쿠시마역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=1752244338720392916&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E3%81%93%E3%81%8F%E3%82%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B61-5-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27114944/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%BD%94%EC%BF%A0%EB%A0%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1752244338720392916) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%E3%81%93%E3%81%8F%E3%82%8C%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B61-5-3) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27114944/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EC%BD%94%EC%BF%A0%EB%A0%88%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-231"></a>
 #### ★★ 오우동 요모기 (おうどん 蓬) — 🍲 우동·소바 · 타베로그 3.53
@@ -5106,7 +5106,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:30-22:00 (일요일은 12:00-15:00 점심도 영업) / 휴무 수요일·목요일
 - 💡 점심은 일요일에만 연다. 어린아이와 함께라면 개별실을 권하며(카운터석은 아기 의자 필요), 인원 변경·노쇼에는 취소료가 붙는다.
 - 🚃 JR 후쿠시마역·JR 신후쿠시마역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=15078255085736691098&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%86%E3%81%A9%E3%82%93%20%E8%93%AC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%B7%BA%E6%B4%B22-10-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27133688/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9A%B0%EB%8F%99%20%EC%9A%94%EB%AA%A8%EA%B8%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15078255085736691098) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%86%E3%81%A9%E3%82%93%20%E8%93%AC%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E9%B7%BA%E6%B4%B22-10-6) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27133688/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%9A%B0%EB%8F%99%20%EC%9A%94%EB%AA%A8%EA%B8%B0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-232"></a>
 #### ★★ 이자카야 토키타메 (居酒屋 ときため) — 🍶 이자카야·다치노미 · 타베로그 3.64
@@ -5125,7 +5125,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 17:30-24:00 (일·공휴일 16:30-23:00) / 휴무 수요일 (월 1회 부정기 휴무)
 - 💡 평일엔 자정까지 열어 늦은 저녁에 들르기 좋다.
 - 🚃 JR 후쿠시마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=17999394953173744852&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%81%A8%E3%81%8D%E3%81%9F%E3%82%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-9-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27117007/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%86%A0%ED%82%A4%ED%83%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17999394953173744852) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%85%E9%85%92%E5%B1%8B%20%E3%81%A8%E3%81%8D%E3%81%9F%E3%82%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-9-17) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27117007/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%9E%90%EC%B9%B4%EC%95%BC%20%ED%86%A0%ED%82%A4%ED%83%80%EB%A9%94%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-225"></a>
 #### ★★ 일 루오고 디 타케우치 (イル ルォーゴ ディ タケウチ) — 📍 기타 · 타베로그 3.65
@@ -5135,7 +5135,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.65 (리뷰 503건), 이탈리안 百名店 WEST 2021](https://tabelog.com/osaka/A2701/A270108/27050186/)
 - 🎖️ **미쉐린** 미쉐린 가이드 2014년판부터 13년 연속 빕구르망
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 356개 (2026-11-21 기준)](https://maps.google.com/?cid=9450577891072360181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 356개 (2026-11-21 기준)](https://maps.google.com/?cid=9450577891072360181)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27050186/), [공식사이트](https://booking.resty.jp/webrsv/search/s014346901/17509?isfixshop=true)
 - 예약 팁: 공식 홈페이지 웹 예약(Resty)이나 타베로그 인터넷 예약으로 예약 가능. 점심 예약은 4인 이상·전화로만 받고, 저녁 4인 이상은 코스를 권한다.
@@ -5147,7 +5147,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:30-15:00, 18:00-22:30 / 휴무 일요일
 - 💡 점심은 현금만 받는다. 저녁에는 1인 500엔의 자릿세가 붙는다.
 - 🚃 JR 후쿠시마역에서 약 190m
-- [구글 지도](https://maps.google.com/?cid=9450577891072360181&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A4%E3%83%AB%20%E3%83%AB%E3%82%A9%E3%83%BC%E3%82%B4%20%E3%83%87%E3%82%A3%20%E3%82%BF%E3%82%B1%E3%82%A6%E3%83%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-1-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27050186/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%BC%20%EB%A3%A8%EC%98%A4%EA%B3%A0%20%EB%94%94%20%ED%83%80%EC%BC%80%EC%9A%B0%EC%B9%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9450577891072360181) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A4%E3%83%AB%20%E3%83%AB%E3%82%A9%E3%83%BC%E3%82%B4%20%E3%83%87%E3%82%A3%20%E3%82%BF%E3%82%B1%E3%82%A6%E3%83%81%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B65-1-26) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27050186/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%BC%20%EB%A3%A8%EC%98%A4%EA%B3%A0%20%EB%94%94%20%ED%83%80%EC%BC%80%EC%9A%B0%EC%B9%98%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-226"></a>
 #### ★★ 중화소바 무겐 (中華そば 無限) — 🍜 라멘 · 타베로그 3.73
@@ -5169,7 +5169,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:00-15:00, 18:30-21:30 (월요일 점심만, 토·일 점심 16:00까지) / 휴무 화요일
 - 💡 입구 오른쪽 자판기에서 식권을 산다. 현금만 가능하며, 일찍 도착했다면 가게 앞 대기 명단에 이름부터 적을 것.
 - 🚃 JR 에비에역 도보 3분 · 지하철 노다한신역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=1524784175014429286&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E7%84%A1%E9%99%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E6%B5%B7%E8%80%81%E6%B1%9F5-5-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27053626/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%ED%99%94%EC%86%8C%EB%B0%94%20%EB%AC%B4%EA%B2%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1524784175014429286) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E7%84%A1%E9%99%90%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E6%B5%B7%E8%80%81%E6%B1%9F5-5-10) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27053626/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%ED%99%94%EC%86%8C%EB%B0%94%20%EB%AC%B4%EA%B2%90%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-227"></a>
 #### ★★ 추고쿠사이 오일 (中国菜 オイル) — 🥟 중화·교자 · 타베로그 3.71
@@ -5178,7 +5178,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 1,819건), 중식 百名店 WEST 2021·2023·2024·2026](https://tabelog.com/osaka/A2701/A270108/27052335/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,026개 (2026-11-21 기준)](https://maps.google.com/?cid=13250653614485726299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,026개 (2026-11-21 기준)](https://maps.google.com/?cid=13250653614485726299)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 점심은 예약 불가. 저녁은 한 팀 최대 8명까지 전화로 예약하고, 코스는 전날까지 예약해야 한다.
@@ -5189,7 +5189,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 11:30-14:30, 18:00-22:00 / 휴무 일요일
 - 💡 결제는 현금만 가능. 저녁은 1인 1음료 주문제이고, 물은 따로 요청해야 준다.
 - 🚃 JR 후쿠시마역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=13250653614485726299&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%9B%BD%E8%8F%9C%20%E3%82%AA%E3%82%A4%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-19-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27052335/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B6%94%EA%B3%A0%EC%BF%A0%EC%82%AC%EC%9D%B4%20%EC%98%A4%EC%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13250653614485726299) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%9B%BD%E8%8F%9C%20%E3%82%AA%E3%82%A4%E3%83%AB%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B66-19-12) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27052335/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B6%94%EA%B3%A0%EC%BF%A0%EC%82%AC%EC%9D%B4%20%EC%98%A4%EC%9D%BC%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-228"></a>
 #### ★★ 토리쇼 젠 (鶏匠 膳) — 🍗 야키토리·닭요리 · 타베로그 3.70
@@ -5208,7 +5208,7 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 16:00-23:00 / 휴무 수요일
 - 💡 기본 8~10꼬치 이후는 먹은 만큼 추가 계산된다. 영어 가능한 직원이 있다.
 - 🚃 JR 신후쿠시마역 도보 3분 · JR 후쿠시마역 도보 8분
-- [구글 지도](https://maps.google.com/?cid=3714736169486795521&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B6%8F%E5%8C%A0%20%E8%86%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B63-12-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27120782/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%87%BC%20%EC%A0%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3714736169486795521) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B6%8F%E5%8C%A0%20%E8%86%B3%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E7%A6%8F%E5%B3%B6%E5%8C%BA%E7%A6%8F%E5%B3%B63-12-20) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27120782/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%87%BC%20%EC%A0%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
 
 <a id="osaka-229"></a>
 #### ★★ 후쿠시마 코토 (福島 こと) — 🥟 중화·교자 · 타베로그 3.78
@@ -5227,4 +5227,4 @@ Tabelog Award 2025·2026 연속 Bronze, 타베로그 4.21. 이시카와 출신 �
 - 영업 화~금 18:30-22:00 / 토·일·공휴일 12:00-14:00, 18:00-21:30 / 휴무 월요일 (화요일 부정기 휴무)
 - 💡 평일은 18:30, 주말·공휴일은 점심 12:00·저녁 18:00에 일제히 시작하며 문은 10분 전에 열린다. 백주 산초 하이볼 같은 독특한 술도 있다.
 - 🚃 JR 후쿠시마역 도보 12분 · JR 오사카역 서쪽 출구 도보 15분
-- [구글 지도](https://maps.google.com/?cid=14366878444781359421&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E5%B3%B6%20%E3%81%93%E3%81%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD3-3-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27150231/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EC%8B%9C%EB%A7%88%20%EC%BD%94%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14366878444781359421) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A6%8F%E5%B3%B6%20%E3%81%93%E3%81%A8%20%E5%A4%A7%E9%98%AA%E5%BA%9C%E5%A4%A7%E9%98%AA%E5%B8%82%E5%8C%97%E5%8C%BA%E5%A4%A7%E6%B7%80%E4%B8%AD3-3-25) · [타베로그](https://tabelog.com/kr/osaka/A2701/A270108/27150231/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EC%8B%9C%EB%A7%88%20%EC%BD%94%ED%86%A0%20%EC%98%A4%EC%82%AC%EC%B9%B4%20%EB%A7%9B%EC%A7%91)

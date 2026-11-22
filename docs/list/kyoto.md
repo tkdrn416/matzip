@@ -162,7 +162,7 @@
 - 🍽️ **타베로그** [타베로그 4.27 (리뷰 1,004건), 스테이크·철판구이 百名店 2021·2022·2024·2025](https://tabelog.com/kyoto/A2601/A260401/26002126/)
 - 🏆 **수상·백명점** Tabelog Award 2019·2020 Silver, 2018·2021~2026 Bronze
 - 🏯 **노포·원조** 1976년 개업
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 473개 (2026-11-21 기준)](https://maps.google.com/?cid=14934909654446726419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 473개 (2026-11-21 기준)](https://maps.google.com/?cid=14934909654446726419)
 
 - **온라인 예약: ✅ 가능** · [MY CONCIERGE JAPAN](https://myconciergejapan.com/ko/restaurants/kuishinbo-yamanaka/)
 - 예약 팁: 예약 손님을 우선 안내한다. 일본 국내는 전화 예약, 해외 손님은 공식 사이트에 연결된 MY CONCIERGE JAPAN 한국어 페이지로 예약을 요청한다.
@@ -173,7 +173,7 @@
 - 영업 11:30-14:00(L.O. 13:45), 17:00-21:00(L.O. 20:45) / 휴무 월·화요일 (공휴일은 영업)
 - 💡 가쓰라역에서 걸어서 15분쯤이라 교토역에서 택시(15~20분)나 시버스 73계통(고료마치 하차 도보 3분)이 편하다. 카드 결제 가능, 주차장 있음.
 - 🚃 한큐 가쓰라역 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=14934909654446726419&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8F%E3%81%84%E3%81%97%E3%82%93%E3%81%BC%E3%83%BC%E5%B1%B1%E4%B8%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E8%A5%BF%E4%BA%AC%E5%8C%BA%E5%BE%A1%E9%99%B5%E6%BA%9D%E6%B5%A6%E7%94%BA26-26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26002126/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%9D%B4%EC%8B%A0%EB%B3%B4%20%EC%95%BC%EB%A7%88%EB%82%98%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14934909654446726419) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8F%E3%81%84%E3%81%97%E3%82%93%E3%81%BC%E3%83%BC%E5%B1%B1%E4%B8%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E8%A5%BF%E4%BA%AC%E5%8C%BA%E5%BE%A1%E9%99%B5%E6%BA%9D%E6%B5%A6%E7%94%BA26-26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26002126/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%A0%EC%9D%B4%EC%8B%A0%EB%B3%B4%20%EC%95%BC%EB%A7%88%EB%82%98%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-071"></a>
 #### ★★ 류헤이 소바 (隆兵そば) — 🍲 우동·소바 · 타베로그 3.74
@@ -192,7 +192,7 @@
 - 영업 11:00-17:50 / 휴무 화·수요일
 - 💡 카드는 AMEX만 된다. 가게 근처에 전용 주차장이 있고 별실도 있다.
 - 🚃 한큐 가쓰라역에서 약 880m
-- [구글 지도](https://maps.google.com/?cid=3161519437468302320&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9A%86%E5%85%B5%E3%81%9D%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E8%A5%BF%E4%BA%AC%E5%8C%BA%E6%A1%82%E6%B5%85%E5%8E%9F%E7%94%BA157) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26038921/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%98%ED%97%A4%EC%9D%B4%20%EC%86%8C%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3161519437468302320) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9A%86%E5%85%B5%E3%81%9D%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E8%A5%BF%E4%BA%AC%E5%8C%BA%E6%A1%82%E6%B5%85%E5%8E%9F%E7%94%BA157) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26038921/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%98%ED%97%A4%EC%9D%B4%20%EC%86%8C%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 가와라마치·기야마치
 
@@ -204,7 +204,7 @@
 **선정 이유**
 - 🎖️ **미쉐린** [미쉐린 2스타 2025·2026](https://guide.michelin.com/us/en/kyoto-region/kyoto/restaurant/kikunoi-roan)
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 246)](https://tabelog.com/kyoto/A2601/A260201/26000766/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 498개 (2026-11-21 기준)](https://maps.google.com/?cid=13911485700548671259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 498개 (2026-11-21 기준)](https://maps.google.com/?cid=13911485700548671259)
 
 - **온라인 예약: ✅ 가능** · [MY CONCIERGE](https://myconciergejapan.com/restaurants/roan-kikunoi/), [TABLE ALL](https://www.tableall.com/restaurant/114)
 - 예약 팁: 일본 국내 예약은 전화(075-361-5580)만. 해외 고객은 MY CONCIERGE·TABLE ALL로 온라인 예약.
@@ -215,7 +215,7 @@
 - 영업 11:30-13:30 (2부제), 17:00-19:30 / 휴무 수요일, 연말연시
 - 💡 점심은 11:30·13:30 2부제. 수요일·연말연시 휴무. 서비스료 10~15%. 미쉐린 기준 온라인 예약은 받지 않으니 전화 예약.
 - 🚃 한큐 교토카와라마치역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=13911485700548671259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9C%B2%E5%BA%B5%20%E8%8F%8A%E4%B9%83%E4%BA%95%20%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E6%96%89%E8%97%A4%E7%94%BA118) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000766/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%9C%EC%95%88%20%EA%B8%B0%EC%BF%A0%EB%85%B8%EC%9D%B4%20%28%EA%B8%B0%EC%95%BC%EB%A7%88%EC%B9%98%EC%A0%90%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13911485700548671259) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%9C%B2%E5%BA%B5%20%E8%8F%8A%E4%B9%83%E4%BA%95%20%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E6%96%89%E8%97%A4%E7%94%BA118) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000766/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A1%9C%EC%95%88%20%EA%B8%B0%EC%BF%A0%EB%85%B8%EC%9D%B4%20%28%EA%B8%B0%EC%95%BC%EB%A7%88%EC%B9%98%EC%A0%90%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-073"></a>
 #### ★★★ 벨로지에 (VELROSIER) — 🥟 중화·교자 · 타베로그 3.88
@@ -237,7 +237,7 @@
 - 영업 12:00-15:00, 18:00-22:00 / 휴무 수요일 (그 외 지정 휴무일 있음)
 - 💡 점심은 13시, 저녁은 19시까지 입장해야 한다(공식 사이트).
 - 🚃 교토가와라마치역 도보 약 2분
-- [구글 지도](https://maps.google.com/?cid=1313096853007742559&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=VELROSIER%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%B2%B3%E5%8E%9F%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB2%E4%B8%81%E7%9B%AE%E7%A8%B2%E8%8D%B7%E7%94%BA318-6) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26033284/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B2%A8%EB%A1%9C%EC%A7%80%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1313096853007742559) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=VELROSIER%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%B2%B3%E5%8E%9F%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB2%E4%B8%81%E7%9B%AE%E7%A8%B2%E8%8D%B7%E7%94%BA318-6) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26033284/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B2%A8%EB%A1%9C%EC%A7%80%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-072"></a>
 #### ★★★ 타카야마 (タカヤマ) — 🍷 프렌치·이노베이티브 · 타베로그 3.95
@@ -279,7 +279,7 @@
 - 영업 점심 12:00-14:00(토·일만), 저녁 17:00-22:00 / 휴무 월요일, 부정기 휴무(월 2회)
 - 💡 오토시 700엔, 서비스료 없음. 17~19시대가 비교적 예약이 쉽다고 안내한다.
 - 🚃 교토가와라마치역 도보 8분 / 게이한 기요미즈고조역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=9373375659266109650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%8A%E3%82%87%E3%81%86%E3%82%8A%E3%82%84%20%E5%BE%A1%E6%97%85%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%A4%A9%E6%BA%80%E7%94%BA456-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018696/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%A6%AC%EC%95%BC%20%EC%98%A4%ED%83%80%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9373375659266109650) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%8A%E3%82%87%E3%81%86%E3%82%8A%E3%82%84%20%E5%BE%A1%E6%97%85%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%A4%A9%E6%BA%80%E7%94%BA456-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018696/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A3%8C%EB%A6%AC%EC%95%BC%20%EC%98%A4%ED%83%80%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-005"></a>
 #### ★★ 멘야 이노이치 (麺屋 猪一) — 🍜 라멘 · 타베로그 3.71
@@ -288,7 +288,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71, 라멘 WEST 백명점 2023~2025](https://tabelog.com/kyoto/A2601/A260201/26032368/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 4,066개 (2026-11-21 기준)](https://maps.google.com/?cid=7790049876187503413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 4,066개 (2026-11-21 기준)](https://maps.google.com/?cid=7790049876187503413)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -301,7 +301,7 @@
 - 영업 11:00-14:30, 17:30-21:00 / 휴무 부정기
 - 💡 16석 소규모, 점심·저녁 사이 브레이크타임. 카드·교통IC·PayPay 가능. 이전(移転)했으므로 예전 주소(恵比須之町528)로 가지 말 것.
 - 🚃 한큐 교토카와라마치역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=7790049876187503413&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E7%8C%AA%E4%B8%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%AF%BA%E7%94%BA%E9%80%9A%E4%BB%8F%E5%85%89%E5%AF%BA%E4%B8%8B%E3%83%AB%E6%81%B5%E7%BE%8E%E9%A0%88%E4%B9%8B%E7%94%BA542) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26032368/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%9D%B4%EB%85%B8%EC%9D%B4%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7790049876187503413) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E7%8C%AA%E4%B8%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%AF%BA%E7%94%BA%E9%80%9A%E4%BB%8F%E5%85%89%E5%AF%BA%E4%B8%8B%E3%83%AB%E6%81%B5%E7%BE%8E%E9%A0%88%E4%B9%8B%E7%94%BA542) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26032368/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%9D%B4%EB%85%B8%EC%9D%B4%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-079"></a>
 #### ★★ 보카 델 비노 (ボッカ デル ヴィーノ) — 📍 기타 · 타베로그 3.52
@@ -321,7 +321,7 @@
 - 영업 점심 12:00-15:00(일·월·화만), 저녁 18:00-21:00 / 휴무 부정기 휴무 (12/30~1/1 휴무)
 - 💡 저녁엔 1인 자릿세 550엔(빵 포함)이 붙는다. 점심은 일·월·화만 하고 1인 1요리 이상 주문해야 하며, 디저트·음료만 주문은 안 된다.
 - 🚃 교토가와라마치역(한큐 1번 출구) 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=7637013832095115119&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9C%E3%83%83%E3%82%AB%20%E3%83%87%E3%83%AB%20%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8E%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%9B%A3%E6%A0%97%E6%A9%8B%E4%B8%8B%E3%82%8B%E6%96%8E%E8%97%A4%E7%94%BA138-9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26025876/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B3%B4%EC%B9%B4%20%EB%8D%B8%20%EB%B9%84%EB%85%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7637013832095115119) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9C%E3%83%83%E3%82%AB%20%E3%83%87%E3%83%AB%20%E3%83%B4%E3%82%A3%E3%83%BC%E3%83%8E%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E5%9B%A3%E6%A0%97%E6%A9%8B%E4%B8%8B%E3%82%8B%E6%96%8E%E8%97%A4%E7%94%BA138-9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26025876/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B3%B4%EC%B9%B4%20%EB%8D%B8%20%EB%B9%84%EB%85%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-080"></a>
 #### ★★ 비건 라멘 우즈 교토 (Vegan Ramen UZU KYOTO) — 🍜 라멘 · 타베로그 3.34
@@ -331,7 +331,7 @@
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 2026 빕구르망(5년 연속)·그린스타(2년 연속)
 - 🍽️ **타베로그** [타베로그 3.34 (리뷰 94건)](https://tabelog.com/kyoto/A2601/A260202/26034042/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 734개 (2026-11-21 기준)](https://maps.google.com/?cid=12862959678918329345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 734개 (2026-11-21 기준)](https://maps.google.com/?cid=12862959678918329345)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/uzu-vegan/reserve)
 - 예약 팁: 예약 손님 우선. 전화는 거의 받지 않아 TableCheck 온라인 예약만 받는다.
@@ -342,7 +342,7 @@
 - 영업 12:00-14:45, 17:30-22:15 (L.O. 13:30 / 21:00)
 - 💡 6세 이하는 입장 불가, 작업복 차림이나 강한 향수는 입장을 거절당할 수 있다. 카드·교통계 IC·PayPay 모두 된다.
 - 🚃 교토시야쿠쇼마에역 도보 6분
-- [구글 지도](https://maps.google.com/?cid=12862959678918329345&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Vegan%20Ramen%20UZU%20KYOTO%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%A2%85%E4%B9%8B%E6%9C%A8%E7%94%BA146) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26034042/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EA%B1%B4%20%EB%9D%BC%EB%A9%98%20%EC%9A%B0%EC%A6%88%20%EA%B5%90%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12862959678918329345) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=Vegan%20Ramen%20UZU%20KYOTO%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%A2%85%E4%B9%8B%E6%9C%A8%E7%94%BA146) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26034042/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EA%B1%B4%20%EB%9D%BC%EB%A9%98%20%EC%9A%B0%EC%A6%88%20%EA%B5%90%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-081"></a>
 #### ★★ 비스트로 야나기하라 (ビストロ ヤナギハラ) — 🍷 프렌치·이노베이티브 · 타베로그 3.57
@@ -361,7 +361,7 @@
 - 영업 18:00-21:30 (토·일·공휴일 17:30-21:30), 요리 L.O. 19:30 / 휴무 수·목요일
 - 💡 요리 L.O.가 19:30으로 이른 편이니 늦지 않게 가자. 카드 결제 가능.
 - 🚃 교토시야쿠쇼마에역(지하철 도자이선) 도보 5분
-- [구글 지도](https://maps.google.com/?cid=16910764462209659709&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%20%E3%83%A4%E3%83%8A%E3%82%AE%E3%83%8F%E3%83%A9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%B2%B3%E5%8E%9F%E7%94%BA%E4%BA%8C%E6%9D%A1%E4%B8%8A%E3%82%8B%E6%B8%85%E6%B0%B4%E7%94%BA358) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26017103/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%95%BC%EB%82%98%EA%B8%B0%ED%95%98%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16910764462209659709) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%20%E3%83%A4%E3%83%8A%E3%82%AE%E3%83%8F%E3%83%A9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%B2%B3%E5%8E%9F%E7%94%BA%E4%BA%8C%E6%9D%A1%E4%B8%8A%E3%82%8B%E6%B8%85%E6%B0%B4%E7%94%BA358) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26017103/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%95%BC%EB%82%98%EA%B8%B0%ED%95%98%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-065"></a>
 #### ★★ 사오리 몽블랑 (와구리센몬 사오리) (和栗専門 紗織) — 🍡 화과자·디저트 · 타베로그 3.59
@@ -372,7 +372,7 @@
 - ▶️ **유튜브** [풍자 '또간집' EP.78 교토편에서 디저트 가게로 소개, 비단실 몽블랑(약 2,200엔~)](https://www.youtube.com/watch?v=bUNWPvwzvpQ)
 - 🏆 **수상·백명점** [타베로그 스위츠 WEST 百名店 2026 선정](https://tabelog.com/kr/kyoto/A2601/A260201/26033014/)
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 889건)](https://tabelog.com/kyoto/A2601/A260201/26033014/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,934개 (2026-11-21 기준)](https://maps.google.com/?cid=5427004345287345115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,934개 (2026-11-21 기준)](https://maps.google.com/?cid=5427004345287345115)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 「予約可」(9명 이상은 전화만, 좌석 1시간·15분 지각 시 취소)이나 온라인 예약 페이지는 확인 못 함. 당일은 9:00 배포 정리권으로 입장.
@@ -387,7 +387,7 @@
 - 영업 10:00-18:00 (L.O. 17:00) / 휴무 부정기
 - 💡 매일 9:00부터 정리권 배포(테이크아웃은 11:00~). 1인 1디저트. 9명 이상 단체는 전화 예약.
 - 🚃 교토카와라마치역 도보 5분 / 기온시조역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=5427004345287345115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E6%A0%97%E5%B0%82%E9%96%80%20%E7%B4%97%E7%B9%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E6%9D%BE%E5%8E%9F%E4%B8%8A%E3%82%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%92%8C%E6%B3%89%E5%B1%8B%E7%94%BA170-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26033014/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%98%A4%EB%A6%AC%20%EB%AA%BD%EB%B8%94%EB%9E%91%20%28%EC%99%80%EA%B5%AC%EB%A6%AC%EC%84%BC%EB%AA%AC%20%EC%82%AC%EC%98%A4%EB%A6%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5427004345287345115) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E6%A0%97%E5%B0%82%E9%96%80%20%E7%B4%97%E7%B9%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E6%9D%BE%E5%8E%9F%E4%B8%8A%E3%82%8B%E4%BA%8C%E4%B8%81%E7%9B%AE%E5%92%8C%E6%B3%89%E5%B1%8B%E7%94%BA170-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26033014/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%98%A4%EB%A6%AC%20%EB%AA%BD%EB%B8%94%EB%9E%91%20%28%EC%99%80%EA%B5%AC%EB%A6%AC%EC%84%BC%EB%AA%AC%20%EC%82%AC%EC%98%A4%EB%A6%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-006"></a>
 #### ★★ 스마트 커피 (スマート珈琲店) — ☕ 카페·킷사텐 · 타베로그 3.71
@@ -396,7 +396,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71, 킷사텐 백명점 2021·2022·2026](https://tabelog.com/kyoto/A2601/A260201/26000647/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 3,848개 (2026-11-21 기준)](https://maps.google.com/?cid=4515862979063215810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 3,848개 (2026-11-21 기준)](https://maps.google.com/?cid=4515862979063215810)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -409,7 +409,7 @@
 - 영업 08:00-19:00
 - 💡 08:00-19:00, 예약 불가. 아침·간식 시간대엔 대기. 카드·QR 가능.
 - 🚃 지하철 교토시야쿠쇼마에역 도보권
-- [구글 지도](https://maps.google.com/?cid=4515862979063215810&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E7%8F%88%E7%90%B2%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%AF%BA%E7%94%BA%E9%80%9A%E4%B8%89%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%A4%A9%E6%80%A7%E5%AF%BA%E5%89%8D%E7%94%BA537) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000647/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%BB%A4%ED%94%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4515862979063215810) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B9%E3%83%9E%E3%83%BC%E3%83%88%E7%8F%88%E7%90%B2%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%AF%BA%E7%94%BA%E9%80%9A%E4%B8%89%E6%9D%A1%E4%B8%8A%E3%83%AB%E5%A4%A9%E6%80%A7%E5%AF%BA%E5%89%8D%E7%94%BA537) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000647/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%A7%88%ED%8A%B8%20%EC%BB%A4%ED%94%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-001"></a>
 #### ★★ 🏯 아카가키야 (赤垣屋) — 🍶 이자카야·다치노미 · 타베로그 3.70
@@ -419,7 +419,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 1,001), 이자카야 백명점 2021·2022·이자카야 WEST 2024~2026](https://tabelog.com/kyoto/A2601/A260302/26001072/)
 - 🏯 **노포·원조** 1934년(쇼와 9년) 창업 노포 이자카야(타베로그 리뷰)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 738개 (2026-11-21 기준)](https://maps.google.com/?cid=15755540826425964427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 738개 (2026-11-21 기준)](https://maps.google.com/?cid=15755540826425964427)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 좌석만 전화 예약(075-751-1416), 카운터석은 예약 불가.
@@ -434,7 +434,7 @@
 - 영업 17:00-23:00 (L.O. 22:30) / 휴무 일요일, 공휴일인 월요일
 - 💡 17시 오픈 직후부터 줄. 카운터석은 예약 불가(좌석만 예약 가능). 일요일·공휴일 월요일 휴무. 현금만. 메뉴에 가격 표시가 없다는 후기 있음.
 - 🚃 게이한 산조역·지하철 교토시야쿠쇼마에역 도보권 (가와바타니조)
-- [구글 지도](https://maps.google.com/?cid=15755540826425964427&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B5%A4%E5%9E%A3%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%AD%AB%E6%A9%8B%E7%94%BA9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001072/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EA%B0%80%ED%82%A4%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15755540826425964427) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B5%A4%E5%9E%A3%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%AD%AB%E6%A9%8B%E7%94%BA9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001072/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%B9%B4%EA%B0%80%ED%82%A4%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-074"></a>
 #### ★★ 야키토리 교토 타치바나 (焼鳥 京都橘) — 🍗 야키토리·닭요리 · 타베로그 3.78
@@ -453,7 +453,7 @@
 - 영업 18:00~ / 20:30~ 2부제 (20:30부는 부정기·짧은 코스) / 휴무 부정기 휴무 (타베로그에는 월요일 정기휴일로 표기)
 - 💡 서비스료 10% 별도. 대리 예약은 원칙적으로 받지 않고, 11일 전부터 취소 수수료가 붙는다.
 - 🚃 교토시야쿠쇼마에역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=8200344989082819619&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E4%BA%AC%E9%83%BD%E6%A9%98%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%8A%BC%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%BE%A1%E5%B9%B8%E7%94%BA%E8%A5%BF%E5%85%A5%E6%A9%98%E7%94%BA612) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26036590/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%ED%83%80%EC%B9%98%EB%B0%94%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8200344989082819619) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E4%BA%AC%E9%83%BD%E6%A9%98%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%8A%BC%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%BE%A1%E5%B9%B8%E7%94%BA%E8%A5%BF%E5%85%A5%E6%A9%98%E7%94%BA612) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26036590/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%ED%83%80%EC%B9%98%EB%B0%94%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-075"></a>
 #### ★★ 엘리펀트 팩토리 커피 (ELEPHANT FACTORY COFFEE) — ☕ 카페·킷사텐 · 타베로그 3.71
@@ -463,7 +463,7 @@
 **선정 이유**
 - 🏆 **수상·백명점** 타베로그 카페 백명점 2021·2022, 카페 WEST 백명점 2025
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 734건)](https://tabelog.com/kyoto/A2601/A260201/26005522/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 788개 (2026-11-21 기준)](https://maps.google.com/?cid=13334936177403750717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 788개 (2026-11-21 기준)](https://maps.google.com/?cid=13334936177403750717)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -475,7 +475,7 @@
 - 영업 13:00-24:30 (목요일 13:00-18:30) / 휴무 연중무휴
 - 💡 현금만 받는다. 골목 안 건물 2층이라 입구를 찾기 어렵다는 후기가 있으니 지도를 보고 가자.
 - 🚃 교토가와라마치역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=13334936177403750717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=ELEPHANT%20FACTORY%20COFFEE%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%9B%B8%E8%96%AC%E5%B8%AB%E9%80%9A%E6%9C%A8%E5%B1%8B%E7%94%BA%E8%A5%BF%E5%85%A5%E3%83%AB%E5%82%99%E5%89%8D%E5%B3%B6%E7%94%BA309-4) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26005522/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%98%EB%A6%AC%ED%8E%80%ED%8A%B8%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%BB%A4%ED%94%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13334936177403750717) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=ELEPHANT%20FACTORY%20COFFEE%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%9B%B8%E8%96%AC%E5%B8%AB%E9%80%9A%E6%9C%A8%E5%B1%8B%E7%94%BA%E8%A5%BF%E5%85%A5%E3%83%AB%E5%82%99%E5%89%8D%E5%B3%B6%E7%94%BA309-4) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26005522/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%98%EB%A6%AC%ED%8E%80%ED%8A%B8%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%BB%A4%ED%94%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-076"></a>
 #### ★★ 킷사 아시지마 (喫茶葦島) — ☕ 카페·킷사텐 · 타베로그 3.74
@@ -485,7 +485,7 @@
 **선정 이유**
 - 🏆 **수상·백명점** 타베로그 킷사텐 백명점 2026 (2021·2022 포함 3회)
 - 🍽️ **타베로그** [타베로그 3.74 (리뷰 939건)](https://tabelog.com/kyoto/A2601/A260201/26015997/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 449개 (2026-11-21 기준)](https://maps.google.com/?cid=8314229089480926589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 449개 (2026-11-21 기준)](https://maps.google.com/?cid=8314229089480926589)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -498,7 +498,7 @@
 - 영업 12:00-21:00 (화 12:00-17:00, 토·일 11:00-21:00) / 휴무 연중무휴
 - 💡 식사 메뉴는 카레뿐. 디카페인 커피와 글루텐프리 메뉴가 있고, 카드·QUICPay·PayPay 결제가 된다.
 - 🚃 게이한 산조역 6번 출구 도보 약 5분 / 교토시야쿠쇼마에역 약 260m
-- [구글 지도](https://maps.google.com/?cid=8314229089480926589&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E8%91%A6%E5%B3%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%9D%A1%E9%80%9A%E6%B2%B3%E5%8E%9F%E7%94%BA%E6%9D%B1%E5%85%A5%E5%A4%A7%E9%BB%92%E7%94%BA37) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26015997/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%B7%EC%82%AC%20%EC%95%84%EC%8B%9C%EC%A7%80%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8314229089480926589) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E8%91%A6%E5%B3%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%9D%A1%E9%80%9A%E6%B2%B3%E5%8E%9F%E7%94%BA%E6%9D%B1%E5%85%A5%E5%A4%A7%E9%BB%92%E7%94%BA37) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26015997/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%B7%EC%82%AC%20%EC%95%84%EC%8B%9C%EC%A7%80%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-077"></a>
 #### ★★ 토리야 히토미 (炭焼創彩鳥家 人見) — 🍗 야키토리·닭요리 · 타베로그 3.75
@@ -508,7 +508,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75 (리뷰 331건), 야키토리 百名店 2018·2019·2021·2022, WEST 2023~2026](https://tabelog.com/kyoto/A2601/A260301/26005610/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 425개 (2026-11-21 기준)](https://maps.google.com/?cid=17794288860312287304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 425개 (2026-11-21 기준)](https://maps.google.com/?cid=17794288860312287304)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 전화(일본어)로만 예약. 15:00~16:45 사이에 비교적 잘 연결된다. 예약 받는 기간이 정해져 있으니 전화로 확인.
@@ -519,7 +519,7 @@
 - 영업 18:00-23:00 (L.O. 22:00) / 휴무 수요일·부정기
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비할 것.
 - 🚃 게이한 산조역 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=17794288860312287304&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%84%BC%E5%89%B5%E5%BD%A9%E9%B3%A5%E5%AE%B6%20%E4%BA%BA%E8%A6%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%BA%8C%E6%9D%A1%E9%80%9A%E5%B7%9D%E7%AB%AF%E6%9D%B1%E5%85%A5%E5%A4%A7%E8%8F%8A%E7%94%BA96) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26005610/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%95%BC%20%ED%9E%88%ED%86%A0%EB%AF%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17794288860312287304) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%82%AD%E7%84%BC%E5%89%B5%E5%BD%A9%E9%B3%A5%E5%AE%B6%20%E4%BA%BA%E8%A6%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%BA%8C%E6%9D%A1%E9%80%9A%E5%B7%9D%E7%AB%AF%E6%9D%B1%E5%85%A5%E5%A4%A7%E8%8F%8A%E7%94%BA96) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26005610/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%95%BC%20%ED%9E%88%ED%86%A0%EB%AF%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-007"></a>
 #### ★★ 프랑소아 킷사시쓰 (フランソア喫茶室) — ☕ 카페·킷사텐 · 타베로그 3.73
@@ -528,7 +528,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.73, 킷사텐 백명점 2021·2022·2026](https://tabelog.com/kyoto/A2601/A260201/26000900/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,911개 (2026-11-21 기준)](https://maps.google.com/?cid=18118152212597146212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,911개 (2026-11-21 기준)](https://maps.google.com/?cid=18118152212597146212)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -541,7 +541,7 @@
 - 영업 11:00-22:00 (L.O. 21:30) / 휴무 12/31~1/2
 - 💡 11:00-22:00, 12/31~1/2만 휴무. 예약 불가, 현금만.
 - 🚃 한큐 교토카와라마치역 도보권
-- [구글 지도](https://maps.google.com/?cid=18118152212597146212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%82%A2%E5%96%AB%E8%8C%B6%E5%AE%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E8%88%B9%E9%A0%AD%E7%94%BA184) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000900/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%9E%91%EC%86%8C%EC%95%84%20%ED%82%B7%EC%82%AC%EC%8B%9C%EC%93%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18118152212597146212) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%83%A9%E3%83%B3%E3%82%BD%E3%82%A2%E5%96%AB%E8%8C%B6%E5%AE%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E6%9C%A8%E5%B1%8B%E7%94%BA%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E8%88%B9%E9%A0%AD%E7%94%BA184) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000900/) · [유튜브](https://www.youtube.com/results?search_query=%ED%94%84%EB%9E%91%EC%86%8C%EC%95%84%20%ED%82%B7%EC%82%AC%EC%8B%9C%EC%93%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-008"></a>
 #### ★★ 하후우 본점 (はふう 本店) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.66
@@ -550,7 +550,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.66, 양식 백명점 2020·2022·2023·양식 WEST 2025](https://tabelog.com/kyoto/A2601/A260202/26000943/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,185개 (2026-11-21 기준)](https://maps.google.com/?cid=9765123227851010420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,185개 (2026-11-21 기준)](https://maps.google.com/?cid=9765123227851010420)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/hafuu/reserve)
 - 예약 팁: 공식 사이트 '예약(본점)'이 TableCheck로 연결. 점심 예약 불가(타베로그 비고), 20분 이상 지각 시 취소.
@@ -561,7 +561,7 @@
 - 영업 11:30-14:00 (L.O. 13:30), 17:30-22:00 (L.O. 21:30) / 휴무 수요일, 부정기
 - 💡 수요일·부정기 휴무. 점심은 예약 불가(줄), 저녁만 예약 가능(20분 이상 지각 시 취소). 저녁 자릿세 500엔.
 - 🚃 지하철 마루타마치역·교토시야쿠쇼마에역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=9765123227851010420&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%81%B5%E3%81%86%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%BA%A9%E5%B1%8B%E7%94%BA%E9%80%9A%E5%A4%B7%E5%B7%9D%E4%B8%8A%E3%83%AB%E7%AC%B9%E5%B1%8B%E7%94%BA471-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000943/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%ED%9B%84%EC%9A%B0%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9765123227851010420) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AF%E3%81%B5%E3%81%86%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%BA%A9%E5%B1%8B%E7%94%BA%E9%80%9A%E5%A4%B7%E5%B7%9D%E4%B8%8A%E3%83%AB%E7%AC%B9%E5%B1%8B%E7%94%BA471-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000943/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%98%ED%9B%84%EC%9A%B0%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-002"></a>
 #### ★ 교고쿠 스탠드 (京極スタンド) — 🍶 이자카야·다치노미 · 타베로그 3.49
@@ -583,7 +583,7 @@
 - 영업 12:00-21:00 / 휴무 화요일
 - 💡 화요일 휴무, 정오부터 영업. 예약 불가, 현금만.
 - 🚃 한큐 교토카와라마치역 도보권
-- [구글 지도](https://maps.google.com/?cid=16478169323700992172&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%A5%B5%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%96%B0%E4%BA%AC%E6%A5%B5%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%AD%E4%B9%8B%E7%94%BA546) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000665/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EA%B3%A0%EC%BF%A0%20%EC%8A%A4%ED%83%A0%EB%93%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16478169323700992172) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%A5%B5%E3%82%B9%E3%82%BF%E3%83%B3%E3%83%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%96%B0%E4%BA%AC%E6%A5%B5%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%AD%E4%B9%8B%E7%94%BA546) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000665/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EA%B3%A0%EC%BF%A0%20%EC%8A%A4%ED%83%A0%EB%93%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-003"></a>
 #### ★ 교고쿠 카네요 (京極かねよ) — 🐟 장어 · 타베로그 3.49
@@ -603,7 +603,7 @@
 - 영업 11:30-15:30 (L.O. 15:00), 17:00-20:30 (L.O. 20:00) / 휴무 수요일
 - 💡 수요일 휴무. 예약 가능(전화는 14시 이후 권장). 카드·PayPay 가능. 신쿄고쿠 상점가 롯카쿠도리 모퉁이.
 - 🚃 한큐 교토카와라마치역 도보권
-- [구글 지도](https://maps.google.com/?cid=9166099478908384315&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%A5%B5%E3%81%8B%E3%81%AD%E3%82%88%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%AD%E8%A7%92%E9%80%9A%E6%96%B0%E4%BA%AC%E6%A5%B5%E6%9D%B1%E5%85%A5%E3%83%AB%E6%9D%BE%E3%83%B6%E6%9E%9D%E7%94%BA456) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26001330/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EA%B3%A0%EC%BF%A0%20%EC%B9%B4%EB%84%A4%EC%9A%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9166099478908384315) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E6%A5%B5%E3%81%8B%E3%81%AD%E3%82%88%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%AD%E8%A7%92%E9%80%9A%E6%96%B0%E4%BA%AC%E6%A5%B5%E6%9D%B1%E5%85%A5%E3%83%AB%E6%9D%BE%E3%83%B6%E6%9E%9D%E7%94%BA456) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26001330/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%EA%B3%A0%EC%BF%A0%20%EC%B9%B4%EB%84%A4%EC%9A%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-067"></a>
 #### ★ 메나미 (御料理 めなみ) — 🍱 일식·카이세키 · 타베로그 3.51
@@ -626,7 +626,7 @@
 - 영업 목~화 15:00-22:00 (L.O. 21:30) / 휴무 수요일
 - 💡 15시부터 영업해 관광 후 이른 저녁에 좋음. 한 접시가 약 2인분이라 혼자면 양 조절 부탁 가능. 2층은 테이블석으로 리뉴얼. 카드·PayPay 가능. 테이크아웃 메뉴도 있음.
 - 🚃 게이한 산조역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=6328300409024769424&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BE%A1%E6%96%99%E7%90%86%20%E3%82%81%E3%81%AA%E3%81%BF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E4%B8%89%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%AD%E5%B3%B6%E7%94%BA96) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26001266/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EB%82%98%EB%AF%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6328300409024769424) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BE%A1%E6%96%99%E7%90%86%20%E3%82%81%E3%81%AA%E3%81%BF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%9C%A8%E5%B1%8B%E7%94%BA%E4%B8%89%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%AD%E5%B3%B6%E7%94%BA96) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26001266/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%94%EB%82%98%EB%AF%B8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-068"></a>
 #### ★ 폰토초 마스다 (先斗町 ますだ) — 🍱 일식·카이세키 · 타베로그 3.51
@@ -648,7 +648,7 @@
 - 영업 월~토 17:00-22:00 / 휴무 일요일
 - 💡 가게 안 사진 촬영 금지. 현금만(카드·전자결제 불가). 예전 큰 접시에서 고르던 방식은 코로나 이후 메뉴판 주문으로 바뀜. 인기 날은 2개월 전 예약한 후기도.
 - 🚃 게이한 기온시조역·한큐 교토가와라마치역 도보 약 4분
-- [구글 지도](https://maps.google.com/?cid=11519110095288407472&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%88%E6%96%97%E7%94%BA%20%E3%81%BE%E3%81%99%E3%81%A0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%88%E6%96%97%E7%94%BA%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%8B%E6%A8%B5%E6%9C%A8%E7%94%BA202) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000698/) · [유튜브](https://www.youtube.com/results?search_query=%ED%8F%B0%ED%86%A0%EC%B4%88%20%EB%A7%88%EC%8A%A4%EB%8B%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11519110095288407472) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%88%E6%96%97%E7%94%BA%20%E3%81%BE%E3%81%99%E3%81%A0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%88%E6%96%97%E7%94%BA%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB%E4%B8%8B%E6%A8%B5%E6%9C%A8%E7%94%BA202) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26000698/) · [유튜브](https://www.youtube.com/results?search_query=%ED%8F%B0%ED%86%A0%EC%B4%88%20%EB%A7%88%EC%8A%A4%EB%8B%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 교토고쇼·마루타마치
 
@@ -672,7 +672,7 @@
 - 영업 18:00-22:00 (18:00 일제 시작) / 휴무 부정기 휴무
 - 💡 양말 착용과 진한 향수 자제를 부탁하고 있다. 당일 취소는 100% 취소료.
 - 🚃 교토시야쿠쇼마에역 도보 약 8분 / 마루타마치역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=11875004769534202219&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BE%A1%E5%B9%B8%E7%94%BA%20%E7%94%B0%E3%81%8C%E3%82%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A4%B7%E5%B7%9D%E9%80%9A%E5%BE%A1%E5%B9%B8%E7%94%BA%E8%A5%BF%E5%85%A5%E6%9D%BE%E6%9C%AC%E7%94%BA575-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26028604/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%BD%94%EB%A7%88%EC%B9%98%20%ED%83%80%EA%B0%80%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11875004769534202219) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BE%A1%E5%B9%B8%E7%94%BA%20%E7%94%B0%E3%81%8C%E3%82%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A4%B7%E5%B7%9D%E9%80%9A%E5%BE%A1%E5%B9%B8%E7%94%BA%E8%A5%BF%E5%85%A5%E6%9D%BE%E6%9C%AC%E7%94%BA575-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26028604/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A0%EC%BD%94%EB%A7%88%EC%B9%98%20%ED%83%80%EA%B0%80%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-083"></a>
 #### ★★★ 키야마 (木山) — 🍱 일식·카이세키 · 타베로그 4.44
@@ -684,7 +684,7 @@
 - 🏆 **수상·백명점** Tabelog Award 2026 Silver (2021 Gold, 2018~2020·2022~2025 Silver)
 - 🏆 **수상·백명점** 타베로그 백명점 일본요리 WEST 2025 (2021·2023 포함)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 게재
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 391개 (2026-11-21 기준)](https://maps.google.com/?cid=10913836995780421214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 391개 (2026-11-21 기준)](https://maps.google.com/?cid=10913836995780421214)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 완전 예약제, 전화 예약. 대리 예약 불가.
@@ -695,7 +695,7 @@
 - 영업 12:00-15:00 (입장 13:00까지), 18:00-22:00 (입장 19:30까지) / 휴무 부정기 휴무
 - 💡 서비스료 10%. 대리 예약·좌석 지정은 안 되고 진한 향수는 자제해 달라고 한다.
 - 🚃 마루타마치역(지하철 가라스마선) 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=10913836995780421214&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%A8%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E7%B5%B9%E5%B1%8B%E7%94%BA136) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26029017/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10913836995780421214) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%A8%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E7%B5%B9%E5%B1%8B%E7%94%BA136) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26029017/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%A4%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-084"></a>
 #### ★★ 산본기 쇼텐 (三本木商店) — 🍶 이자카야·다치노미 · 타베로그 3.61
@@ -716,7 +716,7 @@
 - 영업 17:00-23:00 (L.O. 22:00), 일·공휴일 16:00-21:00 (L.O. 20:00) / 휴무 월·화요일, 부정기 휴무
 - 💡 10석짜리 큰 테이블은 합석이다. 일부 메뉴는 L.O.가 1시간 빠르다. 카드 결제 가능.
 - 🚃 진구마루타마치역(게이한)에서 약 200m
-- [구글 지도](https://maps.google.com/?cid=18164702230017870339&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%9C%AC%E6%9C%A8%E5%95%86%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9C%9F%E7%94%BA478) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26032695/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%B0%EB%B3%B8%EA%B8%B0%20%EC%87%BC%ED%85%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18164702230017870339) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%9C%AC%E6%9C%A8%E5%95%86%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E7%9C%9F%E7%94%BA478) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26032695/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%B0%EB%B3%B8%EA%B8%B0%20%EC%87%BC%ED%85%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-085"></a>
 #### ★★ 소바 로지나 (蕎麦 ろうじな) — 🍲 우동·소바 · 타베로그 3.66
@@ -737,7 +737,7 @@
 - 영업 11:30-14:30 (L.O. 14:00), 17:30-20:00 / 휴무 월요일
 - 💡 현금만 받는다. 1인 2품 이상 주문을 부탁하고 있다. 점심은 예약을 받지 않으니 현장 방문.
 - 🚃 교토시야쿠쇼마에역·마루타마치역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=17406778188934318034&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%20%E3%82%8D%E3%81%86%E3%81%98%E3%81%AA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%B8%E5%B1%8B%E7%94%BA691) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26023992/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%20%EB%A1%9C%EC%A7%80%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17406778188934318034) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%20%E3%82%8D%E3%81%86%E3%81%98%E3%81%AA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%B8%E5%B1%8B%E7%94%BA691) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26023992/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%20%EB%A1%9C%EC%A7%80%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-086"></a>
 #### ★★ 치쿠유안 타로노 아츠모리 (竹邑庵太郎敦盛) — 🍲 우동·소바 · 타베로그 3.48
@@ -758,7 +758,7 @@
 - 영업 11:00-14:30 (점심만) / 휴무 일요일·공휴일
 - 💡 현금만, 신발을 벗고 앉는 좌식 30석. 여행 캐리어는 반입할 수 없으니 역 코인로커에 맡기고 가자. 주문 후 나오기까지 20분쯤 걸렸다는 후기.
 - 🚃 마루타마치역(지하철 가라스마선) 2번 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=15776756795654271686&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AB%B9%E9%82%91%E5%BA%B5%E5%A4%AA%E9%83%8E%E6%95%A6%E7%9B%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%A4%B9%E6%9C%A8%E7%94%BA%E9%80%9A%E7%83%8F%E4%B8%B8%E8%A5%BF%E5%85%A5%E9%A4%8A%E5%AE%89%E7%94%BA242-12) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000516/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%BF%A0%EC%9C%A0%EC%95%88%20%ED%83%80%EB%A1%9C%EB%85%B8%20%EC%95%84%EC%B8%A0%EB%AA%A8%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15776756795654271686) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%AB%B9%E9%82%91%E5%BA%B5%E5%A4%AA%E9%83%8E%E6%95%A6%E7%9B%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E6%A4%B9%E6%9C%A8%E7%94%BA%E9%80%9A%E7%83%8F%E4%B8%B8%E8%A5%BF%E5%85%A5%E9%A4%8A%E5%AE%89%E7%94%BA242-12) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000516/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%98%EC%BF%A0%EC%9C%A0%EC%95%88%20%ED%83%80%EB%A1%9C%EB%85%B8%20%EC%95%84%EC%B8%A0%EB%AA%A8%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 교토역
 
@@ -780,7 +780,7 @@
 - 영업 18:00-22:00 (입장 20시까지) / 휴무 부정기 휴무
 - 💡 카드 결제 가능(VISA·JCB·AMEX·Diners). 입장은 20시까지이고, 교토역에서 택시로 약 10분 걸린다.
 - 🚃 JR·게이한 도후쿠지역에서 약 730m (교토역에서 택시 약 10분)
-- [구글 지도](https://maps.google.com/?cid=5818114875223219917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BD%8B%E8%8F%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B3%89%E6%B6%8C%E5%AF%BA%E5%B1%B1%E5%86%85%E7%94%BA35-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260304/26023771/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5818114875223219917) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BD%8B%E8%8F%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B3%89%E6%B6%8C%E5%AF%BA%E5%B1%B1%E5%86%85%E7%94%BA35-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260304/26023771/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-045"></a>
 #### ★★ 가이다시멘 기타다 (조개육수 라멘) (貝だし麺 きた田) — 🍜 라멘 · 타베로그 3.70
@@ -790,7 +790,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 2,000+)](https://tabelog.com/kyoto/A2601/A260101/26036754/)
 - 🏆 **수상·백명점** [타베로그 라멘 WEST 백명점 2024·2025 선정](https://tabelog.com/kyoto/A2601/A260101/26036754/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,479개 (2026-11-21 기준)](https://maps.google.com/?cid=17089015779610438882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,479개 (2026-11-21 기준)](https://maps.google.com/?cid=17089015779610438882)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 기준 예약 불가, 온라인 예약 없음. 줄 서서 식권 구매.
@@ -803,7 +803,7 @@
 - 영업 07:00-23:30 (매일)
 - 💡 식권제, 11석(카운터 7석). 아침 7시부터 영업해 교토 도착 직후 아침 라멘으로 좋음. 가게 안 화장실 없음. 카드·QR결제 가능.
 - 🚃 JR 교토역 도보 약 8분 (사가노선 홈 서쪽 출구에서 약 5분)
-- [구글 지도](https://maps.google.com/?cid=17089015779610438882&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B2%9D%E3%81%A0%E3%81%97%E9%BA%BA%20%E3%81%8D%E3%81%9F%E7%94%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%8C%97%E4%B8%8D%E5%8B%95%E5%A0%82%E7%94%BA570-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26036754/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%9D%B4%EB%8B%A4%EC%8B%9C%EB%A9%98%20%EA%B8%B0%ED%83%80%EB%8B%A4%20%28%EC%A1%B0%EA%B0%9C%EC%9C%A1%EC%88%98%20%EB%9D%BC%EB%A9%98%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17089015779610438882) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%B2%9D%E3%81%A0%E3%81%97%E9%BA%BA%20%E3%81%8D%E3%81%9F%E7%94%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%8C%97%E4%B8%8D%E5%8B%95%E5%A0%82%E7%94%BA570-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26036754/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%9D%B4%EB%8B%A4%EC%8B%9C%EB%A9%98%20%EA%B8%B0%ED%83%80%EB%8B%A4%20%28%EC%A1%B0%EA%B0%9C%EC%9C%A1%EC%88%98%20%EB%9D%BC%EB%A9%98%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-046"></a>
 #### ★★ 덴푸라도코로 교린센 (天婦羅処 京林泉) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.66
@@ -823,7 +823,7 @@
 - 영업 11:30-15:00(L.O.14:00), 17:00-22:00(L.O.21:00) / 휴무 월요일(공휴일이면 영업, 공휴일 다음 화요일 휴무)
 - 💡 점심 90분·저녁 120분 제한, 20분 이상 연락 없이 늦으면 취소 처리. 주말·공휴일 점심은 11:30/13:30 2부제. 카드·QR 결제 가능.
 - 🚃 JR 교토역 중앙개찰구 도보 1분 (호텔 그란비아 교토 M3층)
-- [구글 지도](https://maps.google.com/?cid=1947312411215831509&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E5%A9%A6%E7%BE%85%E5%87%A6%20%E4%BA%AC%E6%9E%97%E6%B3%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000484/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%EB%8F%84%EC%BD%94%EB%A1%9C%20%EA%B5%90%EB%A6%B0%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1947312411215831509) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E5%A9%A6%E7%BE%85%E5%87%A6%20%E4%BA%AC%E6%9E%97%E6%B3%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000484/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%EB%8F%84%EC%BD%94%EB%A1%9C%20%EA%B5%90%EB%A6%B0%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-047"></a>
 #### ★★ 사이쿄야키 교토 야마로쿠 (西京焼き 京都やま六) — 🍱 일식·카이세키 · 타베로그 3.63
@@ -846,7 +846,7 @@
 - 영업 11:00-15:00(L.O.14:30), 16:00-20:00(L.O.19:30) / 휴무 JR 교토 이세탄 휴무일에 따름
 - 💡 예약 불가, 현장에서 정리권(整理券)을 발행하며 좌석 21석이라 당일 접수가 일찍 마감될 수 있음. 카드·QR결제 가능.
 - 🚃 JR 교토역 직결 (JR 교토 이세탄 지하 1층)
-- [구글 지도](https://maps.google.com/?cid=12614726155654206038&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%A5%BF%E4%BA%AC%E7%84%BC%E3%81%8D%20%E4%BA%AC%E9%83%BD%E3%82%84%E3%81%BE%E5%85%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26039724/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%9D%B4%EC%BF%84%EC%95%BC%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EC%95%BC%EB%A7%88%EB%A1%9C%EC%BF%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12614726155654206038) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%A5%BF%E4%BA%AC%E7%84%BC%E3%81%8D%20%E4%BA%AC%E9%83%BD%E3%82%84%E3%81%BE%E5%85%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26039724/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%9D%B4%EC%BF%84%EC%95%BC%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EC%95%BC%EB%A7%88%EB%A1%9C%EC%BF%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-009"></a>
 #### ★★ 🏯 신푸쿠사이칸 본점 (新福菜館 本店) — 🍜 라멘 · 타베로그 3.59
@@ -869,7 +869,7 @@
 - 영업 09:00-20:00 (L.O. 19:30) / 휴무 수요일
 - 💡 오전 9시 오픈이라 아침 라멘 가능. 수요일 휴무. 카드·전자머니·QR 불가라 현금 준비. 혼잡 시 합석.
 - 🚃 JR 교토역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=569084589944505485&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E7%A6%8F%E8%8F%9C%E9%A4%A8%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E5%90%91%E7%95%91%E7%94%BA569) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000791/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%ED%91%B8%EC%BF%A0%EC%82%AC%EC%9D%B4%EC%B9%B8%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=569084589944505485) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E7%A6%8F%E8%8F%9C%E9%A4%A8%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E5%90%91%E7%95%91%E7%94%BA569) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000791/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%ED%91%B8%EC%BF%A0%EC%82%AC%EC%9D%B4%EC%B9%B8%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-048"></a>
 #### ★★ 야마모토 만보 (山本まんぼ) — 🥞 오코노미야키 · 타베로그 3.66
@@ -890,7 +890,7 @@
 - 영업 10:00-21:30 / 휴무 수요일
 - 💡 평일은 전화 예약 가능, 토·일·공휴일은 예약 불가라 줄 설 각오. 현금만(카드·전자화폐·QR 불가). 테이크아웃 가능.
 - 🚃 JR 교토역 중앙출구 도보 약 7분
-- [구글 지도](https://maps.google.com/?cid=15007516441916275023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E6%9C%AC%E3%81%BE%E3%82%93%E3%81%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%B0%8F%E7%A8%B2%E8%8D%B7%E7%94%BA61-54) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26034294/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%A7%8C%EB%B3%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15007516441916275023) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E6%9C%AC%E3%81%BE%E3%82%93%E3%81%BC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%B0%8F%E7%A8%B2%E8%8D%B7%E7%94%BA61-54) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26034294/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%A7%8C%EB%B3%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-011"></a>
 #### ★★ 헨코츠 (へんこつ) — 🍶 이자카야·다치노미 · 타베로그 3.65
@@ -911,7 +911,7 @@
 - 영업 17:00-23:00 / 휴무 일요일, 공휴일
 - 💡 월~토 17:00-23:00, 일·공휴일 휴무. 예약 불가, 카운터석만. 현금만. 맥주는 병맥주만.
 - 🚃 JR 교토역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=11327509786405904139&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B8%E3%82%93%E3%81%93%E3%81%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E6%B4%A5%E5%B1%8B%E6%A9%8B%E9%80%9A%E7%83%8F%E4%B8%B8%E8%A5%BF%E5%85%A5%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA579) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000797/) · [유튜브](https://www.youtube.com/results?search_query=%ED%97%A8%EC%BD%94%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11327509786405904139) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B8%E3%82%93%E3%81%93%E3%81%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9C%A8%E6%B4%A5%E5%B1%8B%E6%A9%8B%E9%80%9A%E7%83%8F%E4%B8%B8%E8%A5%BF%E5%85%A5%E3%83%AB%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA579) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000797/) · [유튜브](https://www.youtube.com/results?search_query=%ED%97%A8%EC%BD%94%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-010"></a>
 #### ★★ 🏯 혼케 다이이치아사히 (본가 제일욱) (本家 第一旭 たかばし本店) — 🍜 라멘 · 타베로그 3.73
@@ -933,7 +933,7 @@
 - 영업 06:00-01:00 / 휴무 목요일
 - 💡 아침 6시부터 새벽 1시까지 영업해 아침 라멘·야식 모두 가능. 목요일 휴무. 줄이 길어도 회전이 빠르고 바로 옆 신푸쿠사이칸과 비교해 먹는 사람이 많음.
 - 🚃 JR 교토역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=11956261545466959499&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E5%AE%B6%20%E7%AC%AC%E4%B8%80%E6%97%AD%20%E3%81%9F%E3%81%8B%E3%81%B0%E3%81%97%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E5%90%91%E7%95%91%E7%94%BA845) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000873/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EB%8B%A4%EC%9D%B4%EC%9D%B4%EC%B9%98%EC%95%84%EC%82%AC%ED%9E%88%20%28%EB%B3%B8%EA%B0%80%20%EC%A0%9C%EC%9D%BC%EC%9A%B1%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11956261545466959499) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E5%AE%B6%20%E7%AC%AC%E4%B8%80%E6%97%AD%20%E3%81%9F%E3%81%8B%E3%81%B0%E3%81%97%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E5%90%91%E7%95%91%E7%94%BA845) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26000873/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%BC%80%20%EB%8B%A4%EC%9D%B4%EC%9D%B4%EC%B9%98%EC%95%84%EC%82%AC%ED%9E%88%20%28%EB%B3%B8%EA%B0%80%20%EC%A0%9C%EC%9D%BC%EC%9A%B1%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-049"></a>
 #### ★★ 후쿠나가 901 (フクナガ901) — ☕ 카페·킷사텐 · 타베로그 3.64
@@ -955,7 +955,7 @@
 - 영업 10:00-19:30 / 휴무 교토역 빌딩 휴무일에 따름
 - 💡 예약 불가. 교토역 빌딩 8층이라 비 오는 날·출발 전 시간 때우기 좋음. 카드·전자화폐·QR 결제 가능.
 - 🚃 JR 교토역 직결 (교토역 빌딩 8층)
-- [구글 지도](https://maps.google.com/?cid=17243246723617911745&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%82%AF%E3%83%8A%E3%82%AC901%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26030973/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%82%98%EA%B0%80%20901%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17243246723617911745) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%95%E3%82%AF%E3%83%8A%E3%82%AC901%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%83%8F%E4%B8%B8%E9%80%9A%E5%A1%A9%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E6%9D%B1%E5%A1%A9%E5%B0%8F%E8%B7%AF%E7%94%BA901) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26030973/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%BF%A0%EB%82%98%EA%B0%80%20901%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 기온·히가시야마
 
@@ -978,7 +978,7 @@
 - 영업 18:00-21:00 / 휴무 부정기
 - 💡 서비스료 10% 별도.
 - 🚃 기온시조역에서 524m · 교토가와라마치역 도보 12분
-- [구글 지도](https://maps.google.com/?cid=8034613776727832318&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%87%E5%9C%92%20%E5%A4%A7%E6%B8%A1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-265) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26014312/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%98%A8%20%EC%98%A4%EC%99%80%ED%83%80%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8034613776727832318) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%87%E5%9C%92%20%E5%A4%A7%E6%B8%A1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-265) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26014312/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%98%A8%20%EC%98%A4%EC%99%80%ED%83%80%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-012"></a>
 #### ★★★ 기쿠노이 본점 (菊乃井 本店) — 🍱 일식·카이세키 · 타베로그 4.10
@@ -989,7 +989,7 @@
 - 🎖️ **미쉐린** [미쉐린 3스타 2026 (17년 연속 3스타)](https://www.timeout.jp/osaka/ja/news/michelin-kyoto-osaka-2026-new-chapter-043026)
 - 🍽️ **타베로그** [타베로그 4.10, 일본요리 WEST 백명점 2021·2023·2025](https://tabelog.com/kyoto/A2601/A260301/26001346/)
 - 🏆 **수상·백명점** Tabelog Award Bronze 2018·2019, 2021~2026
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 986개 (2026-11-21 기준)](https://maps.google.com/?cid=14770280739577064273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 986개 (2026-11-21 기준)](https://maps.google.com/?cid=14770280739577064273)
 
 - **온라인 예약: ✅ 가능** · [MY CONCIERGE](https://myconciergejapan.com/restaurants/kikunoi/), [TABLE ALL](https://www.tableall.com/restaurant/111)
 - 예약 팁: 일본 국내 예약은 전화(075-561-0015)만. 해외 고객은 공식 영문 사이트가 안내하는 MY CONCIERGE·TABLE ALL로 온라인 예약.
@@ -1000,7 +1000,7 @@
 - 영업 12:00-14:00, 17:00-20:00 / 휴무 부정기, 연말연시
 - 💡 점심 코스가 현실적(16,500엔·22,000엔~, 서비스료 15% 별도). 반드시 예약. 야사카신사·고다이지 사이 언덕길에 위치.
 - 🚃 게이한 기온시조역 권역 (야사카신사 남쪽)
-- [구글 지도](https://maps.google.com/?cid=14770280739577064273&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8F%8A%E4%B9%83%E4%BA%95%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8B%E6%B2%B3%E5%8E%9F%E9%80%9A%E5%85%AB%E5%9D%82%E9%B3%A5%E5%B1%85%E5%89%8D%E4%B8%8B%E3%83%AB%E4%B8%8B%E6%B2%B3%E5%8E%9F%E7%94%BA459) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001346/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%BF%A0%EB%85%B8%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14770280739577064273) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8F%8A%E4%B9%83%E4%BA%95%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8B%E6%B2%B3%E5%8E%9F%E9%80%9A%E5%85%AB%E5%9D%82%E9%B3%A5%E5%B1%85%E5%89%8D%E4%B8%8B%E3%83%AB%E4%B8%8B%E6%B2%B3%E5%8E%9F%E7%94%BA459) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001346/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%BF%A0%EB%85%B8%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-089"></a>
 #### ★★★ 니시부치 한텐 (にしぶち飯店) — 🥟 중화·교자 · 타베로그 4.34
@@ -1020,7 +1020,7 @@
 - 영업 18:00-21:00 / 휴무 일요일·공휴일
 - 💡 카드를 받지 않으니 현금을 넉넉히 준비할 것.
 - 🚃 기온시조역에서 586m
-- [구글 지도](https://maps.google.com/?cid=15814621694987037155&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AB%E3%81%97%E3%81%B6%E3%81%A1%E9%A3%AF%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8A%E5%BC%81%E5%A4%A9%E7%94%BA444-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26022200/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%8B%9C%EB%B6%80%EC%B9%98%20%ED%95%9C%ED%85%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15814621694987037155) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%AB%E3%81%97%E3%81%B6%E3%81%A1%E9%A3%AF%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8A%E5%BC%81%E5%A4%A9%E7%94%BA444-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26022200/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%88%EC%8B%9C%EB%B6%80%EC%B9%98%20%ED%95%9C%ED%85%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-094"></a>
 #### ★★★ 덴푸라 쿄보시 (天ぷら 京星) — 🍤 튀김·돈카츠·규카츠 · 타베로그 3.84
@@ -1041,7 +1041,7 @@
 - 영업 18:00-22:00 (최종 입장 20:00) / 휴무 일요일
 - 💡 취소 수수료가 전날 50%, 당일 100%. 마지막 입장은 20시.
 - 🚃 기온시조역 도보 10분(384m)
-- [구글 지도](https://maps.google.com/?cid=2351564404588873562&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E4%BA%AC%E6%98%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E6%9C%AB%E5%90%89%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006057/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%BF%84%EB%B3%B4%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2351564404588873562) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E3%81%B7%E3%82%89%20%E4%BA%AC%E6%98%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E6%9C%AB%E5%90%89%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006057/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%ED%91%B8%EB%9D%BC%20%EC%BF%84%EB%B3%B4%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-097"></a>
 #### ★★★ 스시 마츠모토 (鮨まつもと) — 🍣 스시·해산물 · 타베로그 3.74
@@ -1061,7 +1061,7 @@
 - 영업 12:00-14:00, 18:00-21:00 (수요일은 저녁만) / 휴무 화요일
 - 💡 강한 향수·섬유유연제 향은 삼가 달라고 한다. 음료 반입은 반입료를 내면 가능.
 - 🚃 기온시조역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=3759041055219390303&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-123) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002579/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%A7%88%EC%B8%A0%EB%AA%A8%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3759041055219390303) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AE%A8%E3%81%BE%E3%81%A4%E3%82%82%E3%81%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-123) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002579/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%20%EB%A7%88%EC%B8%A0%EB%AA%A8%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-090"></a>
 #### ★★★ 신몬젠 요네무라 (新門前 米村) — 🍷 프렌치·이노베이티브 · 타베로그 3.97
@@ -1082,7 +1082,7 @@
 - 영업 점심 12:00-15:00(목요일 제외), 저녁 18:00-21:00 / 휴무 화·수요일
 - 💡 점심은 현금만, 저녁은 카드·PayPay 가능. 저녁엔 1인 1음료 주문이 원칙(안 하면 물값 1인 1,000엔)이고, 중학생 이상만 입장할 수 있다.
 - 🚃 게이한 산조역 도보 10분
-- [구글 지도](https://maps.google.com/?cid=16186730872962068233&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E9%96%80%E5%89%8D%20%E7%B1%B3%E6%9D%91%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%96%B0%E9%96%80%E5%89%8D%E9%80%9A%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E6%9D%B1%E5%85%A5%E6%A2%85%E6%9C%AC%E7%94%BA255) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26032575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%AA%AC%EC%A0%A0%20%EC%9A%94%EB%84%A4%EB%AC%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16186730872962068233) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E9%96%80%E5%89%8D%20%E7%B1%B3%E6%9D%91%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%96%B0%E9%96%80%E5%89%8D%E9%80%9A%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E6%9D%B1%E5%85%A5%E6%A2%85%E6%9C%AC%E7%94%BA255) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26032575/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%AA%AC%EC%A0%A0%20%EC%9A%94%EB%84%A4%EB%AC%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-091"></a>
 #### ★★★ 잇키 (一僖) — 🥟 중화·교자 · 타베로그 3.90
@@ -1102,7 +1102,7 @@
 - 영업 저녁 16:45-19:00 / 19:15-21:30 2부제, 토·일 점심 11:30-13:00 추가 / 휴무 목요일
 - 💡 1인 1코스 주문이 원칙이고 중학생 이상만 입장 가능. 응대는 일본어만.
 - 🚃 기온시조역에서 621m · 교토가와라마치역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=13460299118949197461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%83%96%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%9C%88%E8%A6%8B%E7%94%BA17-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26023422/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13460299118949197461) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%83%96%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%9C%88%E8%A6%8B%E7%94%BA17-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26023422/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-099"></a>
 #### ★★★ 코리스 (コリス) — 🍳 경양식·오므라이스 · 타베로그 3.81
@@ -1122,7 +1122,7 @@
 - 영업 11:30-19:00 / 휴무 화요일 (매년 1/25~2/25 휴업)
 - 💡 현금만 받는다. 양이 많은 편이라 여럿이 나눠 먹기 좋다.
 - 🚃 기요미즈고조역에서 543m · 시버스 기요미즈미치 정류장 도보 3분
-- [구글 지도](https://maps.google.com/?cid=6034329706010671022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%AA%E3%82%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E6%9D%B1%E5%85%A52%E4%B8%81%E7%9B%AE%E8%BD%86%E8%BD%A4%E7%94%BA101) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006119/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EB%A6%AC%EC%8A%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6034329706010671022) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B3%E3%83%AA%E3%82%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E6%9D%B1%E5%85%A52%E4%B8%81%E7%9B%AE%E8%BD%86%E8%BD%A4%E7%94%BA101) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006119/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EB%A6%AC%EC%8A%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-092"></a>
 #### ★★★ 핫슨 (八寸) — 🍱 일식·카이세키 · 타베로그 4.11
@@ -1143,7 +1143,7 @@
 - 영업 점심 12:00-13:00(화~토), 저녁 18:00-21:00 / 휴무 일요일
 - 💡 어린이 동반 예약은 전화로 직접 문의해야 한다. 다다미 개인실(6인)도 있다.
 - 🚃 기온시조역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=1975952149347487712&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AB%E5%AF%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E6%9C%AB%E5%90%89%E7%94%BA95) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002259/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%AB%EC%8A%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1975952149347487712) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%85%AB%E5%AF%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E6%9C%AB%E5%90%89%E7%94%BA95) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002259/) · [유튜브](https://www.youtube.com/results?search_query=%ED%95%AB%EC%8A%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-093"></a>
 #### ★★★ 히가시야마 츠카사 (ひがしやま 司) — 🍱 일식·카이세키 · 타베로그 4.23
@@ -1164,7 +1164,7 @@
 - 영업 화~금 18:00-21:00 / 토 12:30-15:00, 18:00-21:00 / 휴무 일·월요일 (부정기 휴무 있음)
 - 💡 음료는 전부 별도 유료, 서비스료 10% 별도. 당일 메뉴 변경 불가, 30분 이상 늦으면 예약이 취소된다. 카드 결제 가능.
 - 🚃 지하철 도자이선 히가시야마역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=15879698127925680908&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B2%E3%81%8C%E3%81%97%E3%82%84%E3%81%BE%20%E5%8F%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%A5%BF%E7%94%BA127) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26036658/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%95%BC%EB%A7%88%20%EC%B8%A0%EC%B9%B4%EC%82%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15879698127925680908) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%B2%E3%81%8C%E3%81%97%E3%82%84%E3%81%BE%20%E5%8F%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%A5%BF%E7%94%BA127) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26036658/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%95%BC%EB%A7%88%20%EC%B8%A0%EC%B9%B4%EC%82%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-014"></a>
 #### ★★ 가기젠 요시후사 시조 본점 (鍵善良房 四条本店) — 🍡 화과자·디저트 · 타베로그 3.78
@@ -1174,7 +1174,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.78 (리뷰 1,977), 화과자·감미처 WEST 백명점 2023·2026](https://tabelog.com/kyoto/A2601/A260301/26001887/)
 - 🏯 **노포·원조** 1726년 창업(타베로그 표기) 기온 화과자 노포
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,106개 (2026-11-21 기준)](https://maps.google.com/?cid=15475411711944997808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,106개 (2026-11-21 기준)](https://maps.google.com/?cid=15475411711944997808)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 카페는 예약 불가.
@@ -1188,7 +1188,7 @@
 - 영업 10:00-18:00 (L.O. 17:30) / 휴무 월요일 (공휴일이면 다음날)
 - 💡 월요일 휴무(공휴일이면 다음날). 카페 예약 불가, 혼잡 시 대기. 구즈키리는 테이크아웃 불가. 카드·PayPay 가능.
 - 🚃 게이한 기온시조역 도보권
-- [구글 지도](https://maps.google.com/?cid=15475411711944997808&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8D%B5%E5%96%84%E8%89%AF%E6%88%BF%20%E5%9B%9B%E6%9D%A1%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4264) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001887/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EA%B8%B0%EC%A0%A0%20%EC%9A%94%EC%8B%9C%ED%9B%84%EC%82%AC%20%EC%8B%9C%EC%A1%B0%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15475411711944997808) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%8D%B5%E5%96%84%E8%89%AF%E6%88%BF%20%E5%9B%9B%E6%9D%A1%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4264) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001887/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EA%B8%B0%EC%A0%A0%20%EC%9A%94%EC%8B%9C%ED%9B%84%EC%82%AC%20%EC%8B%9C%EC%A1%B0%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-015"></a>
 #### ★★ 가네쇼 (かね正) — 🐟 장어 · 타베로그 3.54
@@ -1209,7 +1209,7 @@
 - 영업 11:30-14:00, 17:30-21:00 / 휴무 목요일, 일요일
 - 💡 목·일요일 휴무. 현금만, 카운터석 위주. 예약은 저녁만 가능. 늦게 가면 품절되기도.
 - 🚃 게이한 기온시조역 도보권
-- [구글 지도](https://maps.google.com/?cid=16448353697598890051&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%81%AD%E6%AD%A3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB2%E4%B8%81%E7%9B%AE%E5%B8%B8%E7%9B%A4%E7%94%BA155-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000252/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%84%A4%EC%87%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16448353697598890051) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8B%E3%81%AD%E6%AD%A3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A4%A7%E5%92%8C%E5%A4%A7%E8%B7%AF%E9%80%9A%E5%9B%9B%E6%9D%A1%E4%B8%8A%E3%83%AB2%E4%B8%81%E7%9B%AE%E5%B8%B8%E7%9B%A4%E7%94%BA155-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000252/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EB%84%A4%EC%87%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-100"></a>
 #### ★★ 곤베에 (権兵衛) — 🍲 우동·소바 · 타베로그 3.48
@@ -1230,7 +1230,7 @@
 - 영업 월·화·수·금 11:30-15:00, 17:00-20:00 / 토·일·공휴일 11:30-20:00 / 휴무 목요일
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비할 것. 50석 규모라 회전이 빠른 편.
 - 🚃 기온시조역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=6032617932279016189&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A8%A9%E5%85%B5%E8%A1%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4254) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001337/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A4%EB%B2%A0%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6032617932279016189) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A8%A9%E5%85%B5%E8%A1%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4254) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001337/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B3%A4%EB%B2%A0%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-101"></a>
 #### ★★ 기온 요로즈야 (祇をん 萬屋) — 🍲 우동·소바 · 타베로그 3.57
@@ -1251,7 +1251,7 @@
 - 영업 월~토 12:30-15:00, 17:30-19:00 (L.O. 18:40) / 일·공휴일 12:30-15:30 / 휴무 부정기
 - 💡 현금만 받는다. 줄은 가게 밖 좁은 골목에 서니 통행에 주의.
 - 🚃 기온시조역 6번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=9217110740022227731&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%87%E3%82%92%E3%82%93%20%E8%90%AC%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E4%BA%8C%E7%AD%8B%E7%9B%AE%E8%A5%BF%E5%85%A5%E3%83%AB%E5%B0%8F%E6%9D%BE%E7%94%BA555-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000254/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%98%A8%20%EC%9A%94%EB%A1%9C%EC%A6%88%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9217110740022227731) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%87%E3%82%92%E3%82%93%20%E8%90%AC%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E8%8A%B1%E8%A6%8B%E5%B0%8F%E8%B7%AF%E5%9B%9B%E6%9D%A1%E4%B8%8B%E3%83%AB%E4%BA%8C%E7%AD%8B%E7%9B%AE%E8%A5%BF%E5%85%A5%E3%83%AB%E5%B0%8F%E6%9D%BE%E7%94%BA555-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000254/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B8%B0%EC%98%A8%20%EC%9A%94%EB%A1%9C%EC%A6%88%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-016"></a>
 #### ★★ 기온 토쿠야 (ぎおん徳屋) — 🍡 화과자·디저트 · 타베로그 3.76
@@ -1284,7 +1284,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.64 (리뷰 745건), 화과자·감미처 WEST 百名店 2023·2026](https://tabelog.com/kyoto/A2601/A260301/26028853/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 872개 (2026-11-21 기준)](https://maps.google.com/?cid=17626857240151019571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 872개 (2026-11-21 기준)](https://maps.google.com/?cid=17626857240151019571)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약은 점심 도시락(時雨弁当)만 전화로 받는다. 파르페 등 카페 이용은 예약 없이 현장 접수.
@@ -1298,7 +1298,7 @@
 - 영업 11:30-18:00 (L.O. 17:00) / 휴무 화요일·연말연시
 - 💡 6세 미만은 입장 불가. 카드·QR 결제 가능.
 - 🚃 기온시조역 도보 약 15분 · 시버스 기온 정류장 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=17626857240151019571&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%A1%E7%A2%8D%E5%B1%B1%E6%88%BF%20%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A0%E3%82%B2%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8B%E6%B2%B3%E5%8E%9F%E7%94%BA%E9%80%9A%E9%AB%98%E5%8F%B0%E5%AF%BA%E5%8C%97%E9%96%80%E5%89%8D%E9%B7%B2%E5%B0%BE%E7%94%BA524) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26028853/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B2%8C%EC%82%B0%EB%B3%B4%20%EC%82%B4%EB%A1%B1%20%EB%93%9C%20%EB%AC%B4%EA%B2%8C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17626857240151019571) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%A1%E7%A2%8D%E5%B1%B1%E6%88%BF%20%E3%82%B5%E3%83%AD%E3%83%B3%E3%83%BB%E3%83%89%E3%83%BB%E3%83%A0%E3%82%B2%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%B8%8B%E6%B2%B3%E5%8E%9F%E7%94%BA%E9%80%9A%E9%AB%98%E5%8F%B0%E5%AF%BA%E5%8C%97%E9%96%80%E5%89%8D%E9%B7%B2%E5%B0%BE%E7%94%BA524) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26028853/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B2%8C%EC%82%B0%EB%B3%B4%20%EC%82%B4%EB%A1%B1%20%EB%93%9C%20%EB%AC%B4%EA%B2%8C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-018"></a>
 #### ★★ 사료 츠지리 기온 본점 (茶寮都路里 祇園本店) — 🍡 화과자·디저트 · 타베로그 3.54
@@ -1307,7 +1307,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.54 (리뷰 1,117), 스위츠 WEST 백명점 2018·2019](https://tabelog.com/kyoto/A2601/A260301/26000408/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,795개 (2026-11-21 기준)](https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,795개 (2026-11-21 기준)](https://maps.google.com/?cid=7677863780453147220)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -1321,7 +1321,7 @@
 - 영업 10:30-20:30 (L.O. 19:30)
 - 💡 예약 불가, 주말엔 긴 줄. 1층 찻집 위 2~3층이 카페. 카드·QR 가능.
 - 🚃 게이한 기온시조역 도보권
-- [구글 지도](https://maps.google.com/?cid=7677863780453147220&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%E9%83%BD%E8%B7%AF%E9%87%8C%20%E7%A5%87%E5%9C%92%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%9B%9B%E6%9D%A1%E9%80%9A%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4573-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000408/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%EC%B8%A0%EC%A7%80%EB%A6%AC%20%EA%B8%B0%EC%98%A8%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7677863780453147220) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%E9%83%BD%E8%B7%AF%E9%87%8C%20%E7%A5%87%E5%9C%92%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%9B%9B%E6%9D%A1%E9%80%9A%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4573-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000408/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%EC%B8%A0%EC%A7%80%EB%A6%AC%20%EA%B8%B0%EC%98%A8%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-096"></a>
 #### ★★ 스미요시 (私房菜 すみよし) — 🥟 중화·교자 · 타베로그 3.75
@@ -1340,7 +1340,7 @@
 - 영업 11:30-14:00, 17:30-21:00 / 휴무 화요일
 - 💡 코스에 마파두부 등 단품을 추가할 수 있다. 자릿세(차지) 없음.
 - 🚃 기요미즈고조역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=16405809878825788941&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A7%81%E6%88%BF%E8%8F%9C%20%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A6%99%E6%B3%95%E9%99%A2%E5%89%8D%E5%81%B4%E7%94%BA420) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26030839/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%9A%94%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16405809878825788941) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A7%81%E6%88%BF%E8%8F%9C%20%E3%81%99%E3%81%BF%E3%82%88%E3%81%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%A6%99%E6%B3%95%E9%99%A2%E5%89%8D%E5%81%B4%E7%94%BA420) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26030839/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EB%AF%B8%EC%9A%94%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-020"></a>
 #### ★★ 요쇼쿠노미세 미시나 (洋食の店 みしな) — 🍳 경양식·오므라이스 · 타베로그 3.75
@@ -1359,7 +1359,7 @@
 - 영업 12:00-14:30, 17:00-19:30 / 휴무 수요일, 첫째·셋째 목요일
 - 💡 점심·저녁 모두 예약 필요(저녁은 예약제, 점심도 예약 우선). 수요일·첫째·셋째 목요일 휴무. 현금만.
 - 🚃 게이한 기온시조역에서 약 1km
-- [구글 지도](https://maps.google.com/?cid=9365290189199434822&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B4%8B%E9%A3%9F%E3%81%AE%E5%BA%97%20%E3%81%BF%E3%81%97%E3%81%AA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%A1%9D%E5%B1%8B%E7%94%BA357) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001870/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%87%BC%EC%BF%A0%EB%85%B8%EB%AF%B8%EC%84%B8%20%EB%AF%B8%EC%8B%9C%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9365290189199434822) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%B4%8B%E9%A3%9F%E3%81%AE%E5%BA%97%20%E3%81%BF%E3%81%97%E3%81%AA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%A1%9D%E5%B1%8B%E7%94%BA357) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001870/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%94%EC%87%BC%EC%BF%A0%EB%85%B8%EB%AF%B8%EC%84%B8%20%EB%AF%B8%EC%8B%9C%EB%82%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-013"></a>
 #### ★★ 🏯 이즈우 (いづう) — 🍣 스시·해산물 · 타베로그 3.68
@@ -1369,7 +1369,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 1,193)](https://tabelog.com/kyoto/A2601/A260301/26000585/)
 - 🏯 **노포·원조** 1781년 창업 교토 사바즈시 노포
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,370개 (2026-11-21 기준)](https://maps.google.com/?cid=4934790349886876838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,370개 (2026-11-21 기준)](https://maps.google.com/?cid=4934790349886876838)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 매장 식사는 예약 불가. 테이크아웃 사바즈시만 오전 8시부터 전화 예약(075-561-0751).
@@ -1383,7 +1383,7 @@
 - 영업 월·수~토 11:00-22:00 / 일·공휴일 11:00-21:00 / 휴무 화요일
 - 💡 화요일 휴무. 매장 식사는 예약 불가, 테이크아웃 사바즈시는 아침 8시부터 전화 예약 가능(신칸센 도시락용으로 인기). 카드·전자머니·PayPay 가능.
 - 🚃 게이한 기온시조역 도보권
-- [구글 지도](https://maps.google.com/?cid=4934790349886876838&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E3%81%86%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%85%AB%E5%9D%82%E6%96%B0%E5%9C%B0%E6%B8%85%E6%9C%AC%E7%94%BA367) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000585/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EC%9A%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4934790349886876838) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E3%81%86%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%85%AB%E5%9D%82%E6%96%B0%E5%9C%B0%E6%B8%85%E6%9C%AC%E7%94%BA367) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000585/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EC%9A%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-098"></a>
 #### ★★ 젠 카페 (ゼンカフェ) — ☕ 카페·킷사텐 · 타베로그 3.71
@@ -1392,7 +1392,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 761건), 카페 WEST 百名店 2025 (카페 2021·2022, 스위츠 WEST 2019·2020)](https://tabelog.com/kyoto/A2601/A260301/26021305/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 518개 (2026-11-21 기준)](https://maps.google.com/?cid=13946416017923670593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 518개 (2026-11-21 기준)](https://maps.google.com/?cid=13946416017923670593)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -1406,7 +1406,7 @@
 - 영업 11:00-18:00 / 휴무 월요일
 - 💡 카드·QR 결제 가능. 과일 산도는 일찍 품절되는 날이 있다.
 - 🚃 기온시조역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=13946416017923670593&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%BC%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-210) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26021305/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%A0%20%EC%B9%B4%ED%8E%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13946416017923670593) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%BC%E3%83%B3%E3%82%AB%E3%83%95%E3%82%A7%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8D%97%E5%81%B4570-210) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26021305/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A0%A0%20%EC%B9%B4%ED%8E%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-069"></a>
 #### ★★ 조식 키신 (朝食 喜心) — 🍱 일식·카이세키 · 타베로그 3.69
@@ -1416,7 +1416,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.69 (리뷰 481), 후기에서 '타베로그 TOP5000' 언급](https://tabelog.com/kyoto/A2601/A260301/26028888/)
 - 👥 **현지평판** [후기 2026: '이상적인 일본식 아침식사', '아침식사에 이 가격? 하지만 완전히 엔터테인먼트'](https://tabelog.com/kr/kyoto/A2601/A260301/26028888/dtlrvwlst/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 460개 (2026-11-21 기준)](https://maps.google.com/?cid=3234035985769497091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 460개 (2026-11-21 기준)](https://maps.google.com/?cid=3234035985769497091)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/kishin-kyoto/reserve)
 - 예약 팁: 공식 사이트 '완전 예약제' — 웹(TableCheck) 또는 전화 예약. 예약 없이는 착석이 어려울 수 있다고 안내. (기요미즈의 자매점 '喫茶 喜心 kyoto'는 예약 불필요)
@@ -1430,7 +1430,7 @@
 - 영업 금~화 07:30-14:00 (회차제, L.O. 12:30) / 휴무 수·목요일 (공휴일엔 영업하는 경우 있음)
 - 💡 완전 예약제 회차 운영(07:30/09:00/11:00/12:30, 각 약 80분, 회차 시작과 동시에 코스 진행). 10분 이상 늦으면 취소될 수 있음. 아침 코스 3,600엔 + 날계란·참치포 등 추가(2026-07 후기). 카드(VISA·Master·AMEX)·QR 가능. 차량은 근처 코인파킹.
 - 🚃 게이한 기온시조역 6번 출구 도보 3~5분
-- [구글 지도](https://maps.google.com/?cid=3234035985769497091&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%9D%E9%A3%9F%20%E5%96%9C%E5%BF%83%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%B0%8F%E6%9D%BE%E7%94%BA555) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26028888/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A1%B0%EC%8B%9D%20%ED%82%A4%EC%8B%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3234035985769497091) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%9D%E9%A3%9F%20%E5%96%9C%E5%BF%83%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%B0%8F%E6%9D%BE%E7%94%BA555) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26028888/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A1%B0%EC%8B%9D%20%ED%82%A4%EC%8B%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-102"></a>
 #### ★★ 탄 (丹) — 🍱 일식·카이세키 · 타베로그 3.66
@@ -1440,7 +1440,7 @@
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 7년 연속(2020~2026)·그린스타
 - 🍽️ **타베로그** [타베로그 3.66 (리뷰 239건)](https://tabelog.com/kyoto/A2601/A260301/26027731/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 330개 (2026-11-21 기준)](https://maps.google.com/?cid=8308500079104148102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 330개 (2026-11-21 기준)](https://maps.google.com/?cid=8308500079104148102)
 
 - **온라인 예약: ✅ 가능** · [공식사이트](http://tan.kyoto.jp/reserve)
 - 예약 팁: 공식 사이트의 예약 버튼이나 전화로 예약.
@@ -1451,7 +1451,7 @@
 - 영업 12:00-14:45 (L.O. 14:00), 18:00-22:00 (L.O. 21:00) / 아침 금·토 9:00, 일 8:00·9:00 / 휴무 월요일 (공휴일이면 다음 날), 월 1회 부정기
 - 💡 금·토·일에는 아침 식사도 한다. 당일 취소는 100% 수수료.
 - 🚃 히가시야마역 1번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=8308500079104148102&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%BA%94%E8%BB%92%E7%94%BA106-13) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26027731/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%84%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8308500079104148102) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E4%BA%94%E8%BB%92%E7%94%BA106-13) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26027731/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%84%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-017"></a>
 #### ★ 마츠바 본점 (니신소바) (総本家にしんそば 松葉 本店) — 🍲 우동·소바 · 타베로그 3.49
@@ -1473,7 +1473,7 @@
 - 영업 10:30-20:30 / 휴무 수요일
 - 💡 수요일 휴무, 예약 불가라 식사 시간대엔 대기. 카드·전자머니 가능.
 - 🚃 게이한 기온시조역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=16376875927891201901&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B7%8F%E6%9C%AC%E5%AE%B6%E3%81%AB%E3%81%97%E3%82%93%E3%81%9D%E3%81%B0%20%E6%9D%BE%E8%91%89%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%B7%9D%E7%AB%AF%E7%94%BA192) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001629/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%28%EB%8B%88%EC%8B%A0%EC%86%8C%EB%B0%94%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16376875927891201901) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B7%8F%E6%9C%AC%E5%AE%B6%E3%81%AB%E3%81%97%E3%82%93%E3%81%9D%E3%81%B0%20%E6%9D%BE%E8%91%89%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E5%B7%9D%E7%AB%AF%E7%94%BA192) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001629/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%B8%A0%EB%B0%94%20%EB%B3%B8%EC%A0%90%20%28%EB%8B%88%EC%8B%A0%EC%86%8C%EB%B0%94%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-019"></a>
 #### ★ 오쿠탄 기요미즈 (유도후) (奥丹 清水) — 🥢 두부·쇼진요리 · 타베로그 3.49
@@ -1493,7 +1493,7 @@
 - 영업 월·화·수·금 11:00-16:00 / 토·일 11:00-17:00 / 휴무 목요일
 - 💡 점심~오후만 영업(평일 16시, 주말 17시까지). 목요일 휴무. 카드·전자머니·QR 불가.
 - 🚃 기요미즈데라 인근 (게이한 기온시조역 권역)
-- [구글 지도](https://maps.google.com/?cid=15171176335987554794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A5%A5%E4%B8%B9%20%E6%B8%85%E6%B0%B4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43-340) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001625/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BF%A0%ED%83%84%20%EA%B8%B0%EC%9A%94%EB%AF%B8%EC%A6%88%20%28%EC%9C%A0%EB%8F%84%ED%9B%84%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15171176335987554794) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A5%A5%E4%B8%B9%20%E6%B8%85%E6%B0%B4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E6%B8%85%E6%B0%B43-340) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001625/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%BF%A0%ED%83%84%20%EA%B8%B0%EC%9A%94%EB%AF%B8%EC%A6%88%20%28%EC%9C%A0%EB%8F%84%ED%9B%84%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-021"></a>
 #### ★ 이즈주 (いづ重) — 🍣 스시·해산물 · 타베로그 3.58
@@ -1502,7 +1502,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 835)](https://tabelog.com/kyoto/A2601/A260301/26002550/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,449개 (2026-11-21 기준)](https://maps.google.com/?cid=4939091622905446115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,449개 (2026-11-21 기준)](https://maps.google.com/?cid=4939091622905446115)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가. 품절 시 조기 종료.
@@ -1517,7 +1517,7 @@
 - 영업 10:30-17:00 / 휴무 수요일, 목요일
 - 💡 수·목 휴무, 10:30-17:00(품절 시 조기 종료). 2026년 4월 말 기준 고등어 흉어로 사바 메뉴 일시 중단 공지가 있었으니 방문 전 확인. 매장 20석 있음.
 - 🚃 게이한 기온시조역 도보 약 8분
-- [구글 지도](https://maps.google.com/?cid=4939091622905446115&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E9%87%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4292-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002550/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EC%A3%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4939091622905446115) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E9%87%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E6%9D%B1%E5%B1%B1%E5%8C%BA%E7%A5%87%E5%9C%92%E7%94%BA%E5%8C%97%E5%81%B4292-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002550/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EC%A3%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 기타오지·다이토쿠지
 
@@ -1541,7 +1541,7 @@
 - 영업 목~토 12:00-13:30, 17:00-20:00 / 휴무 월·화·수·일요일
 - 💡 현금만(카드·전자결제 불가). 춘권 등 일부 메뉴는 품절되기도 한다. 영업일이 짧으니 방문 전 전화로 확인하는 게 좋다.
 - 🚃 시버스 기타오지호리카와 정류장 도보 4분 (지하철 기타오지역에서 약 650m)
-- [구글 지도](https://maps.google.com/?cid=11531307203345214795&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%9D%B1%E9%A4%90%E9%A4%A8%20%E9%B3%B3%E9%A3%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E4%B8%8B%E9%B3%A5%E7%94%B0%E7%94%BA37-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26002211/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B4%91%EB%91%A5%EC%B0%AC%EC%B9%B8%20%ED%98%B8%ED%9E%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11531307203345214795) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%9D%B1%E9%A4%90%E9%A4%A8%20%E9%B3%B3%E9%A3%9B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E4%B8%8B%E9%B3%A5%E7%94%B0%E7%94%BA37-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26002211/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B4%91%EB%91%A5%EC%B0%AC%EC%B9%B8%20%ED%98%B8%ED%9E%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-104"></a>
 #### ★★ 오가와 (おがわ) — 🍲 우동·소바 · 타베로그 3.74
@@ -1563,7 +1563,7 @@
 - 영업 11:30-14:30 (점심만) / 휴무 목요일
 - 💡 카드·전자결제 불가, 현금만. 소바가 다 팔리면 일찍 닫는다. 기타오지역에서 걸어서 20분이라 버스(시모노도로초 정류장 도보 1~3분)가 편하다. 집에서 먹을 생소바도 판다.
 - 🚃 시버스 시모노도로초 정류장 도보 1~3분 (지하철 기타오지역 도보 20분)
-- [구글 지도](https://maps.google.com/?cid=8433023701721421667&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%8C%E3%82%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E7%AB%B9%E4%B8%8B%E8%8A%9D%E6%9C%AC%E7%94%BA25) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26000389/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EA%B0%80%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8433023701721421667) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%8C%E3%82%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E7%AB%B9%E4%B8%8B%E8%8A%9D%E6%9C%AC%E7%94%BA25) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26000389/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EA%B0%80%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-105"></a>
 #### ★★ 이쓰쓰 (五) — 🍲 우동·소바 · 타베로그 3.59
@@ -1583,7 +1583,7 @@
 - 영업 11:30-16:00(L.O. 15:30), 17:00-19:00(L.O. 18:30) / 휴무 목요일
 - 💡 카드 결제 가능. 14시 30분부터는 단품 메뉴로 주문할 수 있고, 소바가 다 팔리면 일찍 닫는다.
 - 🚃 시버스 다이토쿠지마에 정류장 하차 (지하철 기타오지역에서 택시 약 10분)
-- [구글 지도](https://maps.google.com/?cid=4045232371084258839&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E9%9B%B2%E6%9E%97%E9%99%A2%E7%94%BA28) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26024473/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%93%B0%EC%93%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4045232371084258839) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E9%9B%B2%E6%9E%97%E9%99%A2%E7%94%BA28) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26024473/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%93%B0%EC%93%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-107"></a>
 #### ★★ 잇콘 우에하라 (一献 うえ原) — 🍱 일식·카이세키 · 타베로그 3.58
@@ -1601,7 +1601,7 @@
 - 영업 12:00-14:30(L.O. 13:30), 17:30-22:00(L.O. 21:30) / 휴무 수요일
 - 💡 카드는 JCB·AMEX만 되고 QR 결제는 가능하다.
 - 🚃 지하철 가라스마선 구라마구치역에서 약 70m
-- [구글 지도](https://maps.google.com/?cid=17035271493855125463&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%8C%AE%20%E3%81%86%E3%81%88%E5%8E%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E9%9E%8D%E9%A6%AC%E5%8F%A3%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E4%B8%8A%E5%BE%A1%E9%9C%8A%E4%B8%8A%E6%B1%9F%E7%94%BA232-9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26032840/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%EC%BD%98%20%EC%9A%B0%EC%97%90%ED%95%98%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17035271493855125463) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%8C%AE%20%E3%81%86%E3%81%88%E5%8E%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E9%9E%8D%E9%A6%AC%E5%8F%A3%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E4%B8%8A%E5%BE%A1%E9%9C%8A%E4%B8%8A%E6%B1%9F%E7%94%BA232-9) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26032840/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9E%87%EC%BD%98%20%EC%9A%B0%EC%97%90%ED%95%98%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-108"></a>
 #### ★★ 코카게 (木陰) — 🍲 우동·소바 · 타베로그 3.53
@@ -1622,7 +1622,7 @@
 - 영업 11:30-14:00 / 휴무 부정기 휴무 (인스타그램 공지)
 - 💡 점심 2시간 반만 열고 소바가 일찍 동나는 날이 많다. 카드·교통 IC카드·PayPay 등 결제 수단은 다양하고, 한 그룹은 최대 4명까지.
 - 🚃 시버스 206계통 다이토쿠지마에 정류장 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7193338940644050475&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%A8%E9%99%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E9%96%80%E5%89%8D%E7%94%BA56-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26042753/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EC%B9%B4%EA%B2%8C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7193338940644050475) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%A8%E9%99%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E9%96%80%E5%89%8D%E7%94%BA56-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26042753/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EC%B9%B4%EA%B2%8C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-106"></a>
 #### ★★ 테우치 소바 카네이 (手打ち蕎麦 かね井) — 🍲 우동·소바 · 타베로그 3.69
@@ -1645,7 +1645,7 @@
 - 영업 화~금 11:30-14:30, 18:00-20:30 / 토·일 11:30-14:30 / 휴무 월요일
 - 💡 현금만(카드·전자결제 불가). 2인 테이블 8개뿐이라 5명 이상 단체는 사양하는 편이다.
 - 🚃 시버스 다이토쿠지마에 정류장 도보 약 6분
-- [구글 지도](https://maps.google.com/?cid=4407142846125428979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6%20%E3%81%8B%E3%81%AD%E4%BA%95%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E6%9D%B1%E8%97%A4%E3%83%8E%E6%A3%AE%E7%94%BA11-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001676/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%8C%EC%9A%B0%EC%B9%98%20%EC%86%8C%EB%B0%94%20%EC%B9%B4%EB%84%A4%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4407142846125428979) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6%20%E3%81%8B%E3%81%AD%E4%BA%95%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E6%9D%B1%E8%97%A4%E3%83%8E%E6%A3%AE%E7%94%BA11-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001676/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%8C%EC%9A%B0%EC%B9%98%20%EC%86%8C%EB%B0%94%20%EC%B9%B4%EB%84%A4%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 긴카쿠지·오카자키
 
@@ -1656,7 +1656,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.95 (리뷰 2,850), 우동 백명점 2017~2019·우동 WEST 2020·2022·2024](https://tabelog.com/kyoto/A2601/A260301/26002504/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,905개 (2026-11-21 기준)](https://maps.google.com/?cid=6861482635893519122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 2,905개 (2026-11-21 기준)](https://maps.google.com/?cid=6861482635893519122)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 당일 오전 9시부터 전화 예약(075-744-1876 / 075-751-0677), 11시 이후엔 연결 어려움. 예약자도 가게 앞에서 대기 후 착석. 워크인 가능.
@@ -1671,7 +1671,7 @@
 - 영업 11:00~재료 소진 시 / 휴무 목요일, 넷째 수요일
 - 💡 당일 예약을 아침 9시부터 접수(전화 연결 어려움), 워크인도 가능하지만 대기 김. 목요일·넷째 수요일 휴무. 현금만.
 - 🚃 지하철 도자이선 히가시야마역 권역 (헤이안신궁 인근)
-- [구글 지도](https://maps.google.com/?cid=6861482635893519122&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E5%85%83%E9%BA%BA%E8%94%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%8D%97%E5%BE%A1%E6%89%80%E7%94%BA34) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002504/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%A9%98%EC%A1%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6861482635893519122) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B1%B1%E5%85%83%E9%BA%BA%E8%94%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%8D%97%E5%BE%A1%E6%89%80%E7%94%BA34) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26002504/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%EB%A7%88%EB%AA%A8%ED%86%A0%20%EB%A9%98%EC%A1%B0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-109"></a>
 #### ★★★ 첸치 (cenci) — 📍 기타 · 타베로그 4.10
@@ -1682,7 +1682,7 @@
 - 🍽️ **타베로그** [타베로그 4.10 (리뷰 528건), 이탈리안 WEST 百名店 2021·2023·2025](https://tabelog.com/kyoto/A2601/A260302/26024914/)
 - 🏆 **수상·백명점** Tabelog Award 2026·2025·2021·2020 Bronze
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 게재
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 448개 (2026-11-21 기준)](https://maps.google.com/?cid=12323419055817730803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 448개 (2026-11-21 기준)](https://maps.google.com/?cid=12323419055817730803)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/cenci-kyoto/reserve), [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26024914/)
 - 예약 팁: 2개월 뒤 같은 날까지 예약 가능(TableCheck는 60일 전 오픈), 온라인 예약 시 신용카드 필요. 일행은 보통 6명까지.
@@ -1693,7 +1693,7 @@
 - 영업 점심 12:00-15:00(L.O. 12:00), 저녁 18:00-21:30(L.O. 18:30) / 휴무 월·화요일 (일요일 부정기 휴무)
 - 💡 강한 향수와 샌들 같은 지나치게 캐주얼한 복장은 삼가 달라고 안내한다. 아이는 점심 6세 이상(개별실)·저녁 12세 이상만 가능하며 반드시 전화로 문의해야 한다.
 - 🚃 게이한 진구마루타마치역 도보 12분
-- [구글 지도](https://maps.google.com/?cid=12323419055817730803&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=cenci%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E8%81%96%E8%AD%B7%E9%99%A2%E5%86%86%E9%A0%93%E7%BE%8E%E7%94%BA44-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26024914/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%B8%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12323419055817730803) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=cenci%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E8%81%96%E8%AD%B7%E9%99%A2%E5%86%86%E9%A0%93%E7%BE%8E%E7%94%BA44-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26024914/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B2%B8%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-110"></a>
 #### ★★★ 쿄 세이카 (京 静華) — 🥟 중화·교자 · 타베로그 4.14
@@ -1714,7 +1714,7 @@
 - 영업 18:00 일제 시작 / 휴무 월요일·화요일 (부정기 휴무 있음)
 - 💡 서비스료 10% 별도. 4~20명 개인실이 있어 단체에도 좋다.
 - 🚃 히가시야마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=16701796047058387078&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%20%E9%9D%99%E8%8F%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%86%86%E5%8B%9D%E5%AF%BA%E7%94%BA36-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006497/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%20%EC%84%B8%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16701796047058387078) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%20%E9%9D%99%E8%8F%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%86%86%E5%8B%9D%E5%AF%BA%E7%94%BA36-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26006497/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%20%EC%84%B8%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-023"></a>
 #### ★★★ 효테이 본점 (瓢亭 本店) — 🍱 일식·카이세키 · 타베로그 3.91
@@ -1726,7 +1726,7 @@
 - 🍽️ **타베로그** [타베로그 3.91, 일본요리 WEST 백명점 2021·2023](https://tabelog.com/kyoto/A2601/A260301/26001012/)
 - 🏆 **수상·백명점** Tabelog Award Silver 2018·2019, Bronze 2017·2020~2024
 - 🏯 **노포·원조** 난젠지 문지기 찻집에서 시작한 400년 이상 노포
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 878개 (2026-11-21 기준)](https://maps.google.com/?cid=10413292184413177308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 878개 (2026-11-21 기준)](https://maps.google.com/?cid=10413292184413177308)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/hyotei/reserve), [잇큐](https://restaurant.ikyu.com/123809/), [포켓컨시어지](https://pocket-concierge.jp/ja/restaurants/243932)
 - 예약 팁: TableCheck는 온라인 선결제. 별관(아침죽·쇼카도)은 별도 TableCheck(https://www.tablecheck.com/shops/hyotei-bekkan/reserve). 전화 075-771-4116(본관·별관 공통).
@@ -1737,7 +1737,7 @@
 - 영업 12:00-15:00, 17:00-21:30 (7/1~8/31 아침죽 08:00-11:00, L.O. 10:00) / 휴무 수요일
 - 💡 완전 예약제, 수요일 휴무. 본관 아침죽(아사가유)은 7~8월만. 같은 부지의 별관은 3/16~11/30 아침죽(5,445엔), 연중 쇼카도 벤토(7,260엔)로 훨씬 저렴하게 효테이 다마고를 맛볼 수 있음(별관 목요일 휴무).
 - 🚃 지하철 도자이선 게아게역 도보 약 6분(470m)
-- [구글 지도](https://maps.google.com/?cid=10413292184413177308&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%93%A2%E4%BA%AD%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E8%8D%89%E5%B7%9D%E7%94%BA35) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001012/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9A%A8%ED%85%8C%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10413292184413177308) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%93%A2%E4%BA%AD%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E8%8D%89%E5%B7%9D%E7%94%BA35) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001012/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9A%A8%ED%85%8C%EC%9D%B4%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-111"></a>
 #### ★★★ 히가시야마 오가타 (東山 緒方) — 🍱 일식·카이세키 · 타베로그 4.18
@@ -1758,7 +1758,7 @@
 - 영업 16:00-22:00 / 휴무 화요일
 - 💡 카드 결제 가능(VISA·Master·JCB·AMEX·Diners), 전자화폐·QR 결제는 불가. 좌석이 카운터 12석뿐이다.
 - 🚃 지하철 히가시야마역에서 약 530m
-- [구글 지도](https://maps.google.com/?cid=4989194122280627023&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E5%B1%B1%20%E7%B7%92%E6%96%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%86%86%E5%8B%9D%E5%AF%BA%E7%94%BA91-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26036476/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%95%BC%EB%A7%88%20%EC%98%A4%EA%B0%80%ED%83%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4989194122280627023) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%B1%E5%B1%B1%20%E7%B7%92%E6%96%B9%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%86%86%E5%8B%9D%E5%AF%BA%E7%94%BA91-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26036476/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EA%B0%80%EC%8B%9C%EC%95%BC%EB%A7%88%20%EC%98%A4%EA%B0%80%ED%83%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-024"></a>
 #### ★★ 그릴 코다카라 (グリル 小宝) — 🍳 경양식·오므라이스 · 타베로그 3.65
@@ -1767,7 +1767,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.65 (리뷰 1,218), 양식 백명점 2020·2022·양식 WEST 2025](https://tabelog.com/kyoto/A2601/A260301/26000009/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,897개 (2026-11-21 기준)](https://maps.google.com/?cid=8747067629740610963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,897개 (2026-11-21 기준)](https://maps.google.com/?cid=8747067629740610963)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -1780,7 +1780,7 @@
 - 영업 11:30-20:30 / 휴무 화요일, 수요일
 - 💡 화·수 휴무, 11:30-20:30 통영업. 예약 불가라 식사 시간대 대기. 카드·전자머니·QR 모두 가능.
 - 🚃 지하철 히가시야마역 1번 출구 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=8747067629740610963&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B0%E3%83%AA%E3%83%AB%20%E5%B0%8F%E5%AE%9D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%8C%97%E5%BE%A1%E6%89%80%E7%94%BA46) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000009/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B7%B8%EB%A6%B4%20%EC%BD%94%EB%8B%A4%EC%B9%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8747067629740610963) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%B0%E3%83%AA%E3%83%AB%20%E5%B0%8F%E5%AE%9D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B2%A1%E5%B4%8E%E5%8C%97%E5%BE%A1%E6%89%80%E7%94%BA46) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000009/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B7%B8%EB%A6%B4%20%EC%BD%94%EB%8B%A4%EC%B9%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-112"></a>
 #### ★★ 라핀타이카 (ラピンタイカ) — 📍 기타 · 타베로그 3.41
@@ -1800,7 +1800,7 @@
 - 영업 18:00-22:00 (토·일 점심은 예약제) / 휴무 월요일
 - 💡 카드·전자화폐·QR 결제가 안 되니 현금을 준비할 것.
 - 🚃 히가시야마역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=15943129039998270535&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%94%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8C%97%E9%96%80%E5%89%8D%E7%94%BA499) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26029971/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%ED%95%80%ED%83%80%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15943129039998270535) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%A9%E3%83%94%E3%83%B3%E3%82%BF%E3%82%A4%E3%82%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8C%97%E9%96%80%E5%89%8D%E7%94%BA499) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26029971/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%ED%95%80%ED%83%80%EC%9D%B4%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-027"></a>
 #### ★★ 히노데 우동 (日の出うどん) — 🍲 우동·소바 · 타베로그 3.52
@@ -1810,7 +1810,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.52, 우동 백명점 2017·우동 WEST 2020·2022·2024](https://tabelog.com/kyoto/A2601/A260301/26000815/)
 - 📰 **언론·가이드** 간사이TV '요이동!' 2019년 11월 20일 방송 소개(타베로그 비고)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,404개 (2026-11-21 기준)](https://maps.google.com/?cid=13962427309304455296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 1,404개 (2026-11-21 기준)](https://maps.google.com/?cid=13962427309304455296)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -1825,7 +1825,7 @@
 - 영업 11:00-15:30 / 휴무 일요일, 첫째·셋째 월요일
 - 💡 11:00-15:30, 일요일·첫째·셋째 월요일 휴무(7·8·12월 부정기 휴무 있음). 예약 불가, 현금만. 우동 대신 중화면·소바로 변경 가능.
 - 🚃 지하철 게아게역 도보 약 16분 (시버스 미야노마에초·신뇨도마에 정류장 인근)
-- [구글 지도](https://maps.google.com/?cid=13962427309304455296&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A5%E3%81%AE%E5%87%BA%E3%81%86%E3%81%A9%E3%82%93%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E5%8C%97%E3%83%8E%E5%9D%8A%E7%94%BA36) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000815/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%85%B8%EB%8D%B0%20%EC%9A%B0%EB%8F%99%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13962427309304455296) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%97%A5%E3%81%AE%E5%87%BA%E3%81%86%E3%81%A9%E3%82%93%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E5%8C%97%E3%83%8E%E5%9D%8A%E7%94%BA36) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26000815/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%85%B8%EB%8D%B0%20%EC%9A%B0%EB%8F%99%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-025"></a>
 #### ★ 난젠지 준세이 (南禅寺 順正) — 🥢 두부·쇼진요리 · 타베로그 3.50
@@ -1845,7 +1845,7 @@
 - 영업 11:00-15:30 (L.O. 14:30), 17:00-21:00 (L.O. 19:00) / 휴무 수요일
 - 💡 수요일 휴무. 좌석만 예약·일부 코스(하나·쓰키·유키)는 예약 불가, 워크인은 순서대로 안내. 카드·PayPay 가능.
 - 🚃 지하철 도자이선 게아게역 도보권
-- [구글 지도](https://maps.google.com/?cid=5387747800903554979&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%97%E7%A6%85%E5%AF%BA%20%E9%A0%86%E6%AD%A3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E8%8D%89%E5%B7%9D%E7%94%BA60) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001013/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%9C%EC%A0%A0%EC%A7%80%20%EC%A4%80%EC%84%B8%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5387747800903554979) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%8D%97%E7%A6%85%E5%AF%BA%20%E9%A0%86%E6%AD%A3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%8D%97%E7%A6%85%E5%AF%BA%E8%8D%89%E5%B7%9D%E7%94%BA60) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260301/26001013/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%9C%EC%A0%A0%EC%A7%80%20%EC%A4%80%EC%84%B8%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-026"></a>
 #### ★ 오멘 긴카쿠지 본점 (おめん 銀閣寺本店) — 🍲 우동·소바 · 타베로그 3.58
@@ -1854,7 +1854,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 597)](https://tabelog.com/kyoto/A2601/A260302/26001803/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,004개 (2026-11-21 기준)](https://maps.google.com/?cid=6519410145993321678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,004개 (2026-11-21 기준)](https://maps.google.com/?cid=6519410145993321678)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 공식: 좌석 예약은 각 점포에 직접 전화(이메일 불가). 전화 075-771-8994.
@@ -1865,7 +1865,7 @@
 - 영업 월·화·수·금 10:30-18:00 / 토·일·공휴일 10:30-16:00, 17:00-20:30 / 휴무 목요일
 - 💡 목요일 휴무. 개점과 동시에 만석이 되기도 함. 카드·PayPay 가능, 예약 가능.
 - 🚃 긴카쿠지 인근 (게이한 데마치야나기역·에이잔 모토타나카역에서 버스)
-- [구글 지도](https://maps.google.com/?cid=6519410145993321678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%82%81%E3%82%93%20%E9%8A%80%E9%96%A3%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E6%B5%84%E5%9C%9F%E5%AF%BA%E7%9F%B3%E6%A9%8B%E7%94%BA74) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001803/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%A9%98%20%EA%B8%B4%EC%B9%B4%EC%BF%A0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6519410145993321678) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%82%81%E3%82%93%20%E9%8A%80%E9%96%A3%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E6%B5%84%E5%9C%9F%E5%AF%BA%E7%9F%B3%E6%A9%8B%E7%94%BA74) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001803/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EB%A9%98%20%EA%B8%B4%EC%B9%B4%EC%BF%A0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 니시키시장
 
@@ -1887,7 +1887,7 @@
 - 영업 10:00-17:30 / 휴무 월요일, 2~8월 마지막 일요일
 - 💡 테이크아웃 위주(좌석 2석). 월요일 휴무 + 2~8월은 마지막 일요일도 휴무. 후만주는 당일 소비 권장. 카드 가능.
 - 🚃 한큐 가라스마역·지하철 시조역 도보 약 5분 (니시키시장 서쪽 입구)
-- [구글 지도](https://maps.google.com/?cid=1337754677308815592&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A9%E5%98%89%20%E9%8C%A6%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E5%A0%BA%E7%94%BA%E8%A7%92%E8%8F%8A%E5%B1%8B%E7%94%BA534-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26007146/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%B9%B4%20%EB%8B%88%EC%8B%9C%ED%82%A4%EC%A0%90%20%28%EB%82%98%EB%A7%88%ED%9B%84%20%EB%A7%8C%EC%A3%BC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1337754677308815592) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A9%E5%98%89%20%E9%8C%A6%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E5%A0%BA%E7%94%BA%E8%A7%92%E8%8F%8A%E5%B1%8B%E7%94%BA534-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26007146/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%B9%B4%20%EB%8B%88%EC%8B%9C%ED%82%A4%EC%A0%90%20%28%EB%82%98%EB%A7%88%ED%9B%84%20%EB%A7%8C%EC%A3%BC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-050"></a>
 #### ★ 미키케이란 (다시마키 달걀말이) (三木鶏卵) — 🏮 시장·길거리음식 · 타베로그 3.48
@@ -1910,7 +1910,7 @@
 - 영업 09:00-17:00 / 휴무 부정기(출처마다 '무휴'/'부정기'로 다름)
 - 💡 테이크아웃. 현금만. 작은 컵·한 입 사이즈도 있어 시장 걷기 간식으로 좋음. 17시에 닫음.
 - 🚃 한큐 가와라마치역·가라스마역 도보 약 10분 (니시키시장 동쪽)
-- [구글 지도](https://maps.google.com/?cid=2551357859586536674&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%9C%A8%E9%B6%8F%E5%8D%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%AF%8C%E5%B0%8F%E8%B7%AF%E8%A5%BF%E5%85%A5%E6%9D%B1%E9%AD%9A%E5%B1%8B%E7%94%BA182) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26004870/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%ED%82%A4%EC%BC%80%EC%9D%B4%EB%9E%80%20%28%EB%8B%A4%EC%8B%9C%EB%A7%88%ED%82%A4%20%EB%8B%AC%EA%B1%80%EB%A7%90%EC%9D%B4%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2551357859586536674) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%89%E6%9C%A8%E9%B6%8F%E5%8D%B5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%AF%8C%E5%B0%8F%E8%B7%AF%E8%A5%BF%E5%85%A5%E6%9D%B1%E9%AD%9A%E5%B1%8B%E7%94%BA182) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26004870/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%ED%82%A4%EC%BC%80%EC%9D%B4%EB%9E%80%20%28%EB%8B%A4%EC%8B%9C%EB%A7%88%ED%82%A4%20%EB%8B%AC%EA%B1%80%EB%A7%90%EC%9D%B4%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-052"></a>
 #### ★ 후미야 (니시키시장 우동) (冨美家) — 🍲 우동·소바 · 타베로그 3.52
@@ -1920,7 +1920,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.52 (리뷰 349)](https://tabelog.com/kyoto/A2601/A260201/26017337/)
 - 👥 **현지평판** [니시키시장 안팎에서 앉아서 식사할 수 있는 몇 안 되는 저가 식당으로 꾸준한 인기](https://tabelog.com/kyoto/A2601/A260201/26017337/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 777개 (2026-11-21 기준)](https://maps.google.com/?cid=10768125862104098058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 777개 (2026-11-21 기준)](https://maps.google.com/?cid=10768125862104098058)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 기준 예약 불가.
@@ -1934,7 +1934,7 @@
 - 영업 평일 11:00-16:30 / 토·일·공휴일 11:00-17:00
 - 💡 예약 불가, 점심 피크(12~13시)엔 줄. 현금만. 16:30(주말 17:00)에 일찍 닫음.
 - 🚃 한큐 가라스마역 약 360m (니시키시장 서쪽 끝)
-- [구글 지도](https://maps.google.com/?cid=10768125862104098058&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%86%A8%E7%BE%8E%E5%AE%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E5%A0%BA%E7%94%BA%E4%B8%8A%E3%83%AB%E8%8F%8A%E5%B1%8B%E7%94%BA519) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26017337/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EB%AF%B8%EC%95%BC%20%28%EB%8B%88%EC%8B%9C%ED%82%A4%EC%8B%9C%EC%9E%A5%20%EC%9A%B0%EB%8F%99%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10768125862104098058) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%86%A8%E7%BE%8E%E5%AE%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%8C%A6%E5%B0%8F%E8%B7%AF%E5%A0%BA%E7%94%BA%E4%B8%8A%E3%83%AB%E8%8F%8A%E5%B1%8B%E7%94%BA519) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26017337/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EB%AF%B8%EC%95%BC%20%28%EB%8B%88%EC%8B%9C%ED%82%A4%EC%8B%9C%EC%9E%A5%20%EC%9A%B0%EB%8F%99%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 니조성
 
@@ -1946,7 +1946,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.86 (리뷰 632) — 니조성 주변 지역 2위](https://tabelog.com/kyoto/A2601/A260203/26020410/)
 - 🏆 **수상·백명점** [타베로그 카레 백명점 2017·2018·2019·2020·2022·2023·2024·2026 선정](https://tabelog.com/kyoto/A2601/A260203/26020410/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 495개 (2026-11-21 기준)](https://maps.google.com/?cid=7924686316326849924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 495개 (2026-11-21 기준)](https://maps.google.com/?cid=7924686316326849924)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그엔 '예약 가능'으로 나오지만 공개 전화번호가 없어 사실상 현장 방문.
@@ -1959,7 +1959,7 @@
 - 영업 11:30-14:30, 18:00-20:00 / 휴무 부정기
 - 💡 부정기 휴무라 공식 영업 캘린더 확인 필수. 현금만(카드·전자화폐·QR 불가). 점심 오픈 전 줄 서는 경우 많음.
 - 🚃 JR·지하철 니조역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=7924686316326849924&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A3%AE%E6%9E%97%E9%A3%9F%E5%A0%82%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%A5%BF%E3%83%8E%E4%BA%AC%E5%86%85%E7%95%91%E7%94%BA24-4) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26020410/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%A6%B0%EC%87%BC%EC%BF%A0%EB%8F%84%20%28%E6%A3%AE%E6%9E%97%E9%A3%9F%E5%A0%82%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7924686316326849924) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%A3%AE%E6%9E%97%E9%A3%9F%E5%A0%82%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%A5%BF%E3%83%8E%E4%BA%AC%E5%86%85%E7%95%91%E7%94%BA24-4) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26020410/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%A6%B0%EC%87%BC%EC%BF%A0%EB%8F%84%20%28%E6%A3%AE%E6%9E%97%E9%A3%9F%E5%A0%82%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-054"></a>
 #### ★★ 다이호 (사천요리) (大鵬) — 🥟 중화·교자 · 타베로그 3.68
@@ -1979,7 +1979,7 @@
 - 영업 11:30-14:15, 17:30-21:00(L.O.20:20) / 휴무 화요일, 격주 수요일
 - 💡 화요일·격주 수요일 휴무. 카드는 12,000엔 이상일 때만, 전자화폐·QR 불가. 점심 L.O. 14:15.
 - 🚃 지하철 니조역 3번 출구 도보 1분 (JR 니조역 도보 3분)
-- [구글 지도](https://maps.google.com/?cid=2775651138573193423&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%B5%AC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%A5%BF%E3%83%8E%E4%BA%AC%E6%98%9F%E6%B1%A0%E7%94%BA149) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26003254/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%A4%EC%9D%B4%ED%98%B8%20%28%EC%82%AC%EC%B2%9C%EC%9A%94%EB%A6%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2775651138573193423) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E9%B5%AC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%A5%BF%E3%83%8E%E4%BA%AC%E6%98%9F%E6%B1%A0%E7%94%BA149) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26003254/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%A4%EC%9D%B4%ED%98%B8%20%28%EC%82%AC%EC%B2%9C%EC%9A%94%EB%A6%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-055"></a>
 #### ★★ 킷사 치로루 (喫茶チロル) — ☕ 카페·킷사텐 · 타베로그 3.68
@@ -1989,7 +1989,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 854)](https://tabelog.com/kyoto/A2601/A260203/26002251/)
 - 🏆 **수상·백명점** [타베로그 킷사텐 백명점 2021·2022·2026 선정](https://tabelog.com/kyoto/A2601/A260203/26002251/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 919개 (2026-11-21 기준)](https://maps.google.com/?cid=4616067572429306878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 919개 (2026-11-21 기준)](https://maps.google.com/?cid=4616067572429306878)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 기준 예약 불가.
@@ -2002,7 +2002,7 @@
 - 영업 08:00-16:00 (L.O.15:30) / 휴무 일요일·공휴일
 - 💡 아침 8시 오픈. 일요일·공휴일 휴무. 14석이라 점심엔 대기. 카드·전자화폐 불가(현금).
 - 🚃 지하철 니조조마에역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=4616067572429306878&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E3%83%81%E3%83%AD%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%BE%A1%E6%B1%A0%E9%80%9A%E5%A4%A7%E5%AE%AE%E8%A5%BF%E5%85%A5%E3%83%AB%E9%96%80%E5%89%8D%E7%94%BA539-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26002251/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%B7%EC%82%AC%20%EC%B9%98%EB%A1%9C%EB%A3%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4616067572429306878) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%96%AB%E8%8C%B6%E3%83%81%E3%83%AD%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%BE%A1%E6%B1%A0%E9%80%9A%E5%A4%A7%E5%AE%AE%E8%A5%BF%E5%85%A5%E3%83%AB%E9%96%80%E5%89%8D%E7%94%BA539-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26002251/) · [유튜브](https://www.youtube.com/results?search_query=%ED%82%B7%EC%82%AC%20%EC%B9%98%EB%A1%9C%EB%A3%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 데마치야나기·시모가모
 
@@ -2013,7 +2013,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.83 (리뷰 약 4,000), 화과자·감미처 WEST 백명점 2023·2026, 스위츠 WEST 2018~2022](https://tabelog.com/kyoto/A2601/A260302/26001520/)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 5,381개 (2026-11-21 기준)](https://maps.google.com/?cid=6582104238265648487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 5,381개 (2026-11-21 기준)](https://maps.google.com/?cid=6582104238265648487)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 테이크아웃 전용 가게. 타베로그에 '예약 가능' 표기만 있고 온라인 예약 없음(전화 075-231-1658).
@@ -2028,7 +2028,7 @@
 - 영업 08:30-17:30 (수요일 09:00-17:00) / 휴무 화요일
 - 💡 화요일 휴무, 8:30 오픈. 9시 전이면 줄이 짧음. 테이크아웃 전용, 현금만. 생과자라 당일 섭취.
 - 🚃 게이한·에이잔 데마치야나기역 도보권
-- [구글 지도](https://maps.google.com/?cid=6582104238265648487&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E7%94%BA%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%87%BA%E7%94%BA%E9%80%9A%E4%BB%8A%E5%87%BA%E5%B7%9D%E4%B8%8A%E3%83%AB%E9%9D%92%E9%BE%8D%E7%94%BA236) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001520/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EB%A7%88%EC%B9%98%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6582104238265648487) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E7%94%BA%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%87%BA%E7%94%BA%E9%80%9A%E4%BB%8A%E5%87%BA%E5%B7%9D%E4%B8%8A%E3%83%AB%E9%9D%92%E9%BE%8D%E7%94%BA236) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001520/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EB%A7%88%EC%B9%98%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-029"></a>
 #### ★★★ 사료 호센 (茶寮 宝泉) — 🍡 화과자·디저트 · 타베로그 3.85
@@ -2038,7 +2038,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.85, 화과자·감미처 WEST 백명점 2023·2026, 스위츠 백명점 2017~2022](https://tabelog.com/kyoto/A2601/A260503/26001872/)
 - 🏆 **수상·백명점** Tabelog Award Bronze 2017·2018·2019
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,074개 (2026-11-21 기준)](https://maps.google.com/?cid=14984916418930954449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,074개 (2026-11-21 기준)](https://maps.google.com/?cid=14984916418930954449)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -2052,7 +2052,7 @@
 - 영업 10:00-16:30 / 휴무 수요일, 목요일
 - 💡 수·목 휴무, 10:00-16:30. 예약 불가, 주말엔 오픈 전 줄. 와라비모치는 주문 후 만들어 시간이 걸리고 테이크아웃 불가.
 - 🚃 지하철 마쓰가사키역·기타오지역 권역 (시모가모)
-- [구글 지도](https://maps.google.com/?cid=14984916418930954449&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%20%E5%AE%9D%E6%B3%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E8%A5%BF%E9%AB%98%E6%9C%A8%E7%94%BA25) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001872/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%ED%98%B8%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14984916418930954449) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%20%E5%AE%9D%E6%B3%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E8%A5%BF%E9%AB%98%E6%9C%A8%E7%94%BA25) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001872/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%ED%98%B8%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-114"></a>
 #### ★★ 비스트로 스리지에 (ビストロ・スリージェ) — 🍷 프렌치·이노베이티브 · 타베로그 3.44
@@ -2071,7 +2071,7 @@
 - 영업 월·화·수·금 08:30-14:00, 18:00-21:30 / 목 08:30-14:00 / 토·일 18:00-21:30
 - 💡 타베로그 결제수단은 '카드 가능'이지만 가게 안내문에 '현금 결제만 가능'이라고 적혀 있어 현금을 챙기는 게 안전하다. 저녁은 알라카르트만, 미취학 아동은 입장 불가.
 - 🚃 게이한 데마치야나기역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=4357299680524225350&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A7%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E7%94%B0%E4%B8%AD%E4%B8%8B%E6%9F%B3%E7%94%BA1-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26000996/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8A%A4%EB%A6%AC%EC%A7%80%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4357299680524225350) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%93%E3%82%B9%E3%83%88%E3%83%AD%E3%83%BB%E3%82%B9%E3%83%AA%E3%83%BC%E3%82%B8%E3%82%A7%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E7%94%B0%E4%B8%AD%E4%B8%8B%E6%9F%B3%E7%94%BA1-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26000996/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B9%84%EC%8A%A4%ED%8A%B8%EB%A1%9C%20%EC%8A%A4%EB%A6%AC%EC%A7%80%EC%97%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-113"></a>
 #### ★★ 이판차이 다나카 (一盘菜 田中) — 🥟 중화·교자 · 타베로그 3.78
@@ -2090,7 +2090,7 @@
 - 영업 월·토·일 12:00-14:00, 17:00-21:30 / 화·목·금 17:00-21:30 / 휴무 수요일, 부정기 휴무
 - 💡 카드 결제 가능(VISA·Master·AMEX·Diners). 중학생 이하는 저녁 입장 불가. 영업일은 가게 인스타그램에서 확인할 수 있다.
 - 🚃 에이잔 전철 모토타나카역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=7071238453798882842&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%9B%98%E8%8F%9C%20%E7%94%B0%E4%B8%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E7%94%B0%E4%B8%AD%E9%87%8C%E3%83%8E%E5%86%85%E7%94%BA26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26035247/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%ED%8C%90%EC%B0%A8%EC%9D%B4%20%EB%8B%A4%EB%82%98%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7071238453798882842) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E7%9B%98%E8%8F%9C%20%E7%94%B0%E4%B8%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E7%94%B0%E4%B8%AD%E9%87%8C%E3%83%8E%E5%86%85%E7%94%BA26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26035247/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%ED%8C%90%EC%B0%A8%EC%9D%B4%20%EB%8B%A4%EB%82%98%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-030"></a>
 #### ★ 시모가모 사료 본점 (下鴨茶寮 本店) — 🍱 일식·카이세키 · 타베로그 3.59
@@ -2101,7 +2101,7 @@
 - 🎖️ **미쉐린** [미쉐린 가이드 교토 게재 레스토랑](https://guide.michelin.com/jp/ja/kyoto-region/kyoto/restaurant/shimogamo-saryo)
 - 🍽️ **타베로그** [타베로그 3.59 (리뷰 336)](https://tabelog.com/kyoto/A2601/A260302/26001041/)
 - 🏯 **노포·원조** [에도 말기 시모가모 신사 참배길의 물레방아 찻집에서 시작(미쉐린 소개)](https://guide.michelin.com/jp/ja/kyoto-region/kyoto/restaurant/shimogamo-saryo)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 536개 (2026-11-21 기준)](https://maps.google.com/?cid=13533481228629289184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 536개 (2026-11-21 기준)](https://maps.google.com/?cid=13533481228629289184)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shimogamosaryo/reserve/landing), [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001041/)
 - 예약 팁: 공식 사이트 예약 버튼이 TableCheck로 연결. 타베로그 코스 예약도 가능.
@@ -2112,7 +2112,7 @@
 - 영업 11:30-15:00 (L.O. 13:30), 17:00-21:00 (L.O. 20:00) / 휴무 화요일
 - 💡 화요일 휴무. 점심 L.O. 13:30. 개인실 서비스료 15%, 일반실 10%. 예약 권장.
 - 🚃 게이한·에이잔 데마치야나기역 도보권
-- [구글 지도](https://maps.google.com/?cid=13533481228629289184&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8B%E9%B4%A8%E8%8C%B6%E5%AF%AE%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA62) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001041/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%AA%A8%EA%B0%80%EB%AA%A8%20%EC%82%AC%EB%A3%8C%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13533481228629289184) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%8B%E9%B4%A8%E8%8C%B6%E5%AF%AE%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%8B%E9%B4%A8%E5%AE%AE%E6%B2%B3%E7%94%BA62) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26001041/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%AA%A8%EA%B0%80%EB%AA%A8%20%EC%82%AC%EB%A3%8C%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 사이인·니시오지
 
@@ -2135,7 +2135,7 @@
 - 영업 17:00-22:00 / 휴무 일요일·공휴일
 - 💡 3만 엔대 코스지만 카드·전자화폐·QR 결제가 모두 안 돼 현금을 넉넉히 준비해야 한다.
 - 🚃 한큐·란덴 사이인역에서 약 460m
-- [구글 지도](https://maps.google.com/?cid=12406333108863977892&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AD%9A%E6%B4%A5%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E6%9D%B1%E6%AA%9C%E7%94%BA8) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26000319/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EC%98%A4%EC%A6%88%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12406333108863977892) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%AD%9A%E6%B4%A5%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E6%9D%B1%E6%AA%9C%E7%94%BA8) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260401/26000319/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EC%98%A4%EC%A6%88%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-115"></a>
 #### ★★ 무기노 요아케 (麦の夜明け) — 🍜 라멘 · 타베로그 3.74
@@ -2145,7 +2145,7 @@
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.74 (리뷰 898건), 라멘 WEST 百名店 2024·2025](https://tabelog.com/kyoto/A2601/A260203/26037048/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 685개 (2026-11-21 기준)](https://maps.google.com/?cid=8802936154293960321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 685개 (2026-11-21 기준)](https://maps.google.com/?cid=8802936154293960321)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚭 흡연: **금연**
@@ -2157,7 +2157,7 @@
 - 영업 11:00-15:00, 18:00-20:00 (토요일 저녁 17:30-20:00) / 휴무 월요일 (부정기 휴무는 SNS 공지)
 - 💡 입구 식권기로 먼저 계산하며 현금만 된다. 카운터 9석이라 1인 1그릇 주문이 원칙(아이 제외).
 - 🚃 JR 단바구치역 도보 19분 · 교토역에서 205번 버스 약 20분(니시오지하나야초 하차 1분)
-- [구글 지도](https://maps.google.com/?cid=8802936154293960321&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A6%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%B8%83%E6%9D%A1%E6%8E%9B%E8%B6%8A%E7%94%BA12-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26037048/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B8%B0%EB%85%B8%20%EC%9A%94%EC%95%84%EC%BC%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8802936154293960321) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%A6%E3%81%AE%E5%A4%9C%E6%98%8E%E3%81%91%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%B8%83%E6%9D%A1%E6%8E%9B%E8%B6%8A%E7%94%BA12-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26037048/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EA%B8%B0%EB%85%B8%20%EC%9A%94%EC%95%84%EC%BC%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-116"></a>
 #### ★★ 미스터 교자 (ミスター・ギョーザ) — 🥟 중화·교자 · 타베로그 3.70
@@ -2166,7 +2166,7 @@
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.70 (리뷰 1,707건), 교자 百名店 2019·2021·2024](https://tabelog.com/kyoto/A2601/A260604/26000028/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,331개 (2026-11-21 기준)](https://maps.google.com/?cid=999142578796980170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,331개 (2026-11-21 기준)](https://maps.google.com/?cid=999142578796980170)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 🚬 흡연: **흡연가능** — 타베로그 금연·흡연 칸이 '흡연 가능'. 개정 건강증진법 이후 바뀌었을 수 있어 가게 확인 권장
@@ -2179,7 +2179,7 @@
 - 영업 11:30-20:30 (L.O. 20:00) / 휴무 목요일
 - 💡 현금만 받는다. 좌석에서 흡연이 가능한 가게라 담배 연기에 민감하면 주의. 교자가 다 팔리면 문을 닫고, 포장도 되며 전용 주차장이 4대 있다.
 - 🚃 시버스 라쇼몬 정류장 도보 2분 (JR 니시오지역 도보 약 10분)
-- [구글 지도](https://maps.google.com/?cid=999142578796980170&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AE%E3%83%A7%E3%83%BC%E3%82%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA%E5%94%90%E6%A9%8B%E9%AB%98%E7%94%B0%E7%94%BA42) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260604/26000028/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%8A%A4%ED%84%B0%20%EA%B5%90%EC%9E%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=999142578796980170) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%9F%E3%82%B9%E3%82%BF%E3%83%BC%E3%83%BB%E3%82%AE%E3%83%A7%E3%83%BC%E3%82%B6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8D%97%E5%8C%BA%E5%94%90%E6%A9%8B%E9%AB%98%E7%94%B0%E7%94%BA42) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260604/26000028/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AF%B8%EC%8A%A4%ED%84%B0%20%EA%B5%90%EC%9E%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 시조·카라스마
 
@@ -2202,7 +2202,7 @@
 - 영업 점심 12:00 / 저녁 18:00 일제 시작 / 휴무 부정기
 - 💡 생일 플레이트 등 기념일 서프라이즈를 해 준다. 소믈리에 상주.
 - 🚃 가라스마오이케역 5번 출구 도보 4분
-- [구글 지도](https://maps.google.com/?cid=16460800853119497742&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%9C%9F%E7%99%BD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%82%E4%B9%8B%E5%89%8D%E7%94%BA234) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26039931/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%8B%9C%EB%A1%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16460800853119497742) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%9C%9F%E7%99%BD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%82%E4%B9%8B%E5%89%8D%E7%94%BA234) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26039931/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EC%8B%9C%EB%A1%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-119"></a>
 #### ★★★ 무로마치 와쿠덴 (室町 和久傳) — 🍱 일식·카이세키 · 타베로그 4.18
@@ -2214,7 +2214,7 @@
 - 🏆 **수상·백명점** Tabelog Award 2026 Bronze (2017~2022, 2025 포함 8회)
 - 🏆 **수상·백명점** 타베로그 백명점 일본요리 WEST 2025 (2021·2023 포함)
 - 🏯 **노포·원조** 1870년 단고에서 시작된 와쿠덴 계열
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 327개 (2026-11-21 기준)](https://maps.google.com/?cid=9689495956692481017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 327개 (2026-11-21 기준)](https://maps.google.com/?cid=9689495956692481017)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/muromachi-wakuden/reserve), [토레타](https://yoyaku.toreta.in/muromachiwakuden)
 - 예약 팁: 완전 예약제. 2027년 1월 6일까지 방문은 토레타, 1월 7일 이후 방문은 TableCheck로 온라인 예약(공식 사이트).
@@ -2226,7 +2226,7 @@
 - 영업 점심 12:00-15:00(월·금·토·일), 저녁 18:00-22:00 / 휴무 수요일, 부정기 휴무
 - 💡 전날·당일 취소는 80% 취소료. 쇼진(채식) 코스는 3일 전까지 주문. 카운터 15석과 개인실이 있다.
 - 🚃 가라스마오이케역 3-1번 출구 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=9689495956692481017&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AE%A4%E7%94%BA%20%E5%92%8C%E4%B9%85%E5%82%B3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E5%A7%89%E5%B0%8F%E8%B7%AF%E4%B8%8A%E3%83%AB%E4%B8%B8%E6%9C%A8%E6%9D%90%E6%9C%A8%E7%94%BA679) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000621/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%A1%9C%EB%A7%88%EC%B9%98%20%EC%99%80%EC%BF%A0%EB%8D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9689495956692481017) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%AE%A4%E7%94%BA%20%E5%92%8C%E4%B9%85%E5%82%B3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E5%A7%89%E5%B0%8F%E8%B7%AF%E4%B8%8A%E3%83%AB%E4%B8%B8%E6%9C%A8%E6%9D%90%E6%9C%A8%E7%94%BA679) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000621/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%A1%9C%EB%A7%88%EC%B9%98%20%EC%99%80%EC%BF%A0%EB%8D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-124"></a>
 #### ★★★ 무로마치 카지 (むろまち 加地) — 🍶 이자카야·다치노미 · 타베로그 3.68
@@ -2247,7 +2247,7 @@
 - 영업 18:00-23:00 (요리 L.O. 22:00, 음료 L.O. 22:30) / 휴무 목요일
 - 💡 카운터 9석뿐이라 예약하고 가는 게 안전하다. 카드 결제 가능.
 - 🚃 고조역(지하철 가라스마선) 도보 5~10분
-- [구글 지도](https://maps.google.com/?cid=5178868699803304390&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%80%E3%82%8D%E3%81%BE%E3%81%A1%20%E5%8A%A0%E5%9C%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E6%96%B0%E7%94%BA%E6%9D%B1%E5%85%A5%E4%B8%AD%E9%87%8E%E4%B9%8B%E7%94%BA185) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018600/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%A1%9C%EB%A7%88%EC%B9%98%20%EC%B9%B4%EC%A7%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5178868699803304390) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%80%E3%82%8D%E3%81%BE%E3%81%A1%20%E5%8A%A0%E5%9C%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E6%96%B0%E7%94%BA%E6%9D%B1%E5%85%A5%E4%B8%AD%E9%87%8E%E4%B9%8B%E7%94%BA185) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018600/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AC%B4%EB%A1%9C%EB%A7%88%EC%B9%98%20%EC%B9%B4%EC%A7%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-120"></a>
 #### ★★★ 센 (杦) — 🍱 일식·카이세키 · 타베로그 4.09
@@ -2269,7 +2269,7 @@
 - 영업 점심 12:30 일제 시작(화·수·토·일), 저녁 18:30 / 19:45 시작 / 휴무 목요일, 부정기 휴무
 - 💡 서비스료 10%. 취소료는 7일 전 30%, 3일 전 50%, 당일 100%이고 연락 없이 15분 이상 늦으면 취소로 처리된다.
 - 🚃 게이한 기요미즈고조역 도보 6분 / 고조역(지하철) 약 400m
-- [구글 지도](https://maps.google.com/?cid=14098570252291302664&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%A6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E4%BA%94%E6%9D%A1%E9%80%9A%E6%9F%B3%E9%A6%AC%E5%A0%B4%E4%B8%8A%E3%83%AB%E5%A1%A9%E7%AB%88%E7%94%BA379) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26030495/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14098570252291302664) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9D%A6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E4%BA%94%E6%9D%A1%E9%80%9A%E6%9F%B3%E9%A6%AC%E5%A0%B4%E4%B8%8A%E3%83%AB%E5%A1%A9%E7%AB%88%E7%94%BA379) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26030495/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-121"></a>
 #### ★★★ 시로 (しろ) — 🍷 프렌치·이노베이티브 · 타베로그 4.30
@@ -2290,7 +2290,7 @@
 - 영업 수~금 18:00-21:00 / 토·일 12:00-14:30, 18:00-21:00 / 휴무 월요일·화요일
 - 💡 전원이 동시에 시작하는 코스(약 2시간)라 늦으면 일부 요리를 못 받을 수 있다. 13세 이상만 예약 가능, 향수는 자제.
 - 🚃 가라스마오이케역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=7436141805011625876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%97%E3%82%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%AE%A4%E7%94%BA%E9%80%9A%E4%BA%8C%E6%9D%A1%E4%B8%8B%E3%83%AB%E8%9B%B8%E8%96%AC%E5%B8%AB%E7%94%BA287) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26041485/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%A1%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7436141805011625876) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%97%E3%82%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%AE%A4%E7%94%BA%E9%80%9A%E4%BA%8C%E6%9D%A1%E4%B8%8B%E3%83%AB%E8%9B%B8%E8%96%AC%E5%B8%AB%E7%94%BA287) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26041485/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EB%A1%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-125"></a>
 #### ★★★ 아야노코지 카라츠 (綾小路 唐津) — 🍱 일식·카이세키 · 타베로그 3.79
@@ -2312,7 +2312,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 12:00-14:00, 17:30-22:00 / 휴무 일요일, 부정기 휴무
 - 💡 점심 영업은 불규칙하니 예약할 때 확인하자. 4인 개인실이 있다.
 - 🚃 시조역(지하철) 약 370m / 가라스마역(한큐) 약 400m
-- [구글 지도](https://maps.google.com/?cid=894862364999278717&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B6%BE%E5%B0%8F%E8%B7%AF%20%E5%94%90%E6%B4%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%B6%BE%E5%B0%8F%E8%B7%AF%E9%80%9A%E6%96%B0%E7%94%BA%E8%A5%BF%E5%85%A5%E3%83%AB%E7%9F%A2%E7%94%B0%E7%94%BA113-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26029825/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%95%BC%EB%85%B8%EC%BD%94%EC%A7%80%20%EC%B9%B4%EB%9D%BC%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=894862364999278717) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B6%BE%E5%B0%8F%E8%B7%AF%20%E5%94%90%E6%B4%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%B6%BE%E5%B0%8F%E8%B7%AF%E9%80%9A%E6%96%B0%E7%94%BA%E8%A5%BF%E5%85%A5%E3%83%AB%E7%9F%A2%E7%94%B0%E7%94%BA113-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26029825/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%95%BC%EB%85%B8%EC%BD%94%EC%A7%80%20%EC%B9%B4%EB%9D%BC%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-122"></a>
 #### ★★★ 토리사키 (鳥さき) — 🍗 야키토리·닭요리 · 타베로그 4.05
@@ -2333,7 +2333,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 18:00-21:00 / 휴무 일요일·연말연시
 - 💡 서비스료 12%가 별도로 붙는다. 드레스코드는 스마트 캐주얼.
 - 🚃 가라스마오이케역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=16141766245578585022&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%81%95%E3%81%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%8A%BC%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E8%9B%B8%E8%96%AC%E5%B8%AB%E7%94%BA292-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26033122/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%82%AC%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16141766245578585022) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%81%95%E3%81%8D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E6%8A%BC%E5%B0%8F%E8%B7%AF%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E8%9B%B8%E8%96%AC%E5%B8%AB%E7%94%BA292-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26033122/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%82%AC%ED%82%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-123"></a>
 #### ★★★ 히로사와 (廣澤) — 🥟 중화·교자 · 타베로그 4.36
@@ -2354,7 +2354,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 평일 17:00 / 19:45 2회전, 토 12:00 / 17:00 / 휴무 일요일·공휴일, 부정기 휴무
 - 💡 취소료는 7일 전 10%, 4일 전 50%, 당일 100%. 2025년 7월부터 2·4인 개인실도 운영한다.
 - 🚃 시조역·가라스마역 도보 9분
-- [구글 지도](https://maps.google.com/?cid=8940866745370374123&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%BE%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8D%E5%8B%95%E7%94%BA183) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26039000/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%A1%9C%EC%82%AC%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8940866745370374123) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BB%A3%E6%BE%A4%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%8D%E5%8B%95%E7%94%BA183) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26039000/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%A1%9C%EC%82%AC%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-031"></a>
 #### ★★ 다이고쿠덴 혼포 롯카쿠점 (감미처 세이엔) (大極殿本舗 六角店 甘味処 栖園) — 🍡 화과자·디저트 · 타베로그 3.77
@@ -2363,7 +2363,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.77, 화과자·감미처 WEST 백명점 2023·2026, 스위츠 WEST 2018~2022](https://tabelog.com/kyoto/A2601/A260202/26004652/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 737개 (2026-11-21 기준)](https://maps.google.com/?cid=11759027762573946126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 737개 (2026-11-21 기준)](https://maps.google.com/?cid=11759027762573946126)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -2376,7 +2376,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-18:00 / 휴무 수요일
 - 💡 수요일 휴무, 10:00-18:00. 예약 불가. 니시키시장 서쪽 끝(다카쿠라)에서 가까워 시장 구경과 묶기 좋음.
 - 🚃 한큐 가라스마역 16번 출구 도보 5분
-- [구글 지도](https://maps.google.com/?cid=11759027762573946126&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E6%A5%B5%E6%AE%BF%E6%9C%AC%E8%88%97%20%E5%85%AD%E8%A7%92%E5%BA%97%20%E7%94%98%E5%91%B3%E5%87%A6%20%E6%A0%96%E5%9C%92%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%AD%E8%A7%92%E9%80%9A%E9%AB%98%E5%80%89%E6%9D%B1%E5%85%A5%E3%83%AB%E5%8D%97%E5%81%B4%E5%A0%80%E4%B9%8B%E4%B8%8A%E7%94%BA120) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26004652/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%A4%EC%9D%B4%EA%B3%A0%EC%BF%A0%EB%8D%B4%20%ED%98%BC%ED%8F%AC%20%EB%A1%AF%EC%B9%B4%EC%BF%A0%EC%A0%90%20%28%EA%B0%90%EB%AF%B8%EC%B2%98%20%EC%84%B8%EC%9D%B4%EC%97%94%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11759027762573946126) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A7%E6%A5%B5%E6%AE%BF%E6%9C%AC%E8%88%97%20%E5%85%AD%E8%A7%92%E5%BA%97%20%E7%94%98%E5%91%B3%E5%87%A6%20%E6%A0%96%E5%9C%92%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%85%AD%E8%A7%92%E9%80%9A%E9%AB%98%E5%80%89%E6%9D%B1%E5%85%A5%E3%83%AB%E5%8D%97%E5%81%B4%E5%A0%80%E4%B9%8B%E4%B8%8A%E7%94%BA120) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26004652/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8B%A4%EC%9D%B4%EA%B3%A0%EC%BF%A0%EB%8D%B4%20%ED%98%BC%ED%8F%AC%20%EB%A1%AF%EC%B9%B4%EC%BF%A0%EC%A0%90%20%28%EA%B0%90%EB%AF%B8%EC%B2%98%20%EC%84%B8%EC%9D%B4%EC%97%94%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-130"></a>
 #### ★★ 두 피유 (ドゥ フィーユ) — 🍷 프렌치·이노베이티브 · 타베로그 3.64
@@ -2395,7 +2395,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 12:00-14:00, 18:00-21:00 (일요일은 점심만) / 휴무 월요일
 - 💡 8석뿐이라 예약하고 가는 게 좋다. 카드·QR 결제 가능.
 - 🚃 가라스마역에서 약 300m
-- [구글 지도](https://maps.google.com/?cid=10454233101420649914&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%89%E3%82%A5%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E9%80%9A%E7%B6%BE%E5%B0%8F%E8%B7%AF%E8%A5%BF%E5%85%A5%E3%83%AB%E7%B6%BE%E6%9D%90%E6%9C%A8%E7%94%BA199-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26029432/) · [유튜브](https://www.youtube.com/results?search_query=%EB%91%90%20%ED%94%BC%EC%9C%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10454233101420649914) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%89%E3%82%A5%20%E3%83%95%E3%82%A3%E3%83%BC%E3%83%A6%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E9%80%9A%E7%B6%BE%E5%B0%8F%E8%B7%AF%E8%A5%BF%E5%85%A5%E3%83%AB%E7%B6%BE%E6%9D%90%E6%9C%A8%E7%94%BA199-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26029432/) · [유튜브](https://www.youtube.com/results?search_query=%EB%91%90%20%ED%94%BC%EC%9C%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-032"></a>
 #### ★★ 마루키 세이판쇼 (まるき製パン所) — 🥐 베이커리 · 타베로그 3.73
@@ -2404,7 +2404,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.73 (리뷰 1,447), 빵 백명점 2017~2019·빵 WEST 2020·2022·2026](https://tabelog.com/kyoto/A2601/A260203/26003237/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 2,506개 (2026-11-21 기준)](https://maps.google.com/?cid=16849004629883831225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 2,506개 (2026-11-21 기준)](https://maps.google.com/?cid=16849004629883831225)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 테이크아웃 전용. 타베로그에 '예약 가능' 표기만 있고 온라인 예약 없음(전화 075-821-9683).
@@ -2415,7 +2415,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 화~토 06:30-20:00 / 일·공휴일 06:30-14:00 / 휴무 월요일
 - 💡 월요일 휴무, 일·공휴일은 14시까지. 테이크아웃 전용, 현금만. 아침 일찍 가면 종류가 많음.
 - 🚃 시버스 호리카와마쓰바라·오미야마쓰바라 정류장 도보 3분 (한큐 오미야역 약 540m)
-- [구글 지도](https://maps.google.com/?cid=16849004629883831225&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BE%E3%82%8B%E3%81%8D%E8%A3%BD%E3%83%91%E3%83%B3%E6%89%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E5%A0%80%E5%B7%9D%E8%A5%BF%E5%85%A5%E3%83%AB) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26003237/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A3%A8%ED%82%A4%20%EC%84%B8%EC%9D%B4%ED%8C%90%EC%87%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16849004629883831225) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BE%E3%82%8B%E3%81%8D%E8%A3%BD%E3%83%91%E3%83%B3%E6%89%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%9D%BE%E5%8E%9F%E9%80%9A%E5%A0%80%E5%B7%9D%E8%A5%BF%E5%85%A5%E3%83%AB) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26003237/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A7%88%EB%A3%A8%ED%82%A4%20%EC%84%B8%EC%9D%B4%ED%8C%90%EC%87%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-066"></a>
 #### ★★ 멘야 유코 (麺屋 優光) — 🍜 라멘 · 타베로그 3.68
@@ -2426,7 +2426,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - ▶️ **유튜브** [풍자 '또간집' EP.78 교토편에서 소개, 하치쿠 라멘(880엔)](https://www.youtube.com/watch?v=bUNWPvwzvpQ)
 - 🏆 **수상·백명점** [타베로그 라멘 WEST 百名店 2023·2024·2025 선정](https://tabelog.com/kr/kyoto/A2601/A260202/26029638/)
 - 🍽️ **타베로그** [타베로그 3.68 (리뷰 1,618건)](https://tabelog.com/kyoto/A2601/A260202/26029638/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,021개 (2026-11-21 기준)](https://maps.google.com/?cid=14623616051134978570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,021개 (2026-11-21 기준)](https://maps.google.com/?cid=14623616051134978570)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 「予約不可」. 현장 줄서기.
@@ -2440,7 +2440,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-15:00, 17:30-22:00 / 휴무 목요일
 - 💡 예약 불가, 현금만(리뷰 기준). 목요일 휴무. 웨이팅 있음.
 - 🚃 가라스마오이케역 6번 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=14623616051134978570&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E5%84%AA%E5%85%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%B4%E4%B9%8B%E7%94%BA588) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26029638/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%9C%A0%EC%BD%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14623616051134978570) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E5%84%AA%E5%85%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%B4%E4%B9%8B%E7%94%BA588) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26029638/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EC%9C%A0%EC%BD%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-131"></a>
 #### ★★ 사료 텟신 (茶寮哲心) — 🍲 우동·소바 · 타베로그 3.53
@@ -2450,7 +2450,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 2025·2026 빕구르망
 - 🍽️ **타베로그** [타베로그 3.53 (리뷰 314건)](https://tabelog.com/kyoto/A2601/A260202/26041180/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 398개 (2026-11-21 기준)](https://maps.google.com/?cid=1725004438452104212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 398개 (2026-11-21 기준)](https://maps.google.com/?cid=1725004438452104212)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://saryo-tessin.instatry.org/jump-web-2.html), [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26041180/)
 - 예약 팁: 예약 손님 우선. 당일은 전화로 문의, 저녁 코스는 전날까지 예약. 미취학 아동은 15시 타임만 가능.
@@ -2461,7 +2461,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 08:00-16:00, 17:00-21:00 (수요일 10:00-16:00)
 - 💡 현금은 받지 않는다(카드·교통계 IC·PayPay·알리페이 등만 가능). 좌석은 45분 제한, 1인 1음료 주문.
 - 🚃 마루타마치역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=1725004438452104212&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%E5%93%B2%E5%BF%83%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%BB%8A%E5%B1%8B%E7%94%BA%E4%BA%8C%E6%9D%A1%E4%B8%8A%E3%83%AB%E7%9C%9F%E5%A6%82%E5%A0%82%E7%94%BA321-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26041180/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%ED%85%9F%EC%8B%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1725004438452104212) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%8C%B6%E5%AF%AE%E5%93%B2%E5%BF%83%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E8%BB%8A%E5%B1%8B%E7%94%BA%E4%BA%8C%E6%9D%A1%E4%B8%8A%E3%83%AB%E7%9C%9F%E5%A6%82%E5%A0%82%E7%94%BA321-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26041180/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EB%A3%8C%20%ED%85%9F%EC%8B%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-132"></a>
 #### ★★ 사케토 사카나 DNA (酒と魚 DNA) — 🍶 이자카야·다치노미 · 타베로그 3.41
@@ -2481,7 +2481,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:30-23:00 (요리 L.O. 22:00, 음료 L.O. 22:30) / 휴무 일요일, 부정기 휴무
 - 💡 타베로그 예약 한정 코스(6,000엔·9,000엔)가 있다. 5명 이상이면 자리가 나뉠 수 있고, 혼자 가기에도 편한 카운터 10석이 있다.
 - 🚃 시조역(지하철) 5번 출구 도보 3분
-- [구글 지도](https://maps.google.com/?cid=11826527874119135518&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E3%81%A8%E9%AD%9A%20DNA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%87%88%E7%B1%A0%E7%94%BA559-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26034583/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%BC%80%ED%86%A0%20%EC%82%AC%EC%B9%B4%EB%82%98%20DNA%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11826527874119135518) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%85%92%E3%81%A8%E9%AD%9A%20DNA%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%87%88%E7%B1%A0%E7%94%BA559-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26034583/) · [유튜브](https://www.youtube.com/results?search_query=%EC%82%AC%EC%BC%80%ED%86%A0%20%EC%82%AC%EC%B9%B4%EB%82%98%20DNA%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-133"></a>
 #### ★★ 소노바 (そのば) — 🍲 우동·소바 · 타베로그 3.43
@@ -2501,7 +2501,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-15:00 (점심만) / 휴무 수·목요일
 - 💡 14석뿐이라 개점 10~15분 전에 도착하면 첫 회전에 들어갈 수 있다. 먼저 주문·결제하는 방식이라는 후기가 있고, 카드·교통IC·QR 결제가 된다.
 - 🚃 고조역(지하철 가라스마선)에서 약 400m
-- [구글 지도](https://maps.google.com/?cid=8439747565284068228&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%AE%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%AF%8C%E5%B0%8F%E8%B7%AF%E5%85%AD%E6%9D%A1%E4%B8%8A%E3%82%8B%E6%9C%AC%E5%A1%A9%E7%AB%88%E7%94%BA533-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26039638/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%85%B8%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8439747565284068228) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9D%E3%81%AE%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%AF%8C%E5%B0%8F%E8%B7%AF%E5%85%AD%E6%9D%A1%E4%B8%8A%E3%82%8B%E6%9C%AC%E5%A1%A9%E7%AB%88%E7%94%BA533-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26039638/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%85%B8%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-134"></a>
 #### ★★ 스시젠 (すし善) — 🍣 스시·해산물 · 타베로그 3.60
@@ -2512,7 +2512,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 🏯 **노포·원조** 1939년(쇼와 14년) 창업
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 (2023년판부터 4년 연속)
 - 🍽️ **타베로그** [타베로그 3.60 (리뷰 347건)](https://tabelog.com/kyoto/A2601/A260202/26001255/)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 1,077개 (2026-11-21 기준)](https://maps.google.com/?cid=17451355482176302446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 1,077개 (2026-11-21 기준)](https://maps.google.com/?cid=17451355482176302446)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 예약란에 '1테이블 한정'으로 표기 — 전화로 확인
@@ -2523,7 +2523,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-18:00 / 휴무 토·일요일·공휴일
 - 💡 현금만 받는다. 재료가 떨어지면 일찍 닫고, 포장도 된다.
 - 🚃 가라스마오이케역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=17451355482176302446&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%97%E5%96%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%9D%A1%E9%80%9A%E6%96%B0%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E8%A1%A3%E6%A3%9A%E7%94%BA41-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26001255/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EC%A0%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17451355482176302446) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%97%E5%96%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E4%B8%89%E6%9D%A1%E9%80%9A%E6%96%B0%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E8%A1%A3%E6%A3%9A%E7%94%BA41-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26001255/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8A%A4%EC%8B%9C%EC%A0%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-135"></a>
 #### ★★ 아스페르주 블랑슈 (アスペルジュ ブランシュ) — 🍷 프렌치·이노베이티브 · 타베로그 3.42
@@ -2543,7 +2543,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 18:30-22:00 (저녁만, 18:15부터 입장) / 휴무 화·수요일, 부정기 휴무
 - 💡 서비스료 5%, 1인 1드링크 필수. 24시간 이내 취소·인원 변경은 100%, 48시간 이내는 50% 취소료.
 - 🚃 고조역(지하철 가라스마선) 도보 1분
-- [구글 지도](https://maps.google.com/?cid=9688624614093002498&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%A8%AA%E8%AB%8F%E8%A8%AA%E7%94%BA313-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26023068/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%8A%A4%ED%8E%98%EB%A5%B4%EC%A3%BC%20%EB%B8%94%EB%9E%91%EC%8A%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9688624614093002498) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%82%B9%E3%83%9A%E3%83%AB%E3%82%B8%E3%83%A5%20%E3%83%96%E3%83%A9%E3%83%B3%E3%82%B7%E3%83%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E6%A8%AA%E8%AB%8F%E8%A8%AA%E7%94%BA313-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26023068/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%8A%A4%ED%8E%98%EB%A5%B4%EC%A3%BC%20%EB%B8%94%EB%9E%91%EC%8A%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-136"></a>
 #### ★★ 에이타로야 (えいたろう屋) — 🍶 이자카야·다치노미 · 타베로그 3.54
@@ -2562,7 +2562,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:30-23:00 (요리 L.O. 22:00) / 휴무 일요일, 월 1회 부정기 휴무
 - 💡 명물인 모둠회를 먼저 주문하라는 후기가 많다. 매달 한 번 부정기 휴무가 있다.
 - 🚃 가라스마오이케역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=4802216482330718108&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%88%E3%81%84%E3%81%9F%E3%82%8D%E3%81%86%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%BE%A1%E6%B1%A0%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E9%BE%8D%E6%B1%A0%E7%94%BA448) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000459/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EC%9D%B4%ED%83%80%EB%A1%9C%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4802216482330718108) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%88%E3%81%84%E3%81%9F%E3%82%8D%E3%81%86%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%BE%A1%E6%B1%A0%E9%80%9A%E5%AE%A4%E7%94%BA%E6%9D%B1%E5%85%A5%E3%83%AB%E9%BE%8D%E6%B1%A0%E7%94%BA448) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000459/) · [유튜브](https://www.youtube.com/results?search_query=%EC%97%90%EC%9D%B4%ED%83%80%EB%A1%9C%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-126"></a>
 #### ★★ 와쇼쿠 하루 (和食晴ル) — 🍶 이자카야·다치노미 · 타베로그 3.65
@@ -2583,7 +2583,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 18:00-22:00 (20:00 교대 2부제) / 휴무 월요일
 - 💡 현금만 받는다. 20시에 손님이 바뀌는 2부제이고, 고등학생 이상만 입장할 수 있다.
 - 🚃 가라스마역(한큐) 도보 약 3분
-- [구글 지도](https://maps.google.com/?cid=4702899363786546259&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%A3%9F%E6%99%B4%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA230-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26026013/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EC%87%BC%EC%BF%A0%20%ED%95%98%EB%A3%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4702899363786546259) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%92%8C%E9%A3%9F%E6%99%B4%E3%83%AB%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E7%A5%9E%E6%98%8E%E7%94%BA230-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26026013/) · [유튜브](https://www.youtube.com/results?search_query=%EC%99%80%EC%87%BC%EC%BF%A0%20%ED%95%98%EB%A3%A8%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-137"></a>
 #### ★★ 이즈겐 (いづ源) — 🍣 스시·해산물 · 타베로그 3.50
@@ -2593,7 +2593,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 (2021년판부터 6년 연속)
 - 🍽️ **타베로그** [타베로그 3.50 (리뷰 126건)](https://tabelog.com/kyoto/A2601/A260201/26018372/)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 432개 (2026-11-21 기준)](https://maps.google.com/?cid=16239957818945249075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 432개 (2026-11-21 기준)](https://maps.google.com/?cid=16239957818945249075)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 가게 인스타그램으로 예약을 받는다고 안내(계정은 타베로그에 미표기). 전화 예약은 일본어로만 가능.
@@ -2604,7 +2604,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:00, 15:30-18:30 / 휴무 목요일
 - 💡 카드는 안 되고 현금 결제만 받는다. 좌식·테이블석 위주 28석.
 - 🚃 시조역(지하철 가라스마선) 남쪽 출구 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=16239957818945249075&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E6%BA%90%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E9%AB%98%E5%80%89%E9%80%9A%E3%82%8A%E7%B6%BE%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E7%AB%B9%E5%B1%8B%E7%94%BA391) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018372/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EA%B2%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16239957818945249075) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%A5%E6%BA%90%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E9%AB%98%E5%80%89%E9%80%9A%E3%82%8A%E7%B6%BE%E5%B0%8F%E8%B7%AF%E4%B8%8B%E3%82%8B%E7%AB%B9%E5%B1%8B%E7%94%BA391) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26018372/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EA%B2%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-138"></a>
 #### ★★ 코메도코로 이나모토 (米処いなもと) — 🍱 일식·카이세키 · 타베로그 3.61
@@ -2624,7 +2624,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:00-24:00 / 휴무 연중무휴
 - 💡 현금만 받는다. 예약 시각에 앞 손님이 남아 있어 잠시 기다렸다는 후기도 있으니 여유 있게 가자.
 - 🚃 고조역(지하철 가라스마선)에서 약 490m (도보 6~8분)
-- [구글 지도](https://maps.google.com/?cid=2574143462023300011&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B1%B3%E5%87%A6%E3%81%84%E3%81%AA%E3%82%82%E3%81%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%85%AB%E5%B9%A1%E7%94%BA534-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26040610/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EB%A9%94%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%9D%B4%EB%82%98%EB%AA%A8%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2574143462023300011) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B1%B3%E5%87%A6%E3%81%84%E3%81%AA%E3%82%82%E3%81%A8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%85%AB%E5%B9%A1%E7%94%BA534-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260101/26040610/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%94%EB%A9%94%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%9D%B4%EB%82%98%EB%AA%A8%ED%86%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-127"></a>
 #### ★★ 쿄추카 마키사다 (京中華 牧定) — 🥟 중화·교자 · 타베로그 3.73
@@ -2643,7 +2643,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 18:00-21:00 / 휴무 수요일
 - 💡 카드·전자화폐·QR 결제가 모두 안 되니 현금을 넉넉히 준비할 것.
 - 🚃 가라스마오이케역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=9945771202845295071&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E4%B8%AD%E8%8F%AF%20%E7%89%A7%E5%AE%9A%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%AB%98%E5%80%89%E4%BA%8C%E6%9D%A1%E4%B8%8B%E3%82%8B%E7%93%A6%E7%94%BA565-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26038357/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EC%B6%94%EC%B9%B4%20%EB%A7%88%ED%82%A4%EC%82%AC%EB%8B%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9945771202845295071) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E4%B8%AD%E8%8F%AF%20%E7%89%A7%E5%AE%9A%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E9%AB%98%E5%80%89%E4%BA%8C%E6%9D%A1%E4%B8%8B%E3%82%8B%E7%93%A6%E7%94%BA565-5) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26038357/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BF%84%EC%B6%94%EC%B9%B4%20%EB%A7%88%ED%82%A4%EC%82%AC%EB%8B%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-128"></a>
 #### ★★ 토리노코지 야마기시 (とりの小路 やま岸) — 🍗 야키토리·닭요리 · 타베로그 3.75
@@ -2663,7 +2663,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:00-24:00 / 휴무 연중무휴
 - 💡 코스는 17·18·19·20시 시작. 20시 타임은 단품 주문용 좌석 예약도 된다. 카드 결제 가능.
 - 🚃 시조역(지하철) 도보 5분 / 가라스마역(한큐) 도보 5분
-- [구글 지도](https://maps.google.com/?cid=10571707322553851496&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%8A%E3%81%AE%E5%B0%8F%E8%B7%AF%20%E3%82%84%E3%81%BE%E5%B2%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%87%BD%E8%B0%B7%E9%89%BE%E7%94%BA77) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26042618/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EB%85%B8%EC%BD%94%EC%A7%80%20%EC%95%BC%EB%A7%88%EA%B8%B0%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10571707322553851496) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A8%E3%82%8A%E3%81%AE%E5%B0%8F%E8%B7%AF%20%E3%82%84%E3%81%BE%E5%B2%B8%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8B%E4%BA%AC%E5%8C%BA%E5%87%BD%E8%B0%B7%E9%89%BE%E7%94%BA77) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260201/26042618/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EB%85%B8%EC%BD%94%EC%A7%80%20%EC%95%BC%EB%A7%88%EA%B8%B0%EC%8B%9C%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-129"></a>
 #### ★★ 토리카고 (鳥かご) — 🍗 야키토리·닭요리 · 타베로그 3.70
@@ -2682,7 +2682,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:00-23:00 / 휴무 부정기
 - 💡 코스 가격에 음료가 포함돼 있다(무알코올 15,000엔, 주류 17,000엔).
 - 🚃 한큐 오미야역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=3015550719160363452&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%81%8B%E3%81%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E5%9D%8A%E5%9F%8E%E7%94%BA8-24) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26039593/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%B9%B4%EA%B3%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3015550719160363452) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%81%8B%E3%81%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A3%AC%E7%94%9F%E5%9D%8A%E5%9F%8E%E7%94%BA8-24) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26039593/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%EC%B9%B4%EA%B3%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-033"></a>
 #### ★ 이노다 커피 본점 (イノダコーヒ 本店) — ☕ 카페·킷사텐 · 타베로그 3.54
@@ -2691,7 +2691,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.54 (리뷰 2,261)](https://tabelog.com/kyoto/A2601/A260202/26000412/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 5,582개 (2026-11-21 기준)](https://maps.google.com/?cid=6724769626404834516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 5,582개 (2026-11-21 기준)](https://maps.google.com/?cid=6724769626404834516)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -2704,7 +2704,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 07:00-18:00 (L.O. 17:30) / 휴무 연중무휴
 - 💡 07:00-18:00 무휴, 예약 불가. 아침 일찍 가면 대기 짧음. 카드·교통IC 가능.
 - 🚃 지하철 가라스마오이케역 도보권
-- [구글 지도](https://maps.google.com/?cid=6724769626404834516&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A4%E3%83%8E%E3%83%80%E3%82%B3%E3%83%BC%E3%83%92%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E9%80%9A%E4%B8%89%E6%9D%A1%E4%B8%8B%E3%83%AB%E9%81%93%E7%A5%90%E7%94%BA140) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000412/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%85%B8%EB%8B%A4%20%EC%BB%A4%ED%94%BC%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6724769626404834516) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A4%E3%83%8E%E3%83%80%E3%82%B3%E3%83%BC%E3%83%92%20%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%AD%E4%BA%AC%E5%8C%BA%E5%A0%BA%E7%94%BA%E9%80%9A%E4%B8%89%E6%9D%A1%E4%B8%8B%E3%83%AB%E9%81%93%E7%A5%90%E7%94%BA140) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26000412/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%85%B8%EB%8B%A4%20%EC%BB%A4%ED%94%BC%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 아라시야마
 
@@ -2726,7 +2726,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-15:00 (L.O. 13:00), 17:30-21:00 (L.O. 19:00) / 휴무 수요일, 연말연시
 - 💡 완전 예약제, 수요일·연말연시 휴무. 스마트 캐주얼 드레스코드. 취소 수수료(당일 100%, 전날 50%, 5일 전까지 30%).
 - 🚃 란덴 아라시야마역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=1741826616241561678&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E9%83%BD%20%E5%90%89%E5%85%86%20%E5%B5%90%E5%B1%B1%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA58) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26001312/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%ED%86%A0%20%EA%B9%83%EC%B4%88%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1741826616241561678) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BA%AC%E9%83%BD%20%E5%90%89%E5%85%86%20%E5%B5%90%E5%B1%B1%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA58) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26001312/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%90%ED%86%A0%20%EA%B9%83%EC%B4%88%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-056"></a>
 #### ★★ 보루타 (야채와 스테이크) (野菜とステーキ ぼるた) — 🐂 와규·스테이크 · 타베로그 3.70
@@ -2747,7 +2747,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 12:00-14:00(L.O.13:00), 17:00-21:00(L.O.19:00) / 휴무 화·수·목요일(공휴일은 영업)
 - 💡 화·수·목 휴무(공휴일은 영업). 15석 남짓 작은 가게라 예약 필수급. 당일 예약은 전화만. 카드·QR 결제 가능.
 - 🚃 JR 사가아라시야마역 도보 4분
-- [구글 지도](https://maps.google.com/?cid=13199110870588254046&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%87%8E%E8%8F%9C%E3%81%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20%E3%81%BC%E3%82%8B%E3%81%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E7%80%AC%E6%88%B8%E5%B7%9D%E7%94%BA4-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26012281/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B3%B4%EB%A3%A8%ED%83%80%20%28%EC%95%BC%EC%B1%84%EC%99%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13199110870588254046) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%87%8E%E8%8F%9C%E3%81%A8%E3%82%B9%E3%83%86%E3%83%BC%E3%82%AD%20%E3%81%BC%E3%82%8B%E3%81%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E7%80%AC%E6%88%B8%E5%B7%9D%E7%94%BA4-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26012281/) · [유튜브](https://www.youtube.com/results?search_query=%EB%B3%B4%EB%A3%A8%ED%83%80%20%28%EC%95%BC%EC%B1%84%EC%99%80%20%EC%8A%A4%ED%85%8C%EC%9D%B4%ED%81%AC%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-057"></a>
 #### ★★ 신파치차야 (젤라토) (新八茶屋) — 🍡 화과자·디저트 · 타베로그 3.62
@@ -2769,7 +2769,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-18:00 / 휴무 목요일
 - 💡 예약 불가, 회전 빠름. 카드(AMEX)·PayPay 가능.
 - 🚃 란덴 아라시야마역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8050874193580366971&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E5%85%AB%E8%8C%B6%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E9%80%A0%E8%B7%AF%E7%94%BA37-17) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26001309/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%ED%8C%8C%EC%B9%98%EC%B0%A8%EC%95%BC%20%28%EC%A0%A4%EB%9D%BC%ED%86%A0%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8050874193580366971) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%96%B0%E5%85%AB%E8%8C%B6%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E9%80%A0%E8%B7%AF%E7%94%BA37-17) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26001309/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%ED%8C%8C%EC%B9%98%EC%B0%A8%EC%95%BC%20%28%EC%A0%A4%EB%9D%BC%ED%86%A0%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-034"></a>
 #### ★★ 🏯 우나기야 히로카와 (うなぎ屋 廣川) — 🐟 장어 · 타베로그 3.71
@@ -2779,7 +2779,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71, 장어 백명점 2018·2019·2022·2024·2026](https://tabelog.com/kyoto/A2601/A260403/26000921/)
 - 🏯 **노포·원조** [1967년 창업 아라시야마 장어 명가](https://foodle.pro/restaurants/kyoto/6752f1537e9f5)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,218개 (2026-11-21 기준)](https://maps.google.com/?cid=5471874807543383580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,218개 (2026-11-21 기준)](https://maps.google.com/?cid=5471874807543383580)
 
 - **온라인 예약: ✅ 가능** · [공식사이트](http://unagi-hirokawa.jp/orders/kr)
 - 예약 팁: 공식 다국어 온라인 예약: 한 달 전 같은 날 10시(일본시간) 오픈, 1인 3,000엔 카드 디파짓(환불 불가), 최대 4명.
@@ -2790,7 +2790,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:30, 17:00-20:00 / 휴무 월요일
 - 💡 완전 예약제, 월요일 휴무. 전화는 일본어만, 해외 고객은 공식 사이트 다국어 온라인 예약(한 달 전 같은 날 10시 오픈, 1인 3,000엔 카드 디파짓, 최대 4명, 6세 미만 불가).
 - 🚃 란덴 아라시야마역·JR 사가아라시야마역 도보권
-- [구글 지도](https://maps.google.com/?cid=5471874807543383580&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E3%81%8E%E5%B1%8B%20%E5%BB%A3%E5%B7%9D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E5%8C%97%E9%80%A0%E8%B7%AF%E7%94%BA44-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26000921/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%EC%95%BC%20%ED%9E%88%EB%A1%9C%EC%B9%B4%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5471874807543383580) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E3%81%8E%E5%B1%8B%20%E5%BB%A3%E5%B7%9D%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E5%8C%97%E9%80%A0%E8%B7%AF%E7%94%BA44-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26000921/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%EC%95%BC%20%ED%9E%88%EB%A1%9C%EC%B9%B4%EC%99%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-139"></a>
 #### ★★ 텐류지 시게츠 (天龍寺 篩月) — 🥢 두부·쇼진요리 · 타베로그 3.58
@@ -2800,7 +2800,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망 (2016년판부터 11년 연속), 그린스타
 - 🍽️ **타베로그** [타베로그 3.58 (리뷰 188건)](https://tabelog.com/kyoto/A2601/A260403/26000923/)
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 601개 (2026-11-21 기준)](https://maps.google.com/?cid=17233467866362761812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 601개 (2026-11-21 기준)](https://maps.google.com/?cid=17233467866362761812)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26000923/)
 - 예약 팁: 5,000엔 이상 코스는 2인 이상, 3일 전까지 예약해야 한다. 전날 취소부터 취소료가 붙는다.
@@ -2811,7 +2811,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:00 / 휴무 목요일
 - 💡 텐류지 경내라 식사와 별도로 정원 관람료 500엔이 든다. 카드·PayPay 결제 가능.
 - 🚃 란덴(게이후쿠) 아라시야마역 도보 3분
-- [구글 지도](https://maps.google.com/?cid=17233467866362761812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BE%8D%E5%AF%BA%20%E7%AF%A9%E6%9C%88%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA68) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26000923/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EB%A5%98%EC%A7%80%20%EC%8B%9C%EA%B2%8C%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17233467866362761812) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E9%BE%8D%E5%AF%BA%20%E7%AF%A9%E6%9C%88%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA68) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26000923/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EB%A5%98%EC%A7%80%20%EC%8B%9C%EA%B2%8C%EC%B8%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-058"></a>
 #### ★ % 아라비카 교토 아라시야마 (アラビカ京都 嵐山) — ☕ 카페·킷사텐 · 타베로그 3.57
@@ -2821,7 +2821,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.57 (리뷰 590)](https://tabelog.com/kyoto/A2601/A260403/26025913/)
 - 👥 **현지평판** [2015년 오픈, 아라시야마 강변 테이크아웃 커피로 관광객 줄이 끊이지 않는 곳 (좌석 4석)](https://tabelog.com/kyoto/A2601/A260403/26025913/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,856개 (2026-11-21 기준)](https://maps.google.com/?cid=17029760350450268096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 5,856개 (2026-11-21 기준)](https://maps.google.com/?cid=17029760350450268096)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가, 줄 서서 주문.
@@ -2834,7 +2834,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 09:00-18:00 / 휴무 부정기
 - 💡 좌석이 4석뿐이라 사실상 테이크아웃. 오전 일찍 가면 줄이 짧음. 카드·IC·PayPay 가능, 영어 메뉴 있음.
 - 🚃 란덴 아라시야마역 도보 약 5분 (도게츠쿄 북단 근처)
-- [구글 지도](https://maps.google.com/?cid=17029760350450268096&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E4%BA%AC%E9%83%BD%20%E5%B5%90%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA3-47) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26025913/) · [유튜브](https://www.youtube.com/results?search_query=%25%20%EC%95%84%EB%9D%BC%EB%B9%84%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17029760350450268096) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%83%A9%E3%83%93%E3%82%AB%E4%BA%AC%E9%83%BD%20%E5%B5%90%E5%B1%B1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E5%A4%A9%E9%BE%8D%E5%AF%BA%E8%8A%92%E3%83%8E%E9%A6%AC%E5%A0%B4%E7%94%BA3-47) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26025913/) · [유튜브](https://www.youtube.com/results?search_query=%25%20%EC%95%84%EB%9D%BC%EB%B9%84%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-059"></a>
 #### ★ 아라시야마 다이젠 (嵐山 大善) — 🍣 스시·해산물 · 타베로그 3.59
@@ -2843,7 +2843,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.59 (아라시야마 지역 상위권)](https://tabelog.com/kyoto/A2601/A260403/26022843/)
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 410개 (2026-11-21 기준)](https://maps.google.com/?cid=748064463898465650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 410개 (2026-11-21 기준)](https://maps.google.com/?cid=748064463898465650)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 「予約可」, 온라인 예약 버튼 없음. 전화 075-882-0018(일본어).
@@ -2854,7 +2854,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-19:00 / 휴무 목요일
 - 💡 시모사가 버스정류장 바로 앞. 고등어 입하가 없는 날은 사바즈시가 없을 수 있음. 카드·IC·QR 결제 가능.
 - 🚃 란덴 사가역 약 300m (시모사가 버스정류장 도보 15초)
-- [구글 지도](https://maps.google.com/?cid=748064463898465650&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B5%90%E5%B1%B1%20%E5%A4%A7%E5%96%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E4%BC%8A%E5%8B%A2%E3%83%8E%E4%B8%8A%E7%94%BA10-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26022843/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EB%8B%A4%EC%9D%B4%EC%A0%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=748064463898465650) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%B5%90%E5%B1%B1%20%E5%A4%A7%E5%96%84%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%B5%AF%E5%B3%A8%E4%BC%8A%E5%8B%A2%E3%83%8E%E4%B8%8A%E7%94%BA10-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260403/26022843/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EB%9D%BC%EC%8B%9C%EC%95%BC%EB%A7%88%20%EB%8B%A4%EC%9D%B4%EC%A0%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 야마시나
 
@@ -2866,7 +2866,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.75 (리뷰 838건), 돈카츠 百名店 2022·2024·2026](https://tabelog.com/kyoto/A2601/A260603/26029597/)
 - 🎖️ **미쉐린** 미쉐린 가이드 교토·오사카 빕구르망
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 928개 (2026-11-21 기준)](https://maps.google.com/?cid=4413489747528142873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 928개 (2026-11-21 기준)](https://maps.google.com/?cid=4413489747528142873)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 이달 예약은 전화나 매장 방문으로, 다음 달 예약은 매월 20일 이후부터 받는다. 1시간에 2팀, 최대 6명까지.
@@ -2877,7 +2877,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 월·화·수·금 10:00-21:00 / 토·일·공휴일 09:00-21:00 (L.O. 20:30) / 휴무 목요일, 매월 2~3일 부정기 휴무
 - 💡 카드 결제 가능. 2026년 4월부터 평일 10시·주말 9시에 문을 열어 이른 점심에 좋다. 붐빌 땐 5~10분 정도 기다릴 수 있다.
 - 🚃 JR·게이한·지하철 야마시나역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=4413489747528142873&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%86%9F%E6%88%90%E8%B1%9A%20%E3%81%8B%E3%82%8F%E3%82%80%E3%82%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B1%B1%E7%A7%91%E5%8C%BA%E7%AB%B9%E9%BC%BB%E8%A5%BF%E3%83%8E%E5%8F%A3%E7%94%BA57-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260603/26029597/) · [유튜브](https://www.youtube.com/results?search_query=%EC%88%99%EC%84%B1%EB%8F%88%20%EC%B9%B4%EC%99%80%EB%AC%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4413489747528142873) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%86%9F%E6%88%90%E8%B1%9A%20%E3%81%8B%E3%82%8F%E3%82%80%E3%82%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B1%B1%E7%A7%91%E5%8C%BA%E7%AB%B9%E9%BC%BB%E8%A5%BF%E3%83%8E%E5%8F%A3%E7%94%BA57-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260603/26029597/) · [유튜브](https://www.youtube.com/results?search_query=%EC%88%99%EC%84%B1%EB%8F%88%20%EC%B9%B4%EC%99%80%EB%AC%B4%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 우즈마사·하나조노
 
@@ -2900,7 +2900,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:00 / 수~토 저녁 18:00-20:00 / 휴무 화요일
 - 💡 현금만 받는다(카드·전자결제 불가). 입구 식권기에서 먼저 식권을 사고, 전용 주차장도 있다.
 - 🚃 JR 하나조노역에서 약 400m
-- [구글 지도](https://maps.google.com/?cid=7511451645655946917&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%81%81%E9%BA%BA%E3%82%84%20%E3%81%B5%E3%81%A2%E3%81%A8%E3%82%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%A4%AA%E7%A7%A6%E5%AE%89%E4%BA%95%E8%BE%BB%E4%B9%8B%E5%86%85%E7%94%BA15-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260402/26040084/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%EC%95%BC%20%ED%9B%84%EC%A7%80%ED%86%A0%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7511451645655946917) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%81%81%E9%BA%BA%E3%82%84%20%E3%81%B5%E3%81%A2%E3%81%A8%E3%82%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8F%B3%E4%BA%AC%E5%8C%BA%E5%A4%AA%E7%A7%A6%E5%AE%89%E4%BA%95%E8%BE%BB%E4%B9%8B%E5%86%85%E7%94%BA15-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260402/26040084/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%EC%95%BC%20%ED%9B%84%EC%A7%80%ED%86%A0%EB%9D%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 우지
 
@@ -2912,7 +2912,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.54, 화과자·감미처 WEST 백명점 2023, 스위츠 WEST 백명점 2018·2019](https://tabelog.com/kyoto/A2607/A260701/26000722/)
 - 🏯 **노포·원조** 1854년 창업(설)의 우지 차 노포 본점
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 5,618개 (2026-11-21 기준)](https://maps.google.com/?cid=8281509582425298759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 5,618개 (2026-11-21 기준)](https://maps.google.com/?cid=8281509582425298759)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -2926,7 +2926,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-17:30
 - 💡 예약 불가, 주말·연휴엔 대기 김. 카드·PayPay 가능. JR 우지역 남쪽 출구 도보 2분.
 - 🚃 JR 우지역 도보 2분
-- [구글 지도](https://maps.google.com/?cid=8281509582425298759&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E6%9D%91%E8%97%A4%E5%90%89%E6%9C%AC%E5%BA%97%20%E5%AE%87%E6%B2%BB%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%AE%87%E6%B2%BB%E5%A3%B1%E7%95%AA10) · [타베로그](https://tabelog.com/kr/kyoto/A2607/A260701/26000722/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%ED%86%A0%ED%82%A4%EC%B9%98%20%EB%B3%B8%EC%A0%90%20%28%EC%9A%B0%EC%A7%80%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8281509582425298759) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E6%9D%91%E8%97%A4%E5%90%89%E6%9C%AC%E5%BA%97%20%E5%AE%87%E6%B2%BB%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E5%AE%87%E6%B2%BB%E5%A3%B1%E7%95%AA10) · [타베로그](https://tabelog.com/kr/kyoto/A2607/A260701/26000722/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%EB%AC%B4%EB%9D%BC%20%ED%86%A0%ED%82%A4%EC%B9%98%20%EB%B3%B8%EC%A0%90%20%28%EC%9A%B0%EC%A7%80%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-037"></a>
 #### ★★ 타마키테이 (たま木亭) — 🥐 베이커리 · 타베로그 3.76
@@ -2935,7 +2935,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.76 (리뷰 1,441), 빵 백명점 2017~2019·빵 WEST 2020·2022·2026](https://tabelog.com/kyoto/A2607/A260701/26025957/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,831개 (2026-11-21 기준)](https://maps.google.com/?cid=4864680728407226694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 2,831개 (2026-11-21 기준)](https://maps.google.com/?cid=4864680728407226694)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가. 품절 시 종료.
@@ -2950,7 +2950,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 07:00-18:45 (품절 시 종료) / 휴무 월요일, 화요일, 수요일
 - 💡 목~일만 영업(월·화·수 휴무), 7:00 오픈·품절 시 종료. 주말엔 대기. 카드·전자머니·QR 불가. 우지 관광과 묶어서 방문.
 - 🚃 JR·게이한 오바쿠역 도보 5~6분
-- [구글 지도](https://maps.google.com/?cid=4864680728407226694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%BE%E6%9C%A8%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E4%BA%94%E3%82%B1%E5%BA%84%E5%B9%B3%E9%87%8E57-14) · [타베로그](https://tabelog.com/kr/kyoto/A2607/A260701/26025957/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EB%A7%88%ED%82%A4%ED%85%8C%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4864680728407226694) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%9F%E3%81%BE%E6%9C%A8%E4%BA%AD%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E5%AE%87%E6%B2%BB%E5%B8%82%E4%BA%94%E3%82%B1%E5%BA%84%E5%B9%B3%E9%87%8E57-14) · [타베로그](https://tabelog.com/kr/kyoto/A2607/A260701/26025957/) · [유튜브](https://www.youtube.com/results?search_query=%ED%83%80%EB%A7%88%ED%82%A4%ED%85%8C%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 이치조지
 
@@ -2973,7 +2973,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:30, 18:00-21:00 / 휴무 화요일
 - 💡 카드·전자결제 불가, 현금만. 자판기에서 식권을 사서 주문한다. 가게 근처에 전용 주차장 4대.
 - 🚃 에이잔 전철 슈가쿠인역에서 약 100m
-- [구글 지도](https://maps.google.com/?cid=12981634251260599160&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%81%81%E9%BA%BA%20%E3%81%A8%E3%81%86%E3%81%B2%E3%81%A1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B1%B1%E7%AB%AF%E5%A3%B1%E7%94%BA%E7%94%B0%E7%94%BA8-6) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26037391/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%ED%86%A0%ED%9E%88%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=12981634251260599160) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%89%E3%81%81%E9%BA%BA%20%E3%81%A8%E3%81%86%E3%81%B2%E3%81%A1%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E5%B1%B1%E7%AB%AF%E5%A3%B1%E7%94%BA%E7%94%B0%E7%94%BA8-6) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26037391/) · [유튜브](https://www.youtube.com/results?search_query=%EB%9D%BC%EB%A9%98%20%ED%86%A0%ED%9E%88%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-038"></a>
 #### ★★ 🏯 멘야 곳케이(극계) 이치조지 본점 (麺屋 極鶏 一乗寺本店) — 🍜 라멘 · 타베로그 3.74
@@ -2994,7 +2994,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-22:00 / 휴무 월요일
 - 💡 월요일 휴무. 주말엔 정리권 배부·대기 발생, 평일 이른 시간이 수월. 카드·전자머니·QR 불가.
 - 🚃 에이잔전철 이치조지역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=10249343747795898642&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E6%A5%B5%E9%B6%8F%20%E4%B8%80%E4%B9%97%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E8%A5%BF%E9%96%89%E5%B7%9D%E5%8E%9F%E7%94%BA29-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26017870/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EA%B3%B3%EC%BC%80%EC%9D%B4%28%EA%B7%B9%EA%B3%84%29%20%EC%9D%B4%EC%B9%98%EC%A1%B0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10249343747795898642) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8B%20%E6%A5%B5%E9%B6%8F%20%E4%B8%80%E4%B9%97%E5%AF%BA%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E8%A5%BF%E9%96%89%E5%B7%9D%E5%8E%9F%E7%94%BA29-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26017870/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EA%B3%B3%EC%BC%80%EC%9D%B4%28%EA%B7%B9%EA%B3%84%29%20%EC%9D%B4%EC%B9%98%EC%A1%B0%EC%A7%80%20%EB%B3%B8%EC%A0%90%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-039"></a>
 #### ★★ 중화소바 다카야스 (中華そば 高安) — 🍜 라멘 · 타베로그 3.70
@@ -3015,7 +3015,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-02:00 / 휴무 부정기
 - 💡 새벽 2시까지 영업해 야식으로 좋음. 점심·주말엔 줄. 카드·전자머니 불가. 부정기 휴무.
 - 🚃 에이잔전철 이치조지역 도보권
-- [구글 지도](https://maps.google.com/?cid=6519996197422050623&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E9%AB%98%E5%AE%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E9%AB%98%E6%A7%BB%E7%94%BA10) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26001199/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%ED%99%94%EC%86%8C%EB%B0%94%20%EB%8B%A4%EC%B9%B4%EC%95%BC%EC%8A%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=6519996197422050623) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%8F%AF%E3%81%9D%E3%81%B0%20%E9%AB%98%E5%AE%89%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E9%AB%98%E6%A7%BB%E7%94%BA10) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260303/26001199/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%ED%99%94%EC%86%8C%EB%B0%94%20%EB%8B%A4%EC%B9%B4%EC%95%BC%EC%8A%A4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-040"></a>
 #### ★ 텐카잇핀 총본점 (천하일품) (天下一品 総本店) — 🍜 라멘 · 타베로그 3.51
@@ -3025,7 +3025,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.51 (리뷰 1,700)](https://tabelog.com/kyoto/A2601/A260302/26000716/)
 - 🏯 **노포·원조** 전국 체인 '텐카잇핀' 콧테리 라멘의 총본점
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,999개 (2026-11-21 기준)](https://maps.google.com/?cid=541012913519295992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 3,999개 (2026-11-21 기준)](https://maps.google.com/?cid=541012913519295992)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -3038,7 +3038,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-01:00 (L.O. 00:45) / 휴무 연중무휴 (1/1 제외)
 - 💡 11:00~새벽 1시, 연중무휴(1/1 제외). 주차장 있음. 신용카드 불가, 전자머니·QR 가능.
 - 🚃 에이잔전철 차야마·교토게이주쓰다이가쿠역 인근
-- [구글 지도](https://maps.google.com/?cid=541012913519295992&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%93%81%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E7%AF%89%E7%94%B0%E7%94%BA94) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26000716/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%B9%B4%EC%9E%87%ED%95%80%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%28%EC%B2%9C%ED%95%98%EC%9D%BC%ED%92%88%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=541012913519295992) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E4%B8%8B%E4%B8%80%E5%93%81%20%E7%B7%8F%E6%9C%AC%E5%BA%97%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%B7%A6%E4%BA%AC%E5%8C%BA%E4%B8%80%E4%B9%97%E5%AF%BA%E7%AF%89%E7%94%B0%E7%94%BA94) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260302/26000716/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%B9%B4%EC%9E%87%ED%95%80%20%EC%B4%9D%EB%B3%B8%EC%A0%90%20%28%EC%B2%9C%ED%95%98%EC%9D%BC%ED%92%88%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 킨카쿠지·기타노
 
@@ -3059,7 +3059,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 18:00-22:00 (18시 일제 시작, 1회전) / 휴무 수요일
 - 💡 서비스료 5% 별도, 카드 결제 가능. 차로 가면 가게 앞에 세우고 직원에게 말하면 된다.
 - 🚃 시버스 센본이마데가와 정류장에서 센본도리를 따라 북쪽으로 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=4733775832002355281&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E8%8B%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8D%83%E6%9C%AC%E9%80%9A%E4%BA%94%E8%BE%BB%E4%B8%8A%E3%82%8B%E7%89%A1%E4%B8%B9%E9%89%BE%E7%94%BA570) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26011319/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%99%80%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4733775832002355281) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E8%8B%A5%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8D%83%E6%9C%AC%E9%80%9A%E4%BA%94%E8%BE%BB%E4%B8%8A%E3%82%8B%E7%89%A1%E4%B8%B9%E9%89%BE%E7%94%BA570) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26011319/) · [유튜브](https://www.youtube.com/results?search_query=%ED%85%90%EC%99%80%EC%B9%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-061"></a>
 #### ★★ 소바슈보 이치이 (蕎麦酒房 櫟) — 🍲 우동·소바 · 타베로그 3.61
@@ -3068,7 +3068,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.61 (리뷰 159) — 킨카쿠지/기타노텐만구 지역 상위권](https://tabelog.com/kyoto/A2601/A260501/26026908/)
-- ⭐ **구글** [구글 지도 4.6 / 리뷰 329개 (2026-11-21 기준)](https://maps.google.com/?cid=13927119884927261933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.6 / 리뷰 329개 (2026-11-21 기준)](https://maps.google.com/?cid=13927119884927261933)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 「予約可」, 온라인 예약 버튼 없음. 전화 075-286-8286.
@@ -3079,7 +3079,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-14:00(L.O.13:45), 17:00-21:00(L.O.20:45) / 휴무 목요일
 - 💡 목요일 휴무. 점심 L.O. 13:45로 이름. 카드·전자화폐 불가, PayPay 가능. 영어 메뉴 있음.
 - 🚃 란덴 기타노하쿠바이초역 약 800m (인근 버스정류장 도보 1분)
-- [구글 지도](https://maps.google.com/?cid=13927119884927261933&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%E9%85%92%E6%88%BF%20%E6%AB%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B9%B3%E9%87%8E%E5%AE%AE%E8%A5%BF%E7%94%BA62) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26026908/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%EC%8A%88%EB%B3%B4%20%EC%9D%B4%EC%B9%98%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13927119884927261933) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%95%8E%E9%BA%A6%E9%85%92%E6%88%BF%20%E6%AB%9F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E5%B9%B3%E9%87%8E%E5%AE%AE%E8%A5%BF%E7%94%BA62) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26026908/) · [유튜브](https://www.youtube.com/results?search_query=%EC%86%8C%EB%B0%94%EC%8A%88%EB%B3%B4%20%EC%9D%B4%EC%B9%98%EC%9D%B4%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-041"></a>
 #### ★★ 신메 (神馬) — 🍶 이자카야·다치노미 · 타베로그 3.73
@@ -3098,7 +3098,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 17:00-21:30 (L.O. 21:00) / 휴무 일요일
 - 💡 일요일 휴무, 17:00-21:30. 예약은 공식 홈페이지에서. 현금만. 1인 8,000~10,000엔 각오.
 - 🚃 시버스 센본나카다치우리 정류장 바로 앞
-- [구글 지도](https://maps.google.com/?cid=17453149126217448234&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E9%A6%AC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8D%83%E6%9C%AC%E9%80%9A%E4%B8%AD%E7%AB%8B%E5%A3%B2%E4%B8%8A%E3%83%AB%E8%A5%BF%E5%81%B4%E7%8E%89%E5%B1%8B%E7%94%BA38) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26002592/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%A9%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=17453149126217448234) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%A5%9E%E9%A6%AC%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8D%83%E6%9C%AC%E9%80%9A%E4%B8%AD%E7%AB%8B%E5%A3%B2%E4%B8%8A%E3%83%AB%E8%A5%BF%E5%81%B4%E7%8E%89%E5%B1%8B%E7%94%BA38) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260203/26002592/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%A0%EB%A9%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-060"></a>
 #### ★★ 🏯 아와모치도코로 사와야 (粟餅所・澤屋) — 🍡 화과자·디저트 · 타베로그 3.76
@@ -3109,7 +3109,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 🍽️ **타베로그** [타베로그 3.76 (리뷰 1,209)](https://tabelog.com/kyoto/A2601/A260501/26001539/)
 - 🏆 **수상·백명점** [타베로그 스위츠 백명점 2018·2019·2020·2022, 화과자·간미도코로 WEST 백명점 2023·2026](https://tabelog.com/kyoto/A2601/A260501/26001539/)
 - 🏯 **노포·원조** [1682년(덴나 2년) 기타노텐만구 문전 찻집에서 시작한 것으로 소개됨(타베로그 리뷰 등)](https://tabelog.com/kyoto/A2601/A260501/26001539/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,019개 (2026-11-21 기준)](https://maps.google.com/?cid=9396448236229273815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,019개 (2026-11-21 기준)](https://maps.google.com/?cid=9396448236229273815)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 타베로그 「予約可」(포장 取り置き 전화 예약, 혼잡 시 불가). 이트인은 현장 대기. 온라인 예약 없음.
@@ -3120,7 +3120,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 09:00-17:00 / 휴무 수·목요일, 매월 26일
 - 💡 주문 후 바로 만들어 주는 떡이라 가게 안에서 먹는 걸 추천(당일 소비). 수·목·매월 26일 휴무. 현금만.
 - 🚃 시버스 기타노텐만구마에 도보 1분 / 란덴 기타노하쿠바이초역 도보 5분
-- [구글 지도](https://maps.google.com/?cid=9396448236229273815&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B2%9F%E9%A4%85%E6%89%80%E3%83%BB%E6%BE%A4%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8C%97%E9%87%8E%E5%A4%A9%E6%BA%80%E5%AE%AE%E5%89%8D%E8%A5%BF%E5%85%A5%E7%B4%99%E5%B1%8B%E5%B7%9D%E7%94%BA838-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26001539/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%99%80%EB%AA%A8%EC%B9%98%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%82%AC%EC%99%80%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9396448236229273815) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%B2%9F%E9%A4%85%E6%89%80%E3%83%BB%E6%BE%A4%E5%B1%8B%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E5%8C%97%E9%87%8E%E5%A4%A9%E6%BA%80%E5%AE%AE%E5%89%8D%E8%A5%BF%E5%85%A5%E7%B4%99%E5%B1%8B%E5%B7%9D%E7%94%BA838-7) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260501/26001539/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%99%80%EB%AA%A8%EC%B9%98%EB%8F%84%EC%BD%94%EB%A1%9C%20%EC%82%AC%EC%99%80%EC%95%BC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-042"></a>
 #### ★★ 이치와 (이치몬지야 와스케) (一和 一文字屋 和輔) — 🍡 화과자·디저트 · 타베로그 3.71
@@ -3130,7 +3130,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71, 화과자·감미처 WEST 백명점 2023·2026](https://tabelog.com/kyoto/A2601/A260503/26001669/)
 - 🏯 **노포·원조** 서기 1000년(조호 2년) 창업으로 전해지는 '일본 최고(最古)의 음식점'
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,723개 (2026-11-21 기준)](https://maps.google.com/?cid=8057478357884529694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 1,723개 (2026-11-21 기준)](https://maps.google.com/?cid=8057478357884529694)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가.
@@ -3143,7 +3143,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 10:00-17:00 / 휴무 수요일
 - 💡 수요일 휴무(1·15일·공휴일이면 영업 후 다음날 휴무). 예약 불가, 현금만. 맞은편 '가자리야'와 비교해 먹는 재미.
 - 🚃 이마미야 신사 동문 앞 (지하철 기타오지역에서 버스)
-- [구글 지도](https://maps.google.com/?cid=8057478357884529694&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%92%8C%20%E4%B8%80%E6%96%87%E5%AD%97%E5%B1%8B%20%E5%92%8C%E8%BC%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E4%BB%8A%E5%AE%AE%E7%94%BA69) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001669/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B9%98%EC%99%80%20%28%EC%9D%B4%EC%B9%98%EB%AA%AC%EC%A7%80%EC%95%BC%20%EC%99%80%EC%8A%A4%EC%BC%80%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8057478357884529694) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%80%E5%92%8C%20%E4%B8%80%E6%96%87%E5%AD%97%E5%B1%8B%20%E5%92%8C%E8%BC%94%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E5%8C%97%E5%8C%BA%E7%B4%AB%E9%87%8E%E4%BB%8A%E5%AE%AE%E7%94%BA69) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260503/26001669/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%B9%98%EC%99%80%20%28%EC%9D%B4%EC%B9%98%EB%AA%AC%EC%A7%80%EC%95%BC%20%EC%99%80%EC%8A%A4%EC%BC%80%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-144"></a>
 #### ★★ 콘부토멘 키이치 (昆布と麺 喜一) — 🍜 라멘 · 타베로그 3.54
@@ -3162,7 +3162,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00 / 12:00 / 13:00 3부제 (각 약 45분) / 휴무 일요일
 - 💡 라멘 1그릇당 1층 '고츠지노 콘부' 상품을 1개 이상 사야 한다. 10분 전 집합 시간에 늦으면 입장할 수 없다.
 - 🚃 센본이마데가와 버스정류장 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8863646451484581366&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%86%E5%B8%83%E3%81%A8%E9%BA%BA%20%E5%96%9C%E4%B8%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%BA%94%E8%BE%BB%E6%9D%B1%E7%94%BA74-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26039172/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%98%EB%B6%80%ED%86%A0%EB%A9%98%20%ED%82%A4%EC%9D%B4%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8863646451484581366) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%86%E5%B8%83%E3%81%A8%E9%BA%BA%20%E5%96%9C%E4%B8%80%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%B8%8A%E4%BA%AC%E5%8C%BA%E8%A5%BF%E4%BA%94%E8%BE%BB%E6%9D%B1%E7%94%BA74-2) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260202/26039172/) · [유튜브](https://www.youtube.com/results?search_query=%EC%BD%98%EB%B6%80%ED%86%A0%EB%A9%98%20%ED%82%A4%EC%9D%B4%EC%B9%98%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 ### 후시미
 
@@ -3185,7 +3185,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:30-14:00(L.O.13:30) / 금·토·일 17:00-20:30(L.O.20:00) / 휴무 월·화요일
 - 💡 월·화 휴무. 점심만 단품 가능, 금·토·일 저녁은 코스만(2~3만엔대). 5명 이상은 예약 필수. 카드·IC·QR 결제 가능.
 - 🚃 JR 이나리역·게이한 후지노모리역 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=11346485251786058840&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6%E3%83%BB%E9%AE%A8%20%E3%81%84%E3%81%BE%E3%81%B5%E3%81%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%94%BA%E9%80%9A%E7%94%BA26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26024211/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9A%B0%EC%B9%98%20%EC%86%8C%EB%B0%94%C2%B7%EC%8A%A4%EC%8B%9C%20%EC%9D%B4%EB%A7%88%ED%9B%84%EC%BF%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11346485251786058840) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%89%8B%E6%89%93%E3%81%A1%E8%95%8E%E9%BA%A6%E3%83%BB%E9%AE%A8%20%E3%81%84%E3%81%BE%E3%81%B5%E3%81%8F%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%94%BA%E9%80%9A%E7%94%BA26) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26024211/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B0%EC%9A%B0%EC%B9%98%20%EC%86%8C%EB%B0%94%C2%B7%EC%8A%A4%EC%8B%9C%20%EC%9D%B4%EB%A7%88%ED%9B%84%EC%BF%A0%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-062"></a>
 #### ★★ 이나리 후타바 (いなりふたば) — 🍡 화과자·디저트 · 타베로그 3.65
@@ -3205,7 +3205,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 09:00-18:00 / 휴무 수·목요일
 - 💡 테이크아웃 전용(좌석 없음). 현금만. 수·목 휴무라 일정 확인 필수. 인기 상품은 오후에 품절되기 쉬움.
 - 🚃 게이한 후시미이나리역 약 150m (JR 이나리역에서도 도보권)
-- [구글 지도](https://maps.google.com/?cid=5442309203631997809&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%AA%E3%82%8A%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%A8%B2%E8%8D%B7%E4%BB%B2%E4%B9%8B%E7%94%BA55) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26007559/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%82%98%EB%A6%AC%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5442309203631997809) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%84%E3%81%AA%E3%82%8A%E3%81%B5%E3%81%9F%E3%81%B0%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E7%A8%B2%E8%8D%B7%E4%BB%B2%E4%B9%8B%E7%94%BA55) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26007559/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EB%82%98%EB%A6%AC%20%ED%9B%84%ED%83%80%EB%B0%94%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-043"></a>
 #### ★★ 츠케멘 키라리 (つけ麺 きらり) — 🍜 라멘 · 타베로그 3.66
@@ -3214,7 +3214,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.66, 라멘 백명점 2017·2018·라멘 WEST 2023~2025](https://tabelog.com/kyoto/A2601/A260601/26015996/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 628개 (2026-11-21 기준)](https://maps.google.com/?cid=5960093566973369656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 628개 (2026-11-21 기준)](https://maps.google.com/?cid=5960093566973369656)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 불가. 오픈 전부터 대기.
@@ -3229,7 +3229,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:30 (품절 시 종료) / 휴무 수요일, 목요일
 - 💡 점심(11:00-14:30)만 영업하고 재료 소진 시 종료. 수·목 휴무. 현금만. 식은 츠케지루는 비치된 전자레인지로 데울 수 있음(달걀은 빼고).
 - 🚃 게이한 주쇼지마역 북쪽 출구 도보 2분
-- [구글 지도](https://maps.google.com/?cid=5960093566973369656&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A4%E3%81%91%E9%BA%BA%20%E3%81%8D%E3%82%89%E3%82%8A%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%9D%B1%E6%B5%9C%E5%8D%97%E7%94%BA660-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26015996/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EC%BC%80%EB%A9%98%20%ED%82%A4%EB%9D%BC%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5960093566973369656) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%A4%E3%81%91%E9%BA%BA%20%E3%81%8D%E3%82%89%E3%82%8A%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%9D%B1%E6%B5%9C%E5%8D%97%E7%94%BA660-3) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26015996/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EC%BC%80%EB%A9%98%20%ED%82%A4%EB%9D%BC%EB%A6%AC%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-044"></a>
 #### ★★ 혼카쿠 데우치 우동 다이가 (本格手打うどん 大河) — 🍲 우동·소바 · 타베로그 3.72
@@ -3250,7 +3250,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-14:00 / 휴무 화요일
 - 💡 점심(11:00-14:00)만, 화요일 휴무. 예약 불가, 현금만. 임시 휴업·한정 메뉴는 SNS·블로그 공지. 후시미이나리역에서 게이한으로 두 정거장.
 - 🚃 게이한 후지노모리역 서쪽 출구 도보 7분
-- [구글 지도](https://maps.google.com/?cid=18276439014726427332&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E6%A0%BC%E6%89%8B%E6%89%93%E3%81%86%E3%81%A9%E3%82%93%20%E5%A4%A7%E6%B2%B3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E8%A5%BF%E6%B5%A6%E7%94%BA7-45-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26020260/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%B9%B4%EC%BF%A0%20%EB%8D%B0%EC%9A%B0%EC%B9%98%20%EC%9A%B0%EB%8F%99%20%EB%8B%A4%EC%9D%B4%EA%B0%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18276439014726427332) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9C%AC%E6%A0%BC%E6%89%8B%E6%89%93%E3%81%86%E3%81%A9%E3%82%93%20%E5%A4%A7%E6%B2%B3%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E6%B7%B1%E8%8D%89%E8%A5%BF%E6%B5%A6%E7%94%BA7-45-1) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26020260/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%BC%EC%B9%B4%EC%BF%A0%20%EB%8D%B0%EC%9A%B0%EC%B9%98%20%EC%9A%B0%EB%8F%99%20%EB%8B%A4%EC%9D%B4%EA%B0%80%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
 
 <a id="kyoto-063"></a>
 #### ★ 후시미 사카구라코지 (사케 골목) (伏水酒蔵小路) — 🍶 이자카야·다치노미 · 타베로그 3.57
@@ -3260,7 +3260,7 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.57 (리뷰 447)](https://tabelog.com/kyoto/A2601/A260601/26027659/)
 - 👥 **현지평판** [후시미 양조장 17~18곳 술을 마실 수 있는 주조 카운터 + 라멘·일식 등 8개 점포 입점](https://tabelog.com/kyoto/A2601/A260601/26027659/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,885개 (2026-11-21 기준)](https://maps.google.com/?cid=8010958909233799885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 2,885개 (2026-11-21 기준)](https://maps.google.com/?cid=8010958909233799885)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/fushimi-sakagura-kouji/reserve), [AutoReserve](https://autoreserve.com/en/restaurants/93qqAVAB4JKD1Djd9sg5)
 - 예약 팁: TableCheck에서 사케 카운터석(1~4명)·가든 테이블석 예약 가능(노쇼 방지용 카드 정보 입력, 결제는 현장). 기키자케 세트 일부는 예약 없이 현장 주문.
@@ -3271,4 +3271,4 @@ Tabelog Award Bronze 5회(2021~2023·2025·2026)와 일본요리 백명점 3회�
 - 영업 11:00-22:00 / 휴무 화요일은 사케바만 영업
 - 💡 화요일은 사케바(酒蔵)만 영업하고 8개 음식점은 쉼. 혼잡 시 2시간 제한·1인 1드링크 필수. 연락 없이 30분 늦으면 자동 취소+1인 1,000엔 위약금.
 - 🚃 게이한 후시미모모야마역 도보 약 7분 (긴테츠 모모야마고료마에역 도보 7분)
-- [구글 지도](https://maps.google.com/?cid=8010958909233799885&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8F%E6%B0%B4%E9%85%92%E8%94%B5%E5%B0%8F%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%B4%8D%E5%B1%8B%E7%94%BA115) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26027659/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%9C%EB%AF%B8%20%EC%82%AC%EC%B9%B4%EA%B5%AC%EB%9D%BC%EC%BD%94%EC%A7%80%20%28%EC%82%AC%EC%BC%80%20%EA%B3%A8%EB%AA%A9%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8010958909233799885) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%BC%8F%E6%B0%B4%E9%85%92%E8%94%B5%E5%B0%8F%E8%B7%AF%20%E4%BA%AC%E9%83%BD%E5%BA%9C%E4%BA%AC%E9%83%BD%E5%B8%82%E4%BC%8F%E8%A6%8B%E5%8C%BA%E7%B4%8D%E5%B1%8B%E7%94%BA115) · [타베로그](https://tabelog.com/kr/kyoto/A2601/A260601/26027659/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9B%84%EC%8B%9C%EB%AF%B8%20%EC%82%AC%EC%B9%B4%EA%B5%AC%EB%9D%BC%EC%BD%94%EC%A7%80%20%28%EC%82%AC%EC%BC%80%20%EA%B3%A8%EB%AA%A9%29%20%EA%B5%90%ED%86%A0%20%EB%A7%9B%EC%A7%91)

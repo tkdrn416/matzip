@@ -925,6 +925,11 @@ def main() -> int:
             r["editor_level"] = r.get("legend_level")  # 조사 단계에서 매긴 등급(참고용)
         r["legend_level"] = legend_rule(r)
         r["evidence"] = evidence(r)
+        if r.get("google_maps_uri"):  # 구글이 붙이는 추적 파라미터(g_mp) 제거 — 링크는 그대로 열림, 데이터 용량 절감
+            r["google_maps_uri"] = re.sub(r"&g_mp=[^&]*", "", r["google_maps_uri"])
+        for x in r.get("reasons") or []:
+            if x.get("url"):
+                x["url"] = re.sub(r"&g_mp=[^&]*", "", x["url"])
         # 조사자가 '꼭 가볼 곳'으로 봤지만 점수 기준 ★★★ 가 아닌 곳 → 지역 상징 배지
         r["icon"] = bool(r.get("editor_level") == 3 and r["legend_level"] < 3)
     warnings = geocode(items, args.offline)

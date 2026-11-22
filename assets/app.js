@@ -176,9 +176,38 @@
     },
   });
   if (!NOMAP) new GearCtl().addTo(map);
+  const HelpCtl = L.Control.extend({
+    options: { position: "topright" },
+    onAdd() {
+      const b = L.DomUtil.create("button", "gearbtn");
+      b.type = "button"; b.title = "보는 법"; b.setAttribute("aria-label", "보는 법"); b.textContent = "❔";
+      L.DomEvent.disableClickPropagation(b);
+      L.DomEvent.on(b, "click", () => $("helpDlg") && $("helpDlg").showModal());
+      return b;
+    },
+  });
+  if (!NOMAP) new HelpCtl().addTo(map);
 
-  const cluster = L.markerClusterGroup({ showCoverageOnHover: false, maxClusterRadius: 42, disableClusteringAtZoom: 16, spiderfyOnMaxZoom: true });
+  // 묶음(클러스터): 많이 확대할수록 작은 반경으로 → 의미 없는 "2"·"3" 묶음이 줄어듦. 묶음 안 최고 타베로그 점수도 표시
+  const cluster = L.markerClusterGroup({
+    showCoverageOnHover: false, disableClusteringAtZoom: 16, spiderfyOnMaxZoom: true,
+    maxClusterRadius: (z) => (z <= 13 ? 40 : 26),
+    iconCreateFunction: (cl) => {
+      const ms = cl.getAllChildMarkers();
+      const n = ms.length, cnt = {};
+      let best = 0;
+      ms.forEach((m) => { const o = m.options; if (o.score > best) best = o.score; cnt[o.region] = (cnt[o.region] || 0) + 1; });
+      const reg = Object.keys(cnt).sort((a, b) => cnt[b] - cnt[a])[0];
+      const col = (D.regions[reg] || {}).color || "#e4572e";
+      const sz = n < 10 ? 38 : n < 50 ? 44 : 52;
+      return L.divIcon({
+        className: "mc", iconSize: [sz, sz],
+        html: `<div class="mc-b" style="width:${sz}px;height:${sz}px;background:${col}"><b>${n}</b>${best ? `<i>${best.toFixed(2)}</i>` : ""}</div>`,
+      });
+    },
+  });
   map.addLayer(cluster);
+  cluster.on("animationend", () => declutter());
 
   function pinIcon(r) {
     const c = CAT[r.category] || CAT["기타"];
@@ -187,7 +216,7 @@
     if (PIN_STATUS) { const st = openStatus(r); if (st) dot = `<i class="sdot sd-${st.s === "open" || st.s === "soon" ? "open" : "closed"}"></i>`; }
     return L.divIcon({
       className: "pin-wrap",
-      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div>${dot}<span class="plabel">${esc(r.name_ko)} <b>${Number(r.tabelog_score).toFixed(2)}</b></span>`,
+      html: `<div class="${cls}" style="background:${c.color}">${c.emoji}</div>${dot}<span class="plabel" data-p="${(selId === r.id ? 1000 : 0) + r.legend_level * 10 + (Number(r.tabelog_score) || 0)}">${esc(r.name_ko)} <b>${Number(r.tabelog_score).toFixed(2)}</b></span>`,
       iconSize: [34, 34], iconAnchor: [17, 17], popupAnchor: [0, -16],
     });
   }
@@ -196,12 +225,52 @@
   map.attributionControl.setPrefix(false); // 출처 표기를 한 줄로
   const syncLabels = () => map.getContainer().classList.toggle("show-labels", map.getZoom() >= 16);
   map.on("zoomend", syncLabels);
+  // 이름표 겹침 정리: 점수 높은(선택한) 가게 이름표부터 놓고, 겹치는 이름표는 숨김 (더 확대하면 다시 보임)
+  let dcT;
+  function declutter() {
+    clearTimeout(dcT);
+    dcT = setTimeout(() => {
+      const box = map.getContainer();
+      if (!box.classList.contains("show-labels")) return;
+      const els = [...box.querySelectorAll(".plabel")];
+      els.forEach((e) => e.classList.remove("pl-hide"));
+      const br = box.getBoundingClientRect();
+      const items = els.map((e) => ({ e, r: e.getBoundingClientRect(), p: +e.dataset.p || 0 }))
+        .filter((x) => x.r.width && x.r.bottom > br.top && x.r.top < br.bottom && x.r.right > br.left && x.r.left < br.right)
+        .sort((a, b) => b.p - a.p);
+      const kept = [];
+      items.forEach((x) => {
+        const hit = kept.some((k) => x.r.left < k.right + 3 && k.left < x.r.right + 3 && x.r.top < k.bottom + 1 && k.top < x.r.bottom + 1);
+        if (hit) x.e.classList.add("pl-hide"); else kept.push(x.r);
+      });
+    }, 80);
+  }
+  map.on("zoomend moveend resize", declutter);
 
   let PIN_STATUS = false, selId = null;
   const USE_CARD = PHONE && !NOMAP; // 폰: 팝업 대신 하단 카드
   const markers = new Map();
+  // 같은 건물·바로 옆 가게(약 10m 이내)는 핀이 완전히 겹쳐 하나만 눌림 → 지도에서만 작은 원으로 살짝 벌려 놓음
+  const POS = new Map();
+  (() => {
+    const done = new Set();
+    R.forEach((a, i) => {
+      if (done.has(a.id)) return;
+      const grp = [a];
+      for (let j = i + 1; j < R.length; j++) {
+        const b = R[j];
+        if (!done.has(b.id) && Math.abs(a.lat - b.lat) < 0.0001 && Math.abs(a.lng - b.lng) < 0.00012) grp.push(b);
+      }
+      if (grp.length < 2) return;
+      grp.forEach((r, k) => {
+        done.add(r.id);
+        const ang = (2 * Math.PI * k) / grp.length - Math.PI / 2, m = 16;
+        POS.set(r.id, [a.lat + (m * Math.sin(ang)) / 111000, a.lng + (m * Math.cos(ang)) / (111000 * Math.cos((a.lat * Math.PI) / 180))]);
+      });
+    });
+  })();
   R.forEach((r) => {
-    const m = L.marker([r.lat, r.lng], { icon: pinIcon(r), title: r.name_ko, riseOnHover: true, zIndexOffset: r.legend_level * 100 });
+    const m = L.marker(POS.get(r.id) || [r.lat, r.lng], { icon: pinIcon(r), title: r.name_ko, riseOnHover: true, zIndexOffset: r.legend_level * 100, score: Number(r.tabelog_score) || 0, region: r.region });
     if (USE_CARD) m.on("click", () => showCard(r));
     else m.bindPopup(() => popupHtml(r), { maxWidth: 300, minWidth: 260, maxHeight: Math.max(280, Math.round(map.getSize().y * 0.85)), autoPanPadding: [20, 20] });
     m.on("popupopen", () => {
@@ -586,11 +655,19 @@
       const areaCount = {};
       R.filter((r) => r.region === state.region).forEach((r) => { areaCount[r.area] = (areaCount[r.area] || 0) + 1; });
       ac.append(chip("📍 전체 지역", !state.areas.size, () => { state.areas.clear(); update(true); }));
-      Object.entries(areaCount).sort((a, b) => b[1] - a[1]).forEach(([a, n]) =>
+      const ents = Object.entries(areaCount).sort((a, b) => b[1] - a[1] || a[0].localeCompare(b[0], "ko"));
+      const singles = ents.length > 12 ? ents.filter(([, n]) => n === 1).map(([a]) => a) : [];
+      ents.filter(([a]) => !singles.includes(a)).forEach(([a, n]) =>
         ac.append(chip(a, state.areas.has(a), () => {
           state.areas.has(a) ? state.areas.delete(a) : state.areas.add(a);
           update(true);
         }, n)));
+      if (singles.length >= 2) {
+        const on = singles.every((a) => state.areas.has(a));
+        const b = chip("그 외 지역", on, () => { singles.forEach((a) => (on ? state.areas.delete(a) : state.areas.add(a))); update(true); }, singles.length);
+        b.title = singles.join(", ");
+        ac.append(b);
+      }
     }
 
     const cc = $("catChips"); cc.innerHTML = "";
@@ -675,6 +752,7 @@
     renderList(current);
     cluster.clearLayers();
     cluster.addLayers(current.map((r) => markers.get(r.id)));
+    declutter();
     if (fit && current.length && !NOMAP) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.08), { maxZoom: 15, animate: animate !== false });
   }
 
@@ -722,6 +800,7 @@
   function setSel(id) {
     const prev = selId; selId = id;
     [prev, id].forEach((x) => { if (x && markers.get(x)) markers.get(x).setIcon(pinIcon(R.find((r) => r.id === x))); });
+    declutter();
   }
   function showCard(r) {
     const c = CAT[r.category] || CAT["기타"];
@@ -739,8 +818,13 @@
       <div class="badges">${badgesHtml(r, 4)}</div>
       <div class="pc-why">${esc(r.why)}</div>
       <div class="pc-btns">${act}<a class="cta nav" href="${esc(r.links.directions)}" target="_blank" rel="noopener">🧭 길찾기</a><button class="cta more" data-pc="more">📖 자세히</button></div>`;
+    if (curMode() === "split") setViewMode("map"); // 작은 지도에선 카드가 잘림 → 지도 크게
     card.hidden = false;
     card.dataset.id = r.id;
+    setTimeout(() => { // 핀이 카드에 가리지 않게
+      const pt = map.latLngToContainerPoint(markers.get(r.id).getLatLng()), h = map.getSize().y, top = h - card.offsetHeight - 24;
+      if (pt.y > top || pt.y < 70) map.panBy([0, pt.y - Math.max(90, top / 2)]);
+    }, 140);
     setSel(r.id);
     history.replaceState(null, "", "#" + r.id);
     state.open = r.id; renderList(current); highlight(r.id);
@@ -868,7 +952,16 @@
   });
 
   let qTimer;
-  $("q").addEventListener("input", (e) => { clearTimeout(qTimer); qTimer = setTimeout(() => { state.q = e.target.value.trim(); update(); }, 150); });
+  $("q").addEventListener("input", (e) => {
+    clearTimeout(qTimer);
+    qTimer = setTimeout(() => {
+      state.q = e.target.value.trim();
+      update();
+      if (!state.q || !current.length || NOMAP) return;
+      const b = map.getBounds(); // 결과가 지금 지도 화면에 하나도 없으면 결과로 이동
+      if (!current.some((r) => b.contains([r.lat, r.lng]))) map.fitBounds(L.latLngBounds(current.map((r) => [r.lat, r.lng])).pad(0.1), { maxZoom: 16 });
+    }, 250);
+  });
   $("sort").addEventListener("change", (e) => { state.sort = e.target.value; update(); $("list").scrollTop = 0; });
   $("favOnly").addEventListener("click", () => { state.favOnly = !state.favOnly; update(); });
   $("favRoute").addEventListener("click", () => {
@@ -911,6 +1004,12 @@
     $("gkeyStatus").textContent = (await enableGoogle(true)) ? "✅ 구글 지도로 바꿨어요" : "⚠️ 이 키로는 구글 지도를 못 불러와요 (설정 확인)";
   });
   if ($("setClose")) $("setClose").addEventListener("click", () => $("setDlg").close());
+  // 보는 법(범례)
+  if ($("helpBtn") && $("helpDlg")) {
+    $("helpBtn").addEventListener("click", () => $("helpDlg").showModal());
+    $("helpClose").addEventListener("click", () => $("helpDlg").close());
+    $("helpDlg").addEventListener("click", (e) => { if (e.target === $("helpDlg")) $("helpDlg").close(); });
+  }
   $("openNow").addEventListener("click", () => { state.openNow = !state.openNow; update(); });
   $("easyWait").addEventListener("click", () => { state.easyWait = !state.easyWait; update(); });
   $("noSmoke").addEventListener("click", () => { state.noSmoke = !state.noSmoke; update(); });
@@ -1090,6 +1189,14 @@
   PIN_STATUS = true;
   refreshPins();
   update(true, false);
+  // 마지막으로 보던 지도 위치 기억 (앱을 다시 열면 그 자리에서 시작)
+  const VIEW_LS = "matzip:view";
+  try {
+    const v = JSON.parse(localStorage.getItem(VIEW_LS) || "null");
+    if (!NOMAP && v && Date.now() - v.t < 3 * 864e5 && !location.hash.slice(1)) map.setView([v.lat, v.lng], v.z, { animate: false });
+  } catch (e) { /* */ }
+  let vT;
+  map.on("moveend", () => { clearTimeout(vT); vT = setTimeout(() => { try { const c = map.getCenter(); localStorage.setItem(VIEW_LS, JSON.stringify({ lat: +c.lat.toFixed(5), lng: +c.lng.toFixed(5), z: map.getZoom(), t: Date.now() })); } catch (e) { /* */ } }, 500); });
   const hash = decodeURIComponent(location.hash.slice(1));
   if (hash && markers.has(hash)) setTimeout(() => openPlace(hash, true), 100);
   window.addEventListener("hashchange", () => {

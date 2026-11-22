@@ -55,7 +55,7 @@ JR나라역 근처의 카운터 전용 코스제 야키토리. 스승에게 배�
 - 영업 17:30-22:30 (L.O. 21:30, 드링크 L.O. 22:00) / 휴무 부정기 (예약 없는 날 휴무)
 - 💡 오마카세 코스(원하는 데서 멈추는 스톱제)만 있음. 전화 예약을 받지 않고 예약 없는 날은 쉼. 카운터석만 있음.
 - 🚃 JR나라역 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=4131753742139846190&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E6%9C%9B%E6%9C%88%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%9D%89%E3%82%B1%E7%94%BA32-14) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29008456/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%AA%A8%EC%B9%98%EC%A6%88%ED%82%A4%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4131753742139846190) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%84%BC%E9%B3%A5%20%E6%9C%9B%E6%9C%88%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%9D%89%E3%82%B1%E7%94%BA32-14) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29008456/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%BC%ED%82%A4%ED%86%A0%EB%A6%AC%20%EB%AA%A8%EC%B9%98%EC%A6%88%ED%82%A4%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-026"></a>
 #### ★★ 이즈모소바 단단 (出雲そば だんだん) — 🍲 우동·소바 · 타베로그 3.72
@@ -78,7 +78,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 수~일 11:15-13:15(점심), 17:00-21:00 / 휴무 월·화요일
 - 💡 점심 오마카세(11:15~)는 예약 필수, 단품 소바·튀김은 12:00~13:00. 예약 시 '덴푸라 포함 주와리 소바' 미리 주문 가능. 테이블 15석. 현금만(카드·전자결제 불가). 월·화 휴무.
 - 🚃 JR 나라역 도보 4분 / 긴테쓰 신오미야역 도보 7분
-- [구글 지도](https://maps.google.com/?cid=14820836098967963461&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E9%9B%B2%E3%81%9D%E3%81%B0%20%E3%81%A0%E3%82%93%E3%81%A0%E3%82%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%A4%A7%E5%AE%AE%E7%94%BA2-2-34) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29001366/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EB%AA%A8%EC%86%8C%EB%B0%94%20%EB%8B%A8%EB%8B%A8%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14820836098967963461) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%87%BA%E9%9B%B2%E3%81%9D%E3%81%B0%20%E3%81%A0%E3%82%93%E3%81%A0%E3%82%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%A4%A7%E5%AE%AE%E7%94%BA2-2-34) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29001366/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9D%B4%EC%A6%88%EB%AA%A8%EC%86%8C%EB%B0%94%20%EB%8B%A8%EB%8B%A8%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-027"></a>
 #### ★★ 중국요리 시진 (中国料理 四神) — 🥟 중화·교자 · 타베로그 3.61
@@ -88,7 +88,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.61 (리뷰 226)](https://tabelog.com/nara/A2901/A290101/29012436/)
 - 👥 **현지평판** [후기 2026: '나라의 사천요리 명점', '항상 줄이 서 있다', '맛도 가성비도 좋다'](https://tabelog.com/kr/nara/A2901/A290101/29012436/dtlrvwlst/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 334개 (2026-11-21 기준)](https://maps.google.com/?cid=13507165874632330088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 334개 (2026-11-21 기준)](https://maps.google.com/?cid=13507165874632330088)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 저녁만 전화 예약 가능(0742-93-4217). 점심은 예약 불가, 현장 정리권.
@@ -102,7 +102,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 화~일 11:30-14:30 (L.O. 14:00), 17:30-21:30 (L.O. 21:00) / 휴무 월요일, 매월 셋째 일요일
 - 💡 점심은 예약 불가 — 개점(11:30) 전 가게 안 기계에서 대기번호(정리권) 발급 후 차례 대기. 저녁만 예약 가능(이용 1.5시간). 점심 세트 1,000엔대. 카드·PayPay 가능. 매월 셋째 일요일 휴무.
 - 🚃 JR 나라역 도보 6~10분 (오미야도리 변)
-- [구글 지도](https://maps.google.com/?cid=13507165874632330088&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%9B%BD%E6%96%99%E7%90%86%20%E5%9B%9B%E7%A5%9E%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%A4%A7%E5%AE%AE%E7%94%BA1-133-5) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012436/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%EA%B5%AD%EC%9A%94%EB%A6%AC%20%EC%8B%9C%EC%A7%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13507165874632330088) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E5%9B%BD%E6%96%99%E7%90%86%20%E5%9B%9B%E7%A5%9E%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%A4%A7%E5%AE%AE%E7%94%BA1-133-5) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012436/) · [유튜브](https://www.youtube.com/results?search_query=%EC%A4%91%EA%B5%AD%EC%9A%94%EB%A6%AC%20%EC%8B%9C%EC%A7%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 가시하라·아스카
 
@@ -125,7 +125,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 17:00-23:00 / 휴무 수요일, 셋째 화요일
 - 💡 가시하라진구 참배·아스카 관광 후 저녁으로. 미쉐린 사이트에서 온라인 예약 가능. 수요일·셋째 화요일 휴무.
 - 🚃 긴테쓰 가시하라진구마에역 동쪽 출구 바로
-- [구글 지도](https://maps.google.com/?cid=1369497222336753260&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%20%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%B9%85%E7%B1%B3%E7%94%BA618) · [타베로그](https://tabelog.com/kr/nara/A2903/A290302/29012942/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%20%EC%95%BC%EB%A7%88%EA%B5%AC%EC%B9%98%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=1369497222336753260) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%B3%A5%E3%82%84%E3%81%BE%E3%81%90%E3%81%A1%20%E5%A5%88%E8%89%AF%E7%9C%8C%E6%A9%BF%E5%8E%9F%E5%B8%82%E4%B9%85%E7%B1%B3%E7%94%BA618) · [타베로그](https://tabelog.com/kr/nara/A2903/A290302/29012942/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EB%A6%AC%20%EC%95%BC%EB%A7%88%EA%B5%AC%EC%B9%98%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 나라공원·긴테쓰나라
 
@@ -148,7 +148,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 화~일·공휴일 런치 12:00-15:00 (L.O. 13:00) / 디너 18:00-21:30 (L.O. 18:30) (타베로그 기준) / 휴무 월요일, 부정기
 - 💡 완전 예약제. 나라 당일치기에 '특별한 한 끼'를 넣고 싶을 때 런치로 노려볼 만함.
 - 🚃 긴테쓰나라역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=14031118018425259986&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%82%B3%E3%83%AB%E3%83%89%E3%82%A5%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%B0%B4%E9%96%80%E7%94%BA70-1-3-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29010346/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%BD%94%EB%A5%B4%EB%91%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14031118018425259986) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%A2%E3%82%B3%E3%83%AB%E3%83%89%E3%82%A5%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%B0%B4%E9%96%80%E7%94%BA70-1-3-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29010346/) · [유튜브](https://www.youtube.com/results?search_query=%EC%95%84%EC%BD%94%EB%A5%B4%EB%91%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-007"></a>
 #### ★★ 나라호텔 메인다이닝 미카사 (奈良ホテル メインダイニングルーム 三笠) — 🍷 프렌치·이노베이티브 · 타베로그 3.58
@@ -158,7 +158,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.58(리뷰 364), 프렌치 WEST 백명점 2021](https://tabelog.com/nara/A2901/A290101/29000026/)
 - 📰 **언론·가이드** [co-trip 나라 조식 특집: 녹차로 끓이는 '茶がゆ 정식'을 나라호텔의 전통으로 소개, 비숙박객도 평일 예약 시 이용 가능](https://co-trip.jp/article/684293)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 395개 (2026-11-21 기준)](https://maps.google.com/?cid=741642958710607737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 395개 (2026-11-21 기준)](https://maps.google.com/?cid=741642958710607737)
 
 - **온라인 예약: ✅ 가능** · [TableCheck](https://www.tablecheck.com/ko/shops/narahotel-mikasa/reserve), [잇큐](https://restaurant.ikyu.com/106078/)
 - 예약 팁: TableCheck·잇큐에서 디너 코스 예약 가능. 당일 무단 취소·변경 100%. 타베로그 자체는 전화예약(0742-26-3300)만 있고 네트예약 없음. 서비스료 15%(2024-10부터, 타베로그).
@@ -169,7 +169,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 조식 7:00-10:00 (L.O. 9:30) / 런치 11:30-15:00 (L.O. 14:00) / 디너 17:30-21:00 (L.O. 20:00)
 - 💡 숙박하지 않아도 평일에 예약하면 조식 이용 가능하다는 정보. 조식 7:00-10:00(L.O. 9:30). 2026년 6~9월 리뉴얼 공사가 있었으니 방문 전 영업 형태 확인.
 - 🚃 긴테쓰나라역 약 765m (도보 약 10~15분)
-- [구글 지도](https://maps.google.com/?cid=741642958710607737&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A5%88%E8%89%AF%E3%83%9B%E3%83%86%E3%83%AB%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%A0%20%E4%B8%89%E7%AC%A0%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E7%95%91%E7%94%BA1096) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000026/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%9D%BC%ED%98%B8%ED%85%94%20%EB%A9%94%EC%9D%B8%EB%8B%A4%EC%9D%B4%EB%8B%9D%20%EB%AF%B8%EC%B9%B4%EC%82%AC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=741642958710607737) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A5%88%E8%89%AF%E3%83%9B%E3%83%86%E3%83%AB%20%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%80%E3%82%A4%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%AB%E3%83%BC%E3%83%A0%20%E4%B8%89%E7%AC%A0%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E7%95%91%E7%94%BA1096) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000026/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EB%9D%BC%ED%98%B8%ED%85%94%20%EB%A9%94%EC%9D%B8%EB%8B%A4%EC%9D%B4%EB%8B%9D%20%EB%AF%B8%EC%B9%B4%EC%82%AC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-003"></a>
 #### ★★ 🏯 나카타니도 (中谷堂) — 🍡 화과자·디저트 · 타베로그 3.72
@@ -181,7 +181,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 🏆 **수상·백명점** [타베로그 백명점 — 화과자·감미 WEST 2023·2026, 스위츠 WEST 2018·2019·2020·2022 (6회 선정)](https://tabelog.com/nara/A2901/A290101/29000222/)
 - 📰 **언론·가이드** [LIVE JAPAN 등 관광 가이드가 고속 떡치기로 만드는 나라 대표 쑥떡집으로 소개](https://livejapan.com/ja/in-kansai/in-pref-nara/in-nara_ikoma_tenri/article-a2000330/)
 - ▶️ **유튜브** [Great Big Story: '일본에서 가장 빠른 떡메치기 장인' 나카타니 미쓰오 씨를 다룬 영상. 공개 약 1주일 만에 80만 회 이상 재생됐다는 보도가 나오며 해외에서 바이럴.](https://www.youtube.com/watch?v=tmSrULDVRPc)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 6,573개 (2026-11-21 기준)](https://maps.google.com/?cid=14561917136571056776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 6,573개 (2026-11-21 기준)](https://maps.google.com/?cid=14561917136571056776)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 예약 없이 방문하는 곳(포장 미리 맡기기·좌석 예약만 전화로 가능). 타베로그에 '예약 가능'(전화) 표기 — 사실상 대량 주문용. 보통은 그냥 가서 줄 서서 구매.
@@ -194,7 +194,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 10:00-18:00 / 휴무 화요일
 - 💡 떡치기 퍼포먼스는 상시가 아니라 수시로 하므로 운이 좋아야 볼 수 있음. 1개 200엔대부터, 현금만. 갓 만든 걸 바로 먹는 게 핵심.
 - 🚃 긴테쓰나라역 도보 약 4~5분
-- [구글 지도](https://maps.google.com/?cid=14561917136571056776&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%B0%B7%E5%A0%82%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%A9%8B%E6%9C%AC%E7%94%BA29) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000222/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%ED%83%80%EB%8B%88%EB%8F%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=14561917136571056776) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E4%B8%AD%E8%B0%B7%E5%A0%82%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%A9%8B%E6%9C%AC%E7%94%BA29) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000222/) · [유튜브](https://www.youtube.com/results?search_query=%EB%82%98%EC%B9%B4%ED%83%80%EB%8B%88%EB%8F%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-008"></a>
 #### ★★ 모모시키 나라본점 (すき焼きと牛まぶし ももしき 奈良本店) — 🐂 와규·스테이크 · 타베로그 3.60
@@ -204,7 +204,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.60(리뷰 720), 스키야키·샤부샤부 백명점 2024·2026](https://tabelog.com/nara/A2901/A290101/29012172/)
 - 👥 **현지평판** [인기에 힘입어 2025년 7월 2호점 '하나레' 오픈](https://r.gnavi.co.jp/k929509/)
-- ⭐ **구글** [구글 지도 4.7 / 리뷰 2,718개 (2026-11-21 기준)](https://maps.google.com/?cid=8162180780499390684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.7 / 리뷰 2,718개 (2026-11-21 기준)](https://maps.google.com/?cid=8162180780499390684)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012172/), [구루나비](https://r.gnavi.co.jp/k929500/)
 - 예약 팁: 타베로그 코스 '予約' 버튼과 구루나비 '空席確認・予約する'로 온라인 예약 가능. 당일 무단취소 시 코스 100%, 좌석만 1인 4,000엔.
@@ -216,7 +216,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:00-22:00 (L.O. 21:00) / 휴무 무휴
 - 💡 긴테쓰나라역 바로 앞이라 귀가 직전 저녁으로 좋음. 무휴·통으로 영업. 본점이 붐비면 히가시무키키타마치의 2호점 '하나레'도 있음.
 - 🚃 긴테쓰나라역 도보 1분
-- [구글 지도](https://maps.google.com/?cid=8162180780499390684&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D%E3%81%A8%E7%89%9B%E3%81%BE%E3%81%B6%E3%81%97%20%E3%82%82%E3%82%82%E3%81%97%E3%81%8D%20%E5%A5%88%E8%89%AF%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%9D%B1%E5%90%91%E4%B8%AD%E7%94%BA5-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012172/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EB%AA%A8%EC%8B%9C%ED%82%A4%20%EB%82%98%EB%9D%BC%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=8162180780499390684) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%99%E3%81%8D%E7%84%BC%E3%81%8D%E3%81%A8%E7%89%9B%E3%81%BE%E3%81%B6%E3%81%97%20%E3%82%82%E3%82%82%E3%81%97%E3%81%8D%20%E5%A5%88%E8%89%AF%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%9D%B1%E5%90%91%E4%B8%AD%E7%94%BA5-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012172/) · [유튜브](https://www.youtube.com/results?search_query=%EB%AA%A8%EB%AA%A8%EC%8B%9C%ED%82%A4%20%EB%82%98%EB%9D%BC%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-009"></a>
 #### ★★ 오차노코 (おちゃのこ) — ☕ 카페·킷사텐 · 타베로그 3.65
@@ -239,7 +239,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 평일 11:00-18:00 / 토·일 10:00-18:00 (타베로그 기준) / 휴무 매월 셋째 수요일
 - 💡 여름엔 줄이 생김. 쇼핑몰 '고토몰' 1층. 매월 셋째 수요일 휴무.
 - 🚃 긴테쓰나라역 도보 약 5분 / JR나라역 도보 약 13분
-- [구글 지도](https://maps.google.com/?cid=3714503733425422766&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%A1%E3%82%83%E3%81%AE%E3%81%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%B0%8F%E8%A5%BF%E7%94%BA35-2) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29004169/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%B0%A8%EB%85%B8%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=3714503733425422766) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%8A%E3%81%A1%E3%82%83%E3%81%AE%E3%81%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%B0%8F%E8%A5%BF%E7%94%BA35-2) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29004169/) · [유튜브](https://www.youtube.com/results?search_query=%EC%98%A4%EC%B0%A8%EB%85%B8%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-011"></a>
 #### ★★ 우나키쿠 나라본점 (うな菊 奈良本店) — 🐟 장어 · 타베로그 3.66
@@ -249,7 +249,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.66(리뷰 432), 장어 백명점 2026](https://tabelog.com/nara/A2901/A290101/29010047/)
 - 🏯 **노포·원조** [1891년(메이지 24년) 요정 '기쿠스이로(菊水楼)'에서 시작된 에도풍 장어집](https://r.gnavi.co.jp/k255809/)
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 697개 (2026-11-21 기준)](https://maps.google.com/?cid=7045515427320926396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 697개 (2026-11-21 기준)](https://maps.google.com/?cid=7045515427320926396)
 
 - **온라인 예약: ✅ 가능** · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29010047/)
 - 예약 팁: 타베로그 가게 페이지에 코스별 '予約' 버튼(네트예약) 있음. 전화 예약도 가능. 예약 시각 15분 경과 후 연락 없으면 취소, 좌석 이용 1시간 30분 제한. 장어 소진 시 조기 마감.
@@ -260,7 +260,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:00-14:45, 17:00-19:00 (모두 최종 입점) / 휴무 화요일
 - 💡 점심 11:00-14:45, 저녁 17:00-19:00이 '최종 입점' 시간이라 일찍 닫는 편. 나라호텔·아라이케 연못 근처라 나라공원 산책과 연계하기 좋음.
 - 🚃 긴테쓰나라역 도보 약 10분 / JR나라역 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=7045515427320926396&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E8%8F%8A%20%E5%A5%88%E8%89%AF%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E7%95%91%E7%94%BA1130) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29010047/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%ED%82%A4%EC%BF%A0%20%EB%82%98%EB%9D%BC%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7045515427320926396) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E8%8F%8A%20%E5%A5%88%E8%89%AF%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E7%95%91%E7%94%BA1130) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29010047/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%ED%82%A4%EC%BF%A0%20%EB%82%98%EB%9D%BC%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-024"></a>
 #### ★★ 토이 인쇼쿠텐 (toi印食店) — 🍛 카레 · 타베로그 3.75
@@ -284,7 +284,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 수~토 11:30-14:30 / 금·토 17:30-20:00 / 휴무 일·월·화요일
 - 💡 예약 불가. 오전 10:30부터 가게 앞 대기 명단에 이름·전화번호를 적는 방식이라 오픈 전에 가는 것을 추천. 카드 불가, PayPay 가능. 일·월·화 휴무, 저녁 영업은 금·토만.
 - 🚃 긴테쓰나라역 약 212m (도보 약 3분)
-- [구글 지도](https://maps.google.com/?cid=15460432328173692794&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=toi%E5%8D%B0%E9%A3%9F%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E8%8A%B1%E8%8A%9D%E7%94%BA30-3) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012452/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EC%9D%B4%20%EC%9D%B8%EC%87%BC%EC%BF%A0%ED%85%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=15460432328173692794) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=toi%E5%8D%B0%E9%A3%9F%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E8%8A%B1%E8%8A%9D%E7%94%BA30-3) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012452/) · [유튜브](https://www.youtube.com/results?search_query=%ED%86%A0%EC%9D%B4%20%EC%9D%B8%EC%87%BC%EC%BF%A0%ED%85%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-006"></a>
 #### ★ 가스가 니나이자야 (春日荷茶屋) — 📍 기타 · 타베로그 3.53
@@ -295,7 +295,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 🍽️ **타베로그** [타베로그 3.53(리뷰 270)](https://tabelog.com/nara/A2901/A290101/29000715/)
 - 📰 **언론·가이드** [루루부: 만엽집에서 영감을 받은 월별 제철 나물 '만요가유'(1,200엔)를 내는 가스가타이샤 경내 찻집으로 소개](https://rurubu.jp/andmore/spot/80031311)
 - 👥 **현지평판** [가스가타이샤 공식 사이트에 경내 찻집으로 안내(만요식물원 정문 옆)](https://kasugataisha.or.jp/?p=5389)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 555개 (2026-11-21 기준)](https://maps.google.com/?cid=5277543106139279322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 555개 (2026-11-21 기준)](https://maps.google.com/?cid=5277543106139279322)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可' — 예약 없이 방문. QR결제 가능, 카드 불가(타베로그).
@@ -309,7 +309,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 10:00-16:00 (자료에 따라 10:30 오픈) / 휴무 1~3월·6~9월·12월 월요일 (4·5·10·11월 무휴, 공식 기준)
 - 💡 가스가타이샤 참배 동선에 넣기 좋음. 감잎 초밥+소면 세트, 말차+화과자도 있음. 비수기 월요일 휴무 주의.
 - 🚃 나라교통 버스 '가스가타이샤 오모테산도' 정류장 도보 약 5분
-- [구글 지도](https://maps.google.com/?cid=5277543106139279322&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%A5%E6%97%A5%E8%8D%B7%E8%8C%B6%E5%B1%8B%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%98%A5%E6%97%A5%E9%87%8E%E7%94%BA160) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000715/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8A%A4%EA%B0%80%20%EB%8B%88%EB%82%98%EC%9D%B4%EC%9E%90%EC%95%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5277543106139279322) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%98%A5%E6%97%A5%E8%8D%B7%E8%8C%B6%E5%B1%8B%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%98%A5%E6%97%A5%E9%87%8E%E7%94%BA160) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000715/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8A%A4%EA%B0%80%20%EB%8B%88%EB%82%98%EC%9D%B4%EC%9E%90%EC%95%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-012"></a>
 #### ★ 멘토안 (麺闘庵) — 🍲 우동·소바 · 타베로그 3.47
@@ -332,7 +332,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 월·금 11:00-15:00 / 토·일 11:00-16:00 / 휴무 화·수·목요일
 - 💡 영업일이 자주 바뀌고(최근 화·수·목 휴무 표기) 점심만 영업. 카드·전자결제 불가, 예약 불가. 오픈 전 줄 서는 경우 많음.
 - 🚃 긴테쓰나라역 도보 약 6분
-- [구글 지도](https://maps.google.com/?cid=9854652946642265329&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E9%97%98%E5%BA%B5%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%A9%8B%E6%9C%AC%E7%94%BA30-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29001343/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%ED%86%A0%EC%95%88%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9854652946642265329) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E9%97%98%E5%BA%B5%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E6%A9%8B%E6%9C%AC%E7%94%BA30-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29001343/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%ED%86%A0%EC%95%88%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-004"></a>
 #### ★ 🏯 시즈카 공원점 (가마메시) (志津香 公園店) — 📍 기타 · 타베로그 3.48
@@ -355,7 +355,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 월·수~금 11:00-15:00 / 토·일 11:00-16:00 (타베로그 기준) / 휴무 화요일 (월 1회 부정기 연휴 있음)
 - 💡 솥밥을 새로 짓기 때문에 회전이 느림. 11시 오픈 직후 가는 게 가장 덜 기다림. 점심 피크엔 줄이 김.
 - 🚃 긴테쓰나라역 도보 약 10분
-- [구글 지도](https://maps.google.com/?cid=9070215802604063361&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BF%97%E6%B4%A5%E9%A6%99%20%E5%85%AC%E5%9C%92%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%99%BB%E5%A4%A7%E8%B7%AF%E7%94%BA59-11) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000714/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EC%A6%88%EC%B9%B4%20%EA%B3%B5%EC%9B%90%EC%A0%90%20%28%EA%B0%80%EB%A7%88%EB%A9%94%EC%8B%9C%29%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9070215802604063361) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%BF%97%E6%B4%A5%E9%A6%99%20%E5%85%AC%E5%9C%92%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%99%BB%E5%A4%A7%E8%B7%AF%E7%94%BA59-11) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000714/) · [유튜브](https://www.youtube.com/results?search_query=%EC%8B%9C%EC%A6%88%EC%B9%B4%20%EA%B3%B5%EC%9B%90%EC%A0%90%20%28%EA%B0%80%EB%A7%88%EB%A9%94%EC%8B%9C%29%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 나라마치
 
@@ -368,7 +368,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 🍽️ **타베로그** [타베로그 3.83 / 리뷰 1,127건](https://tabelog.com/nara/A2901/A290101/29002296/)
 - 🏆 **수상·백명점** [타베로그 백명점 — 화과자·감미 WEST 2023·2026, 스위츠 WEST 2018·2019·2020·2022 (6회 선정)](https://tabelog.com/nara/A2901/A290101/29002296/)
 - 📰 **언론·가이드** [잡지 사라이(Serai)가 나라마치의 상질 화과자점·빙수 명점으로 소개](https://serai.jp/gourmet/1204883)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 603개 (2026-11-21 기준)](https://maps.google.com/?cid=13860052895261947675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 603개 (2026-11-21 기준)](https://maps.google.com/?cid=13860052895261947675)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그·구루나비 모두 전화(0742-22-8899) 예약만, 온라인 예약 버튼 없음. 현금만.
@@ -383,7 +383,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 9:00-18:00 (찻집은 오후 시간대) / 휴무 무휴 (타베로그 기준, 일부 자료는 수요일 휴무)
 - 💡 빙수는 여름 한정·수량 한정(겨울엔 젠자이). 찻집 공간이 작아 1시간 가까이 기다리기도 함. 생과자는 포장 가능, 카운터 화과자 코스는 예약제.
 - 🚃 긴테쓰나라역 도보 약 10~12분
-- [구글 지도](https://maps.google.com/?cid=13860052895261947675&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%90%AC%E5%BE%A1%E8%8F%93%E5%AD%90%E8%AA%82%E8%99%95%20%E6%A8%AB%E8%88%8E%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E4%B8%AD%E9%99%A2%E7%94%BA22-3) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29002296/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8B%9C%EC%95%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=13860052895261947675) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%90%AC%E5%BE%A1%E8%8F%93%E5%AD%90%E8%AA%82%E8%99%95%20%E6%A8%AB%E8%88%8E%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E4%B8%AD%E9%99%A2%E7%94%BA22-3) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29002296/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B0%80%EC%8B%9C%EC%95%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-025"></a>
 #### ★★★ 겐(玄) (玄) — 🍲 우동·소바 · 타베로그 4.02
@@ -403,7 +403,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 점심 화~토 11:30-13:30 (L.O.13:00) / 저녁 화~금 18:00 일제 시작 / 휴무 일·월요일
 - 💡 점심도 사실상 완전 예약제(하루 40식 한정)이고 워크인은 '매우 어렵다'고 명시. 저녁은 18시 일제 시작 코스만. 현금만(카드·전자결제 불가). 일·월 휴무.
 - 🚃 긴테쓰나라역 도보 약 15분
-- [구글 지도](https://maps.google.com/?cid=2176292025049253195&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%8E%84%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%A6%8F%E6%99%BA%E9%99%A2%E7%94%BA23-2) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000052/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B2%90%28%E7%8E%84%29%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2176292025049253195) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%8E%84%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%A6%8F%E6%99%BA%E9%99%A2%E7%94%BA23-2) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000052/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B2%90%28%E7%8E%84%29%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-017"></a>
 #### ★★★ 츠쿠모 (白) — 🍱 일식·카이세키 · 타베로그 4.07
@@ -424,7 +424,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 화~일 런치 12:00-13:00 / 디너 17:30-19:00 (타베로그 표기 입점 시간대) / 휴무 월요일, 매월 말일
 - 💡 완전 예약제. 2개월 전 같은 날부터 전화(10:00-21:00)로 예약, 이메일 예약 불가. 나라마치 남쪽 끝이라 긴테쓰나라역에서 도보 25분 정도 — 택시 추천.
 - 🚃 긴테쓰나라역 도보 약 25분
-- [구글 지도](https://maps.google.com/?cid=11174650697522134876&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%99%BD%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%B4%80%E5%AF%BA%E7%94%BA968) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012612/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EC%BF%A0%EB%AA%A8%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11174650697522134876) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E7%99%BD%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E7%B4%80%E5%AF%BA%E7%94%BA968) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29012612/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B8%A0%EC%BF%A0%EB%AA%A8%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-016"></a>
 #### ★★ 유키테이 (ゆき亭) — 🍳 경양식·오므라이스 · 타베로그 3.50
@@ -434,7 +434,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.50 / 리뷰 304건](https://tabelog.com/nara/A2901/A290101/29007516/)
 - 🏆 **수상·백명점** [타베로그 백명점 양식 WEST 2025](https://tabelog.com/nara/A2901/A290101/29007516/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 550개 (2026-11-21 기준)](https://maps.google.com/?cid=16947665511496280812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 550개 (2026-11-21 기준)](https://maps.google.com/?cid=16947665511496280812)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '예약 불가'. 오픈 전 줄 서기.
@@ -448,7 +448,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:00-15:00 (L.O. 14:30) / 휴무 수요일
 - 💡 점심만 영업하고 오픈 전부터 줄이 생김(평일도 혼잡). 체류 30분 제한 안내가 있음. 주차장 없음. 카드·교통IC·PayPay 가능.
 - 🚃 긴테쓰나라역 도보 약 10~12분
-- [구글 지도](https://maps.google.com/?cid=16947665511496280812&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%86%E3%81%8D%E4%BA%AD%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E5%BE%A1%E9%96%80%E7%94%BA4-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29007516/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%82%A4%ED%85%8C%EC%9D%B4%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=16947665511496280812) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%86%E3%81%8D%E4%BA%AD%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%AB%98%E5%BE%A1%E9%96%80%E7%94%BA4-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29007516/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9C%A0%ED%82%A4%ED%85%8C%EC%9D%B4%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-019"></a>
 #### ★★ 카나카나 (カナカナ) — ☕ 카페·킷사텐 · 타베로그 3.59
@@ -458,7 +458,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.59 / 리뷰 574건](https://tabelog.com/nara/A2901/A290101/29000615/)
 - 🏆 **수상·백명점** [타베로그 백명점 카페 WEST 2025](https://tabelog.com/nara/A2901/A290101/29000615/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 828개 (2026-11-21 기준)](https://maps.google.com/?cid=11017317038791907565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 828개 (2026-11-21 기준)](https://maps.google.com/?cid=11017317038791907565)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '예약 불가', 핫페퍼에도 넷예약 없음. 카드 불가(QR 결제는 가능).
@@ -472,7 +472,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:00-19:00 (L.O. 18:30) / 휴무 월요일 (공휴일이면 다음 날), 하계·동계 휴업
 - 💡 밥 리필 가능. 카드 불가. 식사 포장은 안 되지만 음료·케이크 포장은 가능. 월요일 휴무.
 - 🚃 긴테쓰나라역 도보 약 15분 / 버스 '후쿠치인초' 정류장 도보 2분
-- [구글 지도](https://maps.google.com/?cid=11017317038791907565&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%8A%E3%82%AB%E3%83%8A%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%85%AC%E7%B4%8D%E5%A0%82%E7%94%BA13) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000615/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%82%98%EC%B9%B4%EB%82%98%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11017317038791907565) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%AB%E3%83%8A%E3%82%AB%E3%83%8A%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%85%AC%E7%B4%8D%E5%A0%82%E7%94%BA13) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000615/) · [유튜브](https://www.youtube.com/results?search_query=%EC%B9%B4%EB%82%98%EC%B9%B4%EB%82%98%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-015"></a>
 #### ★★ 🏯 호세키바코 (ほうせき箱) — 🍡 화과자·디저트 · 타베로그 3.68
@@ -483,7 +483,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 🍽️ **타베로그** [타베로그 3.68 / 리뷰 1,095건](https://tabelog.com/nara/A2901/A290101/29011038/)
 - 🏆 **수상·백명점** [타베로그 백명점 스위츠 WEST 2023·2026](https://tabelog.com/nara/A2901/A290101/29011038/)
 - 📰 **언론·가이드** [지구를 걷는 법(arukikata) 특파원 기사: 나라 빙수 붐의 불씨가 된 나라 최초의 빙수 전문점](https://www.arukikata.co.jp/tokuhain/381396/)
-- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,402개 (2026-11-21 기준)](https://maps.google.com/?cid=11705946474602219024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.3 / 리뷰 1,402개 (2026-11-21 기준)](https://maps.google.com/?cid=11705946474602219024)
 
 - **온라인 예약: ✅ 가능** · 기타:Airリザーブ
 - 예약 팁: 전날 21시부터 공식 인스타그램 링크의 웹 예약(Airリザーブ)으로만 예약 — 매장·전화 예약 불가. 빈자리 있으면 당일 현장 번호표 발급. 현금만.
@@ -497,7 +497,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 월·화·수·금 10:00-13:00, 14:00-16:50 / 토·일 10:00-13:00, 14:00-17:20 (타베로그 기준, 인스타그램 공지 우선) / 휴무 목요일
 - 💡 전날 21시부터 인스타그램 링크(에어리저브)로 예약 가능 — 예약 없이는 거의 못 먹음. 빈자리가 나면 현장 번호표 발급. 영업시간은 인스타그램 공지 확인.
 - 🚃 긴테쓰나라역 도보권 (모치이도노 상점가)
-- [구글 지도](https://maps.google.com/?cid=11705946474602219024&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BB%E3%81%86%E3%81%9B%E3%81%8D%E7%AE%B1%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%A4%85%E9%A3%AF%E6%AE%BF%E7%94%BA47) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29011038/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%B8%EC%84%B8%ED%82%A4%EB%B0%94%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=11705946474602219024) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%BB%E3%81%86%E3%81%9B%E3%81%8D%E7%AE%B1%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E9%A4%85%E9%A3%AF%E6%AE%BF%E7%94%BA47) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29011038/) · [유튜브](https://www.youtube.com/results?search_query=%ED%98%B8%EC%84%B8%ED%82%A4%EB%B0%94%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-018"></a>
 #### ★ 히라소 나라점 (柿の葉ずし 平宗 奈良店) — 🍣 스시·해산물 · 타베로그 3.32
@@ -507,7 +507,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🏯 **노포·원조** [1861년(분큐 원년) 요시노에서 창업한 가키노하즈시 노포 히라소의 나라 시내점](https://www.mapple.net/article/122028/)
 - 🍽️ **타베로그** [타베로그 3.32 / 리뷰 305건](https://tabelog.com/nara/A2901/A290101/29000753/)
-- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,153개 (2026-11-21 기준)](https://maps.google.com/?cid=10586700744419000367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.2 / 리뷰 1,153개 (2026-11-21 기준)](https://maps.google.com/?cid=10586700744419000367)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 타베로그 기준 예약 가능하나 점심 예약은 10명 이상 단체만. 온라인 예약 버튼 없음. 카드 결제 가능.
@@ -518,7 +518,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 10:00-21:00 (타베로그 기준 / 나비타임은 11:30-20:30) / 휴무 월요일 (공휴일이면 영업, 다음 날 휴무)
 - 💡 기념품용 포장은 1층 판매대, 식사는 매장 안에서. 같은 체인의 JR나라역점은 폐점했으니 이 지점(이마미카도초)으로 갈 것.
 - 🚃 긴테쓰나라역 도보권 (사루사와 연못 남쪽)
-- [구글 지도](https://maps.google.com/?cid=10586700744419000367&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9F%BF%E3%81%AE%E8%91%89%E3%81%9A%E3%81%97%20%E5%B9%B3%E5%AE%97%20%E5%A5%88%E8%89%AF%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E4%BB%8A%E5%BE%A1%E9%96%80%E7%94%BA30-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000753/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EC%86%8C%20%EB%82%98%EB%9D%BC%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=10586700744419000367) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E6%9F%BF%E3%81%AE%E8%91%89%E3%81%9A%E3%81%97%20%E5%B9%B3%E5%AE%97%20%E5%A5%88%E8%89%AF%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E4%BB%8A%E5%BE%A1%E9%96%80%E7%94%BA30-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29000753/) · [유튜브](https://www.youtube.com/results?search_query=%ED%9E%88%EB%9D%BC%EC%86%8C%20%EB%82%98%EB%9D%BC%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 덴리
 
@@ -542,7 +542,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 월·화·목·금 11:30-익일 1:00 / 토·일·공휴일 11:00-익일 1:00 / 휴무 수요일
 - 💡 새벽 1시까지 영업해 심야에도 OK. 대중교통이면 JR사쿠라이선 이치노모토역에서 걸어야 하므로 차량 이용자 위주. 수요일 휴무.
 - 🚃 JR 이치노모토역 도보 약 8~11분
-- [구글 지도](https://maps.google.com/?cid=18365561613429450785&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E7%90%86%E3%82%B9%E3%82%BF%E3%83%9F%E3%83%8A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A4%A9%E7%90%86%E5%B8%82%E6%AB%9F%E6%9C%AC%E7%94%BA3120) · [타베로그](https://tabelog.com/kr/nara/A2904/A290401/29000407/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%EB%A6%AC%20%EC%8A%A4%ED%83%9C%EB%AF%B8%EB%82%98%20%EB%9D%BC%EB%A9%98%20%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=18365561613429450785) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E5%A4%A9%E7%90%86%E3%82%B9%E3%82%BF%E3%83%9F%E3%83%8A%E3%83%A9%E3%83%BC%E3%83%A1%E3%83%B3%20%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A4%A9%E7%90%86%E5%B8%82%E6%AB%9F%E6%9C%AC%E7%94%BA3120) · [타베로그](https://tabelog.com/kr/nara/A2904/A290401/29000407/) · [유튜브](https://www.youtube.com/results?search_query=%EB%8D%B4%EB%A6%AC%20%EC%8A%A4%ED%83%9C%EB%AF%B8%EB%82%98%20%EB%9D%BC%EB%A9%98%20%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 덴카와
 
@@ -565,7 +565,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 12:00-15:00 (점심 코스만, 11:30~11:50 입장) / 휴무 일·월요일
 - 💡 나라·오사카 시내에서 차로 약 2시간 걸리는 산골이라 이동 시간을 넉넉히 잡을 것(12월 중순~3월 말은 스노타이어·체인 권장). 같은 건물의 료칸 '세세라기노야도 미센칸'에 묵으며 점심을 먹는 숙박 플랜도 있다. 육류·해산물·유제품을 전혀 못 먹으면 대응 불가.
 - 🚃 나라교통 버스 '덴카와카와이(天川川合)' 정류장 도보 2분 / 가시하라진구마에에서 차로 약 1시간
-- [구글 지도](https://maps.google.com/?cid=2204829709495839987&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=S%C3%89N%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%A4%A9%E5%B7%9D%E6%9D%91%E5%B7%9D%E5%90%88267) · [타베로그](https://tabelog.com/kr/nara/A2905/A290503/29014703/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=2204829709495839987) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=S%C3%89N%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%A4%A9%E5%B7%9D%E6%9D%91%E5%B7%9D%E5%90%88267) · [타베로그](https://tabelog.com/kr/nara/A2905/A290503/29014703/) · [유튜브](https://www.youtube.com/results?search_query=%EC%84%BC%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 도미오·아야메이케
 
@@ -587,7 +587,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 12:00-14:30 (L.O. 14:00), 18:00-22:00 (금·토 22:30, 요리 L.O. 20:30) / 휴무 수·목요일
 - 💡 저녁은 코스와 단품을 섞어 주문할 수 없고, 단품만 주문하면 1인 550엔의 자릿세가 붙는다. 알레르기는 예약할 때 꼭 알릴 것. 아이 동반·유모차 가능.
 - 🚃 긴테쓰 나라선 아야메이케역 남쪽 출구 도보 1분
-- [구글 지도](https://maps.google.com/?cid=9613992484731121379&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%AB%20%E3%82%B3%E3%83%B3%E3%82%BF%E3%83%B3%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E3%81%82%E3%82%84%E3%82%81%E6%B1%A0%E5%8D%971-3-8) · [타베로그](https://tabelog.com/kr/nara/A2901/A290102/29014001/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%B4%20%EC%BD%A9%ED%83%95%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9613992484731121379) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%83%AB%20%E3%82%B3%E3%83%B3%E3%82%BF%E3%83%B3%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E3%81%82%E3%82%84%E3%82%81%E6%B1%A0%E5%8D%971-3-8) · [타베로그](https://tabelog.com/kr/nara/A2901/A290102/29014001/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A5%B4%20%EC%BD%A9%ED%83%95%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-029"></a>
 #### ★★ 우나기노 도요카와 (うなぎの豊川) — 🐟 장어 · 타베로그 3.71
@@ -597,7 +597,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.71 (리뷰 579건), 장어 百名店 2026 · 2024 · 2022 · 2019 · 2018](https://tabelog.com/nara/A2901/A290102/29000217/)
 - 🎖️ **미쉐린** 미쉐린 가이드 나라 빕구르망
-- ⭐ **구글** [구글 지도 4.5 / 리뷰 510개 (2026-11-21 기준)](https://maps.google.com/?cid=5215341726526197314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.5 / 리뷰 510개 (2026-11-21 기준)](https://maps.google.com/?cid=5215341726526197314)
 
 - **온라인 예약: 🚫 불가** · ☎️ 전화예약만
 - 예약 팁: 2주 전부터 전화 예약 접수. 주말 저녁은 일찍 차는 편
@@ -608,7 +608,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:30-14:00 (L.O. 13:30), 17:00-20:00 (L.O. 19:30) / 휴무 화·수요일
 - 💡 예약은 2주 전부터 받으며 후기에서는 예약이 사실상 필수라는 평. 도요노 우시노히(土用の丑の日)에는 포장 판매만 한다. 카드·전자결제·QR결제 모두 가능.
 - 🚃 긴테쓰 나라선 도미오역 도보 4~5분
-- [구글 지도](https://maps.google.com/?cid=5215341726526197314&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E3%81%8E%E3%81%AE%E8%B1%8A%E5%B7%9D%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%AF%8C%E9%9B%84%E5%85%83%E7%94%BA3-3-12) · [타베로그](https://tabelog.com/kr/nara/A2901/A290102/29000217/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%EB%85%B8%20%EB%8F%84%EC%9A%94%EC%B9%B4%EC%99%80%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=5215341726526197314) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%81%86%E3%81%AA%E3%81%8E%E3%81%AE%E8%B1%8A%E5%B7%9D%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E5%AF%8C%E9%9B%84%E5%85%83%E7%94%BA3-3-12) · [타베로그](https://tabelog.com/kr/nara/A2901/A290102/29000217/) · [유튜브](https://www.youtube.com/results?search_query=%EC%9A%B0%EB%82%98%EA%B8%B0%EB%85%B8%20%EB%8F%84%EC%9A%94%EC%B9%B4%EC%99%80%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 야마토사이다이지
 
@@ -634,7 +634,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 11:00-21:00 (매월 말일은 11:00-15:00, 타베로그 기준) / 휴무 1월 1일
 - 💡 교토·오사카에서 나라로 갈 때 환승역인 야마토사이다이지역 구내(타임즈플레이스 사이다이지)라 동선상 들르기 좋음. 혼잡 시 LINE으로 순서 호출. 카드·PayPay 가능.
 - 🚃 긴테쓰 야마토사이다이지역 구내
-- [구글 지도](https://maps.google.com/?cid=4483389256223460047&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8BNOROMA%20%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E8%A5%BF%E5%A4%A7%E5%AF%BA%E5%9B%BD%E8%A6%8B%E7%94%BA1-1-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29014444/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EB%85%B8%EB%A1%9C%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=4483389256223460047) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E9%BA%BA%E5%B1%8BNOROMA%20%E6%9C%AC%E5%BA%97%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%A5%88%E8%89%AF%E5%B8%82%E8%A5%BF%E5%A4%A7%E5%AF%BA%E5%9B%BD%E8%A6%8B%E7%94%BA1-1-1) · [타베로그](https://tabelog.com/kr/nara/A2901/A290101/29014444/) · [유튜브](https://www.youtube.com/results?search_query=%EB%A9%98%EC%95%BC%20%EB%85%B8%EB%A1%9C%EB%A7%88%20%EB%B3%B8%EC%A0%90%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 ### 요시노
 
@@ -646,7 +646,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 **선정 이유**
 - 🍽️ **타베로그** [타베로그 3.55(리뷰 203)](https://tabelog.com/nara/A2905/A290501/29008812/)
 - 📰 **언론·가이드** [루루부: 메뉴가 요시노 혼쿠즈키리·구즈모치 두 가지뿐, 주문 후 만드는 갈분 전문점](https://rurubu.jp/andmore/spot/80095507)
-- ⭐ **구글** [구글 지도 4.4 / 리뷰 374개 (2026-11-21 기준)](https://maps.google.com/?cid=9412201621940802632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA)
+- ⭐ **구글** [구글 지도 4.4 / 리뷰 374개 (2026-11-21 기준)](https://maps.google.com/?cid=9412201621940802632)
 
 - **온라인 예약: 🚫 불가** · 🚶 현장방문
 - 예약 팁: 타베로그 '予約不可'. 도착 후 가게에서 30분 단위 시간 예약을 잡는 방식(전화·앱 예약 없음).
@@ -661,7 +661,7 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 10:00-17:00 (L.O. 16:30) / 휴무 수요일, 둘째·넷째 목요일 (12월 초~3월 초는 토·일만 영업, 4·11월 무휴)
 - 💡 한 번에 만들 수 있는 양이 적어 30분 단위 예약제로 운영되는 경우가 많음 — 도착하면 먼저 예약부터. 12월 초~3월 초는 토·일만 영업, 벚꽃 시즌(4월)·단풍(11월)은 무휴.
 - 🚃 요시노 로프웨이 요시노야마역에서 참도 도보 (긴테쓰요시노역 도보 약 36분)
-- [구글 지도](https://maps.google.com/?cid=9412201621940802632&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%91%9B%E5%B1%8B%20%E4%B8%AD%E4%BA%95%E6%98%A5%E9%A2%A8%E5%A0%82%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%90%89%E9%87%8E%E7%94%BA%E5%90%89%E9%87%8E%E5%B1%B1545) · [타베로그](https://tabelog.com/kr/nara/A2905/A290501/29008812/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%AC%EC%A6%88%EC%95%BC%20%EB%82%98%EC%B9%B4%EC%9D%B4%20%EC%8A%8C%ED%91%B8%EB%8F%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=9412201621940802632) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E8%91%9B%E5%B1%8B%20%E4%B8%AD%E4%BA%95%E6%98%A5%E9%A2%A8%E5%A0%82%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%90%89%E9%87%8E%E7%94%BA%E5%90%89%E9%87%8E%E5%B1%B1545) · [타베로그](https://tabelog.com/kr/nara/A2905/A290501/29008812/) · [유튜브](https://www.youtube.com/results?search_query=%EA%B5%AC%EC%A6%88%EC%95%BC%20%EB%82%98%EC%B9%B4%EC%9D%B4%20%EC%8A%8C%ED%91%B8%EB%8F%84%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
 
 <a id="nara-023"></a>
 #### ★ 얏코 (やっこ) — 🍣 스시·해산물 · 타베로그 3.48
@@ -685,4 +685,4 @@ JR나라역에서 걸어서 4분, 시마네식 이즈모 소바를 내는 소바
 - 영업 9:00-17:00 / 휴무 수요일 (4·11월 무휴)
 - 💡 가게 안에서 먹을 수 있고 포장도 가능. 구즈키리 디저트(700엔)도 있음. 수요일 휴무(4·11월은 무휴).
 - 🚃 요시노 로프웨이 요시노야마역 도보 약 11분
-- [구글 지도](https://maps.google.com/?cid=7907346791701780967&g_mp=Cidnb29nbGUubWFwcy5wbGFjZXMudjEuUGxhY2VzLlNlYXJjaFRleHQQAhgEIAA) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%84%E3%81%A3%E3%81%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%90%89%E9%87%8E%E7%94%BA%E5%90%89%E9%87%8E%E5%B1%B1543) · [타베로그](https://tabelog.com/kr/nara/A2905/A290501/29001686/) · [유튜브](https://www.youtube.com/results?search_query=%EC%96%8F%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
+- [구글 지도](https://maps.google.com/?cid=7907346791701780967) · [길찾기](https://www.google.com/maps/dir/?api=1&travelmode=transit&destination=%E3%82%84%E3%81%A3%E3%81%93%20%E5%A5%88%E8%89%AF%E7%9C%8C%E5%90%89%E9%87%8E%E9%83%A1%E5%90%89%E9%87%8E%E7%94%BA%E5%90%89%E9%87%8E%E5%B1%B1543) · [타베로그](https://tabelog.com/kr/nara/A2905/A290501/29001686/) · [유튜브](https://www.youtube.com/results?search_query=%EC%96%8F%EC%BD%94%20%EB%82%98%EB%9D%BC%20%EB%A7%9B%EC%A7%91)
