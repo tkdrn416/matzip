@@ -627,7 +627,9 @@
       out.sort((a, b) => a._d - b._d);
     } else {
       const order = Object.keys(D.regions);
-      out.sort((a, b) => order.indexOf(a.region) - order.indexOf(b.region) || b.legend_level - a.legend_level || a.area.localeCompare(b.area, "ko") || a.name_ko.localeCompare(b.name_ko, "ko"));
+      // 추천순: 지역 → 등급 → 근거 수(신뢰도) → 타베로그 점수
+      out.sort((a, b) => order.indexOf(a.region) - order.indexOf(b.region) || b.legend_level - a.legend_level
+        || (b.evidence || []).length - (a.evidence || []).length || (b.tabelog_score || 0) - (a.tabelog_score || 0));
     }
     return out;
   }
@@ -722,7 +724,13 @@
     const ol = $("list");
     if (state.inView && !listOnly()) { const b = map.getBounds(); rs = rs.filter((r) => b.contains([r.lat, r.lng])); }
     $("count").textContent = (state.inView && !listOnly() ? `지도 화면 안 ${rs.length}곳` : `${rs.length}곳 표시 중`) + (fav.size ? ` · 찜 ${fav.size}` : "") + (vis.size ? ` · 방문 ${vis.size}` : "");
-    if (!rs.length) { ol.innerHTML = '<li class="empty">조건에 맞는 곳이 없어요.</li>'; return; }
+    if (!rs.length) {
+      const q = state.q ? state.q + (state.region !== "all" ? " " + D.regions[state.region].ko : "") : "";
+      ol.innerHTML = '<li class="empty">조건에 맞는 곳이 없어요.' + (state.q
+        ? `<br>이 DB에 없는 가게일 수 있어요 (타베로그 기준 미달·폐점·소개제 등은 뺐어요).<br><a class="cta nav" style="display:inline-block;margin-top:10px" href="https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(q)}" target="_blank" rel="noopener">🔎 구글맵에서 "${esc(state.q)}" 찾기</a>`
+        : "<br>필터를 줄이거나 초기화해 보세요.") + "</li>";
+      return;
+    }
     ol.innerHTML = rs.map((r) => {
       const c = CAT[r.category] || CAT["기타"];
       return `<li class="item${vis.has(r.id) ? " visited" : ""}${state.open === r.id ? " open" : ""}" data-id="${r.id}">
