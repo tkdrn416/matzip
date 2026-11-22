@@ -352,7 +352,8 @@
     $("sortSeg").innerHTML = SORTS.map(([k, n]) => `<button type="button" data-sort="${k}" aria-pressed="${sortBy === k}">${n}</button>`).join("");
     const nb = H().filter(inBudget).length;
     $("budgetSeg").innerHTML = `<button type="button" data-budget="1" aria-pressed="${budgetOnly}">🏨 추천 숙소만 <small>${nb}</small></button><button type="button" data-budget="0" aria-pressed="${!budgetOnly}">참고: 유명·고급 호텔까지 <small>${H().length}</small></button>`;
-    $("areaSeg").innerHTML = [["", "전체"], ...C.areas.map((a) => [a.k, a.n])].map(([k, n]) => `<button type="button" data-area="${k}" aria-pressed="${areaF === k}">${esc(n)} <small>${H().filter((h) => (!k || h.area === k) && (!budgetOnly || inBudget(h)) && amenOk(h)).length}</small></button>`).join("");
+    const areaN = (k) => H().filter((h) => (!k || h.area === k) && (!budgetOnly || inBudget(h)) && amenOk(h)).length;
+    $("areaSeg").innerHTML = [["", "전체"], ...C.areas.map((a) => [a.k, a.n])].filter(([k]) => !k || areaF === k || areaN(k) > 0).map(([k, n]) => `<button type="button" data-area="${k}" aria-pressed="${areaF === k}">${esc(n)} <small>${areaN(k)}</small></button>`).join("");
     const amenCount = (k) => H().filter((h) => (!areaF || h.area === areaF) && (!budgetOnly || inBudget(h)) && h.amen && AMEN[k][1](h.amen)).length;
     $("amenSeg").innerHTML = Object.entries(AMEN).filter(([k]) => amenF === k || amenCount(k) > 0).map(([k, [n]]) => `<button type="button" data-amen="${k}" aria-pressed="${amenF === k}">${n} <small>${amenCount(k)}</small></button>`).join("");
   }
