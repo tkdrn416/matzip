@@ -150,7 +150,7 @@ def judge(h, cfg):
 # 새로 찾은 예산 안 호텔에 붙일 메모(확인 가능한 것만). 키: data/hotels_prices.json id
 NOTES = {
     "kb-106": dict(cons=["아파 호텔 체인은 객실이 좁기로 유명(캐리어 2개 펼치기 빠듯)"]),
-    "ob-22": dict(short="슈퍼호텔 혼마치", pros=["슈퍼호텔 체인은 대부분 조식 포함 요금"]),
+    "ob-22": dict(short="슈퍼호텔 혼마치"),
     "kb-107": dict(short="OMO5 산조", pros=["호시노 리조트의 OMO 브랜드"]),
 }
 SHORT = {"ob-16": "우메다홀릭", "ob-9": "가너 혼마치 미도스지", "ob-26": "가너 혼마치역", "ob-10": "시즈테쓰 프레지오", "ob-4": "로열파크 캔버스",
@@ -279,6 +279,8 @@ CITIES = {
              dict(n="은각사", lat=35.0269, lng=135.7984, note="버스 30분")],
         moves=["간사이공항 → 교토역: JR 특급 <b>하루카</b> 직통 약 75~80분(외국인용 할인권 'ICOCA & HARUKA')",
                "교토역 → 시조·가라스마: 지하철 가라스마선 2정거장(시조역, 약 4분) / 가와라마치: 택시 약 15분",
+               "체크인은 보통 15시 — 일찍 도착하면 호텔 프런트에 짐부터 맡기고 나가면 돼요",
+               "12/28 체크아웃(보통 10~11시) 후 짐 들고 오사카로 → 오사카 숙소에 짐 먼저 맡기고 관광 시작",
                "다음날(12/28) 오사카로: 교토역 → JR 신쾌속 오사카역 29분 / 가와라마치역 → 한큐 특급 오사카우메다 약 43분 / 기온시조역 → 게이한 요도야바시 약 50분",
                "난바 숙소로 가면: 우메다·요도야바시에서 미도스지선으로 난바까지 약 6~10분"],
         warn=None,
@@ -333,7 +335,7 @@ CITIES = {
              dict(n="나라", lat=34.6842, lng=135.8275, note="긴테쓰 40분"),
              dict(n="고베 산노미야", lat=34.6949, lng=135.1951, note="JR 21분"),
              dict(n="USJ", lat=34.6656, lng=135.4325, note="JR 15분")],
-        moves=["난바 → 간사이공항: 난카이 특급 <b>라피트</b> 약 40분(마지막 날 12/31)",
+        moves=["난바 → 간사이공항: 난카이 특급 <b>라피트</b> 약 40분(마지막 날 12/31). 비행기가 늦으면 체크아웃 후 프런트에 짐을 맡겨 두고 마지막 관광",
                "난바 → 나라: 긴테쓰 오사카난바역에서 쾌속급행 약 40분, 긴테쓰나라역이 나라공원 바로 앞",
                "난바 → 고베 산노미야: 한신 직통(오사카난바역) 약 40분 / 우메다에서 JR 신쾌속 21분",
                "난바 → 교토: 미도스지선으로 우메다(약 10분) → JR 29분, 또는 요도야바시 → 게이한 약 50분(기온시조 도착)"],
@@ -394,8 +396,8 @@ def build_city(key, cfg, curated, region):
             "rating": p.get("rating"), "reviews": p.get("reviews"), "price": price, "pv": pv, "vendors": vend,
             "st": {"n": st[0] + "역" if not st[0].endswith("역") else st[0], "m": max(1, round(sd * 1.25 / 80))},
             "food": {"n": len(n800), "hi": sum(1 for r in n800 if (r.get("tabelog_score") or 0) >= 3.6),
-                     "best": [[r["name_ko"], r.get("tabelog_score")] for r in best]},
-            "pros": (cur.get("pros") or []) if not cur.get("auto") else [f"{st[0] if st[0].endswith('역') else st[0] + '역'} 걸어서 약 {max(1, round(sd * 1.25 / 80))}분 · {AREA_LINE[area]}"] + (cur.get("pros") or []),
+                     "best": [[r["name_ko"], r.get("tabelog_score"), r["id"]] for r in best]},
+            "pros": cur.get("pros") or [], "amen": p.get("amen"),
             "cons": cur.get("cons", []), "gurl": gurl,
             "murl": "https://www.google.com/maps/search/?api=1&query=" + re.sub(r"\s+", "+", (cur.get("en") or p.get("name") or "") + (" 오사카" if key == "osaka" else " 교토")),
             "checked": (p.get("at") or "")[:10],

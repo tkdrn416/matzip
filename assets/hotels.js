@@ -9,7 +9,7 @@
   const LS = "matzip:hcity";
   let cityKey = (() => { try { const h = location.hash.slice(1); if (D.cities[h]) return h; const v = localStorage.getItem(LS); return D.cities[v] ? v : "kyoto"; } catch (e) { return "kyoto"; } })();
   let C = D.cities[cityKey];
-  let sel = null, sortBy = "rec", areaF = "", budgetOnly = true;
+  let sel = null, sortBy = "rec", areaF = "", budgetOnly = true, amenF = "";
   const view = { lat: 0, lng: 0, z: 1 };
   let fitZ = 1;
   const box = $("smap");
@@ -22,19 +22,26 @@
   $("ctabs").addEventListener("click", (e) => {
     const b = e.target.closest("[data-city]");
     if (!b || b.dataset.city === cityKey) return;
-    cityKey = b.dataset.city; C = D.cities[cityKey]; sel = null; areaF = ""; budgetOnly = true;
+    cityKey = b.dataset.city; C = D.cities[cityKey]; sel = null; areaF = ""; budgetOnly = true; amenF = "";
     try { localStorage.setItem(LS, cityKey); history.replaceState(null, "", "#" + cityKey); } catch (err) { /* */ }
     renderAll(true);
   });
 
+  window.addEventListener("hashchange", () => {
+    const h = location.hash.slice(1);
+    if (D.cities[h] && h !== cityKey) { cityKey = h; C = D.cities[h]; sel = null; areaF = ""; budgetOnly = true; try { localStorage.setItem(LS, h); } catch (e) { /* */ } renderAll(true); }
+  });
   const H = () => C.hotels;
   const byId = (id) => H().find((h) => h.id === id);
   const areaOf = (k) => C.areas.find((a) => a.k === k) || { n: k, c: "#888" };
   const priceTxt = (h) => (h.price ? `${man(h.price)}${C.nights > 1 ? "/박" : ""}` : "가격 없음");
   const inBudget = (h) => !!h.ok;
-  const vis = (h, ignoreArea) => (ignoreArea || !areaF || h.area === areaF) && (!budgetOnly || inBudget(h));
+  const AMEN = { smoke: ["🚭 전관 금연", (m) => m.smokeFree], bath: ["♨️ 대욕장·온천", (m) => !!m.bath], bf: ["🍳 조식 무료", (m) => m.breakfast === "free"], laundry: ["🧺 셀프 세탁", (m) => m.laundry] };
+  const amenOk = (h) => !amenF || (h.amen && AMEN[amenF][1](h.amen));
+  const vis = (h, ignoreArea) => (ignoreArea || !areaF || h.area === areaF) && (!budgetOnly || inBudget(h)) && amenOk(h);
   const inB = (b, la, ln) => la >= b[0] && la <= b[2] && ln >= b[1] && ln <= b[3];
 
+  const top3 = (k) => H().filter((h) => h.ok && h.area === k).sort((a, b) => a.no - b.no).slice(0, 3);
   function renderPick() {
     const medal = ["🥇", "🥈", "🥉", "4️⃣", "5️⃣"];
     const recs = C.areaRec.map((r, i) => {
@@ -45,19 +52,18 @@
         <div class="ar-h"><span class="ar-m">${medal[i] || ""}</span><b style="color:${a.c}">${esc(r.title)}</b>${r.tag ? `<span class="ar-tag">${esc(r.tag)}</span>` : ""}</div>
         <p class="ar-v">${r.verdict}</p>
         <div class="ar-n"><span>🏨 추천 숙소 <b>${nb}</b>곳</span><span>🍽 맛집 지도 가게 <b>${food}</b>곳</span>${r.price ? `<span>시세 ${esc(r.price)}</span>` : ""}</div>
-        <details${i === 0 ? " open" : ""}><summary>왜 여기? (장단점·이동)</summary>
+        <div class="pk-hs">${top3(r.k).map((h) => `<button type="button" data-sel="${h.id}"><span class="no" style="background:${a.c}">${h.no}</span>${esc(h.short || h.n)} <small>${priceTxt(h)} · ★${h.rating ?? "-"}</small></button>`).join("")}</div>
+        <details><summary>왜 여기? (장단점·이동)</summary>
           <ul class="ar-p">${r.pros.map((x) => `<li>${x}</li>`).join("")}</ul>
           <ul class="ar-c">${r.cons.map((x) => `<li>${x}</li>`).join("")}</ul>
           ${r.who ? `<p class="ar-w">👉 ${r.who}</p>` : ""}
         </details>
-        <button type="button" class="ar-go" data-area-go="${r.k}">${esc(a.n)} 숙소만 보기 →</button>
+        <button type="button" class="ar-go" data-area-go="${r.k}">${esc(a.n)} 숙소 ${nb}곳 모두 보기 →</button>
       </div>`;
     }).join("");
-    const picks = C.picks.map((p) => `<div class="pk"><div class="pk-h">${esc(p.t)}</div><p>${p.why}</p><div class="pk-hs">${p.ids.map((id) => { const h = byId(id); return h ? `<button type="button" data-sel="${h.id}"><span class="no" style="background:${areaOf(h.area).c}">${h.no}</span>${esc(h.short || h.n)} <small>${priceTxt(h)} · ★${h.rating ?? "-"}</small></button>` : ""; }).join("")}</div></div>`).join("");
     $("pick").innerHTML = `<h2>${esc(C.title)}</h2>
       <p class="budget">💰 고른 기준: 1박 <b>8만~${man(C.budget)} 원</b>(10만 원 안팎이면 💚) · <b>구글 평점 4.3↑</b>(리뷰 300개↑) · ${C.nights > 1 ? `${C.nights}박 평균 1박 요금` : "1박 요금"}, 세금 포함</p>
       <h3 class="sec">📍 어디에 묵을까 <small>추천 순</small></h3>${recs}
-      <h3 class="sec">🏨 권역별 추천 숙소</h3>${picks}
       <details class="move"><summary>🚃 이동 메모</summary><ul>${C.moves.map((m) => `<li>${m}</li>`).join("")}</ul></details>${C.warn ? `<p class="warn">${C.warn}</p>` : ""}`;
   }
   $("pick").addEventListener("click", (e) => {
@@ -118,8 +124,27 @@
     take({ x: w - 48, y: 0, w: 48, h: 88 }); take({ x: 0, y: h - 26, w: 150, h: 26 });
     // 호텔 핀 (항상 그림)
     const hs = H().filter((hh) => vis(hh));
-    const order = [...hs].sort((a, b) => (a.id === sel ? -1 : b.id === sel ? 1 : a.no - b.no));
+    // 겹치는 핀은 묶음(숫자 = 숙소 수)으로. 누르면 그 묶음으로 확대. 고른 숙소는 묶지 않음
+    const pos = new Map(hs.map((hh) => [hh.id, px(hh.lat, hh.lng)]));
+    const clusters = [], inCl = new Set();
+    if (view.z < fitZ * 7) {
+      [...hs].sort((a, b) => a.no - b.no).forEach((hh) => {
+        if (inCl.has(hh.id) || hh.id === sel) return;
+        const [x, y] = pos.get(hh.id);
+        const mem = hs.filter((o) => !inCl.has(o.id) && o.id !== sel && Math.hypot(pos.get(o.id)[0] - x, pos.get(o.id)[1] - y) < 30);
+        if (mem.length < 2) return;
+        mem.forEach((o) => inCl.add(o.id));
+        clusters.push({ mem, x: mem.reduce((a, o) => a + pos.get(o.id)[0], 0) / mem.length, y: mem.reduce((a, o) => a + pos.get(o.id)[1], 0) / mem.length });
+      });
+    }
+    const order = hs.filter((hh) => !inCl.has(hh.id)).sort((a, b) => (a.id === sel ? -1 : b.id === sel ? 1 : a.no - b.no));
     let pins = "", chips = "", lm = "", far = "";
+    clusters.forEach((cl) => {
+      const ps = cl.mem.map((o) => o.price).filter(Boolean), c0 = areaOf(cl.mem[0].area).c;
+      pins += `<g class="pin cl" data-cl="${cl.mem.map((o) => o.id).join(",")}" transform="translate(${cl.x.toFixed(1)},${cl.y.toFixed(1)})"><circle r="24" class="hit"/><circle r="15" class="clr" style="stroke:${c0}"/><circle r="12.5" style="fill:${c0}"/><text dy="0.36em">${cl.mem.length}</text></g>`;
+      take({ x: cl.x - 15, y: cl.y - 15, w: 30, h: 30 });
+      cl.label = `${cl.mem.length}곳 ${ps.length ? man(Math.min(...ps)).replace("만", "") + (ps.length > 1 ? "~" + man(Math.max(...ps)) : "만") : ""}`;
+    });
     order.slice().reverse().forEach((hh) => {
       const [x, y] = px(hh.lat, hh.lng), on = hh.id === sel, r = on ? 13 : 10.5;
       pins += `<g class="pin${on ? " on" : ""}" data-id="${hh.id}" transform="translate(${x.toFixed(1)},${y.toFixed(1)})"><circle r="${r + 8}" class="hit"/>${on ? `<circle r="${r + 4}" class="ring"/>` : ""}<circle r="${r}" style="fill:${areaOf(hh.area).c}"/><text dy="0.36em">${hh.no}</text></g>`;
@@ -174,6 +199,15 @@
       }
     };
     stationsDrawn.filter(([st]) => st.m).forEach(([st, x, y]) => stLabel(st, x, y));
+    clusters.forEach((cl) => {
+      const fs = 11.5, bw = tw(cl.label, fs) + 12, bh = 19;
+      for (const [bx, by] of [[cl.x + 18, cl.y - bh / 2], [cl.x - 18 - bw, cl.y - bh / 2], [cl.x - bw / 2, cl.y - 20 - bh], [cl.x - bw / 2, cl.y + 20]]) {
+        const b = { x: bx, y: by, w: bw, h: bh };
+        if (!free(b)) continue;
+        take(b); chips += `<g class="chip cl" data-cl="${cl.mem.map((o) => o.id).join(",")}"><rect x="${bx.toFixed(1)}" y="${by.toFixed(1)}" width="${bw.toFixed(1)}" height="${bh}" rx="6"/><text x="${(bx + 6).toFixed(1)}" y="${(by + bh - 5.5).toFixed(1)}">${esc(cl.label)}</text></g>`;
+        break;
+      }
+    });
     order.filter((hh) => hh.id !== sel).forEach(placeChip);
     C.landmarks.forEach((m) => {
       const [x, y] = px(m.lat, m.lng);
@@ -239,8 +273,15 @@
     ptrs.delete(e.pointerId); last = null;
     if (ptrs.size === 0 && moved < 8 && Date.now() - downAt < 600) {
       const t = document.elementFromPoint(e.clientX, e.clientY);
-      const g = t && t.closest && t.closest("[data-id]");
-      if (g) select(g.dataset.id, false);
+      const g = t && t.closest && t.closest("[data-id]"), cg = t && t.closest && t.closest("[data-cl]");
+      if (cg) {
+        const mem = cg.dataset.cl.split(",").map(byId).filter(Boolean);
+        const la = mem.map((o) => o.lat), ln = mem.map((o) => o.lng), pad = 0.0012;
+        const z0 = view.z;
+        fit([Math.min(...la) - pad, Math.min(...ln) - pad, Math.max(...la) + pad, Math.max(...ln) + pad], 0.8);
+        if (view.z < z0 * 1.6) view.z = z0 * 1.6;
+        clampView(); redraw();
+      } else if (g) select(g.dataset.id, false);
       else if (sel) { sel = null; renderPeek(); redraw(); markCards(); }
     }
   };
@@ -259,7 +300,7 @@
 
   let showDots = true;
   function renderLegend() {
-    $("legend").innerHTML = `${C.areas.map((a) => `<span><i style="background:${a.c}"></i>${esc(a.n)}</span>`).join("")}<label><input type="checkbox" id="dotsChk" ${showDots ? "checked" : ""}><i class="dl"></i>맛집 지도 가게 <i class="dl hi"></i>타베로그 3.6↑</label>`;
+    $("legend").innerHTML = `${C.areas.map((a) => `<span><i style="background:${a.c}"></i>${esc(a.n)}</span>`).join("")}<span><i class="cli"></i>숫자 원 = 겹친 숙소 묶음(누르면 확대)</span><label><input type="checkbox" id="dotsChk" ${showDots ? "checked" : ""}><i class="dl"></i>맛집 지도 가게 <i class="dl hi"></i>타베로그 3.6↑</label>`;
   }
   $("legend").addEventListener("change", (e) => { if (e.target.id === "dotsChk") { showDots = e.target.checked; redraw(); } });
 
@@ -293,11 +334,14 @@
     $("sortSeg").innerHTML = SORTS.map(([k, n]) => `<button type="button" data-sort="${k}" aria-pressed="${sortBy === k}">${n}</button>`).join("");
     const nb = H().filter(inBudget).length;
     $("budgetSeg").innerHTML = `<button type="button" data-budget="1" aria-pressed="${budgetOnly}">🏨 추천 숙소만 <small>${nb}</small></button><button type="button" data-budget="0" aria-pressed="${!budgetOnly}">참고: 유명·고급 호텔까지 <small>${H().length}</small></button>`;
-    $("areaSeg").innerHTML = [["", "전체"], ...C.areas.map((a) => [a.k, a.n])].map(([k, n]) => `<button type="button" data-area="${k}" aria-pressed="${areaF === k}">${esc(n)} <small>${H().filter((h) => (!k || h.area === k) && (!budgetOnly || inBudget(h))).length}</small></button>`).join("");
+    $("areaSeg").innerHTML = [["", "전체"], ...C.areas.map((a) => [a.k, a.n])].map(([k, n]) => `<button type="button" data-area="${k}" aria-pressed="${areaF === k}">${esc(n)} <small>${H().filter((h) => (!k || h.area === k) && (!budgetOnly || inBudget(h)) && amenOk(h)).length}</small></button>`).join("");
+    const amenCount = (k) => H().filter((h) => (!areaF || h.area === areaF) && (!budgetOnly || inBudget(h)) && h.amen && AMEN[k][1](h.amen)).length;
+    $("amenSeg").innerHTML = Object.entries(AMEN).filter(([k]) => amenF === k || amenCount(k) > 0).map(([k, [n]]) => `<button type="button" data-amen="${k}" aria-pressed="${amenF === k}">${n} <small>${amenCount(k)}</small></button>`).join("");
   }
   $("sortSeg").addEventListener("click", (e) => { const b = e.target.closest("[data-sort]"); if (b) { sortBy = b.dataset.sort; renderTools(); renderList(); } });
   function setArea(k) { areaF = k; if (sel && !vis(byId(sel))) { sel = null; renderPeek(); } renderTools(); renderList(); const a = C.areas.find((x) => x.k === areaF); fit(a ? a.b : C.bounds, 0.9); clampView(); redraw(); }
   $("areaSeg").addEventListener("click", (e) => { const b = e.target.closest("[data-area]"); if (b) setArea(b.dataset.area); });
+  $("amenSeg").addEventListener("click", (e) => { const b = e.target.closest("[data-amen]"); if (!b) return; amenF = amenF === b.dataset.amen ? "" : b.dataset.amen; if (sel && !vis(byId(sel))) { sel = null; renderPeek(); } renderTools(); renderList(); redraw(); });
   $("budgetSeg").addEventListener("click", (e) => { const b = e.target.closest("[data-budget]"); if (!b) return; budgetOnly = b.dataset.budget === "1"; if (sel && !vis(byId(sel))) { sel = null; renderPeek(); } renderTools(); renderList(); redraw(); });
 
   function vendTable(h) {
@@ -305,22 +349,33 @@
     const rows = h.vendors.slice().sort((a, b) => a.p - b.p).map((v) => `<tr${v.o ? ' class="off"' : ""}><td>${esc(v.v)}${v.o ? " <small>공식</small>" : ""}</td><td>${won(v.p)}</td>${C.nights > 1 ? `<td>${won(v.p * C.nights)}</td>` : ""}</tr>`).join("");
     return `<details class="vend"><summary>판매처별 가격 ${h.vendors.length}곳</summary><table><thead><tr><th>판매처</th><th>1박</th>${C.nights > 1 ? `<th>${C.nights}박</th>` : ""}</tr></thead><tbody>${rows}</tbody></table><p class="cnote">객실 종류·조식·취소 조건이 판매처마다 달라요. ${C.nights > 1 ? `${C.nights}박은 1박 요금×${C.nights}로 어림한 값이에요. ` : ""}예약 전 꼭 다시 확인하세요.</p></details>`;
   }
+  // 구글 호텔 '편의시설'에 있는 것만 (없다고 나온 게 아니라 '표시 없음'일 수 있음)
+  function amenTags(h) {
+    const m = h.amen;
+    if (!m) return "";
+    const t = [];
+    if (m.smokeFree) t.push('<span class="am">🚭 전관 금연</span>');
+    if (m.breakfast === "free") t.push('<span class="am">🍳 조식 무료</span>');
+    if (m.bath) t.push(`<span class="am">♨️ ${m.bath === "onsen" ? "천연 온천" : "대욕장"}</span>`);
+    if (m.laundry) t.push('<span class="am">🧺 셀프 세탁</span>');
+    return t.join("");
+  }
   function card(h) {
     const a = areaOf(h.area);
     const priceBlk = h.price
-      ? `<div class="kv-p"><b>${man(h.price)} 원</b><small>${C.nights > 1 ? `1박 평균 · ${C.nights}박 ${man(h.total || h.price * C.nights)}` : `1박${h.pv ? ` · ${esc(h.pv)}` : ""}`}</small></div>`
+      ? `<div class="kv-p"><b>${man(h.price)} 원</b><small>${C.nights > 1 ? `1박 평균 · ${C.nights}박 ${man(h.total || h.price * C.nights)}` : `1박 최저${h.pv ? ` · ${esc(h.pv)}` : ""}`}</small></div>`
       : `<div class="kv-p"><b>-</b><small>가격 못 찾음</small></div>`;
     return `<li class="hc${h.id === sel ? " on" : ""}" id="h-${h.id}" data-id="${h.id}">
       <div class="hc-top"><span class="no" style="background:${a.c}">${h.no}</span><div class="nm"><b>${esc(h.n)}</b><small>${esc(h.en && h.en.replace(/\s/g, "") !== h.n.replace(/\s/g, "") ? h.en : "")}</small></div><button type="button" class="onmap" data-map="${h.id}">지도</button></div>
-      <div class="tags"><span class="ta" style="border-color:${a.c};color:${a.c}">${esc(a.n)}</span>${h.why ? `<span class="tx">${esc(h.why)}</span>` : h.price <= (C.target || 0) * 1.15 ? '<span class="tg">💚 10만 원 안팎</span>' : ""}${h.cls ? `<span>${esc(h.cls)}</span>` : ""}${h.badge ? `<span class="tb">${esc(h.badge)}</span>` : ""}</div>
+      <div class="tags"><span class="ta" style="border-color:${a.c};color:${a.c}">${esc(a.n)}</span>${h.why ? `<span class="tx">${esc(h.why)}</span>` : h.price <= (C.target || 0) * 1.15 ? '<span class="tg">💚 10만 원 안팎</span>' : ""}${h.badge ? `<span class="tb">${esc(h.badge)}</span>` : ""}${amenTags(h)}${h.cls ? `<span>${esc(h.cls)}</span>` : ""}</div>
       <div class="kv">${priceBlk}
         <div><b>★ ${h.rating ?? "-"}</b><small>구글 ${(h.reviews || 0).toLocaleString()}개</small></div>
         <div><b>${h.st.m}분</b><small>${esc(h.st.n)}</small></div>
         <div><b>${h.food.n}곳</b><small>걸어서 10분 맛집</small></div></div>
       ${h.pros && h.pros.length ? `<ul class="pros">${h.pros.map((p) => `<li>${p}</li>`).join("")}${(h.cons || []).map((p) => `<li class="con">${p}</li>`).join("")}</ul>` : ""}
-      ${h.food.best.length ? `<p class="food">🍽 근처: ${h.food.best.map((b) => `${esc(b[0])} <small>${b[1]}</small>`).join(" · ")}</p>` : ""}
+      ${h.food.best.length ? `<p class="food">🍽 근처: ${h.food.best.map((b) => `<a href="./#${encodeURIComponent(b[2] || "")}">${esc(b[0])}</a> <small>${b[1]}</small>`).join(" · ")}</p>` : ""}
       ${vendTable(h)}
-      <div class="btns"><a class="b1" href="${esc(h.gurl)}" target="_blank" rel="noopener">구글에서 ${esc(C.whenShort)} 가격 보기</a><a href="${esc(h.murl)}" target="_blank" rel="noopener">구글맵</a><a href="./#near=${h.lat.toFixed(5)},${h.lng.toFixed(5)},${encodeURIComponent(h.short || h.n)}">🍽 근처 맛집</a></div>
+      <div class="btns"><a class="b1" href="${esc(h.gurl)}" target="_blank" rel="noopener">📅 ${esc(C.whenShort)} 가격</a><a href="${esc(h.murl)}" target="_blank" rel="noopener">📍 구글맵</a><a href="./#near=${h.lat.toFixed(5)},${h.lng.toFixed(5)},${encodeURIComponent(h.short || h.n)}">🍽 근처 맛집</a></div>
     </li>`;
   }
   function renderList() {
@@ -335,6 +390,7 @@
     $("foot").innerHTML = `<p><b>어떻게 골랐나</b>: 구글 호텔에서 ${Object.values(D.cities).map((c) => `${esc(c.ko)} ${esc(c.whenShort)}`).join(", ")}(성인 2명) 날짜로 권역별 숙소 목록(오사카 6개·교토 4개 권역, 수백 곳)을 훑은 뒤, <b>구글 평점 4.3 이상·리뷰 300개 이상·1박 8만 원 이상·예산 이하</b>만 남겼어요. 처음에 비교용으로 넣은 유명·고급 호텔은 '참고'로 따로 볼 수 있어요.</p>
       <p><b>가격</b>: ${esc(D.updated)} 조회, 세금·수수료 포함 원화. ${D.cities.osaka ? "오사카는 3박 평균 1박 요금이에요. " : ""}판매처 최저가라 객실·조식·취소 조건이 제각각이고, 연말이라 매일 바뀌어요. 예약 직전 카드의 '가격 보기'로 다시 확인하세요.</p>
       <p><b>추천순</b>: 권역 추천 순서 → 같은 권역 안에선 평점이 높고 가격이 낮고 역에서 가까운 순. <b>걸어서 10분 맛집</b>: 이 앱 맛집 지도 가게 중 숙소에서 직선 800m 안. <b>역까지 분</b>: 직선거리로 어림.</p>
+      <p><b>🚭·♨️·🧺 표시</b>: 구글 호텔 '편의시설'에 '금연 시설'·'공중목욕탕/천연 온천'·'셀프 세탁실'로 나온 곳만 붙였어요(표시가 없으면 '없음'이 아니라 '정보 없음'일 수 있어요). 조식은 구글상 대부분 '추가 요금'이라, 조식 포함 요금제인지는 예약할 때 확인하세요.</p>
       <p>🛏 비즈니스 호텔 더블룸은 12~15㎡로 좁아요. 캐리어 2개를 펼치려면 '트윈'이나 18㎡ 이상 객실을 고르세요. 🚭 예약할 때 객실명에 '禁煙(금연)'이 있는지 확인하세요.</p>
       <p><b>지도</b>는 실제 축척을 따른 간이 지도예요(노선·강은 단순화). 두 손가락으로 확대, 끌어서 이동.</p>`;
   }

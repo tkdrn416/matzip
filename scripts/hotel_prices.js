@@ -122,6 +122,19 @@ function parseVendors(t) {
       rec.minMore = ml ? won(ml[1]) : null;
       rec.soldout = /예약 가능한 객실이 없|매진|이 날짜에는 객실/.test(t2) && !rec.vendors.length;
       rec.priceMode = (t2.match(/(1박 요금 총액|전체 숙박 요금 총액|1박 요금|총 요금)/) || [])[1] || '';
+      // 편의시설(금연·조식·대욕장·세탁)
+      await p.goto('https://www.google.com/travel/hotels/entity/' + ent + '/details?hl=ko&gl=kr&ts=' + T, { waitUntil: 'domcontentloaded', timeout: 45000 });
+      await p.waitForTimeout(4000);
+      const L3 = (await p.evaluate(() => document.body.innerText)).split('\n').map((x) => x.trim()).filter(Boolean);
+      const iB = L3.indexOf('조식');
+      rec.amen = {
+        smokeFree: L3.includes('금연 시설'),
+        breakfast: iB < 0 ? null : /무료/.test(L3[iB + 1] || '') ? 'free' : /추가 요금/.test(L3[iB + 1] || '') ? 'paid' : 'yes',
+        bath: L3.includes('천연 온천') ? 'onsen' : L3.includes('공중목욕탕') ? 'bath' : null,
+        laundry: L3.includes('셀프 세탁실'),
+        checkin: ((L3.find((x) => /^체크인 시간/.test(x)) || '').split(': ')[1]) || null,
+        checkout: ((L3.find((x) => /^체크아웃 시간/.test(x)) || '').split(': ')[1]) || null,
+      };
       rec.ok = true;
     } catch (e) { rec.ok = false; rec.err = String(e.message || e).slice(0, 200); }
     out[h.id] = rec;

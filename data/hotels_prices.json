@@ -1912,12 +1912,12 @@
   "q": "Mitsui Garden Hotel Osaka Premier",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T09:43:17.223Z",
+  "at": "2026-11-22T10:29:43.368Z",
   "ent": "ChkI2-XB6PvT79mEARoML2cvMXB3M3d6MG42EAE",
   "name": "미쓰이 가든 호텔 오사카 프리미어",
   "cls": "4성급 호텔",
   "addr": "",
-  "headline": 161726,
+  "headline": 141028,
   "headlineDates": "12월 28일~31일",
   "rating": 4.3,
   "reviews": 2323,
@@ -1974,21 +1974,29 @@
     "note": "12월 24일까지 취소 수수료 없음"
    },
    {
-    "v": "JAPANiCAN.com",
-    "p": 207252,
-    "official": false,
-    "note": "12월 24일까지 취소 수수료 없음"
-   },
-   {
     "v": "Jalan",
     "p": 230308,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 207252,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
    }
   ],
-  "minMore": 171330,
+  "minMore": 186381,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "o-respire": {
@@ -2242,12 +2250,12 @@
   "q": "저스트 슬립 오사카 신사이바시",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:01:11.854Z",
+  "at": "2026-11-22T10:28:31.520Z",
   "ent": "ChkIv77A0KnP46VpGg0vZy8xMXRuZ2w3NnMwEAE",
   "name": "저스트 슬립 오사카 신사이바시",
   "cls": "3성급 호텔",
   "addr": "",
-  "headline": 106239,
+  "headline": 107350,
   "headlineDates": "12월 28일~31일",
   "rating": 4.8,
   "reviews": 2543,
@@ -2262,16 +2270,10 @@
     "note": ""
    },
    {
-    "v": "klook",
-    "p": 106239,
-    "official": false,
-    "note": ""
-   },
-   {
     "v": "Agoda",
     "p": 107350,
     "official": false,
-    "note": "12월 22일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "Ikyu.com",
@@ -2295,7 +2297,7 @@
     "v": "JAPANiCAN.com",
     "p": 120485,
     "official": false,
-    "note": "12월 7일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "AsiaYo",
@@ -2307,11 +2309,17 @@
     "v": "Jalan",
     "p": 174446,
     "official": false,
-    "note": "12월 25일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "Luxury Escapes",
     "p": 152939,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 172256,
     "official": false,
     "note": ""
    }
@@ -2319,6 +2327,14 @@
   "minMore": 153855,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-3": {
@@ -2326,7 +2342,7 @@
   "q": "호텔 코르디아 오사카",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:01:41.847Z",
+  "at": "2026-11-22T10:29:11.784Z",
   "ent": "ChoI152ziK2yvJTOARoNL2cvMTFjNWNjZDY2eBAB",
   "name": "호텔 코르디아 오사카",
   "cls": "3성급 호텔",
@@ -2339,12 +2355,6 @@
   "lng": 135.49689789011404,
   "perNight": true,
   "vendors": [
-   {
-    "v": "호텔 코르디아 오사카",
-    "p": 304807,
-    "official": true,
-    "note": ""
-   },
    {
     "v": "Booking.com",
     "p": 149805,
@@ -2370,12 +2380,6 @@
     "note": "12월 27일까지 취소 수수료 없음"
    },
    {
-    "v": "Vio.com",
-    "p": 154736,
-    "official": false,
-    "note": ""
-   },
-   {
     "v": "Expedia.co.kr",
     "p": 171408,
     "official": false,
@@ -2388,14 +2392,26 @@
     "note": ""
    },
    {
-    "v": "goseek.com",
-    "p": 154736,
+    "v": "Luxury Escapes",
+    "p": 174691,
     "official": false,
     "note": ""
    },
    {
-    "v": "Luxury Escapes",
-    "p": 174691,
+    "v": "JAPANiCAN.com",
+    "p": 263573,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 171283,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 286493,
     "official": false,
     "note": ""
    }
@@ -2403,6 +2419,14 @@
   "minMore": 168336,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-4": {
@@ -2410,7 +2434,7 @@
   "q": "The Royal Park Canvas Osaka Kitahama",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:02:04.937Z",
+  "at": "2026-11-22T10:29:10.235Z",
   "ent": "ChkIgtfZlJScu-haGg0vZy8xMWZoaDRfbnkwEAE",
   "name": "The Royal Park Canvas Osaka Kitahama",
   "cls": "4성급 호텔",
@@ -2433,13 +2457,13 @@
     "v": "Trip.com",
     "p": 107008,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 24일까지 취소 수수료 없음"
    },
    {
     "v": "여기어때",
     "p": 104379,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 24일까지 취소 수수료 없음"
    },
    {
     "v": "Ikyu.com",
@@ -2451,7 +2475,7 @@
     "v": "klook",
     "p": 105222,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 23일까지 취소 수수료 없음"
    },
    {
     "v": "라쿠텐 트래블",
@@ -2469,7 +2493,7 @@
     "v": "Luxury Escapes",
     "p": 102504,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 21일까지 취소 수수료 없음"
    },
    {
     "v": "Booking.com",
@@ -2478,9 +2502,17 @@
     "note": ""
    }
   ],
-  "minMore": 107429,
+  "minMore": 94855,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-5": {
@@ -2488,12 +2520,12 @@
   "q": "비아 인 신사이바시요츠바시",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:02:23.842Z",
+  "at": "2026-11-22T10:28:36.283Z",
   "ent": "ChoIssDYu5ro08WHARoNL2cvMTFoM2JndDAxNhAB",
   "name": "비아 인 신사이바시요츠바시",
   "cls": "3성급 호텔",
   "addr": "1 Chome-5-10 Shinmachi, Nishi Ward, Osaka, 550-0013 일본",
-  "headline": 103445,
+  "headline": 101104,
   "headlineDates": "12월 28일~31일",
   "rating": 4.5,
   "reviews": 834,
@@ -2502,9 +2534,9 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "비아 인 프라임 신사이바시 요츠바시",
-    "p": 113974,
-    "official": true,
+    "v": "klook",
+    "p": 101104,
+    "official": false,
     "note": ""
    },
    {
@@ -2538,8 +2570,20 @@
     "note": "12월 26일까지 취소 수수료 없음"
    },
    {
+    "v": "Vio.com",
+    "p": 104805,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
     "v": "라쿠텐 트래블",
     "p": 157666,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "goseek.com",
+    "p": 104805,
     "official": false,
     "note": "12월 27일까지 취소 수수료 없음"
    },
@@ -2548,23 +2592,19 @@
     "p": 145052,
     "official": false,
     "note": "12월 26일까지 취소 수수료 없음"
-   },
-   {
-    "v": "Luxury Escapes",
-    "p": 142986,
-    "official": false,
-    "note": "12월 23일까지 취소 수수료 없음"
-   },
-   {
-    "v": "Relux",
-    "p": 123672,
-    "official": false,
-    "note": "12월 26일까지 취소 수수료 없음"
    }
   ],
-  "minMore": null,
+  "minMore": 123672,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "ob-6": {
@@ -2572,7 +2612,7 @@
   "q": "미앤더 / 센츄리온 호텔 CEN 오사카 난바",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:03:00.478Z",
+  "at": "2026-11-22T10:27:56.576Z",
   "ent": "ChkI5fPyzp_BuuAxGg0vZy8xMWcyNHkybjF3EAE",
   "name": "미앤더 / 센츄리온 호텔 CEN 오사카 난바",
   "cls": "3성급 호텔",
@@ -2596,9 +2636,67 @@
     "p": 102998,
     "official": false,
     "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 119851,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 141186,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 125782,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 148832,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 134128,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Skyscanner",
+    "p": 119851,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hostelworld",
+    "p": 118601,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 119851,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 119851,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-7": {
@@ -2606,7 +2704,7 @@
   "q": "아이엠 호텔",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:03:17.074Z",
+  "at": "2026-11-22T10:28:16.559Z",
   "ent": "ChoItsHh1aOE7ZaxARoNL2cvMTFoOWs5bXozMBAB",
   "name": "아이엠 호텔",
   "cls": "3성급 호텔",
@@ -2630,9 +2728,67 @@
     "p": 158877,
     "official": false,
     "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 168537,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 176958,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 172251,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 186859,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 191499,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 196092,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 174560,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 195172,
+    "official": false,
+    "note": "12월 18일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 174560,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "ob-8": {
@@ -2752,7 +2908,7 @@
   "q": "Sakura Cross Hotel Kyoto Kiyomizudera",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:01:31.359Z",
+  "at": "2026-11-22T10:27:21.876Z",
   "ent": "ChoIt5eSqJ7QvsaFARoNL2cvMTF0MXA1djBnaBAB",
   "name": "(100)",
   "cls": "· 3성급 호텔",
@@ -2811,6 +2967,14 @@
   "minMore": null,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 4:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-3": {
@@ -3002,12 +3166,12 @@
   "q": "호텔 케이한 교토역 미나미",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:18.023Z",
+  "at": "2026-11-22T10:27:04.242Z",
   "ent": "ChkIp-bKoN_wu-AJGg0vZy8xMWcyXzZueDBjEAE",
   "name": "호텔 케이한 교토역 미나미",
   "cls": "4성급 호텔",
   "addr": "55 Higashikujo Muromachi, Minami Ward, Kyoto, 601-8001 일본",
-  "headline": 182912,
+  "headline": 169095,
   "headlineDates": "12월 27일~28일",
   "rating": 4.5,
   "reviews": 1291,
@@ -3016,19 +3180,41 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "Trip.com",
-    "p": 182912,
-    "official": false,
-    "note": "12월 23일까지 취소 수수료 없음"
-   },
-   {
     "v": "hanatour",
     "p": 211296,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Reserving",
+    "p": 188110,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 196807,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 304391,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-101": {
@@ -3036,12 +3222,12 @@
   "q": "Hotel M's Est Kyoto Station South",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:01:45.017Z",
+  "at": "2026-11-22T10:26:10.027Z",
   "ent": "ChoIu_HK-6fNjpfgARoNL2cvMTFmNTVqNDluOBAB",
   "name": "Hotel M's Est Kyoto Station South",
   "cls": "3성급 호텔",
   "addr": "7-7-5 Higashikujo Kitakarasumacho, Minami Ward, Kyoto, 601-8017 일본",
-  "headline": 83780,
+  "headline": 84496,
   "headlineDates": "12월 27일~28일",
   "rating": 4.3,
   "reviews": 725,
@@ -3057,13 +3243,19 @@
    },
    {
     "v": "Vio.com",
-    "p": 83780,
+    "p": 84496,
     "official": false,
     "note": ""
    },
    {
     "v": "여기어때",
     "p": 93952,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 84496,
     "official": false,
     "note": ""
    },
@@ -3102,17 +3294,19 @@
     "p": 156195,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
-   },
-   {
-    "v": "Expedia.co.kr",
-    "p": 93952,
-    "official": false,
-    "note": ""
    }
   ],
   "minMore": 93903,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": null,
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-102": {
@@ -3204,7 +3398,7 @@
   "q": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:02:54.799Z",
+  "at": "2026-11-22T10:26:10.085Z",
   "ent": "ChkI8YnZ3aSp9IJdGg0vZy8xMWs1ZjA5NmJrEAE",
   "name": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
   "cls": "4성급 호텔",
@@ -3218,19 +3412,77 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
-    "p": 130728,
-    "official": true,
-    "note": ""
-   },
-   {
     "v": "Agoda",
     "p": 88148,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 96955,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 179878,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 137224,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 131441,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 124531,
+    "official": false,
+    "note": "12월 17일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 242058,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Reserving",
+    "p": 131454,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Relux",
+    "p": 135602,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hutchgo (Hutchison Travel Limited)",
+    "p": 175336,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-104": {
@@ -3238,7 +3490,7 @@
   "q": "프린스 스마트 인 교토 산조",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:02:29.243Z",
+  "at": "2026-11-22T10:27:24.859Z",
   "ent": "ChoI75_b1tK4uoHSARoNL2cvMTFyX3hqMDlrchAB",
   "name": "프린스 스마트 인 교토 산조",
   "cls": "3성급 호텔",
@@ -3261,19 +3513,13 @@
     "v": "klook",
     "p": 113419,
     "official": false,
-    "note": "12월 21일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "Agoda",
     "p": 147494,
     "official": false,
-    "note": "12월 21일까지 취소 수수료 없음"
-   },
-   {
-    "v": "여기어때",
-    "p": 131424,
-    "official": false,
-    "note": "12월 22일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "라쿠텐 트래블",
@@ -3282,39 +3528,53 @@
     "note": ""
    },
    {
-    "v": "Booking.com",
-    "p": 131399,
+    "v": "여기어때",
+    "p": 131424,
     "official": false,
-    "note": "12월 21일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "Ikyu.com",
     "p": 151246,
     "official": false,
-    "note": "11월 28일까지 취소 수수료 없음"
+    "note": "12월 26일까지 취소 수수료 없음"
    },
    {
-    "v": "Expedia.co.kr",
-    "p": 131424,
+    "v": "Trip.com",
+    "p": 131416,
     "official": false,
-    "note": "12월 22일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
-    "v": "Hotels.com",
-    "p": 131424,
+    "v": "Booking.com",
+    "p": 131399,
     "official": false,
-    "note": "12월 22일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
    },
    {
     "v": "Jalan",
     "p": 149862,
     "official": false,
-    "note": "12월 26일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 131424,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
    }
   ],
   "minMore": 214612,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-105": {
@@ -3322,7 +3582,7 @@
   "q": "호텔 그레이스리 교토 산조",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:11.610Z",
+  "at": "2026-11-22T10:27:40.982Z",
   "ent": "ChoIw6zswImm1smqARoNL2cvMTFnNjk3N201aBAB",
   "name": "호텔 그레이스리 교토 산조",
   "cls": "4성급 호텔",
@@ -3336,19 +3596,77 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "Hotel Gracery Kyoto Sanjo",
-    "p": 286923,
-    "official": true,
-    "note": "12월 25일까지 취소 수수료 없음"
+    "v": "klook",
+    "p": 127493,
+    "official": false,
+    "note": ""
    },
    {
     "v": "Agoda",
     "p": 131017,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 132400,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 291167,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 287687,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "AsiaYo",
+    "p": 314087,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 282169,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 172996,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 296064,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 296064,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 267398,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-106": {
@@ -3356,7 +3674,7 @@
   "q": "아파 호텔 교토에키히가시",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:25.096Z",
+  "at": "2026-11-22T10:26:28.487Z",
   "ent": "ChkIw6bz7_z1mdUpGg0vZy8xMWdocTk4Ym4wEAE",
   "name": "아파 호텔 교토에키히가시",
   "cls": "3성급 호텔",
@@ -3380,9 +3698,67 @@
     "p": 118122,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 119917,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 120056,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 120056,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 120056,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 132044,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 139353,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 140016,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 134506,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 144869,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "ob-9": {
@@ -3390,7 +3766,7 @@
   "q": "Garner Hotel Osaka Honmachi Midosuji",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:03:46.675Z",
+  "at": "2026-11-22T10:29:07.255Z",
   "ent": "ChoI8a7ZvNelhoSBARoNL2cvMTF3N2t3cXNmMRAB",
   "name": "Garner Hotel Osaka Honmachi Midosuji",
   "cls": "3성급 호텔",
@@ -3408,9 +3784,67 @@
     "p": 91679,
     "official": true,
     "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 91679,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 91723,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 91679,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 90917,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 101866,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 91701,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 91701,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 91655,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 90917,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-10": {
@@ -3418,7 +3852,7 @@
   "q": "Shizutetsu Hotel Prezio Osaka-Shinsaibashi",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:04:03.879Z",
+  "at": "2026-11-22T10:28:54.162Z",
   "ent": "ChoI18D6uNOowNHIARoNL2cvMTFrcTZyM3NoaBAB",
   "name": "Shizutetsu Hotel Prezio Osaka-Shinsaibashi",
   "cls": "3성급 호텔",
@@ -3442,9 +3876,67 @@
     "p": 144523,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 157508,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 182530,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 189089,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 206048,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 157254,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "HomeToGo",
+    "p": 146563,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 169574,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 166293,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 166174,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-11": {
@@ -3486,7 +3978,7 @@
   "q": "호텔 그레이스리 오사카 난바",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:04:45.252Z",
+  "at": "2026-11-22T10:28:13.854Z",
   "ent": "ChkIiLbRiNSmnL0hGg0vZy8xMWdnaGR2MjJsEAE",
   "name": "호텔 그레이스리 오사카 난바",
   "cls": "4성급 호텔",
@@ -3509,10 +4001,68 @@
     "v": "klook",
     "p": 142974,
     "official": false,
-    "note": "12월 25일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 161610,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 174016,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 170456,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 181831,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Reserving",
+    "p": 162388,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 169552,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 183529,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 177802,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 193844,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-13": {
@@ -3520,7 +4070,7 @@
   "q": "베셀인 난바",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:04:58.317Z",
+  "at": "2026-11-22T10:28:18.164Z",
   "ent": "ChkI3_jugZGV36hjGg0vZy8xMW5zdjFfc2xmEAE",
   "name": "베셀인 난바",
   "cls": "4성급 호텔",
@@ -3534,19 +4084,77 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "VESSEL INN NAMBA",
-    "p": 194615,
-    "official": true,
-    "note": ""
-   },
-   {
     "v": "JAPANiCAN.com",
     "p": 142256,
     "official": false,
     "note": "12월 18일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 166738,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 205803,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 201593,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 204011,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 267427,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 210943,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 195424,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 294240,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 294240,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 181441,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-14": {
@@ -3554,7 +4162,7 @@
   "q": "호텔 포르자 오사카 키타하마",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:05:11.564Z",
+  "at": "2026-11-22T10:29:28.485Z",
   "ent": "ChkIqdC794nG74lkGg0vZy8xMWYwa3JrcnhsEAE",
   "name": "호텔 포르자 오사카 키타하마",
   "cls": "3성급 호텔",
@@ -3577,10 +4185,62 @@
     "v": "Agoda",
     "p": 128329,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 136223,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 170767,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 166452,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 150272,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 162222,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 148434,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 155472,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 138369,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-16": {
@@ -3588,11 +4248,11 @@
   "q": "UMEDAHOLIC HOTEL",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:05:33.200Z",
+  "at": "2026-11-22T10:29:47.702Z",
   "ent": "ChkI86nArqXNopwkGg0vZy8xMWhranBxeTl0EAE",
   "name": "(1.2천)",
-  "cls": "· 4성급 호텔",
-  "addr": "무료 Wi-Fi · Wi-Fi",
+  "cls": "· 3성급 호텔",
+  "addr": "무료 취소 · 무료 Wi-Fi",
   "headline": 143750,
   "headlineDates": "12월 28일~31일",
   "rating": 4.4,
@@ -3602,13 +4262,59 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "UMEDAHOLIC HOTEL",
-    "p": 160818,
-    "official": true,
+    "v": "Agoda",
+    "p": 147355,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 143750,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 161395,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 173116,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 202547,
+    "official": false,
     "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 206304,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Relux",
+    "p": 169651,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-20": {
@@ -3616,7 +4322,7 @@
   "q": "소테츠 프레사 인 오사카 난바 에키마에",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:05:49.086Z",
+  "at": "2026-11-22T10:28:34.049Z",
   "ent": "ChoI8M-Y-ZiumYnuARoNL2cvMTFoMTExaGMxeRAB",
   "name": "소테츠 프레사 인 오사카 난바 에키마에",
   "cls": "3성급 호텔",
@@ -3639,10 +4345,68 @@
     "v": "Agoda",
     "p": 148464,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 152746,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 150517,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 150517,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 194991,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 209279,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 171701,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 226603,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 179992,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 164383,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-22": {
@@ -3650,7 +4414,7 @@
   "q": "Super Hotel Premier Osaka Hommachi Ekimae",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:06:02.118Z",
+  "at": "2026-11-22T10:29:29.777Z",
   "ent": "ChoIotL08YuEq_GOARoNL2cvMTFjbGgzYjRweBAB",
   "name": "Super Hotel Premier Osaka Hommachi Ekimae",
   "cls": "3성급 호텔",
@@ -3667,16 +4431,62 @@
     "v": "Super Hotel Premier Osaka Hommachi Ekimae",
     "p": 115788,
     "official": true,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 27일까지 취소 수수료 없음"
    },
    {
     "v": "Agoda",
     "p": 122749,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 123088,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 138045,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 168107,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 126431,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 176011,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 175890,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": "onsen",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-23": {
@@ -3684,7 +4494,7 @@
   "q": "소테츠 프레사 인 오사카 신사이바시",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:06:15.004Z",
+  "at": "2026-11-22T10:28:51.965Z",
   "ent": "ChoI6Jy80beIh_PTARoNL2cvMTFmZDRubGx0bBAB",
   "name": "소테츠 프레사 인 오사카 신사이바시",
   "cls": "3성급 호텔",
@@ -3708,9 +4518,67 @@
     "p": 114891,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 116477,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 150244,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 162503,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 175957,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 145997,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 138263,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Reserving",
+    "p": 117803,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 156912,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 156793,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-24": {
@@ -3718,7 +4586,7 @@
   "q": "베셀인 신사이바시",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:06:27.941Z",
+  "at": "2026-11-22T10:28:49.526Z",
   "ent": "ChoI9cu16tDXm8HqARoNL2cvMTFjMm52dl9teBAB",
   "name": "베셀인 신사이바시",
   "cls": "4성급 호텔",
@@ -3741,10 +4609,68 @@
     "v": "Agoda",
     "p": 124129,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 128737,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 130332,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 136021,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 145083,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 180669,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Lion Travel 雄獅旅遊",
+    "p": 143287,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 149070,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 190219,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 143365,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-25": {
@@ -3752,7 +4678,7 @@
   "q": "다이와 로이넷 호텔 오사카 사카이스지 혼마치 프리미어",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:06:40.537Z",
+  "at": "2026-11-22T10:29:46.235Z",
   "ent": "ChoIj73Ej7H8jducARoNL2cvMTFwNXlyN3B5MhAB",
   "name": "다이와 로이넷 호텔 오사카 사카이스지 혼마치 프리미어",
   "cls": "4성급 호텔",
@@ -3766,19 +4692,77 @@
   "perNight": true,
   "vendors": [
    {
-    "v": "Daiwa Roynet Hotel 오오사카 사카이스지 혼마치 PREMIER",
-    "p": 165815,
-    "official": true,
-    "note": ""
-   },
-   {
     "v": "Agoda",
     "p": 129393,
     "official": false,
     "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 129824,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 131440,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 148617,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 151033,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 159188,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 157621,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 159319,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 159078,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 157518,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 169713,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": null,
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-26": {
@@ -3786,7 +4770,7 @@
   "q": "Garner Hotel Osaka Honmachi Station",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:06:57.037Z",
+  "at": "2026-11-22T10:29:25.235Z",
   "ent": "ChkI5IGuw9GGlL5DGg0vZy8xMXd0em4xOTV2EAE",
   "name": "Garner Hotel Osaka Honmachi Station",
   "cls": "3성급 호텔",
@@ -3804,9 +4788,67 @@
     "p": 104356,
     "official": true,
     "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 104130,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 104130,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 104155,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 104111,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 104130,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 104130,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 104155,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 104155,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 103264,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-27": {
@@ -3814,7 +4856,7 @@
   "q": "카네요시 료칸",
   "ci": "2026-12-28",
   "co": "2026-12-31",
-  "at": "2026-11-22T10:07:13.382Z",
+  "at": "2026-11-22T10:27:59.987Z",
   "ent": "ChgIprqI0vbCgd3zARoLL2cvMXRodHBoMDAQAQ",
   "name": "카네요시 료칸",
   "cls": "2성급 호텔",
@@ -3838,9 +4880,55 @@
     "p": 164992,
     "official": false,
     "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 196092,
+    "official": false,
+    "note": "12월 14일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 169992,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 177954,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Prestigia.com",
+    "p": 218507,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 168368,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 166592,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": "bath",
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "kb-10": {
@@ -3882,7 +4970,7 @@
   "q": "소테츠 프레사 인 교토 키요미즈고죠",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:54.807Z",
+  "at": "2026-11-22T10:24:03.325Z",
   "ent": "ChkI7NjSs8m8o9w1Gg0vZy8xMXBkeTV0a3lyEAE",
   "name": "소테츠 프레사 인 교토 키요미즈고죠",
   "cls": "3성급 호텔",
@@ -3899,16 +4987,74 @@
     "v": "소테츠 프레사 인 교토 키요미즈고죠",
     "p": 110017,
     "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 98944,
+    "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 101713,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 100004,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
    },
    {
     "v": "klook",
     "p": 99098,
     "official": false,
     "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 100312,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 115244,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 143960,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 100312,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "dealbase.com",
+    "p": 100312,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 100312,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-12": {
@@ -3916,7 +5062,7 @@
   "q": "Ala Hotel Kyoto",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:04:08.428Z",
+  "at": "2026-11-22T10:26:29.412Z",
   "ent": "ChoIqNPYk6DKmemoARoNL2cvMTF0NWN6XzN3OBAB",
   "name": "Ala Hotel Kyoto",
   "cls": "4성급 호텔",
@@ -3940,9 +5086,67 @@
     "p": 154737,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 156432,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 172561,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 156432,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 156432,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 170329,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 156432,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "HyperAir.com Hotel Booking",
+    "p": 159692,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 220978,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 190962,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "onsen",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-13": {
@@ -3950,7 +5154,7 @@
   "q": "TUNE STAY KYOTO",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:04:21.660Z",
+  "at": "2026-11-22T10:25:30.905Z",
   "ent": "ChkIt7Hj6vrLgflqGg0vZy8xMWZuMjNoXzBnEAE",
   "name": "TUNE STAY KYOTO",
   "cls": "3성급 호텔",
@@ -3967,16 +5171,74 @@
     "v": "TUNE STAY KYOTO",
     "p": 132171,
     "official": true,
-    "note": "12월 24일까지 취소 수수료 없음"
+    "note": "12월 23일까지 취소 수수료 없음"
    },
    {
     "v": "Reserving",
     "p": 101768,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 119217,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 111616,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 146857,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 132171,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 121142,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 141344,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 137344,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 140646,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 137282,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 4:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-14": {
@@ -3984,7 +5246,7 @@
   "q": "Hotel The M's Kyoto",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:04:39.735Z",
+  "at": "2026-11-22T10:25:48.134Z",
   "ent": "ChoI5IKUucr_xNOIARoNL2cvMTFsbGI3bW56dxAB",
   "name": "Hotel The M's Kyoto",
   "cls": "3성급 호텔",
@@ -4008,9 +5270,67 @@
     "p": 116069,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 126687,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 137248,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 285225,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 228180,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 128356,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 135864,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 137218,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 124956,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 135048,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-15": {
@@ -4018,7 +5338,7 @@
   "q": "Kyomachiya Ryokan Sakura Urushitei",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:04:56.475Z",
+  "at": "2026-11-22T10:24:56.437Z",
   "ent": "ChkI0L_r-4qR5uwyGg0vZy8xMWI3a2Rua3ZkEAE",
   "name": "Kyomachiya Ryokan Sakura Urushitei",
   "cls": "3성급 호텔",
@@ -4041,10 +5361,26 @@
     "v": "Booking.com",
     "p": 168801,
     "official": false,
-    "note": "12월 19일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 189257,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
    }
   ],
+  "minMore": null,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": null,
+   "bath": "bath",
+   "laundry": false,
+   "checkin": "오후 11:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-16": {
@@ -4120,7 +5456,7 @@
   "q": "HOTEL MUSSE KYŌTO SHIJŌ-KAWARAMACHI MEITETSU",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:05:42.882Z",
+  "at": "2026-11-22T10:27:58.735Z",
   "ent": "ChoItYOFqJymz8TqARoNL2cvMTFqaHQ2bncxMhAB",
   "name": "HOTEL MUSSE KYŌTO SHIJŌ-KAWARAMACHI MEITETSU",
   "cls": "3성급 호텔",
@@ -4144,9 +5480,67 @@
     "p": 198405,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 228280,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 254028,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 216624,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 250132,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 209856,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 217320,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 236896,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 267398,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 209856,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-21": {
@@ -4154,7 +5548,7 @@
   "q": "사쿠라 테라스 더 갤러리",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:05:59.507Z",
+  "at": "2026-11-22T10:26:48.360Z",
   "ent": "ChkIuIHzwfCfyaNJGg0vZy8xMWI3MHQ4OXhtEAE",
   "name": "사쿠라 테라스 더 갤러리",
   "cls": "4성급 호텔",
@@ -4178,9 +5572,67 @@
     "p": 163107,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 167604,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 168801,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 165224,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 187272,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 170152,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 193664,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "goseek.com",
+    "p": 165224,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Etrip.net",
+    "p": 165224,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 179584,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-22": {
@@ -4188,7 +5640,7 @@
   "q": "다이와 로이넷 교토 호텔 에키마에",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:06:12.523Z",
+  "at": "2026-11-22T10:27:06.370Z",
   "ent": "ChoI66aVn9yR-YbKARoNL2cvMTFieXlsazBtNxAB",
   "name": "다이와 로이넷 교토 호텔 에키마에",
   "cls": "4성급 호텔",
@@ -4212,9 +5664,67 @@
     "p": 208571,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 203684,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 213350,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 211720,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 246176,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 229190,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 244144,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 205104,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 228624,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 211472,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-23": {
@@ -4222,13 +5732,13 @@
   "q": "소테츠 프레사 인 교토 시조 가라스마",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:06:25.436Z",
+  "at": "2026-11-22T10:24:21.800Z",
   "ent": "ChoIwMeR6sXNhJerARoNL2cvMTFjc3A3N3piNRAB",
   "name": "소테츠 프레사 인 교토 시조 가라스마",
   "cls": "3성급 호텔",
   "addr": "160 Dojishacho, Shimogyo Ward, Kyoto, 600-8421 일본",
-  "headline": 120211,
-  "headlineDates": "12월 27일~28일",
+  "headline": null,
+  "headlineDates": null,
   "rating": 4.4,
   "reviews": 1250,
   "lat": 35.002303883610935,
@@ -4245,10 +5755,68 @@
     "v": "klook",
     "p": 120211,
     "official": false,
-    "note": "12월 24일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 122426,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 150516,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 158064,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 224042,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 146110,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 158741,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 155191,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 152336,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 148933,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-24": {
@@ -4256,19 +5824,31 @@
   "q": "호텔 리솔 교토 가와라마치 산조",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:06:38.261Z",
+  "at": "2026-11-22T10:27:38.743Z",
   "ent": "ChoIvvKs15z0rIe4ARoNL2cvMTFnMDF2dHlwbhAB",
   "name": "호텔 리솔 교토 가와라마치 산조",
   "cls": "3성급 호텔",
   "addr": "일본 〒604-8031 Kyoto, Nakagyo Ward, Daikokucho, 59-1",
-  "headline": 179471,
+  "headline": 179224,
   "headlineDates": "12월 27일~28일",
   "rating": 4.4,
-  "reviews": 1265,
+  "reviews": 1266,
   "lat": 35.007950492034944,
   "lng": 135.76922031088947,
   "perNight": true,
   "vendors": [
+   {
+    "v": "Hotel Resol Kyoto Kawaramachi Sanjo",
+    "p": 207128,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Traveloka.com",
+    "p": 179471,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
    {
     "v": "Agoda",
     "p": 185846,
@@ -4276,13 +5856,59 @@
     "note": ""
    },
    {
-    "v": "Traveloka.com",
-    "p": 179471,
+    "v": "Vio.com",
+    "p": 180416,
     "official": false,
-    "note": "12월 22일까지 취소 수수료 없음"
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 194084,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 210523,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 229488,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 218503,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 194819,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 226616,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 191718,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-25": {
@@ -4290,7 +5916,7 @@
   "q": "소테츠 프레사 인 교토 하치조구치",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:06:55.047Z",
+  "at": "2026-11-22T10:26:10.056Z",
   "ent": "ChoIrPzU9N-83MH_ARoNL2cvMTFjNXJzcW40YhAB",
   "name": "소테츠 프레사 인 교토 하치조구치",
   "cls": "3성급 호텔",
@@ -4314,9 +5940,67 @@
     "p": 116757,
     "official": false,
     "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 119769,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 136504,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Skyscanner",
+    "p": 121556,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 150516,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 149992,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 224042,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 150371,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 158741,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 233950,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-27": {
@@ -4324,7 +6008,7 @@
   "q": "Daiwa Roynet Hotel Kyoto Terrace Hachijo Higashiguchi",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:07:14.440Z",
+  "at": "2026-11-22T10:26:46.188Z",
   "ent": "ChkIgZeNtsbE1Io1Gg0vZy8xMWgxNDQybDV6EAE",
   "name": "Daiwa Roynet Hotel Kyoto Terrace Hachijo Higashiguchi",
   "cls": "4성급 호텔",
@@ -4338,6 +6022,12 @@
   "perNight": true,
   "vendors": [
    {
+    "v": "Daiwa Roynet Hotel 교토 테라스 하치조 PREMIER",
+    "p": 227587,
+    "official": true,
+    "note": ""
+   },
+   {
     "v": "klook",
     "p": 150442,
     "official": false,
@@ -4348,9 +6038,55 @@
     "p": 152417,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 166797,
+    "official": false,
+    "note": "11월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 169856,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 219224,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 216635,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 169264,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 205905,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 169768,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-30": {
@@ -4358,7 +6094,7 @@
   "q": "hotel androoms Kyoto Shichijo",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:07:42.966Z",
+  "at": "2026-11-22T10:27:22.412Z",
   "ent": "ChkIgvLan7yMuoYdGg0vZy8xMW13MDNfMHE0EAE",
   "name": "hotel androoms Kyoto Shichijo",
   "cls": "3성급 호텔",
@@ -4382,9 +6118,61 @@
     "p": 195455,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 198931,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 196192,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 238698,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 227096,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 291846,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 247832,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 287653,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 330235,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "kb-31": {
@@ -4392,12 +6180,12 @@
   "q": "교토 이토야 호텔",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:07:56.126Z",
+  "at": "2026-11-22T10:25:13.530Z",
   "ent": "ChkIqMSh2K2XlJ__ARoML2cvMWhtNGc3NHNkEAE",
   "name": "교토 이토야 호텔",
   "cls": "3성급 호텔",
   "addr": "일본 〒600-8416 Kyoto, Shimogyo Ward, Yakushimaecho, 712",
-  "headline": 158538,
+  "headline": 148104,
   "headlineDates": "12월 27일~28일",
   "rating": 4.4,
   "reviews": 442,
@@ -4409,16 +6197,68 @@
     "v": "교토 이토야 호텔",
     "p": 168079,
     "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 148104,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "goseek.com",
+    "p": 148104,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Etrip.net",
+    "p": 148104,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 168877,
+    "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
    },
    {
-    "v": "JAPANiCAN.com",
-    "p": 158538,
+    "v": "Trip.com",
+    "p": 172400,
+    "official": false,
+    "note": "12월 6일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 169997,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 186256,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 163699,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 197704,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-32": {
@@ -4426,7 +6266,7 @@
   "q": "컴포트 인 교토 시조 가라스마",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:08:13.028Z",
+  "at": "2026-11-22T10:24:39.412Z",
   "ent": "ChoI_rWs8fm8zuuWARoNL2cvMTFxX2JsXzdnZBAB",
   "name": "컴포트 인 교토 시조 가라스마",
   "cls": "3성급 호텔",
@@ -4450,9 +6290,67 @@
     "p": 124786,
     "official": false,
     "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 134680,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 160439,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 157230,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 163080,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 154864,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 123748,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 124643,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 178266,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 123748,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "kb-34": {
@@ -4460,7 +6358,7 @@
   "q": "비아 인 프라임 호텔 교토역 하치조구치점",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:08:34.873Z",
+  "at": "2026-11-22T10:26:46.464Z",
   "ent": "ChkInZe4ysDX-KQDGg0vZy8xMWZqNDl6Mzl3EAE",
   "name": "비아 인 프라임 호텔 교토역 하치조구치점",
   "cls": "3성급 호텔",
@@ -4483,10 +6381,68 @@
     "v": "Agoda",
     "p": 150431,
     "official": false,
-    "note": "6월 15일까지 취소 수수료 없음"
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 146032,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 160256,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 212730,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 177629,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 190345,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 174870,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 142808,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 171336,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 142808,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  },
  "kb-107": {
@@ -4494,7 +6450,7 @@
   "q": "OMO5 교토 산조 by 호시노 리조트",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:42.406Z",
+  "at": "2026-11-22T10:27:42.747Z",
   "ent": "ChkIvs7SxK-YjNdPGg0vZy8xMXIycXhqbjd4EAE",
   "name": "OMO5 교토 산조 by 호시노 리조트",
   "cls": "4성급 호텔",
@@ -4518,9 +6474,61 @@
     "p": 185286,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 198160,
+    "official": false,
+    "note": "12월 3일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 220808,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 185776,
+    "official": false,
+    "note": "12월 3일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 220523,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Etrip.net",
+    "p": 185776,
+    "official": false,
+    "note": "12월 3일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 210776,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 222832,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 198721,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "kb-108": {
@@ -4528,7 +6536,7 @@
   "q": "Rihga Gran Kyoto",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:03:58.722Z",
+  "at": "2026-11-22T10:27:04.021Z",
   "ent": "ChoInZioqsOWjtjrARoNL2cvMTFqNGp2NGYyeRAB",
   "name": "Rihga Gran Kyoto",
   "cls": "4성급 호텔",
@@ -4552,9 +6560,67 @@
     "p": 168189,
     "official": false,
     "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 175702,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 182152,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 256702,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Traveloka.com",
+    "p": 176411,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 226384,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 220234,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 182202,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 224615,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
    }
   ],
+  "minMore": 178753,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "ob-2": {
@@ -4596,7 +6662,7 @@
   "q": "Sanco Inn Kyoto Hachijoguchi",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T10:10:16.603Z",
+  "at": "2026-11-22T10:26:28.113Z",
   "ent": "ChkIiLDU7_vdjIU8Gg0vZy8xMWgyMnA3Z3c4EAE",
   "name": "산코 인 교토 하치조구치",
   "cls": "3성급 호텔",
@@ -4620,9 +6686,61 @@
     "p": 135108,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 169128,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 180609,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 200803,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 168328,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 180896,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 186797,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 200676,
+    "official": false,
+    "note": ""
    }
   ],
+  "minMore": 191303,
+  "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
   "ok": true
  }
 }
