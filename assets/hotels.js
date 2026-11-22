@@ -124,11 +124,12 @@
     });
     C.streets.forEach((l) => { s += `<polyline points="${pts(l)}" class="street"/>`; });
     C.rivers.forEach((l) => { s += `<polyline points="${pts(l)}" class="river"/>`; });
-    C.lines.forEach((l) => { s += `<polyline points="${pts(l.p)}" class="rail-case"/><polyline points="${pts(l.p)}" class="rail" style="stroke:${l.c}"/>`; });
+    C.lines.forEach((l) => { s += `<polyline points="${pts(l.p)}" class="rail" style="stroke:${l.c}"/>`; });
     // 맛집 점
     if (showDots) C.dots.forEach(([la, ln, sc]) => { const [x, y] = px(la, ln); if (x > -5 && y > -5 && x < w + 5 && y < h + 5) s += `<circle cx="${x.toFixed(1)}" cy="${y.toFixed(1)}" r="${zr > 2.5 ? 3 : 2.2}" class="dot${sc >= 3.6 ? " hi" : ""}"/>`; });
     // 역
     let lbl = "";
+    const bg = (b) => `<rect class="lbg" x="${(b.x - 2).toFixed(1)}" y="${(b.y - 1).toFixed(1)}" width="${(b.w + 4).toFixed(1)}" height="${(b.h + 2).toFixed(1)}" rx="3"/>`;
     const stationsDrawn = [];
     C.stations.forEach((st) => {
       const [x, y] = px(st.lat, st.lng);
@@ -211,7 +212,7 @@
       for (const [bx, by] of [[x + 7, y - th / 2], [x - 7 - t0, y - th / 2], [x - t0 / 2, y + 7], [x - t0 / 2, y - 7 - th]]) {
         const b = { x: bx, y: by, w: t0, h: th };
         if (!free(b)) continue;
-        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="st-t${st.m ? " main" : ""}">${esc(st.n)}</text>`;
+        take(b); lbl += bg(b) + `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="st-t${st.m ? " main" : ""}">${esc(st.n)}</text>`;
         return;
       }
     };
@@ -236,7 +237,7 @@
       for (const [bx, by] of [[x + ew / 2 + 2, y - th / 2], [x - ew / 2 - 2 - tw0, y - th / 2], [x - tw0 / 2, y + ew / 2 + 1], [x - tw0 / 2, y - ew / 2 - 1 - th]]) {
         const b = { x: bx, y: by, w: tw0, h: th };
         if (!free(b)) continue;
-        take(b); lbl += `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="lm-t">${esc(m.n)}</text>`;
+        take(b); lbl += bg(b) + `<text x="${bx.toFixed(1)}" y="${(by + th * 0.78).toFixed(1)}" class="lm-t">${esc(m.n)}</text>`;
         break;
       }
     });
@@ -245,7 +246,7 @@
       if (!zn.n) return;
       const [x, y] = px(zn.lat, zn.lng), r = mpx(zn.r) * (zn.sy || 1), mz = tm(zn.n, "", "zone-t"), t0 = mz.w;
       const b = { x: x - t0 / 2, y: y - r - 2, w: t0, h: mz.h };
-      if (free(b)) { take(b); lbl += `<text x="${x.toFixed(1)}" y="${(y - r - 2 + mz.h * 0.78).toFixed(1)}" class="zone-t" text-anchor="middle" style="fill:${areaOf(zn.k).c}">${esc(zn.n)}</text>`; }
+      if (free(b)) { take(b); lbl += bg(b) + `<text x="${x.toFixed(1)}" y="${(y - r - 2 + mz.h * 0.78).toFixed(1)}" class="zone-t" text-anchor="middle" style="fill:${areaOf(zn.k).c}">${esc(zn.n)}</text>`; }
     });
     // 축척
     const m500 = mpx(500), sc = m500 > 140 ? [250, mpx(250)] : m500 < 40 ? [1000, mpx(1000)] : [500, m500];
