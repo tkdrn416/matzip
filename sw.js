@@ -1,13 +1,13 @@
 // 오프라인 지원: 한 번 열어 두면 로밍이 끊겨도 목록·상세가 열리도록 앱 파일과 데이터를 저장.
 // 한국어 지도(OpenFreeMap) 타일은 본 적 있는 구역만 따로 저장(최대 TILE_MAX개) → 로밍이 끊겨도 가 본 동네 지도는 보임.
 // 구글 지도 타일은 약관상 저장하지 않음. GitHub Pages 등 https 에서만 동작.
-const CACHE = "matzip-v22";
+const CACHE = "matzip-v23";
 const TILE_CACHE = "matzip-tiles-v1";
 const TILE_MAX = 1500;
 const TILE_HOSTS = ["tiles.openfreemap.org"];
 const SHELL = [
   "./", "./index.html", "./list.html", "./manifest.webmanifest",
-  "./assets/style.css", "./assets/app.js", "./assets/config.js", "./data/restaurants.js", "./data/landmarks.js",
+  "./assets/style.css", "./assets/app.js", "./hotels.html", "./assets/hotels.js", "./assets/hotels.css", "./data/hotels.js", "./assets/config.js", "./data/restaurants.js", "./data/landmarks.js",
   "./assets/vendor/leaflet/leaflet.js", "./assets/vendor/leaflet/leaflet.css",
   "./assets/vendor/leaflet/leaflet.markercluster.js", "./assets/vendor/leaflet/MarkerCluster.css",
   "./assets/vendor/leaflet/MarkerCluster.Default.css", "./assets/icons/icon-192.png",

@@ -1747,6 +1747,7 @@
         <div class="t-btns"><button type="button" data-t="hotel-search">🔎 이름으로 찾기</button><button type="button" data-t="hotel-here">📍 지금 위치로</button>${hotel ? '<button type="button" data-t="hotel-del">지우기</button>' : ""}</div>
         ${tAdd === "search" && tFor === "hotel" ? searchBox("hotel") : ""}
         ${NOMAP ? "" : '<p class="cnote">지도를 길게 눌러 "숙소로 저장"해도 돼요.</p>'}
+        <p class="cnote"><a href="hotels.html">🏨 아직 숙소를 고르는 중이면: 교토·오사카 숙소 비교 →</a></p>
       </section>
       <div class="t-tabs">${trip.days.map((d) => `<button type="button" data-t="day" data-id="${d.id}" aria-pressed="${d === day}">${esc(dayLabel(d))}</button>`).join("")}<button type="button" data-t="day-add">＋ 일차</button></div>
       ${day ? `<section class="t-sec">
@@ -1923,6 +1924,13 @@
     state.favOnly = true;
     setTimeout(() => toast(`일행이 보낸 찜 ${ids.length}곳을 내 찜에 넣었어요 (새로 ${fav.size - before}곳)`), 600);
   })();
+  // 숙소 고르기 페이지의 '근처 맛집'(#near=위도,경도,이름) → 그 숙소 기준 가까운 좋은 곳 먼저
+  const nearM = location.hash.match(/^#near=(-?\d{1,3}\.\d+),(-?\d{1,3}\.\d+),?(.*)$/);
+  if (nearM) {
+    history.replaceState(null, "", location.pathname + location.search);
+    let nm = "고른 곳"; try { nm = decodeURIComponent(nearM[3] || "") || nm; } catch (e) { /* */ }
+    setTimeout(() => setRefPoint(L.latLng(+nearM[1], +nearM[2]), nm.slice(0, 30)), 350);
+  }
   // 필터 기억 (12시간): 폰이 백그라운드 탭을 새로 고쳐도 그대로. 없으면 오늘 날짜의 동선 일차를 자동 선택
   if (!loadFilters()) {
     const today = trip.days.find((d) => d.date === jstNow().date && d.stops.length);

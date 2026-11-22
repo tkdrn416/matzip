@@ -1,0 +1,38 @@
+<!doctype html>
+<html lang="ko">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>숙소 고르기 · 교토 1박 + 오사카 3박</title>
+<meta name="theme-color" content="#fbf8f3" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#14120f" media="(prefers-color-scheme: dark)">
+<link rel="icon" href="assets/icons/icon-192.png">
+<link rel="stylesheet" href="assets/hotels.css">
+</head>
+<body>
+<header class="top">
+  <a class="back" href="./">← 맛집 지도</a>
+  <h1>🏨 숙소 고르기</h1>
+  <p class="sub" id="sub"></p>
+</header>
+<nav class="ctabs" id="ctabs" role="tablist"></nav>
+<section class="pick" id="pick"></section>
+<section class="mapbox">
+  <div class="smap" id="smap" aria-label="간이 지도"></div>
+  <div class="zoom"><button type="button" id="zin" aria-label="확대">＋</button><button type="button" id="zout" aria-label="축소">－</button></div>
+  <div class="peek" id="peek" hidden></div>
+</section>
+<div class="presets" id="presets"></div>
+<div class="legend" id="legend"></div>
+<div class="tools">
+  <div class="seg" id="budgetSeg"></div>
+  <div class="seg" id="sortSeg"></div>
+  <div class="seg" id="areaSeg"></div>
+</div>
+<ol class="hlist" id="hlist"></ol>
+<footer class="foot" id="foot"></footer>
+<div class="toast" id="toast" hidden></div>
+<script src="data/hotels.js"></script>
+<script src="assets/hotels.js"></script>
+</body>
+</html>

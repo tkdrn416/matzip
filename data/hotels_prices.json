@@ -1,0 +1,4628 @@
+{
+ "k-granvia": {
+  "id": "k-granvia",
+  "q": "Hotel Granvia Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:35:52.684Z",
+  "ent": "ChgI4vfH6fLZ9c6zARoLL2cvMTIxcDZzN3QQAQ",
+  "name": "호텔 그란비아 교토",
+  "cls": "4성급 호텔",
+  "addr": "JR京都駅 Central Entrance, Shimogyo Ward, Kyoto, 600-8216 일본",
+  "headline": 241392,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 4955,
+  "lat": 34.98585847802603,
+  "lng": 135.75898216999292,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel Granvia Kyoto",
+    "p": 462964,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 241392,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 242379,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "dealbase.com",
+    "p": 241408,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 280160,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 293712,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 672652,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 422871,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 312080,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 312080,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 256866,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-thousand": {
+  "id": "k-thousand",
+  "q": "The Thousand Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:36:11.774Z",
+  "ent": "ChoI-r2c3Jbnhpa6ARoNL2cvMTFnMGo5eTNsahAB",
+  "name": "The Thousand Kyoto",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 854519,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 1551,
+  "lat": 34.98641960573468,
+  "lng": 135.76129211542565,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Luxury Escapes",
+    "p": 854519,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 884638,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Bookhotel.direct",
+    "p": 882839,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 874502,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-vischio": {
+  "id": "k-vischio",
+  "q": "Hotel Vischio Kyoto by Granvia",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:36:30.952Z",
+  "ent": "ChoIv4qJ2PrwtoD9ARoNL2cvMTFndnQ0d3o4bBAB",
+  "name": "호텔 비스키오 교토 바이 그란비아",
+  "cls": "4성급 호텔",
+  "addr": "44番地1 Higashikujo Kamitonodacho, Minami Ward, Kyoto, 601-8002 일본",
+  "headline": 219730,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 1594,
+  "lat": 34.98324803257664,
+  "lng": 135.7596219260931,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 219730,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 255480,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 327194,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hanatour",
+    "p": 312912,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 323184,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 435477,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 233416,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 333866,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 353029,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 400639,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 279645,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-miyako": {
+  "id": "k-miyako",
+  "q": "Miyako City Kintetsu Kyoto Station",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:36:50.697Z",
+  "ent": "ChgIjsyRr9OgkZ1SGgwvZy8xMWNmdjQ3cG4QAQ",
+  "name": "미야코 시티 긴테쓰교토역",
+  "cls": "4성급 호텔",
+  "addr": "1-9 Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215 일본",
+  "headline": 152799,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.2,
+  "reviews": 2191,
+  "lat": 34.984816924186674,
+  "lng": 135.75750910764634,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 134251,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 152799,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "HyperAir.com Hotel Booking",
+    "p": 149374,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 258025,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-richmond": {
+  "id": "k-richmond",
+  "q": "Richmond Hotel Premier Kyoto Ekimae",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:37:10.450Z",
+  "ent": "ChoIn5zDhKravsutARoNL2cvMTFnY3l4MnNmYhAB",
+  "name": "리치몬드 호텔 프리미어 교토 에키마에",
+  "cls": "3성급 호텔",
+  "addr": "",
+  "headline": 229740,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.6,
+  "reviews": 1619,
+  "lat": 34.98732453475646,
+  "lng": 135.7545555274324,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Trip.com",
+    "p": 229752,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 229740,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 266125,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 272464,
+    "official": false,
+    "note": "12월 16일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 373509,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 298807,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 311710,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 333941,
+    "official": false,
+    "note": "12월 13일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 381664,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Reserving",
+    "p": 275920,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 274529,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-rihga": {
+  "id": "k-rihga",
+  "q": "RIHGA Royal Hotel Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:37:29.360Z",
+  "ent": "ChkIi7b8-Pbhjc5GGg0vZy8xMWYwd3gyMHhoEAE",
+  "name": "리가 로얄 호텔 교토",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 209768,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.1,
+  "reviews": 6060,
+  "lat": 34.98638530026652,
+  "lng": 135.7526951269299,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 211525,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 209768,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 211976,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Skyscanner",
+    "p": 211976,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 224882,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 525459,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 363993,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 416400,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 245412,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 241317,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-gate": {
+  "id": "k-gate",
+  "q": "THE GATE HOTEL Kyoto Takasegawa by HULIC",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:37:48.901Z",
+  "ent": "ChkIst_goqiVrqcrGg0vZy8xMWd5MjlmM2tkEAE",
+  "name": "더 게이트 호텔 교토 다카세가와 바이 훌릭",
+  "cls": "5성급 호텔",
+  "addr": "일본 〒604-8023 Kyoto, Nakagyo Ward, Bizenjimacho, 310-2",
+  "headline": 367804,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 1187,
+  "lat": 35.005862805442135,
+  "lng": 135.770094407464,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 367804,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 376959,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 370544,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "dealbase.com",
+    "p": 370544,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 412982,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 425216,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 901316,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 515035,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 405888,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 425216,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 425312,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-cross": {
+  "id": "k-cross",
+  "q": "Cross Hotel Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:38:08.190Z",
+  "ent": "ChoI6uGR_7qar-D6ARoNL2cvMTFmNzE1ejd0bBAB",
+  "name": "크로스 호텔 교토",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 254166,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.7,
+  "reviews": 2485,
+  "lat": 35.00822768662537,
+  "lng": 135.76972531036483,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 254166,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 634965,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 382672,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 364171,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 662129,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 468800,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 439728,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 506529,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 443644,
+    "official": false,
+    "note": "12월 18일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jcation -ジェイケーション-",
+    "p": 461793,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 389336,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-goodnature": {
+  "id": "k-goodnature",
+  "q": "Good Nature Hotel Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:38:27.056Z",
+  "ent": "ChkIgeqj6tLprsYvGg0vZy8xMWgxbWtfX2NtEAE",
+  "name": "Good Nature Hotel Kyoto",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 536053,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1050,
+  "lat": 35.002629277216286,
+  "lng": 135.7691693194036,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "GOOD NATURE HOTEL KYOTO",
+    "p": 977642,
+    "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 536053,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Skyscanner",
+    "p": 540896,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 546496,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 623584,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 625572,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 1035367,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 770769,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 745632,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 741008,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 774907,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-courtyard": {
+  "id": "k-courtyard",
+  "q": "コートヤード・バイ・マリオット京都四条烏丸",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:45:21.835Z",
+  "ent": "ChkIpoSto9DQ-KZ_Gg0vZy8xMXlqNjRoM2w1EAE",
+  "name": "Courtyard by Marriott Kyoto Shijo Karasuma",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 347888,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 148,
+  "lat": 35.001443880176886,
+  "lng": 135.75927648421126,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Courtyard by Marriott Kyoto Shijo Karasuma",
+    "p": 410860,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 390317,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 410860,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 411056,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 410860,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 410860,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 407440,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 410960,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 410960,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 410396,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-okura": {
+  "id": "k-okura",
+  "q": "Hotel Okura Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:46:23.434Z",
+  "ent": "ChkIqZfw17bwoKurARoML2cvMXlsNTdqcHF5EAE",
+  "name": "교토 호텔 오쿠라",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 310000,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 5109,
+  "lat": 35.01184400520768,
+  "lng": 135.76942637491047,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel Okura Kyoto",
+    "p": 350589,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 321184,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 351285,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 370792,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 315836,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 351353,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 390317,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 390400,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 365331,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 356640,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 346464,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-ace": {
+  "id": "k-ace",
+  "q": "Ace Hotel Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:38:57.021Z",
+  "ent": "ChkIibz824TA8JZ0Gg0vZy8xMWY1YngzazR4EAE",
+  "name": "에이스호텔 교토",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 709856,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.6,
+  "reviews": 1643,
+  "lat": 35.009773997842636,
+  "lng": 135.75997980854862,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Ace Hotel Kyoto",
+    "p": 968639,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "dealbase.com",
+    "p": 709856,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 716694,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 730816,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 777815,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 911660,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 989792,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 1025856,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 903424,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 963274,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 969696,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-celestine": {
+  "id": "k-celestine",
+  "q": "Hotel The Celestine Kyoto Gion",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:39:17.406Z",
+  "ent": "ChkIy_OlsoPMiclOGg0vZy8xMWM2cWhzM3hsEAE",
+  "name": "호텔 더 셀레스틴 교토 기온",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 553461,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.6,
+  "reviews": 1360,
+  "lat": 34.99854650570866,
+  "lng": 135.77374293013312,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "The Celestine Hotel Gion",
+    "p": 675372,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 553461,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 662496,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 708343,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 848416,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 769924,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 594427,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 812110,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 692927,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 754336,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 793914,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "k-mitsuishijo": {
+  "id": "k-mitsuishijo",
+  "q": "Mitsui Garden Hotel Kyoto Shijo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T09:39:36.824Z",
+  "ent": "ChkIyPrVz8y-0KdpGg0vZy8xMWJ3YzVjZ2c1EAE",
+  "name": "미쓰이 가든 호텔 교토 시조",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 181440,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.1,
+  "reviews": 2599,
+  "lat": 35.00296958651353,
+  "lng": 135.75503752256068,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Mitsui Garden Hotel Kyōto Shijō",
+    "p": 240574,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 181440,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hanatour",
+    "p": 198272,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 275955,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 261405,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 278448,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 215447,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 214184,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 193104,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 252679,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 227340,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-swissotel": {
+  "id": "o-swissotel",
+  "q": "Swissotel Nankai Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:39:56.545Z",
+  "ent": "ChcIvYLruJWcsfNHGgsvZy8xMjMyaHozORAB",
+  "name": "스위소텔 난카이 오사카",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 535851,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 6055,
+  "lat": 34.664157384613695,
+  "lng": 135.50114407206345,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Swissôtel Nankai Osaka",
+    "p": 540343,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 540343,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 540587,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 540320,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 552623,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 540459,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Skyscanner",
+    "p": 535851,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 543505,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 540459,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 535851,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-oriental": {
+  "id": "o-oriental",
+  "q": "Namba Oriental Hotel",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:40:15.652Z",
+  "ent": "ChgIs6aIubLEw7HiARoLL2cvMXY1Xzk5d3IQAQ",
+  "name": "난바 오리엔탈 호텔",
+  "cls": "3성급 호텔",
+  "addr": "2 Chome-8-17 Sennichimae, Chuo Ward, Osaka, 542-0074 일본",
+  "headline": 260671,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.1,
+  "reviews": 3711,
+  "lat": 34.66576660744752,
+  "lng": 135.50372938013837,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Booking.com",
+    "p": 266866,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 260671,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 275200,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 286130,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 401918,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 326389,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 325289,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 446513,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 289832,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 405201,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 293365,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-cross": {
+  "id": "o-cross",
+  "q": "Cross Hotel Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:40:34.540Z",
+  "ent": "ChoInpSS8Ofgn5nGARoNL2cvMTFiN2Zja3Z3ZhAB",
+  "name": "크로스 호텔 오사카",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 380238,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 3623,
+  "lat": 34.66971476188423,
+  "lng": 135.5007624659904,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "라쿠텐 트래블",
+    "p": 921039,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 380238,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 536282,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 390080,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 460437,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 520354,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jcation -ジェイケーション-",
+    "p": 465709,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Amimir.com",
+    "p": 417761,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 467366,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 462921,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-candeo": {
+  "id": "o-candeo",
+  "q": "Candeo Hotels Osaka Namba",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:40:53.205Z",
+  "ent": "ChkI3Zf9nZfixpMrGg0vZy8xMWR4bDJoMDluEAE",
+  "name": "칸데오 호텔 오사카 난바",
+  "cls": "4성급 호텔",
+  "addr": "2 Chome-2-5 Higashishinsaibashi, Chuo Ward, Osaka, 542-0083 일본",
+  "headline": 228250,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.2,
+  "reviews": 3598,
+  "lat": 34.670561771536924,
+  "lng": 135.50603510346832,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 228250,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 254778,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 436032,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 246731,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 372852,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 382609,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 326347,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 281098,
+    "official": false,
+    "note": "12월 18일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Prestigia.com",
+    "p": 334677,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 325156,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-royalclassic": {
+  "id": "o-royalclassic",
+  "q": "Hotel Royal Classic Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:41:11.966Z",
+  "ent": "ChkItfbgj477n9JhGg0vZy8xMWY3M18yNzZuEAE",
+  "name": "호텔 로열 클래식 오사카",
+  "cls": "4성급 호텔",
+  "addr": "4 Chome-3-3 Namba, Chuo Ward, Osaka, 542-0076 일본",
+  "headline": 413689,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.4,
+  "reviews": 1386,
+  "lat": 34.665943218247534,
+  "lng": 135.50000480084222,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "호텔 로얄 클래식 오사카",
+    "p": 413689,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 479659,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 536308,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 668751,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 584320,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 669962,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 496767,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 493717,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 627608,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 528043,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 493539,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-nikko": {
+  "id": "o-nikko",
+  "q": "Hotel Nikko Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:41:30.740Z",
+  "ent": "ChgIl56pj4eT2bzqARoLL2cvMTIyMHdkNV8QAQ",
+  "name": "호텔 닛코 오사카",
+  "cls": "3성급 호텔",
+  "addr": "",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.2,
+  "reviews": 6704,
+  "lat": 34.67390020823589,
+  "lng": 135.49971051217543,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel Nikko Osaka",
+    "p": 230896,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "hanatour",
+    "p": 178613,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 179284,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 186709,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 196352,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 191827,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Lion Travel 雄獅旅遊",
+    "p": 205338,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 230944,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 230944,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 224920,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 226976,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-w": {
+  "id": "o-w",
+  "q": "W Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:41:49.897Z",
+  "ent": "ChkInaaNvoi7r8YlGg0vZy8xMXFuZ3I1ZjlkEAE",
+  "name": "W 오사카",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 1144107,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 2119,
+  "lat": 34.67783482056384,
+  "lng": 135.50008261648188,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "W Osaka",
+    "p": 1168200,
+    "official": true,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 1168200,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 1159751,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 1159751,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 1168200,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 1159734,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 1159734,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 1159198,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 1160021,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 1166722,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-grids": {
+  "id": "o-grids",
+  "q": "Grids Premium Hotel Osaka Namba",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:42:08.939Z",
+  "ent": "ChkI0oOc28__2fMHGg0vZy8xMWxsMjE3ZndwEAE",
+  "name": "그릿즈 프리미엄 호텔 오사카 난바",
+  "cls": "4성급 호텔",
+  "addr": "1 Chome-7-7 Nanbanaka, Naniwa Ward, Osaka, 556-0011 일본",
+  "headline": 202930,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.2,
+  "reviews": 830,
+  "lat": 34.66475486363313,
+  "lng": 135.49874768617343,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "그리드스 프리미엄 호텔 오사카 난바",
+    "p": 245648,
+    "official": true,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 202930,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 210144,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 212560,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 240616,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 234123,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 223358,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 249357,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 261118,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 257888,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 235057,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-conrad": {
+  "id": "o-conrad",
+  "q": "Conrad Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:42:39.715Z",
+  "ent": "ChoIhJfO9NXxysiSARoNL2cvMTFnbXpsa2pzbhAB",
+  "name": "콘래드 오사카",
+  "cls": "5성급 호텔",
+  "addr": "",
+  "headline": 1397285,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.6,
+  "reviews": 3974,
+  "lat": 34.693331711012675,
+  "lng": 135.49563532132512,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Conrad Osaka",
+    "p": 1397285,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 1397285,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 1397973,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 1397845,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 1397285,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Reserving",
+    "p": 1397285,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Pilot",
+    "p": 1415444,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 1555314,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Prestigia.com",
+    "p": 1432405,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 1894873,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 1467304,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-fresa": {
+  "id": "o-fresa",
+  "q": "Sotetsu Fresa Inn Yodoyabashi",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:42:58.829Z",
+  "ent": "ChkIjLPwnuuQxaBKGg0vZy8xMWYzenRybV8zEAE",
+  "name": "소테츠 프레사 인 기타하마",
+  "cls": "3성급 호텔",
+  "addr": "2 Chome-4-10 Koraibashi, Chuo Ward, Osaka, 541-0043 일본",
+  "headline": 81680,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.2,
+  "reviews": 1094,
+  "lat": 34.68985562972118,
+  "lng": 135.50488801769546,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "소테츠 프레사 인 기타하마",
+    "p": 84958,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 81680,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 84724,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 92128,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 95274,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 102491,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 92240,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 92265,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 99136,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 120151,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 88441,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-mitsuipremier": {
+  "id": "o-mitsuipremier",
+  "q": "Mitsui Garden Hotel Osaka Premier",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:43:17.223Z",
+  "ent": "ChkI2-XB6PvT79mEARoML2cvMXB3M3d6MG42EAE",
+  "name": "미쓰이 가든 호텔 오사카 프리미어",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 161726,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 2323,
+  "lat": 34.692277152792244,
+  "lng": 135.49329386626943,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Mitsui Garden Hotel Osaka Premier",
+    "p": 207750,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 141028,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 161726,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 215141,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 167389,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 241056,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 230319,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 161957,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 207252,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 230308,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 171330,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-respire": {
+  "id": "o-respire",
+  "q": "Hotel Hankyu RESPIRE OSAKA",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:43:36.324Z",
+  "ent": "ChkIzt_o09uA9I8_Gg0vZy8xMWZsMDk2X3drEAE",
+  "name": "호텔 한큐 레스파이어 오사카",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 209259,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 4618,
+  "lat": 34.70470143943452,
+  "lng": 135.49614733465398,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 212289,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "dealbase.com",
+    "p": 209259,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 222383,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 228633,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 231482,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 232309,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Reserving",
+    "p": 222120,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 253474,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 261515,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Traveloka.com",
+    "p": 235792,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 235937,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-omo7": {
+  "id": "o-omo7",
+  "q": "OMO7 Osaka by Hoshino Resorts",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:43:54.933Z",
+  "ent": "ChoIuvGikd-J26mXARoNL2cvMTFmbHQwdmcyeRAB",
+  "name": "OMO7오사카 by 호시노리조트",
+  "cls": "5성급 호텔",
+  "addr": "3 Chome-16-30 Ebisunishi, Naniwa Ward, Osaka, 556-0003 일본",
+  "headline": 256533,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 2478,
+  "lat": 34.65081353790541,
+  "lng": 135.50188952897068,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 260222,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "dealbase.com",
+    "p": 256533,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Skyscanner",
+    "p": 259648,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 341081,
+    "official": false,
+    "note": "12월 6일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 382933,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 321909,
+    "official": false,
+    "note": "11월 30일까지 취소 수수료 없음"
+   },
+   {
+    "v": "AsiaYo",
+    "p": 346978,
+    "official": false,
+    "note": "11월 28일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 382933,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Prestigia.com",
+    "p": 309931,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 379279,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "o-marriott": {
+  "id": "o-marriott",
+  "q": "Osaka Marriott Miyako Hotel",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T09:44:13.962Z",
+  "ent": "ChcI3rKgwJvQy_ZZGgsvZy8xMjI5dzU1ahAB",
+  "name": "오사카 메리어트 미야코 호텔",
+  "cls": "5성급 호텔",
+  "addr": "1 Chome-1-43 Abenosuji, Abeno Ward, Osaka, 545-0052 일본",
+  "headline": 496832,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 3812,
+  "lat": 34.64579531542567,
+  "lng": 135.51429749356586,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Osaka Marriott Miyako Hotel",
+    "p": 536200,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 496832,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 536448,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 689429,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 675649,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 536320,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 604134,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 531733,
+    "official": false,
+    "note": "12월 28일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 535963,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 536320,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 544054,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-1": {
+  "id": "ob-1",
+  "q": "저스트 슬립 오사카 신사이바시",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:01:11.854Z",
+  "ent": "ChkIv77A0KnP46VpGg0vZy8xMXRuZ2w3NnMwEAE",
+  "name": "저스트 슬립 오사카 신사이바시",
+  "cls": "3성급 호텔",
+  "addr": "",
+  "headline": 106239,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.8,
+  "reviews": 2543,
+  "lat": 34.67793679829309,
+  "lng": 135.50357999428326,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "捷絲旅大阪心齋橋",
+    "p": 165494,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 106239,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 107350,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 170569,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 174446,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 153416,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 120485,
+    "official": false,
+    "note": "12월 7일까지 취소 수수료 없음"
+   },
+   {
+    "v": "AsiaYo",
+    "p": 168079,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 174446,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 152939,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 153855,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-3": {
+  "id": "ob-3",
+  "q": "호텔 코르디아 오사카",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:01:41.847Z",
+  "ent": "ChoI152ziK2yvJTOARoNL2cvMTFjNWNjZDY2eBAB",
+  "name": "호텔 코르디아 오사카",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-3-25 Edobori, Nishi Ward, Osaka, 550-0002 일본",
+  "headline": 149805,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.6,
+  "reviews": 1252,
+  "lat": 34.691424964934924,
+  "lng": 135.49689789011404,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "호텔 코르디아 오사카",
+    "p": 304807,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 149805,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 168147,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 230158,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 254347,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 154736,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 171408,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 171408,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 154736,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 174691,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 168336,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-4": {
+  "id": "ob-4",
+  "q": "The Royal Park Canvas Osaka Kitahama",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:02:04.937Z",
+  "ent": "ChkIgtfZlJScu-haGg0vZy8xMWZoaDRfbnkwEAE",
+  "name": "The Royal Park Canvas Osaka Kitahama",
+  "cls": "4성급 호텔",
+  "addr": "일본 〒541-0041 Osaka, Chuo Ward, Kitahama, 1 Chome−9−8 ｻﾞ･ﾛｲﾔﾙﾊﾟｰｸｷｬﾝﾊﾟｽ大阪北浜 1F",
+  "headline": 89653,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 1224,
+  "lat": 34.6909207666116,
+  "lng": 135.50692320068845,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 89653,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 107008,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 104379,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 119715,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 105222,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 126512,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "HyperAir.com Hotel Booking",
+    "p": 95405,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 102504,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 141707,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 107429,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-5": {
+  "id": "ob-5",
+  "q": "비아 인 신사이바시요츠바시",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:02:23.842Z",
+  "ent": "ChoIssDYu5ro08WHARoNL2cvMTFoM2JndDAxNhAB",
+  "name": "비아 인 신사이바시요츠바시",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-5-10 Shinmachi, Nishi Ward, Osaka, 550-0013 일본",
+  "headline": 103445,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 834,
+  "lat": 34.675729792389085,
+  "lng": 135.49635990811814,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "비아 인 프라임 신사이바시 요츠바시",
+    "p": 113974,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 103445,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 106750,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 107232,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 110587,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 117469,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 157666,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 145052,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 142986,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Relux",
+    "p": 123672,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-6": {
+  "id": "ob-6",
+  "q": "미앤더 / 센츄리온 호텔 CEN 오사카 난바",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:03:00.478Z",
+  "ent": "ChkI5fPyzp_BuuAxGg0vZy8xMWcyNHkybjF3EAE",
+  "name": "미앤더 / 센츄리온 호텔 CEN 오사카 난바",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-5-16 Motomachi, Naniwa Ward, Osaka, 556-0016 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.5,
+  "reviews": 704,
+  "lat": 34.664553262437785,
+  "lng": 135.49704747048227,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "MEANDER Osaka",
+    "p": 118844,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 102998,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-7": {
+  "id": "ob-7",
+  "q": "아이엠 호텔",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:03:17.074Z",
+  "ent": "ChoItsHh1aOE7ZaxARoNL2cvMTFoOWs5bXozMBAB",
+  "name": "아이엠 호텔",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-5-13 Sennichimae, Chuo Ward, Osaka, 542-0074 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.5,
+  "reviews": 466,
+  "lat": 34.66778998202882,
+  "lng": 135.5043787142514,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Ikyu.com",
+    "p": 145018,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 158877,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-8": {
+  "id": "ob-8",
+  "q": "Hotel Noum Osaka",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:03:34.017Z",
+  "ent": "ChoI263D2KaI6_vMARoNL2cvMTFoNzY1Ym5rbRAB",
+  "name": "Hotel Noum Osaka",
+  "cls": "3성급 호텔",
+  "addr": "4 Chome-1-18 Tenma, Kita Ward, Osaka, 530-0043 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.5,
+  "reviews": 458,
+  "lat": 34.692286591702846,
+  "lng": 135.51462000228918,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 84583,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 83397,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-1": {
+  "id": "kb-1",
+  "q": "Miru Kyoto Nishiki",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:01:11.781Z",
+  "ent": "ChkIyIXZ1Mmix5c-Gg0vZy8xMWY2NnRja3l3EAE",
+  "name": "Miru Kyoto Nishiki",
+  "cls": "3성급 호텔",
+  "addr": "424 Izutsuyacho, Nakagyo Ward, Kyoto, 604-8113 일본",
+  "headline": 195158,
+  "headlineDates": "12월 27일~28일",
+  "rating": 5,
+  "reviews": 258,
+  "lat": 35.00640380739401,
+  "lng": 135.76408932192007,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 195158,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 209335,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 209335,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 229248,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 210080,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 280200,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 229248,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 229248,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 210971,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 312374,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-2": {
+  "id": "kb-2",
+  "q": "Sakura Cross Hotel Kyoto Kiyomizudera",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:01:31.359Z",
+  "ent": "ChoIt5eSqJ7QvsaFARoNL2cvMTF0MXA1djBnaBAB",
+  "name": "(100)",
+  "cls": "· 3성급 호텔",
+  "addr": "무료 취소 · 무료 Wi-Fi",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.9,
+  "reviews": 2646,
+  "lat": 34.99507180258191,
+  "lng": 135.7693353854927,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "公式サイト",
+    "p": 173172,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 203088,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 206976,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 204952,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 204811,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 193864,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 191777,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-3": {
+  "id": "kb-3",
+  "q": "Saju Kyoto 茶住京都",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:01:54.767Z",
+  "ent": "ChoIiOfxu6aH-9r_ARoNL2cvMTFmYjBjbjB5eBAB",
+  "name": "Saju Kyoto 茶住京都",
+  "cls": "2성급 호텔",
+  "addr": "107 Butsukoji Higashimachi, Shimogyo Ward, Kyoto, 600-8054 일본",
+  "headline": 163351,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.9,
+  "reviews": 215,
+  "lat": 35.00128181032432,
+  "lng": 135.764176106722,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "茶住京都（Saju Kyoto）",
+    "p": 199090,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 163351,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 186822,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 185168,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 176752,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 186864,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 185041,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-6": {
+  "id": "kb-6",
+  "q": "KANSEI京都八条",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:02:26.264Z",
+  "ent": "ChkIuNqgvYX87aIJGg0vZy8xMXgxZmQ2NnJtEAE",
+  "name": "KANSEI京都八条",
+  "cls": "3성급 호텔",
+  "addr": "15-2 Higashikujo Higashiiwamotocho, Minami Ward, Kyoto, 601-8006 일본",
+  "headline": 77953,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.7,
+  "reviews": 365,
+  "lat": 34.98397007256906,
+  "lng": 135.76469356438355,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "KANSEI Kyoto Hachijo",
+    "p": 101866,
+    "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 77953,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 91876,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 90393,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 106450,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 103598,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 87704,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 107364,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 86674,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 112053,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": null,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-7": {
+  "id": "kb-7",
+  "q": "위베이스 교토",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:05.097Z",
+  "ent": "ChoIvpen8_aBsP6hARoNL2cvMTFncmMzOWRrcxAB",
+  "name": "위베이스 교토",
+  "cls": "2성급 호텔",
+  "addr": "436-1 Iwatoyamacho, Shimogyo Ward, Kyoto, 600-8445 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.6,
+  "reviews": 442,
+  "lat": 35.000329725144326,
+  "lng": 135.7566092105179,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "WeBase 교토",
+    "p": 80558,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 70172,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-8": {
+  "id": "kb-8",
+  "q": "호텔 케이한 교토역 미나미",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:18.023Z",
+  "ent": "ChkIp-bKoN_wu-AJGg0vZy8xMWcyXzZueDBjEAE",
+  "name": "호텔 케이한 교토역 미나미",
+  "cls": "4성급 호텔",
+  "addr": "55 Higashikujo Muromachi, Minami Ward, Kyoto, 601-8001 일본",
+  "headline": 182912,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 1291,
+  "lat": 34.983871113767,
+  "lng": 135.7577264015455,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Trip.com",
+    "p": 182912,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hanatour",
+    "p": 211296,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-101": {
+  "id": "kb-101",
+  "q": "Hotel M's Est Kyoto Station South",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:01:45.017Z",
+  "ent": "ChoIu_HK-6fNjpfgARoNL2cvMTFmNTVqNDluOBAB",
+  "name": "Hotel M's Est Kyoto Station South",
+  "cls": "3성급 호텔",
+  "addr": "7-7-5 Higashikujo Kitakarasumacho, Minami Ward, Kyoto, 601-8017 일본",
+  "headline": 83780,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 725,
+  "lat": 34.981841082964564,
+  "lng": 135.7595862030778,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel M's Est Kyoto Station South",
+    "p": 154242,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 83780,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 93952,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 89150,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 97044,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 89680,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 93929,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 93972,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 156195,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 93952,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 93903,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-102": {
+  "id": "kb-102",
+  "q": "컴포트 호텔 교토 호리카와 고조",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:02:04.349Z",
+  "ent": "ChoIseWCuqvtn6z3ARoNL2cvMTFqNXYwNDNuNxAB",
+  "name": "컴포트 호텔 교토 호리카와 고조",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8338 Kyoto, Shimogyo Ward, Sensuicho, 134-32",
+  "headline": 97936,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 612,
+  "lat": 34.99561601604554,
+  "lng": 135.75288839407042,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Comfort Hotel Kyoto Horikawagojo",
+    "p": 157043,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 97936,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 109930,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 98092,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 138928,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 134675,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 141616,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 144480,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 157043,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 157080,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 109016,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-103": {
+  "id": "kb-103",
+  "q": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:02:54.799Z",
+  "ent": "ChkI8YnZ3aSp9IJdGg0vZy8xMWs1ZjA5NmJrEAE",
+  "name": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
+  "cls": "4성급 호텔",
+  "addr": "57 Higashikujo Muromachi, Minami Ward, Kyoto, 601-8001 일본",
+  "headline": 88148,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 623,
+  "lat": 34.98321233150649,
+  "lng": 135.75779921872441,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "REF Kyoto Hachijoguchi by VESSEL HOTELS",
+    "p": 130728,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 88148,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-104": {
+  "id": "kb-104",
+  "q": "프린스 스마트 인 교토 산조",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:02:29.243Z",
+  "ent": "ChoI75_b1tK4uoHSARoNL2cvMTFyX3hqMDlrchAB",
+  "name": "프린스 스마트 인 교토 산조",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒604-8086 Kyoto, Nakagyo Ward, Maruyacho, 325 プリンス スマート イン 京都三条",
+  "headline": 113419,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 503,
+  "lat": 35.00932811706897,
+  "lng": 135.76658618379588,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Prince Smart Inn Kyoto Sanjo",
+    "p": 138860,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 113419,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 147494,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 131424,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 149862,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 131399,
+    "official": false,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 151246,
+    "official": false,
+    "note": "11월 28일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 131424,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 131424,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 149862,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 214612,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-105": {
+  "id": "kb-105",
+  "q": "호텔 그레이스리 교토 산조",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:11.610Z",
+  "ent": "ChoIw6zswImm1smqARoNL2cvMTFnNjk3N201aBAB",
+  "name": "호텔 그레이스리 교토 산조",
+  "cls": "4성급 호텔",
+  "addr": "420 Sakuranocho, Nakagyo Ward, Kyoto, 604-8035 일본",
+  "headline": 131017,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 1872,
+  "lat": 35.00782722351989,
+  "lng": 135.7670939037241,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel Gracery Kyoto Sanjo",
+    "p": 286923,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 131017,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-106": {
+  "id": "kb-106",
+  "q": "아파 호텔 교토에키히가시",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:25.096Z",
+  "ent": "ChkIw6bz7_z1mdUpGg0vZy8xMWdocTk4Ym4wEAE",
+  "name": "아파 호텔 교토에키히가시",
+  "cls": "3성급 호텔",
+  "addr": "552-1 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216 일본",
+  "headline": 118122,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 1507,
+  "lat": 34.98784337914802,
+  "lng": 135.761424020645,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "【アパ直】アパホテル",
+    "p": 130728,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 118122,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-9": {
+  "id": "ob-9",
+  "q": "Garner Hotel Osaka Honmachi Midosuji",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:03:46.675Z",
+  "ent": "ChoI8a7ZvNelhoSBARoNL2cvMTF3N2t3cXNmMRAB",
+  "name": "Garner Hotel Osaka Honmachi Midosuji",
+  "cls": "3성급 호텔",
+  "addr": "3 Chome-2-7 Awajimachi, Chuo Ward, Osaka, 541-0047 일본",
+  "headline": 90821,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 337,
+  "lat": 34.68674029942518,
+  "lng": 135.5030122316695,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Garner Hotel Osaka Honmachi Midosuji",
+    "p": 91679,
+    "official": true,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-10": {
+  "id": "ob-10",
+  "q": "Shizutetsu Hotel Prezio Osaka-Shinsaibashi",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:04:03.879Z",
+  "ent": "ChoI18D6uNOowNHIARoNL2cvMTFrcTZyM3NoaBAB",
+  "name": "Shizutetsu Hotel Prezio Osaka-Shinsaibashi",
+  "cls": "3성급 호텔",
+  "addr": "",
+  "headline": 144523,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 331,
+  "lat": 34.67886647911301,
+  "lng": 135.4983146798017,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 144757,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 144523,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-11": {
+  "id": "ob-11",
+  "q": "호텔 아마넥 오사카 난바",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:04:17.648Z",
+  "ent": "ChoI3u-YhrfSpt_YARoNL2cvMTF4X3MwODVyehAB",
+  "name": "호텔 아마넥 오사카 난바",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-9-7 Sennichimae, Chuo Ward, Osaka, 542-0074 일본",
+  "headline": 118861,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.5,
+  "reviews": 250,
+  "lat": 34.667472724773724,
+  "lng": 135.50394529640167,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 118861,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 153280,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-12": {
+  "id": "ob-12",
+  "q": "호텔 그레이스리 오사카 난바",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:04:45.252Z",
+  "ent": "ChkIiLbRiNSmnL0hGg0vZy8xMWdnaGR2MjJsEAE",
+  "name": "호텔 그레이스리 오사카 난바",
+  "cls": "4성급 호텔",
+  "addr": "1 Chome-4-4 Motomachi, Naniwa Ward, Osaka, 556-0016 일본",
+  "headline": 142974,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.4,
+  "reviews": 986,
+  "lat": 34.66573539758721,
+  "lng": 135.49750376545921,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel Gracery Osaka Namba",
+    "p": 170071,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 142974,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-13": {
+  "id": "ob-13",
+  "q": "베셀인 난바",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:04:58.317Z",
+  "ent": "ChkI3_jugZGV36hjGg0vZy8xMW5zdjFfc2xmEAE",
+  "name": "베셀인 난바",
+  "cls": "4성급 호텔",
+  "addr": "2 Chome-2-18 Dotonbori, Chuo Ward, Osaka, 542-0071 일본",
+  "headline": 142256,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.4,
+  "reviews": 781,
+  "lat": 34.668654777308625,
+  "lng": 135.4995612110048,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "VESSEL INN NAMBA",
+    "p": 194615,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 142256,
+    "official": false,
+    "note": "12월 18일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-14": {
+  "id": "ob-14",
+  "q": "호텔 포르자 오사카 키타하마",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:05:11.564Z",
+  "ent": "ChkIqdC794nG74lkGg0vZy8xMWYwa3JrcnhsEAE",
+  "name": "호텔 포르자 오사카 키타하마",
+  "cls": "3성급 호텔",
+  "addr": "2 Chome-2-21 Imabashi, Chuo Ward, Osaka, 541-0042 일본",
+  "headline": 124552,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.4,
+  "reviews": 729,
+  "lat": 34.69027501536193,
+  "lng": 135.5061942073662,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 124552,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 128329,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-16": {
+  "id": "ob-16",
+  "q": "UMEDAHOLIC HOTEL",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:05:33.200Z",
+  "ent": "ChkI86nArqXNopwkGg0vZy8xMWhranBxeTl0EAE",
+  "name": "(1.2천)",
+  "cls": "· 4성급 호텔",
+  "addr": "무료 Wi-Fi · Wi-Fi",
+  "headline": 143750,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.4,
+  "reviews": 458,
+  "lat": 34.70087901731665,
+  "lng": 135.50489830307816,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "UMEDAHOLIC HOTEL",
+    "p": 160818,
+    "official": true,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-20": {
+  "id": "ob-20",
+  "q": "소테츠 프레사 인 오사카 난바 에키마에",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:05:49.086Z",
+  "ent": "ChoI8M-Y-ZiumYnuARoNL2cvMTFoMTExaGMxeRAB",
+  "name": "소테츠 프레사 인 오사카 난바 에키마에",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-6-5 Nanbanaka, Naniwa Ward, Osaka, 556-0011 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.3,
+  "reviews": 1561,
+  "lat": 34.664824916992195,
+  "lng": 135.4992419698707,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Sotetsu Fresa Inn Osaka-Namba",
+    "p": 163552,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 148464,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-22": {
+  "id": "ob-22",
+  "q": "Super Hotel Premier Osaka Hommachi Ekimae",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:06:02.118Z",
+  "ent": "ChoIotL08YuEq_GOARoNL2cvMTFjbGgzYjRweBAB",
+  "name": "Super Hotel Premier Osaka Hommachi Ekimae",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-5-10 Nishihonmachi, Nishi Ward, Osaka, 550-0005 일본",
+  "headline": 122749,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 1185,
+  "lat": 34.68233766218845,
+  "lng": 135.49621917517254,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Super Hotel Premier Osaka Hommachi Ekimae",
+    "p": 115788,
+    "official": true,
+    "note": "6월 15일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 122749,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-23": {
+  "id": "ob-23",
+  "q": "소테츠 프레사 인 오사카 신사이바시",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:06:15.004Z",
+  "ent": "ChoI6Jy80beIh_PTARoNL2cvMTFmZDRubGx0bBAB",
+  "name": "소테츠 프레사 인 오사카 신사이바시",
+  "cls": "3성급 호텔",
+  "addr": "1 Chome-12-23 Higashishinsaibashi, Chuo Ward, Osaka, 542-0083 일본",
+  "headline": 114891,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 927,
+  "lat": 34.67465643174535,
+  "lng": 135.5040446239696,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "소테츠 프레사 인 오사카 신사이바시",
+    "p": 143055,
+    "official": true,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 114891,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-24": {
+  "id": "ob-24",
+  "q": "베셀인 신사이바시",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:06:27.941Z",
+  "ent": "ChoI9cu16tDXm8HqARoNL2cvMTFjMm52dl9teBAB",
+  "name": "베셀인 신사이바시",
+  "cls": "4성급 호텔",
+  "addr": "2 Chome-12-11 Minamisenba, Chuo Ward, Osaka, 542-0081 일본",
+  "headline": 124129,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 917,
+  "lat": 34.67539218339986,
+  "lng": 135.50381849402564,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "VESSEL INN SHINSAIBASHI",
+    "p": 138085,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 124129,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-25": {
+  "id": "ob-25",
+  "q": "다이와 로이넷 호텔 오사카 사카이스지 혼마치 프리미어",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:06:40.537Z",
+  "ent": "ChoIj73Ej7H8jducARoNL2cvMTFwNXlyN3B5MhAB",
+  "name": "다이와 로이넷 호텔 오사카 사카이스지 혼마치 프리미어",
+  "cls": "4성급 호텔",
+  "addr": "일본 〒541-0053 Osaka, Chuo Ward, Honmachi, 1 Chome−5−10 ダイワロイネットホテル大阪堺筋本町 PREMIER 1階",
+  "headline": 129393,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.3,
+  "reviews": 511,
+  "lat": 34.683751883700744,
+  "lng": 135.50768112116717,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Daiwa Roynet Hotel 오오사카 사카이스지 혼마치 PREMIER",
+    "p": 165815,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 129393,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-26": {
+  "id": "ob-26",
+  "q": "Garner Hotel Osaka Honmachi Station",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:06:57.037Z",
+  "ent": "ChkI5IGuw9GGlL5DGg0vZy8xMXd0em4xOTV2EAE",
+  "name": "Garner Hotel Osaka Honmachi Station",
+  "cls": "3성급 호텔",
+  "addr": "4 Chome-4-10 Kitakyuhojimachi, Chuo Ward, Osaka, 541-0057 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.3,
+  "reviews": 398,
+  "lat": 34.68014616870929,
+  "lng": 135.4984815964177,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Garner Hotel Osaka Honmachi Station",
+    "p": 104356,
+    "official": true,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-27": {
+  "id": "ob-27",
+  "q": "카네요시 료칸",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:07:13.382Z",
+  "ent": "ChgIprqI0vbCgd3zARoLL2cvMXRodHBoMDAQAQ",
+  "name": "카네요시 료칸",
+  "cls": "2성급 호텔",
+  "addr": "3-12 Souemoncho, Chuo Ward, Osaka, 542-0084 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.3,
+  "reviews": 351,
+  "lat": 34.66926000008298,
+  "lng": 135.5054740003921,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Ikyu.com",
+    "p": 97486,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 164992,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-10": {
+  "id": "kb-10",
+  "q": "Royal Twin Hotel Kyoto Hachijoguchi",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:41.756Z",
+  "ent": "ChoIgN2FzKWitNX8ARoNL2cvMTFoN3pmbjRkaxAB",
+  "name": "Royal Twin Hotel Kyoto Hachijoguchi",
+  "cls": "4성급 호텔",
+  "addr": "46-2 Higashikujo Muromachi, Minami Ward, Kyoto, 601-8001 일본",
+  "headline": 225514,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 950,
+  "lat": 34.983211478861364,
+  "lng": 135.7581782747938,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "로열 트윈 호텔 교토-하치조구치",
+    "p": 325462,
+    "official": true,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 225514,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-11": {
+  "id": "kb-11",
+  "q": "소테츠 프레사 인 교토 키요미즈고죠",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:54.807Z",
+  "ent": "ChkI7NjSs8m8o9w1Gg0vZy8xMXBkeTV0a3lyEAE",
+  "name": "소테츠 프레사 인 교토 키요미즈고죠",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8103 Kyoto, Shimogyo Ward, Shiogamacho, 391-1",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.5,
+  "reviews": 917,
+  "lat": 34.99630479840687,
+  "lng": 135.76440890773367,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "소테츠 프레사 인 교토 키요미즈고죠",
+    "p": 110017,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 99098,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-12": {
+  "id": "kb-12",
+  "q": "Ala Hotel Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:04:08.428Z",
+  "ent": "ChoIqNPYk6DKmemoARoNL2cvMTF0NWN6XzN3OBAB",
+  "name": "Ala Hotel Kyoto",
+  "cls": "4성급 호텔",
+  "addr": "일본 〒600-8212 Kyoto, Shimogyo Ward, Shiokojicho, 518",
+  "headline": 154737,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 849,
+  "lat": 34.988559091530284,
+  "lng": 135.76146647048347,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "ALA HOTEL KYOTO",
+    "p": 529703,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 154737,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-13": {
+  "id": "kb-13",
+  "q": "TUNE STAY KYOTO",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:04:21.660Z",
+  "ent": "ChkIt7Hj6vrLgflqGg0vZy8xMWZuMjNoXzBnEAE",
+  "name": "TUNE STAY KYOTO",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8310 Kyoto, Shimogyo Ward, Ebisunocho, 708",
+  "headline": 101768,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 833,
+  "lat": 34.98910939162952,
+  "lng": 135.75624838872125,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "TUNE STAY KYOTO",
+    "p": 132171,
+    "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Reserving",
+    "p": 101768,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-14": {
+  "id": "kb-14",
+  "q": "Hotel The M's Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:04:39.735Z",
+  "ent": "ChoI5IKUucr_xNOIARoNL2cvMTFsbGI3bW56dxAB",
+  "name": "Hotel The M's Kyoto",
+  "cls": "3성급 호텔",
+  "addr": "6 Higashikujo Higashisannocho, Minami Ward, Kyoto, 601-8004 일본",
+  "headline": 116069,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 781,
+  "lat": 34.982205830175005,
+  "lng": 135.7612568973724,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Hotel The M's Kyoto",
+    "p": 206550,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 116069,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-15": {
+  "id": "kb-15",
+  "q": "Kyomachiya Ryokan Sakura Urushitei",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:04:56.475Z",
+  "ent": "ChkI0L_r-4qR5uwyGg0vZy8xMWI3a2Rua3ZkEAE",
+  "name": "Kyomachiya Ryokan Sakura Urushitei",
+  "cls": "3성급 호텔",
+  "addr": "425 Kichimonjicho, Shimogyo Ward, Kyoto, 600-8069 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.5,
+  "reviews": 778,
+  "lat": 35.0000556651275,
+  "lng": 135.76436349011246,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 159955,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 168801,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-16": {
+  "id": "kb-16",
+  "q": "Travelodge Kyoto Shijo Karasuma",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:05:08.896Z",
+  "ent": "ChkIy6X3wqq21cFQGg0vZy8xMWxfZzZqZzF3EAE",
+  "name": "Travelodge Kyoto Shijo Karasuma",
+  "cls": "3성급 호텔",
+  "addr": "848-2 Matsuuracho, Nakagyo Ward, Kyoto, 604-8362 일본",
+  "headline": 85652,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 719,
+  "lat": 35.00460708176503,
+  "lng": 135.7509715195007,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Travelodge Kyoto Shijo Karasuma",
+    "p": 89472,
+    "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 85652,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-17": {
+  "id": "kb-17",
+  "q": "hotel MONday KYOTO KARASUMANIJO",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:05:25.779Z",
+  "ent": "ChoIvPGCvvrfm7OWARoNL2cvMTFmbV9icHZkahAB",
+  "name": "hotel MONday KYOTO KARASUMANIJO",
+  "cls": "3성급 호텔",
+  "addr": "261-1 Makieyacho, Nakagyo Ward, Kyoto, 604-0857 일본",
+  "headline": 94481,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 639,
+  "lat": 35.01407641663365,
+  "lng": 135.75921559645232,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "hotel MONday 烏丸二条",
+    "p": 133224,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 94481,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-18": {
+  "id": "kb-18",
+  "q": "HOTEL MUSSE KYŌTO SHIJŌ-KAWARAMACHI MEITETSU",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:05:42.882Z",
+  "ent": "ChoItYOFqJymz8TqARoNL2cvMTFqaHQ2bncxMhAB",
+  "name": "HOTEL MUSSE KYŌTO SHIJŌ-KAWARAMACHI MEITETSU",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒604-8033 Kyoto, Nakagyo Ward, Narayacho, 3丁目301番地1",
+  "headline": 198405,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 574,
+  "lat": 35.006106623362285,
+  "lng": 135.7689451021698,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 199471,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 198405,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-21": {
+  "id": "kb-21",
+  "q": "사쿠라 테라스 더 갤러리",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:05:59.507Z",
+  "ent": "ChkIuIHzwfCfyaNJGg0vZy8xMWI3MHQ4OXhtEAE",
+  "name": "사쿠라 테라스 더 갤러리",
+  "cls": "4성급 호텔",
+  "addr": "39番地 Higashikujo Kamitonodacho, Minami Ward, Kyoto, 601-8002 일본",
+  "headline": 163107,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 2865,
+  "lat": 34.98278751643524,
+  "lng": 135.75843389710013,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "SAKURA TERRACE THE GALLERY",
+    "p": 211643,
+    "official": true,
+    "note": "12월 21일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 163107,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-22": {
+  "id": "kb-22",
+  "q": "다이와 로이넷 교토 호텔 에키마에",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:06:12.523Z",
+  "ent": "ChoI66aVn9yR-YbKARoNL2cvMTFieXlsazBtNxAB",
+  "name": "다이와 로이넷 교토 호텔 에키마에",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 191763,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1654,
+  "lat": 34.98871968398549,
+  "lng": 135.75915261169095,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "JAPANiCAN.com",
+    "p": 191763,
+    "official": false,
+    "note": "12월 17일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 208571,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-23": {
+  "id": "kb-23",
+  "q": "소테츠 프레사 인 교토 시조 가라스마",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:06:25.436Z",
+  "ent": "ChoIwMeR6sXNhJerARoNL2cvMTFjc3A3N3piNRAB",
+  "name": "소테츠 프레사 인 교토 시조 가라스마",
+  "cls": "3성급 호텔",
+  "addr": "160 Dojishacho, Shimogyo Ward, Kyoto, 600-8421 일본",
+  "headline": 120211,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1250,
+  "lat": 35.002303883610935,
+  "lng": 135.75881028265272,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Sotetsu Fresa Inn Kyoto-Shijokarasuma",
+    "p": 140575,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 120211,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-24": {
+  "id": "kb-24",
+  "q": "호텔 리솔 교토 가와라마치 산조",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:06:38.261Z",
+  "ent": "ChoIvvKs15z0rIe4ARoNL2cvMTFnMDF2dHlwbhAB",
+  "name": "호텔 리솔 교토 가와라마치 산조",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒604-8031 Kyoto, Nakagyo Ward, Daikokucho, 59-1",
+  "headline": 179471,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1265,
+  "lat": 35.007950492034944,
+  "lng": 135.76922031088947,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 185846,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Traveloka.com",
+    "p": 179471,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-25": {
+  "id": "kb-25",
+  "q": "소테츠 프레사 인 교토 하치조구치",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:06:55.047Z",
+  "ent": "ChoIrPzU9N-83MH_ARoNL2cvMTFjNXJzcW40YhAB",
+  "name": "소테츠 프레사 인 교토 하치조구치",
+  "cls": "3성급 호텔",
+  "addr": "１１番地 Higashikujo Nishisannocho, Minami Ward, Kyoto, 601-8003 일본",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.4,
+  "reviews": 1219,
+  "lat": 34.98286761340449,
+  "lng": 135.76100429719045,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "소테츠 프레사 인 교토에키 하지조구치",
+    "p": 140579,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 116757,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-27": {
+  "id": "kb-27",
+  "q": "Daiwa Roynet Hotel Kyoto Terrace Hachijo Higashiguchi",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:07:14.440Z",
+  "ent": "ChkIgZeNtsbE1Io1Gg0vZy8xMWgxNDQybDV6EAE",
+  "name": "Daiwa Roynet Hotel Kyoto Terrace Hachijo Higashiguchi",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 150442,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 746,
+  "lat": 34.98423288193413,
+  "lng": 135.7614063754081,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 150442,
+    "official": false,
+    "note": "11월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 152417,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-30": {
+  "id": "kb-30",
+  "q": "hotel androoms Kyoto Shichijo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:07:42.966Z",
+  "ent": "ChkIgvLan7yMuoYdGg0vZy8xMW13MDNfMHE0EAE",
+  "name": "hotel androoms Kyoto Shichijo",
+  "cls": "3성급 호텔",
+  "addr": "730 Ebisunocho, Shimogyo Ward, Kyoto, 600-8310 일본",
+  "headline": 195455,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 448,
+  "lat": 34.98908351428701,
+  "lng": 135.7571320092717,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "hotel androoms Kyoto Shichijo",
+    "p": 245039,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 195455,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-31": {
+  "id": "kb-31",
+  "q": "교토 이토야 호텔",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:07:56.126Z",
+  "ent": "ChkIqMSh2K2XlJ__ARoML2cvMWhtNGc3NHNkEAE",
+  "name": "교토 이토야 호텔",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8416 Kyoto, Shimogyo Ward, Yakushimaecho, 712",
+  "headline": 158538,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 442,
+  "lat": 34.99914596792851,
+  "lng": 135.75939688600633,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "교토 이토야 호텔",
+    "p": 168079,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 158538,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-32": {
+  "id": "kb-32",
+  "q": "컴포트 인 교토 시조 가라스마",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:08:13.028Z",
+  "ent": "ChoI_rWs8fm8zuuWARoNL2cvMTFxX2JsXzdnZBAB",
+  "name": "컴포트 인 교토 시조 가라스마",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒604-8221 Kyoto, Nakagyo Ward, Tenjinyamacho, 284-1",
+  "headline": 111170,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 395,
+  "lat": 35.00485266737564,
+  "lng": 135.7575302946618,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Booking.com",
+    "p": 111170,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 124786,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-34": {
+  "id": "kb-34",
+  "q": "비아 인 프라임 호텔 교토역 하치조구치점",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:08:34.873Z",
+  "ent": "ChkInZe4ysDX-KQDGg0vZy8xMWZqNDl6Mzl3EAE",
+  "name": "비아 인 프라임 호텔 교토역 하치조구치점",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒601-8002 Kyoto, Minami Ward, Higashikujo Kamitonodacho, 44番地１",
+  "headline": 134307,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 1904,
+  "lat": 34.98335549491959,
+  "lng": 135.75873522224177,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 134307,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 150431,
+    "official": false,
+    "note": "6월 15일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-107": {
+  "id": "kb-107",
+  "q": "OMO5 교토 산조 by 호시노 리조트",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:42.406Z",
+  "ent": "ChkIvs7SxK-YjNdPGg0vZy8xMXIycXhqbjd4EAE",
+  "name": "OMO5 교토 산조 by 호시노 리조트",
+  "cls": "4성급 호텔",
+  "addr": "일본 〒604-8005 Kyoto, Nakagyo Ward, Ebisucho, 434-1",
+  "headline": 160362,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 638,
+  "lat": 35.00926721812429,
+  "lng": 135.7685167055291,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 160362,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 185286,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-108": {
+  "id": "kb-108",
+  "q": "Rihga Gran Kyoto",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:03:58.722Z",
+  "ent": "ChoInZioqsOWjtjrARoNL2cvMTFqNGp2NGYyeRAB",
+  "name": "Rihga Gran Kyoto",
+  "cls": "4성급 호텔",
+  "addr": "일본 〒601-8003 Kyoto, Minami Ward, Higashikujo Nishisannocho, 1番地",
+  "headline": 161156,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 1167,
+  "lat": 34.98224848083488,
+  "lng": 135.7599186306339,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 161156,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 168189,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "ob-2": {
+  "id": "ob-2",
+  "q": "Hotel Cordia Osaka Hommachi",
+  "ci": "2026-12-28",
+  "co": "2026-12-31",
+  "at": "2026-11-22T10:09:57.400Z",
+  "ent": "ChkI8Ibz9MPkvYMLGg0vZy8xMXE3emw4ZmJkEAE",
+  "name": "호텔 코르디아 오사카 혼마치",
+  "cls": "3성급 호텔",
+  "addr": "4 Chome-6-14 Honmachi, Chuo Ward, Osaka, 541-0053 일본",
+  "headline": 155340,
+  "headlineDates": "12월 28일~31일",
+  "rating": 4.7,
+  "reviews": 887,
+  "lat": 34.68457449157427,
+  "lng": 135.49856933395452,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "호텔 코르디아 오사카 혼마치",
+    "p": 300744,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 155340,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ },
+ "kb-28": {
+  "id": "kb-28",
+  "q": "Sanco Inn Kyoto Hachijoguchi",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-22T10:10:16.603Z",
+  "ent": "ChkIiLDU7_vdjIU8Gg0vZy8xMWgyMnA3Z3c4EAE",
+  "name": "산코 인 교토 하치조구치",
+  "cls": "3성급 호텔",
+  "addr": "48番地1 Higashikujo Kamitonodacho, Minami Ward, Kyoto, 601-8002 일본",
+  "headline": 135108,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 677,
+  "lat": 34.983671987274434,
+  "lng": 135.75889517771085,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "산코 인 교토 하치조구치〈미야비〉～시코노유～",
+    "p": 213500,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 135108,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "priceMode": "1박 요금 총액",
+  "ok": true
+ }
+}
