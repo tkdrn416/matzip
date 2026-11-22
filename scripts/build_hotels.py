@@ -363,7 +363,7 @@ def build_city(key, cfg, curated, region):
     for hid, p in prices.items():
         if hid.startswith(pre) and hid not in curated:
             nt = NOTES.get(hid, {})
-            if not p.get("name") or re.match(r"^[\s(]*[\d.,]+[)\s]*$|^\d", p["name"]):
+            if not p.get("name") or re.match(r"^\s*\(.*\)\s*$|^[\d.,]+$|^\d", p["name"]):
                 p["name"] = p["q"]
             curated[hid] = dict(short=nt.get("short") or short_name(p.get("name") or p["q"]), en=p.get("q"), area=None,
                                 badge=nt.get("badge"), pros=nt.get("pros", []), cons=nt.get("cons", []), auto=True)
