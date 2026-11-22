@@ -22947,9 +22947,14 @@
     "hours_note": "점심 L.O. 14:30, 저녁 L.O. 21:00(음료 21:30)",
     "notice": null,
     "reservation": "가능",
-    "booking_type": "전화예약만",
-    "booking_apps": [],
-    "booking_note": "점심은 좌석 예약 불가. 가게는 인터넷 예약을 부탁하지만(바쁜 시간엔 전화 연결이 어려움) 타베로그 페이지에서 예약 버튼은 확인되지 않았다. 연락 없이 15분 이상 늦으면 예약 취소.",
+    "booking_type": "앱예약",
+    "booking_apps": [
+      {
+        "app": "TableCheck",
+        "url": "https://www.tablecheck.com/ko/shops/morimoto-shinsaibashi/reserve"
+      }
+    ],
+    "booking_note": "가게가 인터넷 예약을 부탁한다(바쁜 시간엔 전화 연결이 어려움) — TableCheck(한국어)로 예약. 점심은 좌석만 예약 불가(2인 이상 코스는 가능). 연락 없이 15분 이상 늦으면 예약 취소.",
     "booking_checked": [
       "타베로그"
     ],
@@ -55469,8 +55474,6 @@
     "google_rating": null,
     "google_reviews": null,
     "google_maps_uri": "https://maps.google.com/?cid=160485502234496222",
-    "google_reservable": null,
-    "google_status": null,
     "google_checked_at": "2026-11-22",
     "awards": [
       "타베로그 백명점 오코노미야키 2018·2019·2022·2023·2024"
