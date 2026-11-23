@@ -220,40 +220,40 @@
   "q": "Miyako City Kintetsu Kyoto Station",
   "ci": "2026-12-27",
   "co": "2026-12-28",
-  "at": "2026-11-22T09:36:50.697Z",
+  "at": "2026-11-23T07:06:46.820Z",
   "ent": "ChgIjsyRr9OgkZ1SGgwvZy8xMWNmdjQ3cG4QAQ",
   "name": "미야코 시티 긴테쓰교토역",
   "cls": "4성급 호텔",
   "addr": "1-9 Higashishiokoji Kamadonocho, Shimogyo Ward, Kyoto, 600-8215 일본",
-  "headline": 152799,
+  "headline": 142329,
   "headlineDates": "12월 27일~28일",
   "rating": 4.2,
-  "reviews": 2191,
+  "reviews": 2192,
   "lat": 34.984816924186674,
   "lng": 135.75750910764634,
   "perNight": true,
   "vendors": [
    {
-    "v": "Agoda",
-    "p": 134251,
+    "v": "klook",
+    "p": 142329,
     "official": false,
     "note": ""
    },
    {
     "v": "JAPANiCAN.com",
-    "p": 152799,
+    "p": 152628,
     "official": false,
     "note": "12월 25일까지 취소 수수료 없음"
    },
    {
-    "v": "HyperAir.com Hotel Booking",
-    "p": 149374,
+    "v": "Kiwi.com",
+    "p": 158248,
     "official": false,
     "note": ""
    },
    {
     "v": "Luxury Escapes",
-    "p": 258025,
+    "p": 247309,
     "official": false,
     "note": ""
    }
@@ -261,6 +261,14 @@
   "minMore": null,
   "soldout": false,
   "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
   "ok": true
  },
  "k-richmond": {
@@ -6740,6 +6748,1166 @@
    "laundry": true,
    "checkin": "오후 3:00",
    "checkout": "오전 10:00"
+  },
+  "ok": true
+ },
+ "kb-202": {
+  "id": "kb-202",
+  "q": "인섬니아 교토 오이케",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:00:37.597Z",
+  "ent": "ChkIg_3Y3oKazoFDGg0vZy8xMWtxczczaHdxEAE",
+  "name": "인섬니아 교토 오이케",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒604-0022 Kyoto, Nakagyo Ward, Oikenocho, 314",
+  "headline": 171334,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.7,
+  "reviews": 311,
+  "lat": 35.011400137168614,
+  "lng": 135.7582087180008,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "insomnia KYOTO OIKE",
+    "p": 182493,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 171334,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 179025,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 175662,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 197035,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 193080,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 176736,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 198440,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 181712,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 176736,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-203": {
+  "id": "kb-203",
+  "q": "BnA Alter Museum",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:01:05.243Z",
+  "ent": "ChoI65aPv4TFqtTjARoNL2cvMTFnNGg0MjUzZhAB",
+  "name": "BnA Alter Museum",
+  "cls": "4성급 호텔",
+  "addr": "267-1 Tenmacho, Shimogyo Ward, Kyoto, 600-8024 일본",
+  "headline": 198920,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.7,
+  "reviews": 772,
+  "lat": 35.00022566293561,
+  "lng": 135.7683928813182,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "BnA Alter Museum",
+    "p": 223414,
+    "official": true,
+    "note": "12월 11일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 198920,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 208185,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "goseek.com",
+    "p": 198920,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 229472,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 234183,
+    "official": false,
+    "note": "12월 19일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 234392,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 234496,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 234496,
+    "official": false,
+    "note": "12월 20일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 262860,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 234725,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-204": {
+  "id": "kb-204",
+  "q": "Wander Kyoto Nanajo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:01:28.094Z",
+  "ent": "ChoIrrHL_pbm8e_-ARoNL2cvMTFuY2xfMWd3MBAB",
+  "name": "Wander Kyoto Nanajo",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8136 Kyoto, Shimogyo Ward, Shimosannomiyacho, 301",
+  "headline": 104416,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 509,
+  "lat": 34.98939753640526,
+  "lng": 135.76593953580272,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "원더 교토 나나조",
+    "p": 146252,
+    "official": true,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 104416,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 121391,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 121316,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 123782,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 131256,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 167145,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 208931,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "kr.bluepillow.com",
+    "p": 115035,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "TUI.com",
+    "p": 140794,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 222546,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-205": {
+  "id": "kb-205",
+  "q": "Shizutetsu Hotel Prezio Kyoto Shijo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:01:50.776Z",
+  "ent": "ChkItb-gr7uoyq4zGg0vZy8xMWg3MThuX3p5EAE",
+  "name": "Shizutetsu Hotel Prezio Kyoto Shijo",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 135600,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.5,
+  "reviews": 554,
+  "lat": 35.00511942268818,
+  "lng": 135.75479348751404,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 140859,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 135600,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 137317,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 145836,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 169848,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 165416,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 198417,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 184723,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 160152,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 187394,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 251452,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-206": {
+  "id": "kb-206",
+  "q": "호텔 안테룸 교토",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:02:13.717Z",
+  "ent": "ChgIiIe_2PK_9LTPARoLL2cvMXZxNzRydDYQAQ",
+  "name": "호텔 안테룸 교토",
+  "cls": "3성급 호텔",
+  "addr": "7 Higashikujo Aketacho, Minami Ward, Kyoto, 601-8044 일본",
+  "headline": 94618,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1503,
+  "lat": 34.97589230333092,
+  "lng": 135.75896908136843,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 94618,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 96733,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 99764,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 100349,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 104436,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 111249,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 106528,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 106528,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hutchgo (Hutchison Travel Limited)",
+    "p": 102160,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 106638,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-207": {
+  "id": "kb-207",
+  "q": "The OneFive Kyōto Shijō",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:02:36.859Z",
+  "ent": "ChoI3qqLlbful7_HARoNL2cvMTFnaDZidnYzaxAB",
+  "name": "The OneFive Kyōto Shijō",
+  "cls": "3성급 호텔",
+  "addr": "535番 Karatsuyacho, Shimogyo Ward, Kyoto, 600-8499 일본",
+  "headline": 103457,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 1245,
+  "lat": 35.00388099661507,
+  "lng": 135.75146678182935,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Booking.com",
+    "p": 103457,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 104242,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 110316,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 108816,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 111396,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 116116,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 108988,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Expedia.co.kr",
+    "p": 112792,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 120632,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Qantas Hotels",
+    "p": 110350,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 106869,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": null,
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
+  "ok": true
+ },
+ "kb-208": {
+  "id": "kb-208",
+  "q": "KOKO HOTEL Kyoto Sanjo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:02:59.505Z",
+  "ent": "ChoIupmYpfzY07C6ARoNL2cvMTFoZ3MwdGp6cRAB",
+  "name": "KOKO HOTEL Kyoto Sanjo",
+  "cls": "3성급 호텔",
+  "addr": "407-6 Wakokucho, Sakyo Ward, Kyoto, 606-8363 일본",
+  "headline": 134635,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 544,
+  "lat": 35.010081114051765,
+  "lng": 135.77593770440666,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 134635,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 136912,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 141318,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Vio.com",
+    "p": 136912,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 196246,
+    "official": false,
+    "note": "11월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 162016,
+    "official": false,
+    "note": "12월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 237185,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 161812,
+    "official": false,
+    "note": "11월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 161664,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 176197,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 162494,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-209": {
+  "id": "kb-209",
+  "q": "오크우드 호텔 오이케 교토",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:03:27.181Z",
+  "ent": "ChoIkdTh3JGtioCJARoNL2cvMTFxMWdqN2t5NBAB",
+  "name": "오크우드 호텔 오이케 교토",
+  "cls": "4성급 호텔",
+  "addr": "",
+  "headline": 139909,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.4,
+  "reviews": 634,
+  "lat": 35.01141366854938,
+  "lng": 135.76519287476796,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Oakwood Hotel Oike Kyoto",
+    "p": 221523,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Etrip.net",
+    "p": 196838,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 221523,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 210152,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Kiwi.com",
+    "p": 198736,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 221320,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 221523,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 247351,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Hotels.com",
+    "p": 210152,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Tripadvisor.co.kr",
+    "p": 219928,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 198736,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-212": {
+  "id": "kb-212",
+  "q": "Kyoto U-BELL Hotel",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:03:56.177Z",
+  "ent": "ChoIvouE1cn1loe7ARoNL2cvMTFmNmRxOWRzZhAB",
+  "name": "Kyoto U-BELL Hotel",
+  "cls": "3성급 호텔",
+  "addr": "41番地3 Higashikujo Ishidacho, Minami Ward, Kyoto, 601-8032 일본",
+  "headline": 93485,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 789,
+  "lat": 34.9734829119049,
+  "lng": 135.76079241201262,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Kyoto U-BELL Hotel",
+    "p": 133974,
+    "official": true,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 93485,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Agoda",
+    "p": 96300,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 109360,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 133719,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 111132,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 126114,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Jalan",
+    "p": 128208,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 194844,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 108754,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": false,
+   "checkin": "오후 3:00",
+   "checkout": "오전 10:00"
+  },
+  "ok": true
+ },
+ "kb-213": {
+  "id": "kb-213",
+  "q": "도미 인 프리미엄 교토 에키마에",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:04:19.573Z",
+  "ent": "ChgI5oj71IuV0LmBARoLL2cvMXRsMWhzczMQAQ",
+  "name": "도미 인 프리미엄 교토 에키마에",
+  "cls": "4성급 호텔",
+  "addr": "558-8 Higashishiokojicho, Shimogyo Ward, Kyoto, 600-8216 일본",
+  "headline": 203564,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.3,
+  "reviews": 1935,
+  "lat": 34.98744237656235,
+  "lng": 135.76190080609723,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Dormy Inn Premium Kyoto Ekimae",
+    "p": 213680,
+    "official": true,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 203564,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 211899,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 208505,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 211925,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "hanatour",
+    "p": 221984,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Vio.com",
+    "p": 206824,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 235816,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Trip.com",
+    "p": 236768,
+    "official": false,
+    "note": "12월 23일까지 취소 수수료 없음"
+   },
+   {
+    "v": "goseek.com",
+    "p": 206824,
+    "official": false,
+    "note": ""
+   }
+  ],
+  "minMore": 234820,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": false,
+   "breakfast": "paid",
+   "bath": "onsen",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-201": {
+  "id": "kb-201",
+  "q": "HOTEL KUU KYOTO",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:05:25.061Z",
+  "ent": "ChkIp__yn6P355wvGg0vZy8xMWdiazNzcjZ6EAE",
+  "name": "호텔 쿠우 교토",
+  "cls": "3성급 호텔",
+  "addr": "일본 〒600-8158 Kyoto, Shimogyo Ward, Shokuyacho, 58",
+  "headline": 164313,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.7,
+  "reviews": 953,
+  "lat": 34.990997982302574,
+  "lng": 135.76056700482187,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Agoda",
+    "p": 164313,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "klook",
+    "p": 167954,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "여기어때",
+    "p": 195944,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 254279,
+    "official": false,
+    "note": "11월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 274731,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Booking.com",
+    "p": 214163,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 282193,
+    "official": false,
+    "note": "11월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 277021,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "Luxury Escapes",
+    "p": 280784,
+    "official": false,
+    "note": "11월 27일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 197748,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": "bath",
+   "laundry": true,
+   "checkin": "오후 3:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-220": {
+  "id": "kb-220",
+  "q": "Daiwa Roynet Hotel Kyoto Hachijoguchi",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:05:48.977Z",
+  "ent": "ChgIkOXwrrT3kJHCARoLL2cvMXY4MzBfc3QQAQ",
+  "name": "다이와 로이넷 호텔 교토 하치조구치",
+  "cls": "3성급 호텔",
+  "addr": "",
+  "headline": null,
+  "headlineDates": null,
+  "rating": 4.2,
+  "reviews": 1387,
+  "lat": 34.981625990518914,
+  "lng": 135.76002399264698,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "klook",
+    "p": 111718,
+    "official": false,
+    "note": "12월 24일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Agoda",
+    "p": 119847,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 115578,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 153216,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Ikyu.com",
+    "p": 149576,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 146000,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Jalan",
+    "p": 144997,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 137366,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Hotels.com",
+    "p": 143248,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 229914,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": true,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
+  },
+  "ok": true
+ },
+ "kb-222": {
+  "id": "kb-222",
+  "q": "Miyako Hotel Kyoto Hachijo",
+  "ci": "2026-12-27",
+  "co": "2026-12-28",
+  "at": "2026-11-23T07:06:17.625Z",
+  "ent": "ChkI2tTK-oiogsKxARoML2cvMTFjZnYxZDIxEAE",
+  "name": "미야코 호텔 교토하치조",
+  "cls": "4성급 호텔",
+  "addr": "17 Nishikujo Inmachi, Minami Ward, Kyoto, 601-8412 일본",
+  "headline": 129692,
+  "headlineDates": "12월 27일~28일",
+  "rating": 4.1,
+  "reviews": 8067,
+  "lat": 34.98395147938479,
+  "lng": 135.7557221288839,
+  "perNight": true,
+  "vendors": [
+   {
+    "v": "Ikyu.com",
+    "p": 129692,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Trip.com",
+    "p": 146176,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "klook",
+    "p": 146241,
+    "official": false,
+    "note": ""
+   },
+   {
+    "v": "hanatour",
+    "p": 164552,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   },
+   {
+    "v": "라쿠텐 트래블",
+    "p": 283550,
+    "official": false,
+    "note": "12월 26일까지 취소 수수료 없음"
+   },
+   {
+    "v": "여기어때",
+    "p": 166720,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Booking.com",
+    "p": 317603,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "JAPANiCAN.com",
+    "p": 208253,
+    "official": false,
+    "note": "12월 25일까지 취소 수수료 없음"
+   },
+   {
+    "v": "Lion Travel 雄獅旅遊",
+    "p": 167577,
+    "official": false,
+    "note": "12월 22일까지 취소 수수료 없음"
+   }
+  ],
+  "minMore": 165648,
+  "soldout": false,
+  "priceMode": "1박 요금 총액",
+  "amen": {
+   "smokeFree": true,
+   "breakfast": "paid",
+   "bath": null,
+   "laundry": false,
+   "checkin": "오후 2:00",
+   "checkout": "오전 11:00"
   },
   "ok": true
  }

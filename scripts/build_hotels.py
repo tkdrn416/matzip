@@ -112,7 +112,7 @@ def area_kyoto(lat, lng):
     if 34.978 <= lat < 34.992 and 135.746 <= lng <= 135.768: return "station"
     if 34.992 <= lat <= 35.013 and 135.7540 <= lng < 135.7630: return "karasuma"
     if 34.994 <= lat <= 35.013 and 135.7630 <= lng < 135.7725: return "kawara"
-    if 34.990 <= lat <= 35.010 and 135.7725 <= lng <= 135.786: return "gion"
+    if 34.990 <= lat <= 35.013 and 135.7725 <= lng <= 135.786: return "gion"
     return None
 
 
@@ -142,6 +142,10 @@ def judge(h, cfg):
     if not p: return "가격 없음"
     if p > cfg["budget"]: return "예산 초과"
     if p < CRIT["min_price"]: return "너무 쌈"
+    # 교토역 예외: 출구에서 5분 안 + 리뷰 1,000개↑인 검증된 대형 호텔은 평점 4.1부터 (짐 이동·택시 줄 걱정 없음)
+    if h.get("exitm") is not None and h["exitm"] <= 5 and r >= 4.1 and n >= 1000:
+        if r < CRIT["min_rating"]: h["badge"] = h.get("badge") or "역 바로 앞"
+        return ""
     if r < CRIT["min_rating"]: return f"평점 {r}"
     if n < CRIT["min_reviews"]: return "리뷰 적음"
     return ""
@@ -158,7 +162,8 @@ SHORT = {"ob-16": "우메다홀릭", "ob-9": "가너 혼마치 미도스지", "o
          "kb-15": "교마치야 료칸 사쿠라", "kb-14": "더 엠즈", "kb-27": "다이와 테라스 하치조", "kb-101": "엠즈 에스트 교토역",
          "kb-108": "리가 그란", "kb-30": "앤드룸즈 시치조", "kb-2": "사쿠라 크로스 기요미즈", "kb-18": "무세 시조가와라마치",
          "kb-16": "트래블로지 시조", "kb-6": "칸세이 하치조", "kb-10": "로열 트윈 하치조", "kb-12": "알라 호텔", "kb-13": "튠 스테이",
-         "kb-103": "REF 하치조구치", "kb-28": "산코 인 하치조구치", "kb-22": "다이와 로이넷 에키마에", "kb-21": "사쿠라 테라스 갤러리"}
+         "kb-103": "REF 하치조구치", "kb-204": "원더 시치조", "kb-201": "호텔 쿠우", "kb-205": "시즈테쓰 프레지오 시조",
+         "kb-208": "코코 호텔 산조", "kb-203": "BnA 알터 뮤지엄", "kb-220": "다이와 로이넷 하치조구치", "kb-202": "인섬니아 오이케", "kb-209": "오크우드 오이케", "kb-28": "산코 인 하치조구치", "kb-22": "다이와 로이넷 에키마에", "kb-21": "사쿠라 테라스 갤러리"}
 for k, v in SHORT.items():
     NOTES.setdefault(k, {}).setdefault("short", v)
 
@@ -349,6 +354,26 @@ CITIES = {
 }
 
 
+# 교토역은 남북으로 길어서 어느 출구 쪽인지가 중요: 북쪽(가라스마 출구)=하루카 승강장·지하철, 남쪽(하치조 출구)=긴테쓰·신칸센
+KY_EXIT_N, KY_EXIT_S = (34.98670, 135.75900), (34.98420, 135.75990)
+
+
+def exit_min(city, area, lat, lng):
+    if city != "kyoto" or area != "station":
+        return None
+    return max(1, round(dm((lat, lng), KY_EXIT_N if lat > 34.9856 else KY_EXIT_S) * 1.3 / 80))
+
+
+def exit_note(city, area, lat, lng):
+    if city != "kyoto" or area != "station":
+        return []
+    north = lat > 34.9856
+    m = max(1, round(dm((lat, lng), KY_EXIT_N if north else KY_EXIT_S) * 1.3 / 80))
+    if north:
+        return [f"교토역 <b>북쪽(가라스마 출구)</b>에서 걸어서 약 {m}분 — 하루카 승강장·지하철과 같은 쪽"]
+    return [f"교토역 <b>남쪽(하치조 출구)</b>에서 걸어서 약 {m}분 — 긴테쓰(나라)·신칸센 쪽. 하루카에서 내리면 역 안을 가로질러 5분쯤 더"]
+
+
 def short_name(n):
     n = re.sub(r"\s*\(.*?\)|\s*~.*?~", "", n or "")
     n = re.sub(r"\s+(by|바이)\s+.*$", "", n, flags=re.I)
@@ -402,7 +427,7 @@ def build_city(key, cfg, curated, region):
             "st": {"n": st[0] + "역" if not st[0].endswith("역") else st[0], "m": max(1, round(sd * 1.25 / 80))},
             "food": {"n": len(n800), "hi": sum(1 for r in n800 if (r.get("tabelog_score") or 0) >= 3.6),
                      "best": [[r["name_ko"], r.get("tabelog_score"), r["id"]] for r in best]},
-            "pros": cur.get("pros") or [], "amen": p.get("amen"),
+            "pros": exit_note(key, area, lat, lng) + (cur.get("pros") or []), "amen": p.get("amen"), "exitm": exit_min(key, area, lat, lng),
             "cons": cur.get("cons", []), "gurl": gurl,
             "murl": "https://www.google.com/maps/search/?api=1&query=" + re.sub(r"\s+", "+", (cur.get("en") or p.get("name") or "") + (" 오사카" if key == "osaka" else " 교토")),
             "checked": (p.get("at") or "")[:10],
@@ -415,7 +440,9 @@ def build_city(key, cfg, curated, region):
     rank = {r["k"]: i for i, r in enumerate(cfg["areaRec"])}
     # 정렬 점수: 평점 0.1 ≈ 2만 원, 역에서 먼 만큼 조금 감점
     def value(h):
-        return (h["rating"] or 0) * 10 - (h["price"] or 9e5) / 20000 - 0.15 * h["st"]["m"] + min(1.0, math.log10(max(10, h["reviews"] or 10)) - 2.5)
+        # 교토역 권역은 '역 출구까지 몇 분'이 핵심이라 더 크게 감점
+        walk = (0.3 * h["exitm"]) if h.get("exitm") is not None else 0.15 * h["st"]["m"]
+        return (h["rating"] or 0) * 10 - (h["price"] or 9e5) / 20000 - walk + min(1.0, math.log10(max(10, h["reviews"] or 10)) - 2.5)
     for h in hotels:
         h["value"] = round(value(h), 2)
     okh = [h for h in hotels if h["ok"]]
